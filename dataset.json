@@ -1,0 +1,9004 @@
+[
+    {
+        "labels": [
+            "wallbreaker",
+            "sweeper"
+        ],
+        "features": {
+            "stats": [
+                176,
+                279,
+                256,
+                140,
+                187,
+                317
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Sniper"
+            ],
+            "type": [
+                "Poison",
+                "Dark"
+            ],
+            "moves": [
+                "Knock Off",
+                "Poison Jab",
+                "Aqua Tail",
+                "Earthquake",
+                "Pursuit"
+            ]
+        },
+        "name": "Drapion"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "sweeper",
+            "wall"
+        ],
+        "features": {
+            "stats": [
+                176,
+                279,
+                257,
+                140,
+                186,
+                317
+            ],
+            "item": [
+                " Waterium Z"
+            ],
+            "ability": [
+                "Sniper"
+            ],
+            "type": [
+                "Poison",
+                "Dark"
+            ],
+            "moves": [
+                "Swords Dance",
+                "Knock Off",
+                "Poison Jab",
+                "Aqua Tail"
+            ]
+        },
+        "name": "Drapion"
+    },
+    {
+        "labels": [
+            "utility",
+            "revengekiller",
+            "support",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                206,
+                279,
+                197,
+                158,
+                196,
+                394
+            ],
+            "item": [
+                " Flyinium Z",
+                " Sky Plate"
+            ],
+            "ability": [
+                "Infiltrator"
+            ],
+            "type": [
+                "Poison",
+                "Flying"
+            ],
+            "moves": [
+                "Brave Bird",
+                "U-turn",
+                "Roost",
+                "Taunt"
+            ]
+        },
+        "name": "Crobat"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "support",
+            "sweeper"
+        ],
+        "features": {
+            "stats": [
+                166,
+                409,
+                277,
+                149,
+                216,
+                339
+            ],
+            "item": [
+                " Pinsirite"
+            ],
+            "ability": [
+                "Hyper Cutter"
+            ],
+            "type": [
+                "Bug",
+                "Flying"
+            ],
+            "moves": [
+                "Swords Dance",
+                "Return",
+                "Earthquake",
+                "Close Combat",
+                "Quick Attack"
+            ]
+        },
+        "name": "Pinsir"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "wall"
+        ],
+        "features": {
+            "stats": [
+                266,
+                361,
+                206,
+                194,
+                187,
+                299
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Pressure"
+            ],
+            "type": [
+                "Fire"
+            ],
+            "moves": [
+                "Sacred Fire",
+                "Extreme Speed",
+                "Stone Edge",
+                "Flare Blitz"
+            ]
+        },
+        "name": "Entei"
+    },
+    {
+        "labels": [
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                199,
+                145,
+                341,
+                142,
+                421,
+                106
+            ],
+            "item": [
+                " Black Sludge"
+            ],
+            "ability": [
+                "Regenerator"
+            ],
+            "type": [
+                "Poison",
+                "Water"
+            ],
+            "moves": [
+                "Scald",
+                "Haze",
+                "Recover",
+                "Toxic",
+                "Toxic Spikes",
+                "Knock Off"
+            ]
+        },
+        "name": "Toxapex"
+    },
+    {
+        "labels": [
+            "trapper"
+        ],
+        "features": {
+            "stats": [
+                200,
+                306,
+                186,
+                212,
+                236,
+                262
+            ],
+            "item": [
+                " Decidium Z"
+            ],
+            "ability": [
+                "Overgrow"
+            ],
+            "type": [
+                "Grass",
+                "Ghost"
+            ],
+            "moves": [
+                "Swords Dance",
+                "Substitute",
+                "Leaf Blade",
+                "Spirit Shackle"
+            ]
+        },
+        "name": "Decidueye"
+    },
+    {
+        "labels": [
+            "revengekiller",
+            "utility",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                176,
+                230,
+                186,
+                389,
+                207,
+                427
+            ],
+            "item": [
+                " Sceptilite"
+            ],
+            "ability": [
+                "Overgrow"
+            ],
+            "type": [
+                "Grass",
+                "Dragon"
+            ],
+            "moves": [
+                "Leaf Storm",
+                "Dragon Pulse",
+                "Earthquake",
+                "Giga Drain",
+                "Focus Blast",
+                "Hidden Power Fire",
+                "Focus Blast"
+            ]
+        },
+        "name": "Sceptile"
+    },
+    {
+        "labels": [
+            "sweeper",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                152,
+                317,
+                260,
+                118,
+                133,
+                348
+            ],
+            "item": [
+                " Steelium Z"
+            ],
+            "ability": [
+                "Hustle"
+            ],
+            "type": [
+                "Bug",
+                "Steel"
+            ],
+            "moves": [
+                "Hone Claws",
+                "Iron Head",
+                "Superpower",
+                "Rock Slide",
+                "Crunch"
+            ]
+        },
+        "name": "Durant"
+    },
+    {
+        "labels": [
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                154,
+                461,
+                299,
+                138,
+                98,
+                348
+            ],
+            "item": [
+                " Normalium Z"
+            ],
+            "ability": [
+                "Beast Boost"
+            ],
+            "type": [
+                "Grass",
+                "Steel"
+            ],
+            "moves": [
+                "Swords Dance",
+                "Leaf Blade",
+                "Sacred Sword",
+                "Giga Impact"
+            ]
+        },
+        "name": "Kartana"
+    },
+    {
+        "labels": [
+            "revengekiller",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                155,
+                461,
+                298,
+                138,
+                98,
+                348
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Beast Boost"
+            ],
+            "type": [
+                "Grass",
+                "Steel"
+            ],
+            "moves": [
+                "Leaf Blade",
+                "Sacred Sword",
+                "Smart Strike",
+                "Knock Off",
+                "Knock Off",
+                "Defog"
+            ]
+        },
+        "name": "Kartana"
+    },
+    {
+        "labels": [
+            "revengekiller",
+            "wallbreaker",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                155,
+                461,
+                298,
+                138,
+                98,
+                348
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Beast Boost"
+            ],
+            "type": [
+                "Grass",
+                "Steel"
+            ],
+            "moves": [
+                "Leaf Blade",
+                "Knock Off",
+                "Sacred Sword",
+                "Smart Strike"
+            ]
+        },
+        "name": "Kartana"
+    },
+    {
+        "labels": [
+            "utility"
+        ],
+        "features": {
+            "stats": [
+                156,
+                131,
+                156,
+                289,
+                177,
+                381
+            ],
+            "item": [
+                " Focus Sash"
+            ],
+            "ability": [
+                "Shield Dust"
+            ],
+            "type": [
+                "Bug",
+                "Fairy"
+            ],
+            "moves": [
+                "Sticky Web",
+                "Moonblast",
+                "Hidden Power Fire",
+                "Stun Spore",
+                "Quiver Dance"
+            ]
+        },
+        "name": "Ribombee"
+    },
+    {
+        "labels": [
+            "sweeper",
+            "utility"
+        ],
+        "features": {
+            "stats": [
+                180,
+                309,
+                266,
+                145,
+                187,
+                258
+            ],
+            "item": [
+                " Rockium Z"
+            ],
+            "ability": [
+                "Tough Claws"
+            ],
+            "type": [
+                "Rock",
+                "Water"
+            ],
+            "moves": [
+                "Shell Smash",
+                "Stone Edge",
+                "Liquidation",
+                "Grass Knot",
+                "Earthquake"
+            ]
+        },
+        "name": "Barbaracle"
+    },
+    {
+        "labels": [
+            "utility"
+        ],
+        "features": {
+            "stats": [
+                269,
+                306,
+                297,
+                140,
+                284,
+                86
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Sand Stream"
+            ],
+            "type": [
+                "Rock"
+            ],
+            "moves": [
+                "Stealth Rock",
+                "Stone Edge",
+                "Rock Blast",
+                "Earthquake",
+                "Toxic"
+            ]
+        },
+        "name": "Gigalith"
+    },
+    {
+        "labels": [
+            "support"
+        ],
+        "features": {
+            "stats": [
+                288,
+                254,
+                339,
+                167,
+                208,
+                148
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Overgrow"
+            ],
+            "type": [
+                "Grass",
+                "Ground"
+            ],
+            "moves": [
+                "Stealth Rock",
+                "Wood Hammer",
+                "Earthquake",
+                "Synthesis"
+            ]
+        },
+        "name": "Torterra"
+    },
+    {
+        "labels": [
+            "utility",
+            "support",
+            "trapper"
+        ],
+        "features": {
+            "stats": [
+                166,
+                399,
+                156,
+                266,
+                141,
+                361
+            ],
+            "item": [
+                " Absolite"
+            ],
+            "ability": [
+                "Justified"
+            ],
+            "type": [
+                "Dark"
+            ],
+            "moves": [
+                "Knock Off",
+                "Pursuit",
+                "Fire Blast",
+                "Superpower",
+                "Sucker Punch",
+                "Iron Tail"
+            ]
+        },
+        "name": "Absol"
+    },
+    {
+        "labels": [
+            "utility",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                326,
+                185,
+                190,
+                206,
+                271,
+                96
+            ],
+            "item": [
+                " Black Sludge"
+            ],
+            "ability": [
+                "Regenerator"
+            ],
+            "type": [
+                "Grass",
+                "Poison"
+            ],
+            "moves": [
+                "Spore",
+                "Giga Drain",
+                "Hidden Power Fire",
+                "Sludge Bomb",
+                "Stun Spore"
+            ]
+        },
+        "name": "Amoonguss"
+    },
+    {
+        "labels": [
+            "utility",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                327,
+                206,
+                200,
+                206,
+                259,
+                86
+            ],
+            "item": [
+                " Assault Vest"
+            ],
+            "ability": [
+                "Regenerator"
+            ],
+            "type": [
+                "Grass",
+                "Poison"
+            ],
+            "moves": [
+                "Giga Drain",
+                "Sludge Bomb",
+                "Stomping Tantrum",
+                "Hidden Power Fire"
+            ]
+        },
+        "name": "Amoonguss"
+    },
+    {
+        "labels": [
+            "revengekiller",
+            "utility",
+            "trapper"
+        ],
+        "features": {
+            "stats": [
+                176,
+                158,
+                267,
+                394,
+                216,
+                219
+            ],
+            "item": [
+                " Electrium Z",
+                " Steelium Z"
+            ],
+            "ability": [
+                "Magnet Pull"
+            ],
+            "type": [
+                "Electric",
+                "Steel"
+            ],
+            "moves": [
+                "Substitute",
+                "Thunderbolt",
+                "Flash Cannon",
+                "Hidden Power Fire"
+            ]
+        },
+        "name": "Magnezone"
+    },
+    {
+        "labels": [
+            "revengekiller",
+            "utility",
+            "trapper"
+        ],
+        "features": {
+            "stats": [
+                178,
+                158,
+                267,
+                357,
+                216,
+                240
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Magnet Pull"
+            ],
+            "type": [
+                "Electric",
+                "Steel"
+            ],
+            "moves": [
+                "Thunderbolt",
+                "Hidden Power Fire",
+                "Flash Cannon",
+                "Volt Switch"
+            ]
+        },
+        "name": "Magnezone"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "utility",
+            "trapper",
+            "revengekiller",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                177,
+                158,
+                266,
+                394,
+                216,
+                219
+            ],
+            "item": [
+                " Choice Specs"
+            ],
+            "ability": [
+                "Magnet Pull"
+            ],
+            "type": [
+                "Electric",
+                "Steel"
+            ],
+            "moves": [
+                "Thunderbolt",
+                "Hidden Power Fire",
+                "Flash Cannon",
+                "Volt Switch"
+            ]
+        },
+        "name": "Magnezone"
+    },
+    {
+        "labels": [
+            "sweeper",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                257,
+                369,
+                156,
+                122,
+                166,
+                302
+            ],
+            "item": [
+                " Steelium Z"
+            ],
+            "ability": [
+                "Sand Rush"
+            ],
+            "type": [
+                "Ground",
+                "Steel"
+            ],
+            "moves": [
+                "Swords Dance",
+                "Earthquake",
+                "Iron Head",
+                "Rapid Spin"
+            ]
+        },
+        "name": "Excadrill"
+    },
+    {
+        "labels": [
+            "sweeper",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                256,
+                369,
+                157,
+                122,
+                166,
+                302
+            ],
+            "item": [
+                " Focus Sash"
+            ],
+            "ability": [
+                "Mold Breaker"
+            ],
+            "type": [
+                "Ground",
+                "Steel"
+            ],
+            "moves": [
+                "Stealth Rock",
+                "Rapid Spin",
+                "Earthquake",
+                "Rock Tomb",
+                "Toxic"
+            ]
+        },
+        "name": "Excadrill"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "support",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                197,
+                393,
+                266,
+                185,
+                226,
+                230
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Grassy Surge"
+            ],
+            "type": [
+                "Grass",
+                "Fairy"
+            ],
+            "moves": [
+                "Wood Hammer",
+                "Horn Leech",
+                "Superpower",
+                "Stone Edge"
+            ]
+        },
+        "name": "Tapu Bulu"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "support",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                238,
+                296,
+                268,
+                185,
+                317,
+                186
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Grassy Surge"
+            ],
+            "type": [
+                "Grass",
+                "Fairy"
+            ],
+            "moves": [
+                "Swords Dance",
+                "Bulk Up",
+                "Horn Leech",
+                "Superpower",
+                "Synthesis",
+                "Protect"
+            ]
+        },
+        "name": "Tapu Bulu"
+    },
+    {
+        "labels": [
+            "wallbreaker"
+        ],
+        "features": {
+            "stats": [
+                182,
+                169,
+                186,
+                261,
+                237,
+                328
+            ],
+            "item": [
+                " Firium Z"
+            ],
+            "ability": [
+                "Drought"
+            ],
+            "type": [
+                "Fire"
+            ],
+            "moves": [
+                "Nasty Plot",
+                "Fire Blast",
+                "Solar Beam",
+                "Hidden Power Ice"
+            ]
+        },
+        "name": "Ninetales"
+    },
+    {
+        "labels": [
+            "wallbreaker"
+        ],
+        "features": {
+            "stats": [
+                182,
+                169,
+                186,
+                261,
+                237,
+                328
+            ],
+            "item": [
+                " Choice Specs"
+            ],
+            "ability": [
+                "Drought"
+            ],
+            "type": [
+                "Fire"
+            ],
+            "moves": [
+                "Overheat",
+                "Fire Blast",
+                "Flamethrower",
+                "Solar Beam",
+                "Hidden Power Ice"
+            ]
+        },
+        "name": "Ninetales"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "utility"
+        ],
+        "features": {
+            "stats": [
+                220,
+                217,
+                276,
+                405,
+                266,
+                230
+            ],
+            "item": [
+                " Blastoisinite"
+            ],
+            "ability": [
+                "Rain Dish"
+            ],
+            "type": [
+                "Water"
+            ],
+            "moves": [
+                "Water Pulse",
+                "Hydro Pump",
+                "Dark Pulse",
+                "Aura Sphere",
+                "Ice Beam",
+                "Ice Beam",
+                "Rapid Spin"
+            ]
+        },
+        "name": "Blastoise"
+    },
+    {
+        "labels": [
+            "revengekiller",
+            "wallbreaker"
+        ],
+        "features": {
+            "stats": [
+                142,
+                261,
+                142,
+                401,
+                195,
+                344
+            ],
+            "item": [
+                " Choice Specs"
+            ],
+            "ability": [
+                "Beast Boost"
+            ],
+            "type": [
+                "Fire",
+                "Ghost"
+            ],
+            "moves": [
+                "Fire Blast",
+                "Shadow Ball",
+                "Hidden Power Ground",
+                "Hidden Power Grass",
+                "Trick"
+            ]
+        },
+        "name": "Blacephalon"
+    },
+    {
+        "labels": [
+            "revengekiller",
+            "wallbreaker"
+        ],
+        "features": {
+            "stats": [
+                200,
+                261,
+                143,
+                343,
+                194,
+                344
+            ],
+            "item": [
+                " Ghostium Z"
+            ],
+            "ability": [
+                "Beast Boost"
+            ],
+            "type": [
+                "Fire",
+                "Ghost"
+            ],
+            "moves": [
+                "Flamethrower",
+                "Shadow Ball",
+                "Substitute",
+                "Calm Mind"
+            ]
+        },
+        "name": "Blacephalon"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "trapper"
+        ],
+        "features": {
+            "stats": [
+                166,
+                149,
+                157,
+                359,
+                226,
+                350
+            ],
+            "item": [
+                " Leftovers",
+                " Electrium Z"
+            ],
+            "ability": [
+                "Magic Bounce"
+            ],
+            "type": [
+                "Psychic"
+            ],
+            "moves": [
+                "Calm Mind",
+                "Psychic",
+                "Shadow Ball",
+                "Morning Sun",
+                "Zap Cannon"
+            ]
+        },
+        "name": "Espeon"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "utility"
+        ],
+        "features": {
+            "stats": [
+                166,
+                149,
+                157,
+                359,
+                226,
+                350
+            ],
+            "item": [
+                " Choice Specs"
+            ],
+            "ability": [
+                "Magic Bounce"
+            ],
+            "type": [
+                "Psychic"
+            ],
+            "moves": [
+                "Psychic",
+                "Shadow Ball",
+                "Dazzling Gleam",
+                "Trick",
+                "Hidden Power Fire"
+            ]
+        },
+        "name": "Espeon"
+    },
+    {
+        "labels": [
+            "revengekiller",
+            "utility"
+        ],
+        "features": {
+            "stats": [
+                186,
+                349,
+                176,
+                258,
+                176,
+                361
+            ],
+            "item": [
+                " Focus Sash"
+            ],
+            "ability": [
+                "Levitate"
+            ],
+            "type": [
+                "Psychic"
+            ],
+            "moves": [
+                "Stealth Rock",
+                "Explosion",
+                "Taunt",
+                "Knock Off",
+                "Fire Blast"
+            ]
+        },
+        "name": "Azelf"
+    },
+    {
+        "labels": [
+            "support"
+        ],
+        "features": {
+            "stats": [
+                206,
+                405,
+                296,
+                203,
+                216,
+                230
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Clear Body"
+            ],
+            "type": [
+                "Steel",
+                "Psychic"
+            ],
+            "moves": [
+                "Meteor Mash",
+                "Earthquake",
+                "Pursuit",
+                "Explosion",
+                "Bullet Punch",
+                "Trick"
+            ]
+        },
+        "name": "Metagross"
+    },
+    {
+        "labels": [
+            "support"
+        ],
+        "features": {
+            "stats": [
+                206,
+                405,
+                296,
+                203,
+                216,
+                230
+            ],
+            "item": [
+                " Life Orb",
+                " Shuca Berry",
+                " Colbur Berry"
+            ],
+            "ability": [
+                "Clear Body"
+            ],
+            "type": [
+                "Steel",
+                "Psychic"
+            ],
+            "moves": [
+                "Stealth Rock",
+                "Meteor Mash",
+                "Earthquake",
+                "Explosion",
+                "Bullet Punch"
+            ]
+        },
+        "name": "Metagross"
+    },
+    {
+        "labels": [
+            "support"
+        ],
+        "features": {
+            "stats": [
+                196,
+                307,
+                266,
+                289,
+                216,
+                262
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Clear Body"
+            ],
+            "type": [
+                "Steel",
+                "Psychic"
+            ],
+            "moves": [
+                "Meteor Mash",
+                "Explosion",
+                "Hidden Power Fire",
+                "Grass Knot",
+                "Stealth Rock"
+            ]
+        },
+        "name": "Metagross"
+    },
+    {
+        "labels": [
+            "utility",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                162,
+                372,
+                206,
+                194,
+                147,
+                209
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Adaptability"
+            ],
+            "type": [
+                "Water",
+                "Dark"
+            ],
+            "moves": [
+                "Knock Off",
+                "Crabhammer",
+                "Aqua Jet",
+                "Crunch"
+            ]
+        },
+        "name": "Crawdaunt"
+    },
+    {
+        "labels": [
+            "tank",
+            "wallbreaker",
+            "utility",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                256,
+                359,
+                196,
+                158,
+                157,
+                284
+            ],
+            "item": [
+                " Metronome"
+            ],
+            "ability": [
+                "Thick Fat"
+            ],
+            "type": [
+                "Ice",
+                "Ground"
+            ],
+            "moves": [
+                "Earthquake",
+                "Ice Shard",
+                "Icicle Crash",
+                "Stealth Rock"
+            ]
+        },
+        "name": "Mamoswine"
+    },
+    {
+        "labels": [
+            "tank",
+            "wall",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                249,
+                371,
+                496,
+                146,
+                238,
+                58
+            ],
+            "item": [
+                " Steelixite"
+            ],
+            "ability": [
+                "Sturdy"
+            ],
+            "type": [
+                "Steel",
+                "Ground"
+            ],
+            "moves": [
+                "Stealth Rock",
+                "Gyro Ball",
+                "Earthquake",
+                "Curse"
+            ]
+        },
+        "name": "Steelix"
+    },
+    {
+        "labels": [
+            "utility"
+        ],
+        "features": {
+            "stats": [
+                279,
+                198,
+                260,
+                186,
+                224,
+                207
+            ],
+            "item": [
+                " Black Sludge"
+            ],
+            "ability": [
+                "Sheer Force"
+            ],
+            "type": [
+                "Poison",
+                "Ground"
+            ],
+            "moves": [
+                "Toxic Spikes",
+                "Stealth Rock",
+                "Sludge Wave",
+                "Earth Power",
+                "Ice Beam"
+            ]
+        },
+        "name": "Nidoqueen"
+    },
+    {
+        "labels": [
+            "utility"
+        ],
+        "features": {
+            "stats": [
+                248,
+                198,
+                210,
+                273,
+                206,
+                220
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Sheer Force"
+            ],
+            "type": [
+                "Poison",
+                "Ground"
+            ],
+            "moves": [
+                "Toxic Spikes",
+                "Stealth Rock",
+                "Sludge Wave",
+                "Earth Power",
+                "Ice Beam"
+            ]
+        },
+        "name": "Nidoqueen"
+    },
+    {
+        "labels": [
+            "wallbreaker"
+        ],
+        "features": {
+            "stats": [
+                252,
+                359,
+                226,
+                176,
+                207,
+                333
+            ],
+            "item": [
+                " Rockium Z"
+            ],
+            "ability": [
+                "Rough Skin"
+            ],
+            "type": [
+                "Dragon",
+                "Ground"
+            ],
+            "moves": [
+                "Stealth Rock",
+                "Earthquake",
+                "Stone Edge",
+                "Swords Dance"
+            ]
+        },
+        "name": "Garchomp"
+    },
+    {
+        "labels": [
+            "wallbreaker"
+        ],
+        "features": {
+            "stats": [
+                315,
+                296,
+                227,
+                176,
+                206,
+                333
+            ],
+            "item": [
+                " Rocky Helmet"
+            ],
+            "ability": [
+                "Rough Skin"
+            ],
+            "type": [
+                "Dragon",
+                "Ground"
+            ],
+            "moves": [
+                "Stealth Rock",
+                "Earthquake",
+                "Fire Blast",
+                "Roar",
+                "Toxic"
+            ]
+        },
+        "name": "Garchomp"
+    },
+    {
+        "labels": [
+            "wallbreaker"
+        ],
+        "features": {
+            "stats": [
+                252,
+                439,
+                266,
+                248,
+                227,
+                311
+            ],
+            "item": [
+                " Garchompite"
+            ],
+            "ability": [
+                "Rough Skin",
+                "Sand Veil"
+            ],
+            "type": [
+                "Dragon",
+                "Ground"
+            ],
+            "moves": [
+                "Swords Dance",
+                "Earthquake",
+                "Stone Edge",
+                "Substitute",
+                "Fire Fang"
+            ]
+        },
+        "name": "Garchomp"
+    },
+    {
+        "labels": [
+            "sweeper",
+            "support",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                176,
+                149,
+                156,
+                279,
+                187,
+                306
+            ],
+            "item": [
+                " Buginium Z"
+            ],
+            "ability": [
+                "Tinted Lens"
+            ],
+            "type": [
+                "Bug",
+                "Poison"
+            ],
+            "moves": [
+                "Quiver Dance",
+                "Sleep Powder",
+                "Bug Buzz",
+                "Sludge Bomb"
+            ]
+        },
+        "name": "Venomoth"
+    },
+    {
+        "labels": [
+            "utility",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                267,
+                187,
+                231,
+                258,
+                311,
+                156
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Torrent"
+            ],
+            "type": [
+                "Water",
+                "Steel"
+            ],
+            "moves": [
+                "Scald",
+                "Defog",
+                "Stealth Rock",
+                "Toxic",
+                "Protect",
+                "Knock Off",
+                "Roar"
+            ]
+        },
+        "name": "Empoleon"
+    },
+    {
+        "labels": [
+            "sweeper"
+        ],
+        "features": {
+            "stats": [
+                259,
+                212,
+                277,
+                316,
+                336,
+                350
+            ],
+            "item": [
+                " Latiasite"
+            ],
+            "ability": [
+                "Levitate"
+            ],
+            "type": [
+                "Dragon",
+                "Psychic"
+            ],
+            "moves": [
+                "Calm Mind",
+                "Recover",
+                "Stored Power",
+                "Psyshock",
+                "Ice Beam"
+            ]
+        },
+        "name": "Latias"
+    },
+    {
+        "labels": [
+            "sweeper"
+        ],
+        "features": {
+            "stats": [
+                259,
+                212,
+                277,
+                316,
+                336,
+                350
+            ],
+            "item": [
+                " Latiasite"
+            ],
+            "ability": [
+                "Levitate"
+            ],
+            "type": [
+                "Dragon",
+                "Psychic"
+            ],
+            "moves": [
+                "Ice Beam",
+                "Surf",
+                "Hidden Power Fire",
+                "Roost"
+            ]
+        },
+        "name": "Latias"
+    },
+    {
+        "labels": [
+            "sweeper"
+        ],
+        "features": {
+            "stats": [
+                196,
+                176,
+                217,
+                319,
+                296,
+                350
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Levitate"
+            ],
+            "type": [
+                "Dragon",
+                "Psychic"
+            ],
+            "moves": [
+                "Draco Meteor",
+                "Psyshock",
+                "Healing Wish",
+                "Defog",
+                "Trick"
+            ]
+        },
+        "name": "Latias"
+    },
+    {
+        "labels": [
+            "tank",
+            "wallbreaker",
+            "wall"
+        ],
+        "features": {
+            "stats": [
+                289,
+                292,
+                490,
+                111,
+                128,
+                92
+            ],
+            "item": [
+                " Rocky Helmet"
+            ],
+            "ability": [
+                "Sturdy"
+            ],
+            "type": [
+                "Ice"
+            ],
+            "moves": [
+                "Avalanche",
+                "Recover",
+                "Rapid Spin",
+                "Earthquake"
+            ]
+        },
+        "name": "Avalugg"
+    },
+    {
+        "labels": [
+            "utility",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                269,
+                167,
+                326,
+                236,
+                209,
+                106
+            ],
+            "item": [
+                " Leftovers",
+                " Colbur Berry"
+            ],
+            "ability": [
+                "Water Compaction"
+            ],
+            "type": [
+                "Ghost",
+                "Ground"
+            ],
+            "moves": [
+                "Stealth Rock",
+                "Earth Power",
+                "Shore Up",
+                "Toxic"
+            ]
+        },
+        "name": "Palossand"
+    },
+    {
+        "labels": [
+            "tank",
+            "wallbreaker",
+            "sweeper",
+            "support",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                236,
+                383,
+                141,
+                221,
+                140,
+                241
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Moxie"
+            ],
+            "type": [
+                "Dark",
+                "Flying"
+            ],
+            "moves": [
+                "Brave Bird",
+                "Sucker Punch",
+                "Pursuit",
+                "Superpower"
+            ]
+        },
+        "name": "Honchkrow"
+    },
+    {
+        "labels": [
+            "wallbreaker"
+        ],
+        "features": {
+            "stats": [
+                156,
+                299,
+                215,
+                131,
+                174,
+                355
+            ],
+            "item": [
+                " Waterium Z"
+            ],
+            "ability": [
+                "Speed Boost"
+            ],
+            "type": [
+                "Bug",
+                "Poison"
+            ],
+            "moves": [
+                "Swords Dance",
+                "Megahorn",
+                "Aqua Tail",
+                "Earthquake"
+            ]
+        },
+        "name": "Scolipede"
+    },
+    {
+        "labels": [
+            "revengekiller",
+            "wallbreaker"
+        ],
+        "features": {
+            "stats": [
+                228,
+                383,
+                316,
+                140,
+                216,
+                138
+            ],
+            "item": [
+                " Choice Band",
+                " Insect Plate"
+            ],
+            "ability": [
+                "Emergency Exit"
+            ],
+            "type": [
+                "Bug",
+                "Water"
+            ],
+            "moves": [
+                "First Impression",
+                "Liquidation",
+                "Leech Life",
+                "Aqua Jet",
+                "Spikes"
+            ]
+        },
+        "name": "Golisopod"
+    },
+    {
+        "labels": [
+            "sweeper"
+        ],
+        "features": {
+            "stats": [
+                216,
+                311,
+                190,
+                165,
+                171,
+                303
+            ],
+            "item": [
+                " Electric Seed",
+                " Grassy Seed",
+                " Psychic Seed"
+            ],
+            "ability": [
+                "Unburden"
+            ],
+            "type": [
+                "Fighting",
+                "Flying"
+            ],
+            "moves": [
+                "Acrobatics",
+                "Swords Dance",
+                "High Jump Kick",
+                "Roost"
+            ]
+        },
+        "name": "Hawlucha"
+    },
+    {
+        "labels": [
+            "support"
+        ],
+        "features": {
+            "stats": [
+                279,
+                185,
+                186,
+                267,
+                236,
+                361
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Pressure"
+            ],
+            "type": [
+                "Electric"
+            ],
+            "moves": [
+                "Substitute",
+                "Toxic",
+                "Protect",
+                "Thunderbolt"
+            ]
+        },
+        "name": "Raikou"
+    },
+    {
+        "labels": [
+            "support",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                216,
+                185,
+                186,
+                329,
+                237,
+                361
+            ],
+            "item": [
+                " Ghostium Z",
+                " Normalium Z"
+            ],
+            "ability": [
+                "Pressure"
+            ],
+            "type": [
+                "Electric"
+            ],
+            "moves": [
+                "Calm Mind",
+                "Thunderbolt",
+                "Hidden Power Ice",
+                "Shadow Ball",
+                "Hyper Beam"
+            ]
+        },
+        "name": "Raikou"
+    },
+    {
+        "labels": [
+            "utility",
+            "support",
+            "trapper",
+            "wall"
+        ],
+        "features": {
+            "stats": [
+                209,
+                140,
+                394,
+                96,
+                297,
+                46
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Unaware"
+            ],
+            "type": [
+                "Water"
+            ],
+            "moves": [
+                "Block",
+                "Recover",
+                "Spite",
+                "Soak",
+                "Rest",
+                "Taunt",
+                "Toxic"
+            ]
+        },
+        "name": "Pyukumuku"
+    },
+    {
+        "labels": [
+            "revengekiller",
+            "sweeper",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                196,
+                328,
+                196,
+                176,
+                197,
+                299
+            ],
+            "item": [
+                " Dragonium Z",
+                " Groundium Z"
+            ],
+            "ability": [
+                "Levitate"
+            ],
+            "type": [
+                "Ground",
+                "Dragon"
+            ],
+            "moves": [
+                "Dragon Dance",
+                "Earthquake",
+                "Outrage",
+                "Iron Tail"
+            ]
+        },
+        "name": "Flygon"
+    },
+    {
+        "labels": [
+            "revengekiller",
+            "sweeper",
+            "support",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                196,
+                299,
+                196,
+                176,
+                197,
+                328
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Levitate"
+            ],
+            "type": [
+                "Ground",
+                "Dragon"
+            ],
+            "moves": [
+                "U-turn",
+                "Outrage",
+                "Earthquake",
+                "Dragon Claw",
+                "Defog"
+            ]
+        },
+        "name": "Flygon"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "sweeper"
+        ],
+        "features": {
+            "stats": [
+                208,
+                169,
+                208,
+                331,
+                149,
+                317
+            ],
+            "item": [
+                " Choice Specs"
+            ],
+            "ability": [
+                "Tinted Lens"
+            ],
+            "type": [
+                "Bug",
+                "Flying"
+            ],
+            "moves": [
+                "Bug Buzz",
+                "Air Slash",
+                "U-turn",
+                "Giga Drain"
+            ]
+        },
+        "name": "Yanmega"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "sweeper"
+        ],
+        "features": {
+            "stats": [
+                208,
+                169,
+                208,
+                364,
+                149,
+                289
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Speed Boost"
+            ],
+            "type": [
+                "Bug",
+                "Flying"
+            ],
+            "moves": [
+                "Protect",
+                "Bug Buzz",
+                "Air Slash",
+                "Giga Drain"
+            ]
+        },
+        "name": "Yanmega"
+    },
+    {
+        "labels": [
+            "support"
+        ],
+        "features": {
+            "stats": [
+                359,
+                149,
+                157,
+                256,
+                317,
+                166
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Water Absorb"
+            ],
+            "type": [
+                "Water"
+            ],
+            "moves": [
+                "Scald",
+                "Wish",
+                "Protect",
+                "Ice Beam",
+                "Heal Bell"
+            ]
+        },
+        "name": "Vaporeon"
+    },
+    {
+        "labels": [
+            "tank"
+        ],
+        "features": {
+            "stats": [
+                329,
+                352,
+                296,
+                131,
+                206,
+                116
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Solid Rock"
+            ],
+            "type": [
+                "Ground",
+                "Rock"
+            ],
+            "moves": [
+                "Stealth Rock",
+                "Earthquake",
+                "Stone Edge",
+                "Toxic"
+            ]
+        },
+        "name": "Rhyperior"
+    },
+    {
+        "labels": [
+            "utility",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                289,
+                167,
+                196,
+                308,
+                276,
+                96
+            ],
+            "item": [
+                " Assault Vest"
+            ],
+            "ability": [
+                "Regenerator"
+            ],
+            "type": [
+                "Water",
+                "Psychic"
+            ],
+            "moves": [
+                "Scald",
+                "Future Sight",
+                "Fire Blast",
+                "Dragon Tail"
+            ]
+        },
+        "name": "Slowking"
+    },
+    {
+        "labels": [
+            "wall"
+        ],
+        "features": {
+            "stats": [
+                289,
+                140,
+                282,
+                236,
+                287,
+                198
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Marvel Scale"
+            ],
+            "type": [
+                "Water"
+            ],
+            "moves": [
+                "Scald",
+                "Recover",
+                "Haze",
+                "Refresh",
+                "Ice Beam"
+            ]
+        },
+        "name": "Milotic"
+    },
+    {
+        "labels": [
+            "utility"
+        ],
+        "features": {
+            "stats": [
+                178,
+                227,
+                185,
+                319,
+                226,
+                282
+            ],
+            "item": [
+                " Icicle Plate",
+                " Choice Specs"
+            ],
+            "ability": [
+                "Snow Warning"
+            ],
+            "type": [
+                "Ice"
+            ],
+            "moves": [
+                "Blizzard",
+                "Freeze-Dry",
+                "Ice Shard",
+                "Taunt",
+                "Hidden Power Fire"
+            ]
+        },
+        "name": "Vanilluxe"
+    },
+    {
+        "labels": [
+            "wallbreaker"
+        ],
+        "features": {
+            "stats": [
+                236,
+                212,
+                236,
+                299,
+                237,
+                328
+            ],
+            "item": [
+                " Waterium Z"
+            ],
+            "ability": [
+                "Hydration"
+            ],
+            "type": [
+                "Water"
+            ],
+            "moves": [
+                "Tail Glow",
+                "Surf",
+                "Psychic",
+                "Rain Dance"
+            ]
+        },
+        "name": "Manaphy"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                237,
+                212,
+                236,
+                299,
+                236,
+                328
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Hydration"
+            ],
+            "type": [
+                "Water"
+            ],
+            "moves": [
+                "Tail Glow",
+                "Scald",
+                "Ice Beam",
+                "Psychic"
+            ]
+        },
+        "name": "Manaphy"
+    },
+    {
+        "labels": [
+            "sweeper"
+        ],
+        "features": {
+            "stats": [
+                419,
+                256,
+                204,
+                149,
+                310,
+                96
+            ],
+            "item": [
+                " Iapapa Berry"
+            ],
+            "ability": [
+                "Gluttony"
+            ],
+            "type": [
+                "Normal"
+            ],
+            "moves": [
+                "Curse",
+                "Facade",
+                "Recycle",
+                "Fire Punch",
+                "Earthquake"
+            ]
+        },
+        "name": "Snorlax"
+    },
+    {
+        "labels": [
+            "sweeper",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                419,
+                256,
+                204,
+                149,
+                310,
+                96
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Thick Fat"
+            ],
+            "type": [
+                "Normal"
+            ],
+            "moves": [
+                "Curse",
+                "Return",
+                "Body Slam",
+                "Rest",
+                "Sleep Talk",
+                "Fire Punch",
+                "Earthquake"
+            ]
+        },
+        "name": "Snorlax"
+    },
+    {
+        "labels": [
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                268,
+                212,
+                231,
+                286,
+                206,
+                303
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Pressure"
+            ],
+            "type": [
+                "Fire",
+                "Flying"
+            ],
+            "moves": [
+                "Substitute",
+                "Roost",
+                "Defog",
+                "Flamethrower"
+            ]
+        },
+        "name": "Moltres"
+    },
+    {
+        "labels": [
+            "support"
+        ],
+        "features": {
+            "stats": [
+                238,
+                185,
+                416,
+                206,
+                178,
+                76
+            ],
+            "item": [
+                " Heat Rock"
+            ],
+            "ability": [
+                "Drought"
+            ],
+            "type": [
+                "Fire"
+            ],
+            "moves": [
+                "Stealth Rock",
+                "Lava Plume",
+                "Explosion",
+                "Toxic",
+                "Will-O-Wisp"
+            ]
+        },
+        "name": "Torkoal"
+    },
+    {
+        "labels": [
+            "sweeper",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                296,
+                236,
+                249,
+                212,
+                236,
+                319
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Synchronize"
+            ],
+            "type": [
+                "Psychic"
+            ],
+            "moves": [
+                "Earthquake",
+                "Will-O-Wisp",
+                "Soft-Boiled",
+                "Stealth Rock",
+                "Defog"
+            ]
+        },
+        "name": "Mew"
+    },
+    {
+        "labels": [
+            "sweeper",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                236,
+                212,
+                236,
+                328,
+                237,
+                299
+            ],
+            "item": [
+                " Mewnium Z"
+            ],
+            "ability": [
+                "Synchronize"
+            ],
+            "type": [
+                "Psychic"
+            ],
+            "moves": [
+                "Nasty Plot",
+                "Psychic",
+                "Fire Blast",
+                "Aura Sphere",
+                "Rock Polish",
+                "Soft-Boiled"
+            ]
+        },
+        "name": "Mew"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "utility",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                156,
+                158,
+                166,
+                349,
+                247,
+                306
+            ],
+            "item": [
+                " Poisonium Z"
+            ],
+            "ability": [
+                "Technician"
+            ],
+            "type": [
+                "Grass",
+                "Poison"
+            ],
+            "moves": [
+                "Sleep Powder",
+                "Leaf Storm",
+                "Sludge Bomb",
+                "Hidden Power Fire"
+            ]
+        },
+        "name": "Roserade"
+    },
+    {
+        "labels": [
+            "support",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                166,
+                399,
+                116,
+                59,
+                197,
+                427
+            ],
+            "item": [
+                " Beedrillite"
+            ],
+            "ability": [
+                "Swarm"
+            ],
+            "type": [
+                "Bug",
+                "Poison"
+            ],
+            "moves": [
+                "U-turn",
+                "Poison Jab",
+                "Drill Run",
+                "Knock Off",
+                "Toxic Spikes",
+                "Pursuit"
+            ]
+        },
+        "name": "Beedrill"
+    },
+    {
+        "labels": [
+            "utility",
+            "support",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                229,
+                186,
+                313,
+                95,
+                191,
+                206
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Immunity"
+            ],
+            "type": [
+                "Ground",
+                "Flying"
+            ],
+            "moves": [
+                "Earthquake",
+                "Roost",
+                "Defog",
+                "Stealth Rock",
+                "U-turn",
+                "Toxic",
+                "Knock Off"
+            ]
+        },
+        "name": "Gligar"
+    },
+    {
+        "labels": [
+            "sweeper"
+        ],
+        "features": {
+            "stats": [
+                146,
+                306,
+                196,
+                122,
+                247,
+                291
+            ],
+            "item": [
+                " Life Orb",
+                " Ghostium Z"
+            ],
+            "ability": [
+                "Disguise"
+            ],
+            "type": [
+                "Ghost",
+                "Fairy"
+            ],
+            "moves": [
+                "Swords Dance",
+                "Shadow Sneak",
+                "Play Rough",
+                "Shadow Claw"
+            ]
+        },
+        "name": "Mimikyu"
+    },
+    {
+        "labels": [
+            "sweeper",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                196,
+                203,
+                266,
+                359,
+                267,
+                251
+            ],
+            "item": [
+                " Fairium Z",
+                " Steelium Z"
+            ],
+            "ability": [
+                "Soul-Heart"
+            ],
+            "type": [
+                "Steel",
+                "Fairy"
+            ],
+            "moves": [
+                "Shift Gear",
+                "Calm Mind",
+                "Thunderbolt",
+                "Fleur Cannon",
+                "Flash Cannon",
+                "Focus Blast"
+            ]
+        },
+        "name": "Magearna"
+    },
+    {
+        "labels": [
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                258,
+                226,
+                266,
+                296,
+                354,
+                157
+            ],
+            "item": [
+                " Assault Vest"
+            ],
+            "ability": [
+                "Soul-Heart"
+            ],
+            "type": [
+                "Steel",
+                "Fairy"
+            ],
+            "moves": [
+                "Volt Switch",
+                "Fleur Cannon",
+                "Focus Blast",
+                "Hidden Power Fire",
+                "Iron Head"
+            ]
+        },
+        "name": "Magearna"
+    },
+    {
+        "labels": [
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                258,
+                203,
+                273,
+                296,
+                356,
+                141
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Soul-Heart"
+            ],
+            "type": [
+                "Steel",
+                "Fairy"
+            ],
+            "moves": [
+                "Heart Swap",
+                "Pain Split",
+                "Volt Switch",
+                "Flash Cannon"
+            ]
+        },
+        "name": "Magearna"
+    },
+    {
+        "labels": [
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                258,
+                203,
+                273,
+                387,
+                268,
+                166
+            ],
+            "item": [
+                " Fairium Z"
+            ],
+            "ability": [
+                "Soul-Heart"
+            ],
+            "type": [
+                "Steel",
+                "Fairy"
+            ],
+            "moves": [
+                "Calm Mind",
+                "Pain Split",
+                "Fleur Cannon",
+                "Thunderbolt"
+            ]
+        },
+        "name": "Magearna"
+    },
+    {
+        "labels": [
+            "revengekiller",
+            "utility",
+            "stallbreaker"
+        ],
+        "features": {
+            "stats": [
+                206,
+                158,
+                196,
+                293,
+                197,
+                379
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Infiltrator"
+            ],
+            "type": [
+                "Flying",
+                "Dragon"
+            ],
+            "moves": [
+                "Hurricane",
+                "Taunt",
+                "Roost",
+                "U-turn"
+            ]
+        },
+        "name": "Noivern"
+    },
+    {
+        "labels": [
+            "revengekiller",
+            "utility",
+            "stallbreaker"
+        ],
+        "features": {
+            "stats": [
+                206,
+                158,
+                196,
+                293,
+                197,
+                379
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Infiltrator"
+            ],
+            "type": [
+                "Flying",
+                "Dragon"
+            ],
+            "moves": [
+                "Hurricane",
+                "Draco Meteor",
+                "U-turn",
+                "Switcheroo"
+            ]
+        },
+        "name": "Noivern"
+    },
+    {
+        "labels": [
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                300,
+                266,
+                216,
+                345,
+                217,
+                317
+            ],
+            "item": [
+                " Metronome",
+                " Icium Z"
+            ],
+            "ability": [
+                "Pressure"
+            ],
+            "type": [
+                "Dragon",
+                "Ice"
+            ],
+            "moves": [
+                "Substitute",
+                "Ice Beam",
+                "Earth Power",
+                "Roost"
+            ]
+        },
+        "name": "Kyurem"
+    },
+    {
+        "labels": [
+            "support",
+            "wall"
+        ],
+        "features": {
+            "stats": [
+                609,
+                50,
+                130,
+                186,
+                307,
+                146
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Natural Cure"
+            ],
+            "type": [
+                "Normal"
+            ],
+            "moves": [
+                "Seismic Toss",
+                "Toxic",
+                "Soft-Boiled",
+                "Heal Bell",
+                "Stealth Rock"
+            ]
+        },
+        "name": "Blissey"
+    },
+    {
+        "labels": [
+            "sweeper"
+        ],
+        "features": {
+            "stats": [
+                218,
+                279,
+                294,
+                194,
+                181,
+                346
+            ],
+            "item": [
+                " Fightinium Z",
+                " Rocky Helmet",
+                " Shuca Berry"
+            ],
+            "ability": [
+                "Justified"
+            ],
+            "type": [
+                "Steel",
+                "Fighting"
+            ],
+            "moves": [
+                "Swords Dance",
+                "Iron Head",
+                "Close Combat",
+                "Stealth Rock",
+                "Rock Polish"
+            ]
+        },
+        "name": "Cobalion"
+    },
+    {
+        "labels": [
+            "tank",
+            "sweeper"
+        ],
+        "features": {
+            "stats": [
+                218,
+                194,
+                294,
+                279,
+                181,
+                346
+            ],
+            "item": [
+                " Fightinium Z",
+                " Electrium Z"
+            ],
+            "ability": [
+                "Justified"
+            ],
+            "type": [
+                "Steel",
+                "Fighting"
+            ],
+            "moves": [
+                "Calm Mind",
+                "Flash Cannon",
+                "Focus Blast",
+                "Hidden Power Grass",
+                "Volt Switch"
+            ]
+        },
+        "name": "Cobalion"
+    },
+    {
+        "labels": [
+            "utility",
+            "wall",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                249,
+                216,
+                416,
+                156,
+                157,
+                76
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Overcoat"
+            ],
+            "type": [
+                "Bug",
+                "Steel"
+            ],
+            "moves": [
+                "Gyro Ball",
+                "Spikes",
+                "Volt Switch",
+                "Rapid Spin",
+                "Toxic"
+            ]
+        },
+        "name": "Forretress"
+    },
+    {
+        "labels": [
+            "revengekiller",
+            "sweeper",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                214,
+                350,
+                336,
+                126,
+                138,
+                67
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "No Guard"
+            ],
+            "type": [
+                "Steel",
+                "Ghost"
+            ],
+            "moves": [
+                "Swords Dance",
+                "Gyro Ball",
+                "Iron Head",
+                "Shadow Claw",
+                "Sacred Sword",
+                "Shadow Sneak"
+            ]
+        },
+        "name": "Doublade"
+    },
+    {
+        "labels": [
+            "wall"
+        ],
+        "features": {
+            "stats": [
+                206,
+                350,
+                216,
+                113,
+                217,
+                259
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Sand Rush"
+            ],
+            "type": [
+                "Normal"
+            ],
+            "moves": [
+                "Return",
+                "Superpower",
+                "Pursuit",
+                "Crunch",
+                "Ice Fang"
+            ]
+        },
+        "name": "Stoutland"
+    },
+    {
+        "labels": [
+            "trapper"
+        ],
+        "features": {
+            "stats": [
+                180,
+                136,
+                197,
+                305,
+                196,
+                322
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Magic Guard"
+            ],
+            "type": [
+                "Psychic",
+                "Flying"
+            ],
+            "moves": [
+                "Psychic",
+                "Heat Wave",
+                "Roost",
+                "Air Slash",
+                "Defog"
+            ]
+        },
+        "name": "Sigilyph"
+    },
+    {
+        "labels": [
+            "revengekiller",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                146,
+                289,
+                147,
+                95,
+                186,
+                361
+            ],
+            "item": [
+                " Life Orb",
+                " Choice Band"
+            ],
+            "ability": [
+                "Inner Focus"
+            ],
+            "type": [
+                "Dark",
+                "Ice"
+            ],
+            "moves": [
+                "Knock Off",
+                "Icicle Crash",
+                "Ice Shard",
+                "Pursuit"
+            ]
+        },
+        "name": "Sneasel"
+    },
+    {
+        "labels": [
+            "support"
+        ],
+        "features": {
+            "stats": [
+                268,
+                140,
+                194,
+                306,
+                246,
+                300
+            ],
+            "item": [
+                " Buginium Z"
+            ],
+            "ability": [
+                "Flame Body"
+            ],
+            "type": [
+                "Bug",
+                "Fire"
+            ],
+            "moves": [
+                "Quiver Dance",
+                "Flamethrower",
+                "Bug Buzz",
+                "Roost"
+            ]
+        },
+        "name": "Volcarona"
+    },
+    {
+        "labels": [
+            "support"
+        ],
+        "features": {
+            "stats": [
+                206,
+                140,
+                166,
+                369,
+                247,
+                328
+            ],
+            "item": [
+                " Buginium Z"
+            ],
+            "ability": [
+                "Flame Body"
+            ],
+            "type": [
+                "Bug",
+                "Fire"
+            ],
+            "moves": [
+                "Quiver Dance",
+                "Fire Blast",
+                "Bug Buzz",
+                "Hidden Power Ground"
+            ]
+        },
+        "name": "Volcarona"
+    },
+    {
+        "labels": [
+            "support"
+        ],
+        "features": {
+            "stats": [
+                180,
+                227,
+                153,
+                305,
+                178,
+                377
+            ],
+            "item": [
+                " Waterium Z"
+            ],
+            "ability": [
+                "Protean"
+            ],
+            "type": [
+                "Water",
+                "Dark"
+            ],
+            "moves": [
+                "Hydro Pump",
+                "Gunk Shot",
+                "Hidden Power Fire",
+                "Spikes"
+            ]
+        },
+        "name": "Greninja"
+    },
+    {
+        "labels": [
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                180,
+                289,
+                153,
+                243,
+                178,
+                377
+            ],
+            "item": [
+                " Fightinium Z"
+            ],
+            "ability": [
+                "Protean"
+            ],
+            "type": [
+                "Water",
+                "Dark"
+            ],
+            "moves": [
+                "Low Kick",
+                "Gunk Shot",
+                "Ice Beam",
+                "Spikes"
+            ]
+        },
+        "name": "Greninja"
+    },
+    {
+        "labels": [
+            "revengekiller"
+        ],
+        "features": {
+            "stats": [
+                180,
+                270,
+                153,
+                262,
+                178,
+                377
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Protean"
+            ],
+            "type": [
+                "Water",
+                "Dark"
+            ],
+            "moves": [
+                "Rock Slide",
+                "Gunk Shot",
+                "U-turn",
+                "Ice Beam",
+                "Spikes",
+                "Low Kick"
+            ]
+        },
+        "name": "Greninja"
+    },
+    {
+        "labels": [
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                181,
+                239,
+                206,
+                289,
+                191,
+                385
+            ],
+            "item": [
+                " Electrium Z",
+                " Leftovers"
+            ],
+            "ability": [
+                "Electric Surge"
+            ],
+            "type": [
+                "Electric",
+                "Fairy"
+            ],
+            "moves": [
+                "Thunderbolt",
+                "Defog",
+                "Roost",
+                "U-turn",
+                "Hidden Power Ice"
+            ]
+        },
+        "name": "Tapu Koko"
+    },
+    {
+        "labels": [
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                184,
+                239,
+                228,
+                269,
+                186,
+                385
+            ],
+            "item": [
+                " Shuca Berry"
+            ],
+            "ability": [
+                "Electric Surge"
+            ],
+            "type": [
+                "Electric",
+                "Fairy"
+            ],
+            "moves": [
+                "Thunderbolt",
+                "Volt Switch",
+                "Hidden Power Ice",
+                "Roost",
+                "Defog"
+            ]
+        },
+        "name": "Tapu Koko"
+    },
+    {
+        "labels": [
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                238,
+                268,
+                206,
+                203,
+                186,
+                394
+            ],
+            "item": [
+                " Light Clay"
+            ],
+            "ability": [
+                "Electric Surge"
+            ],
+            "type": [
+                "Electric",
+                "Fairy"
+            ],
+            "moves": [
+                "Taunt",
+                "Reflect",
+                "Light Screen",
+                "U-turn"
+            ]
+        },
+        "name": "Tapu Koko"
+    },
+    {
+        "labels": [
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                176,
+                329,
+                207,
+                226,
+                167,
+                394
+            ],
+            "item": [
+                " Electrium Z"
+            ],
+            "ability": [
+                "Electric Surge"
+            ],
+            "type": [
+                "Electric",
+                "Fairy"
+            ],
+            "moves": [
+                "Wild Charge",
+                "Hidden Power Ice",
+                "Taunt",
+                "U-turn"
+            ]
+        },
+        "name": "Tapu Koko"
+    },
+    {
+        "labels": [
+            "sweeper",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                187,
+                319,
+                257,
+                236,
+                246,
+                295
+            ],
+            "item": [
+                " Kommonium Z"
+            ],
+            "ability": [
+                "Bulletproof"
+            ],
+            "type": [
+                "Dragon",
+                "Fighting"
+            ],
+            "moves": [
+                "Stealth Rock",
+                "Clanging Scales",
+                "Close Combat",
+                "Poison Jab"
+            ]
+        },
+        "name": "Kommo-o"
+    },
+    {
+        "labels": [
+            "sweeper",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                249,
+                256,
+                286,
+                212,
+                336,
+                210
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Bulletproof"
+            ],
+            "type": [
+                "Dragon",
+                "Fighting"
+            ],
+            "moves": [
+                "Stealth Rock",
+                "Dragon Tail",
+                "Earthquake",
+                "Protect"
+            ]
+        },
+        "name": "Kommo-o"
+    },
+    {
+        "labels": [
+            "sweeper",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                199,
+                307,
+                286,
+                212,
+                246,
+                295
+            ],
+            "item": [
+                " Salac Berry"
+            ],
+            "ability": [
+                "Bulletproof"
+            ],
+            "type": [
+                "Dragon",
+                "Fighting"
+            ],
+            "moves": [
+                "Belly Drum",
+                "Substitute",
+                "Drain Punch",
+                "Thunder Punch"
+            ]
+        },
+        "name": "Kommo-o"
+    },
+    {
+        "labels": [
+            "tank"
+        ],
+        "features": {
+            "stats": [
+                202,
+                311,
+                166,
+                187,
+                167,
+                295
+            ],
+            "item": [
+                " Life Orb",
+                " Poisonium Z",
+                " Darkinium Z"
+            ],
+            "ability": [
+                "Dry Skin"
+            ],
+            "type": [
+                "Poison",
+                "Fighting"
+            ],
+            "moves": [
+                "Swords Dance",
+                "Drain Punch",
+                "Gunk Shot",
+                "Sucker Punch",
+                "Ice Punch"
+            ]
+        },
+        "name": "Toxicroak"
+    },
+    {
+        "labels": [
+            "utility",
+            "support",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                234,
+                147,
+                158,
+                258,
+                156,
+                366
+            ],
+            "item": [
+                " Black Sludge"
+            ],
+            "ability": [
+                "Corrosion"
+            ],
+            "type": [
+                "Poison",
+                "Fire"
+            ],
+            "moves": [
+                "Toxic",
+                "Protect",
+                "Flamethrower",
+                "Substitute",
+                "Taunt"
+            ]
+        },
+        "name": "Salazzle"
+    },
+    {
+        "labels": [
+            "wallbreaker"
+        ],
+        "features": {
+            "stats": [
+                220,
+                221,
+                216,
+                347,
+                224,
+                319
+            ],
+            "item": [
+                " Darkinium Z"
+            ],
+            "ability": [
+                "Levitate"
+            ],
+            "type": [
+                "Dark",
+                "Dragon"
+            ],
+            "moves": [
+                "Dark Pulse",
+                "Earth Power",
+                "Flash Cannon",
+                "Roost"
+            ]
+        },
+        "name": "Hydreigon"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "support",
+            "sweeper",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                207,
+                309,
+                236,
+                174,
+                202,
+                280
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Sheer Force"
+            ],
+            "type": [
+                "Water"
+            ],
+            "moves": [
+                "Dragon Dance",
+                "Liquidation",
+                "Ice Punch",
+                "Crunch"
+            ]
+        },
+        "name": "Feraligatr"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "support",
+            "sweeper"
+        ],
+        "features": {
+            "stats": [
+                206,
+                309,
+                237,
+                174,
+                202,
+                280
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Sheer Force"
+            ],
+            "type": [
+                "Water"
+            ],
+            "moves": [
+                "Agility",
+                "Liquidation",
+                "Crunch",
+                "Ice Punch"
+            ]
+        },
+        "name": "Feraligatr"
+    },
+    {
+        "labels": [
+            "sweeper",
+            "utility",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                176,
+                339,
+                167,
+                113,
+                206,
+                383
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Pickpocket"
+            ],
+            "type": [
+                "Dark",
+                "Ice"
+            ],
+            "moves": [
+                "Knock Off",
+                "Icicle Crash",
+                "Ice Shard",
+                "Pursuit"
+            ]
+        },
+        "name": "Weavile"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "sweeper",
+            "support",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                192,
+                267,
+                192,
+                228,
+                207,
+                328
+            ],
+            "item": [
+                " Charizardite X"
+            ],
+            "ability": [
+                "Blaze"
+            ],
+            "type": [
+                "Fire",
+                "Flying"
+            ],
+            "moves": [
+                "Dragon Dance",
+                "Flare Blitz",
+                "Earthquake",
+                "Dragon Claw",
+                "Roost"
+            ]
+        },
+        "name": "Charizard"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "sweeper",
+            "support",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                192,
+                267,
+                192,
+                228,
+                207,
+                328
+            ],
+            "item": [
+                " Charizardite X"
+            ],
+            "ability": [
+                "Blaze"
+            ],
+            "type": [
+                "Fire",
+                "Flying"
+            ],
+            "moves": [
+                "Flare Blitz",
+                "Outrage",
+                "Earthquake",
+                "Roost"
+            ]
+        },
+        "name": "Charizard"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "sweeper"
+        ],
+        "features": {
+            "stats": [
+                192,
+                183,
+                193,
+                317,
+                206,
+                328
+            ],
+            "item": [
+                " Charizardite Y"
+            ],
+            "ability": [
+                "Blaze"
+            ],
+            "type": [
+                "Fire",
+                "Flying"
+            ],
+            "moves": [
+                "Flamethrower",
+                "Fire Blast",
+                "Focus Blast",
+                "Solar Beam",
+                "Defog",
+                "Roost"
+            ]
+        },
+        "name": "Charizard"
+    },
+    {
+        "labels": [
+            "wall"
+        ],
+        "features": {
+            "stats": [
+                292,
+                238,
+                249,
+                250,
+                325,
+                142
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Beast Boost"
+            ],
+            "type": [
+                "Steel",
+                "Flying"
+            ],
+            "moves": [
+                "Leech Seed",
+                "Protect",
+                "Heavy Slam",
+                "Flamethrower"
+            ]
+        },
+        "name": "Celesteela"
+    },
+    {
+        "labels": [
+            "utility"
+        ],
+        "features": {
+            "stats": [
+                156,
+                140,
+                158,
+                308,
+                246,
+                339
+            ],
+            "item": [
+                " Ghostium Z",
+                " Electrium Z"
+            ],
+            "ability": [
+                "Levitate"
+            ],
+            "type": [
+                "Ghost"
+            ],
+            "moves": [
+                "Nasty Plot",
+                "Shadow Ball",
+                "Thunderbolt",
+                "Taunt",
+                "Substitute"
+            ]
+        },
+        "name": "Mismagius"
+    },
+    {
+        "labels": [
+            "support",
+            "wall"
+        ],
+        "features": {
+            "stats": [
+                259,
+                167,
+                337,
+                186,
+                438,
+                136
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Clear Body"
+            ],
+            "type": [
+                "Steel"
+            ],
+            "moves": [
+                "Stealth Rock",
+                "Toxic",
+                "Seismic Toss",
+                "Protect",
+                "Counter"
+            ]
+        },
+        "name": "Registeel"
+    },
+    {
+        "labels": [
+            "tank",
+            "sweeper",
+            "utility",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                212,
+                196,
+                218,
+                176,
+                300,
+                188
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Prankster"
+            ],
+            "type": [
+                "Steel",
+                "Fairy"
+            ],
+            "moves": [
+                "Spikes",
+                "Thunder Wave",
+                "Toxic",
+                "Magnet Rise",
+                "Play Rough"
+            ]
+        },
+        "name": "Klefki"
+    },
+    {
+        "labels": [
+            "support"
+        ],
+        "features": {
+            "stats": [
+                186,
+                167,
+                226,
+                249,
+                227,
+                357
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Contrary"
+            ],
+            "type": [
+                "Grass"
+            ],
+            "moves": [
+                "Leaf Storm",
+                "Glare",
+                "Defog",
+                "Hidden Power Fire",
+                "Knock Off",
+                "Hidden Power Fire"
+            ]
+        },
+        "name": "Serperior"
+    },
+    {
+        "labels": [
+            "sweeper",
+            "support",
+            "stallbreaker",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                236,
+                212,
+                236,
+                299,
+                237,
+                328
+            ],
+            "item": [
+                " Psychium Z"
+            ],
+            "ability": [
+                "Natural Cure"
+            ],
+            "type": [
+                "Psychic",
+                "Grass"
+            ],
+            "moves": [
+                "Nasty Plot",
+                "Psychic",
+                "Giga Drain",
+                "Dazzling Gleam"
+            ]
+        },
+        "name": "Celebi"
+    },
+    {
+        "labels": [
+            "sweeper",
+            "support",
+            "stallbreaker",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                299,
+                212,
+                324,
+                236,
+                236,
+                241
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Natural Cure"
+            ],
+            "type": [
+                "Psychic",
+                "Grass"
+            ],
+            "moves": [
+                "Stealth Rock",
+                "U-turn",
+                "Psychic",
+                "Giga Drain",
+                "Recover"
+            ]
+        },
+        "name": "Celebi"
+    },
+    {
+        "labels": [
+            "utility",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                177,
+                379,
+                176,
+                230,
+                166,
+                339
+            ],
+            "item": [
+                " Sharpedonite"
+            ],
+            "ability": [
+                "Speed Boost"
+            ],
+            "type": [
+                "Water",
+                "Dark"
+            ],
+            "moves": [
+                "Crunch",
+                "Ice Fang",
+                "Psychic Fangs",
+                "Protect"
+            ]
+        },
+        "name": "Sharpedo"
+    },
+    {
+        "labels": [
+            "utility"
+        ],
+        "features": {
+            "stats": [
+                309,
+                226,
+                273,
+                206,
+                187,
+                165
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Water Absorb"
+            ],
+            "type": [
+                "Water",
+                "Ground"
+            ],
+            "moves": [
+                "Stealth Rock",
+                "Scald",
+                "Earthquake",
+                "Toxic"
+            ]
+        },
+        "name": "Seismitoad"
+    },
+    {
+        "labels": [
+            "utility"
+        ],
+        "features": {
+            "stats": [
+                264,
+                203,
+                186,
+                295,
+                186,
+                230
+            ],
+            "item": [
+                " Leftovers",
+                " Expert Belt"
+            ],
+            "ability": [
+                "Water Absorb"
+            ],
+            "type": [
+                "Water",
+                "Ground"
+            ],
+            "moves": [
+                "Stealth Rock",
+                "Hydro Pump",
+                "Earth Power",
+                "Hidden Power Fire"
+            ]
+        },
+        "name": "Seismitoad"
+    },
+    {
+        "labels": [
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                238,
+                167,
+                270,
+                229,
+                336,
+                254
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Misty Surge"
+            ],
+            "type": [
+                "Water",
+                "Fairy"
+            ],
+            "moves": [
+                "Defog",
+                "Moonblast",
+                "Nature's Madness",
+                "Scald",
+                "Nature's Madness",
+                "Taunt"
+            ]
+        },
+        "name": "Tapu Fini"
+    },
+    {
+        "labels": [
+            "revengekiller",
+            "sweeper"
+        ],
+        "features": {
+            "stats": [
+                226,
+                349,
+                194,
+                140,
+                237,
+                287
+            ],
+            "item": [
+                " Flyinium Z"
+            ],
+            "ability": [
+                "Moxie"
+            ],
+            "type": [
+                "Water",
+                "Flying"
+            ],
+            "moves": [
+                "Dragon Dance",
+                "Bounce",
+                "Waterfall",
+                "Earthquake",
+                "Taunt"
+            ]
+        },
+        "name": "Gyarados"
+    },
+    {
+        "labels": [
+            "sweeper"
+        ],
+        "features": {
+            "stats": [
+                226,
+                409,
+                254,
+                158,
+                297,
+                287
+            ],
+            "item": [
+                " Gyaradosite"
+            ],
+            "ability": [
+                "Intimidate"
+            ],
+            "type": [
+                "Water",
+                "Dark"
+            ],
+            "moves": [
+                "Dragon Dance",
+                "Crunch",
+                "Earthquake",
+                "Substitute"
+            ]
+        },
+        "name": "Gyarados"
+    },
+    {
+        "labels": [
+            "tank",
+            "wallbreaker",
+            "stallbreaker",
+            "sweeper",
+            "support",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                188,
+                219,
+                179,
+                307,
+                178,
+                346
+            ],
+            "item": [
+                " Fightinium Z",
+                " Life Orb"
+            ],
+            "ability": [
+                "Blaze"
+            ],
+            "type": [
+                "Fire",
+                "Fighting"
+            ],
+            "moves": [
+                "Nasty Plot",
+                "Fire Blast",
+                "Focus Blast",
+                "Vacuum Wave",
+                "Grass Knot"
+            ]
+        },
+        "name": "Infernape"
+    },
+    {
+        "labels": [
+            "revengekiller",
+            "sweeper",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                188,
+                307,
+                179,
+                219,
+                178,
+                346
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Blaze"
+            ],
+            "type": [
+                "Fire",
+                "Fighting"
+            ],
+            "moves": [
+                "Flare Blitz",
+                "U-turn",
+                "Close Combat",
+                "Gunk Shot",
+                "Stone Edge"
+            ]
+        },
+        "name": "Infernape"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "support",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                188,
+                286,
+                178,
+                266,
+                160,
+                346
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Blaze"
+            ],
+            "type": [
+                "Fire",
+                "Fighting"
+            ],
+            "moves": [
+                "Overheat",
+                "Fire Blast",
+                "Close Combat",
+                "Slack Off",
+                "Gunk Shot",
+                "Grass Knot",
+                "Gunk Shot"
+            ]
+        },
+        "name": "Infernape"
+    },
+    {
+        "labels": [
+            "wallbreaker"
+        ],
+        "features": {
+            "stats": [
+                188,
+                307,
+                179,
+                219,
+                178,
+                346
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Iron Fist",
+                "Blaze"
+            ],
+            "type": [
+                "Fire",
+                "Fighting"
+            ],
+            "moves": [
+                "Flare Blitz",
+                "U-turn",
+                "Close Combat",
+                "Mach Punch",
+                "Gunk Shot",
+                "Stone Edge"
+            ]
+        },
+        "name": "Infernape"
+    },
+    {
+        "labels": [
+            "tank"
+        ],
+        "features": {
+            "stats": [
+                188,
+                307,
+                179,
+                219,
+                178,
+                346
+            ],
+            "item": [
+                " Fightinium Z",
+                " Electrium Z"
+            ],
+            "ability": [
+                "Iron Fist"
+            ],
+            "type": [
+                "Fire",
+                "Fighting"
+            ],
+            "moves": [
+                "Swords Dance",
+                "Close Combat",
+                "Flare Blitz",
+                "Mach Punch",
+                "Thunder Punch"
+            ]
+        },
+        "name": "Infernape"
+    },
+    {
+        "labels": [
+            "wallbreaker"
+        ],
+        "features": {
+            "stats": [
+                218,
+                357,
+                217,
+                162,
+                216,
+                346
+            ],
+            "item": [
+                " Rockium Z"
+            ],
+            "ability": [
+                "Justified"
+            ],
+            "type": [
+                "Rock",
+                "Fighting"
+            ],
+            "moves": [
+                "Swords Dance",
+                "Stone Edge",
+                "Close Combat",
+                "Stealth Rock"
+            ]
+        },
+        "name": "Terrakion"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "revengekiller",
+            "sweeper"
+        ],
+        "features": {
+            "stats": [
+                218,
+                357,
+                217,
+                162,
+                216,
+                346
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Justified"
+            ],
+            "type": [
+                "Rock",
+                "Fighting"
+            ],
+            "moves": [
+                "Stone Edge",
+                "Close Combat",
+                "Rock Slide",
+                "Toxic",
+                "Earthquake"
+            ]
+        },
+        "name": "Terrakion"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "support",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                172,
+                429,
+                227,
+                149,
+                266,
+                350
+            ],
+            "item": [
+                " Galladite"
+            ],
+            "ability": [
+                "Justified"
+            ],
+            "type": [
+                "Psychic",
+                "Fighting"
+            ],
+            "moves": [
+                "Swords Dance",
+                "Close Combat",
+                "Zen Headbutt",
+                "Knock Off"
+            ]
+        },
+        "name": "Gallade"
+    },
+    {
+        "labels": [
+            "support",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                229,
+                131,
+                322,
+                259,
+                130,
+                156
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Regenerator"
+            ],
+            "type": [
+                "Grass"
+            ],
+            "moves": [
+                "Leaf Storm",
+                "Knock Off",
+                "Leech Seed",
+                "Sleep Powder",
+                "Sludge Bomb",
+                "Hidden Power Ice",
+                "Hidden Power Flying"
+            ]
+        },
+        "name": "Tangela"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "support",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                229,
+                167,
+                186,
+                226,
+                176,
+                308
+            ],
+            "item": [
+                " Rocky Helmet"
+            ],
+            "ability": [
+                "Magic Bounce"
+            ],
+            "type": [
+                "Psychic",
+                "Flying"
+            ],
+            "moves": [
+                "Psyshock",
+                "Roost",
+                "Heat Wave",
+                "U-turn",
+                "Calm Mind"
+            ]
+        },
+        "name": "Xatu"
+    },
+    {
+        "labels": [
+            "support",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                156,
+                328,
+                157,
+                212,
+                156,
+                339
+            ],
+            "item": [
+                " White Herb"
+            ],
+            "ability": [
+                "Shields Down"
+            ],
+            "type": [
+                "Rock",
+                "Flying"
+            ],
+            "moves": [
+                "Shell Smash",
+                "Acrobatics",
+                "Substitute",
+                "Stone Edge",
+                "Earthquake"
+            ]
+        },
+        "name": "Minior"
+    },
+    {
+        "labels": [
+            "tank",
+            "sweeper",
+            "utility"
+        ],
+        "features": {
+            "stats": [
+                221,
+                397,
+                397,
+                142,
+                239,
+                31
+            ],
+            "item": [
+                " Rockium Z"
+            ],
+            "ability": [
+                "Beast Boost"
+            ],
+            "type": [
+                "Rock",
+                "Steel"
+            ],
+            "moves": [
+                "Trick Room",
+                "Gyro Ball",
+                "Stone Edge",
+                "Earthquake"
+            ]
+        },
+        "name": "Stakataka"
+    },
+    {
+        "labels": [
+            "sweeper",
+            "utility"
+        ],
+        "features": {
+            "stats": [
+                221,
+                298,
+                459,
+                142,
+                331,
+                27
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Beast Boost"
+            ],
+            "type": [
+                "Rock",
+                "Steel"
+            ],
+            "moves": [
+                "Gyro Ball",
+                "Rock Blast",
+                "Stealth Rock",
+                "Protect",
+                "Toxic"
+            ]
+        },
+        "name": "Stakataka"
+    },
+    {
+        "labels": [
+            "support",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                196,
+                297,
+                236,
+                419,
+                248,
+                350
+            ],
+            "item": [
+                " Latiosite"
+            ],
+            "ability": [
+                "Levitate"
+            ],
+            "type": [
+                "Dragon",
+                "Psychic"
+            ],
+            "moves": [
+                "Psychic",
+                "Earthquake",
+                "Ice Beam",
+                "Draco Meteor",
+                "Recover"
+            ]
+        },
+        "name": "Latios"
+    },
+    {
+        "labels": [
+            "supporter",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                196,
+                194,
+                196,
+                359,
+                257,
+                350
+            ],
+            "item": [
+                " Psychium Z",
+                " Soul Dew"
+            ],
+            "ability": [
+                "Levitate"
+            ],
+            "type": [
+                "Dragon",
+                "Psychic"
+            ],
+            "moves": [
+                "Draco Meteor",
+                "Psyshock",
+                "Psychic",
+                "Recover",
+                "Calm Mind",
+                "Defog"
+            ]
+        },
+        "name": "Latios"
+    },
+    {
+        "labels": [
+            "tank"
+        ],
+        "features": {
+            "stats": [
+                176,
+                171,
+                156,
+                293,
+                157,
+                346
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Compound Eyes"
+            ],
+            "type": [
+                "Bug",
+                "Electric"
+            ],
+            "moves": [
+                "Sticky Web",
+                "Thunder",
+                "Bug Buzz",
+                "Volt Switch"
+            ]
+        },
+        "name": "Galvantula"
+    },
+    {
+        "labels": [
+            "wallbreaker"
+        ],
+        "features": {
+            "stats": [
+                227,
+                381,
+                192,
+                156,
+                178,
+                215
+            ],
+            "item": [
+                " Lum Berry",
+                " Life Orb"
+            ],
+            "ability": [
+                "Mold Breaker"
+            ],
+            "type": [
+                "Fighting",
+                "Dark"
+            ],
+            "moves": [
+                "Swords Dance",
+                "Knock Off",
+                "Drain Punch",
+                "Gunk Shot"
+            ]
+        },
+        "name": "Pangoro"
+    },
+    {
+        "labels": [
+            "wallbreaker"
+        ],
+        "features": {
+            "stats": [
+                227,
+                381,
+                192,
+                156,
+                178,
+                215
+            ],
+            "item": [
+                " Choice Band",
+                " Life Orb"
+            ],
+            "ability": [
+                "Iron Fist"
+            ],
+            "type": [
+                "Fighting",
+                "Dark"
+            ],
+            "moves": [
+                "Knock Off",
+                "Hammer Arm",
+                "Drain Punch",
+                "Gunk Shot",
+                "Bullet Punch",
+                "Ice Punch"
+            ]
+        },
+        "name": "Pangoro"
+    },
+    {
+        "labels": [
+            "utility",
+            "wall"
+        ],
+        "features": {
+            "stats": [
+                598,
+                41,
+                119,
+                106,
+                248,
+                136
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Natural Cure"
+            ],
+            "type": [
+                "Normal"
+            ],
+            "moves": [
+                "Seismic Toss",
+                "Toxic",
+                "Stealth Rock",
+                "Heal Bell",
+                "Soft-Boiled"
+            ]
+        },
+        "name": "Chansey"
+    },
+    {
+        "labels": [
+            "utility"
+        ],
+        "features": {
+            "stats": [
+                318,
+                166,
+                246,
+                131,
+                282,
+                230
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Overcoat"
+            ],
+            "type": [
+                "Dark",
+                "Flying"
+            ],
+            "moves": [
+                "Foul Play",
+                "Taunt",
+                "Toxic",
+                "Roost"
+            ]
+        },
+        "name": "Mandibuzz"
+    },
+    {
+        "labels": [
+            "utility"
+        ],
+        "features": {
+            "stats": [
+                204,
+                350,
+                256,
+                230,
+                246,
+                242
+            ],
+            "item": [
+                " Altarianite"
+            ],
+            "ability": [
+                "Natural Cure"
+            ],
+            "type": [
+                "Dragon",
+                "Fairy"
+            ],
+            "moves": [
+                "Dragon Dance",
+                "Return",
+                "Earthquake",
+                "Refresh",
+                "Roost"
+            ]
+        },
+        "name": "Altaria"
+    },
+    {
+        "labels": [
+            "utility"
+        ],
+        "features": {
+            "stats": [
+                249,
+                256,
+                350,
+                256,
+                247,
+                176
+            ],
+            "item": [
+                " Altarianite"
+            ],
+            "ability": [
+                "Natural Cure"
+            ],
+            "type": [
+                "Dragon",
+                "Fairy"
+            ],
+            "moves": [
+                "Body Slam",
+                "Return",
+                "Heal Bell",
+                "Defog",
+                "Roost",
+                "Flamethrower",
+                "Earthquake",
+                "Defog"
+            ]
+        },
+        "name": "Altaria"
+    },
+    {
+        "labels": [
+            "utility"
+        ],
+        "features": {
+            "stats": [
+                248,
+                325,
+                257,
+                230,
+                246,
+                220
+            ],
+            "item": [
+                " Altarianite"
+            ],
+            "ability": [
+                "Natural Cure"
+            ],
+            "type": [
+                "Dragon",
+                "Fairy"
+            ],
+            "moves": [
+                "Return",
+                "Body Slam",
+                "Earthquake",
+                "Fire Blast",
+                "Roost"
+            ]
+        },
+        "name": "Altaria"
+    },
+    {
+        "labels": [
+            "utility",
+            "wall"
+        ],
+        "features": {
+            "stats": [
+                376,
+                167,
+                275,
+                116,
+                189,
+                166
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Regenerator"
+            ],
+            "type": [
+                "Water"
+            ],
+            "moves": [
+                "Scald",
+                "Toxic",
+                "Knock Off",
+                "Wish",
+                "Protect"
+            ]
+        },
+        "name": "Alomomola"
+    },
+    {
+        "labels": [
+            "support",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                238,
+                330,
+                496,
+                140,
+                270,
+                137
+            ],
+            "item": [
+                " Aggronite"
+            ],
+            "ability": [
+                "Sturdy"
+            ],
+            "type": [
+                "Steel"
+            ],
+            "moves": [
+                "Stealth Rock",
+                "Heavy Slam",
+                "Earthquake",
+                "Ice Punch",
+                "Fire Punch",
+                "Protect"
+            ]
+        },
+        "name": "Aggron"
+    },
+    {
+        "labels": [
+            "support"
+        ],
+        "features": {
+            "stats": [
+                218,
+                194,
+                249,
+                394,
+                248,
+                253
+            ],
+            "item": [
+                " Firium Z"
+            ],
+            "ability": [
+                "Flash Fire"
+            ],
+            "type": [
+                "Fire",
+                "Steel"
+            ],
+            "moves": [
+                "Magma Storm",
+                "Earth Power",
+                "Taunt",
+                "Toxic",
+                "Stealth Rock"
+            ]
+        },
+        "name": "Heatran"
+    },
+    {
+        "labels": [
+            "tank",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                217,
+                203,
+                246,
+                471,
+                256,
+                189
+            ],
+            "item": [
+                " Ampharosite"
+            ],
+            "ability": [
+                "Static"
+            ],
+            "type": [
+                "Electric",
+                "Dragon"
+            ],
+            "moves": [
+                "Volt Switch",
+                "Dragon Pulse",
+                "Focus Blast",
+                "Thunderbolt"
+            ]
+        },
+        "name": "Ampharos"
+    },
+    {
+        "labels": [
+            "tank",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                229,
+                167,
+                216,
+                230,
+                366,
+                137
+            ],
+            "item": [
+                " Black Sludge"
+            ],
+            "ability": [
+                "Adaptability"
+            ],
+            "type": [
+                "Poison",
+                "Dragon"
+            ],
+            "moves": [
+                "Draco Meteor",
+                "Sludge Wave",
+                "Toxic Spikes",
+                "Scald",
+                "Haze",
+                "Dragon Tail"
+            ]
+        },
+        "name": "Dragalge"
+    },
+    {
+        "labels": [
+            "tank",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                217,
+                167,
+                216,
+                322,
+                282,
+                137
+            ],
+            "item": [
+                " Dragonium Z",
+                " Choice Specs"
+            ],
+            "ability": [
+                "Adaptability"
+            ],
+            "type": [
+                "Poison",
+                "Dragon"
+            ],
+            "moves": [
+                "Draco Meteor",
+                "Sludge Wave",
+                "Hidden Power Fire",
+                "Toxic Spikes",
+                "Focus Blast"
+            ]
+        },
+        "name": "Dragalge"
+    },
+    {
+        "labels": [
+            "wall"
+        ],
+        "features": {
+            "stats": [
+                239,
+                350,
+                246,
+                140,
+                297,
+                76
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Overcoat"
+            ],
+            "type": [
+                "Bug",
+                "Steel"
+            ],
+            "moves": [
+                "Megahorn",
+                "Iron Head",
+                "Protect",
+                "Pursuit",
+                "Knock Off"
+            ]
+        },
+        "name": "Escavalier"
+    },
+    {
+        "labels": [
+            "support",
+            "wall"
+        ],
+        "features": {
+            "stats": [
+                219,
+                405,
+                246,
+                140,
+                246,
+                97
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Overcoat"
+            ],
+            "type": [
+                "Bug",
+                "Steel"
+            ],
+            "moves": [
+                "Megahorn",
+                "Iron Head",
+                "Pursuit",
+                "Knock Off",
+                "Drill Run"
+            ]
+        },
+        "name": "Escavalier"
+    },
+    {
+        "labels": [
+            "sweeper",
+            "support",
+            "wall"
+        ],
+        "features": {
+            "stats": [
+                239,
+                306,
+                246,
+                140,
+                317,
+                97
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Overcoat"
+            ],
+            "type": [
+                "Bug",
+                "Steel"
+            ],
+            "moves": [
+                "Swords Dance",
+                "Megahorn",
+                "Rest",
+                "Sleep Talk"
+            ]
+        },
+        "name": "Escavalier"
+    },
+    {
+        "labels": [
+            "utility",
+            "wall",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                298,
+                236,
+                288,
+                256,
+                218,
+                122
+            ],
+            "item": [
+                " Assault Vest"
+            ],
+            "ability": [
+                "Regenerator"
+            ],
+            "type": [
+                "Grass"
+            ],
+            "moves": [
+                "Giga Drain",
+                "Knock Off",
+                "Hidden Power Ice",
+                "Earthquake",
+                "Sludge Bomb"
+            ]
+        },
+        "name": "Tangrowth"
+    },
+    {
+        "labels": [
+            "utility",
+            "wall",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                298,
+                236,
+                372,
+                256,
+                148,
+                122
+            ],
+            "item": [
+                " Leftovers",
+                " Rocky Helmet"
+            ],
+            "ability": [
+                "Regenerator"
+            ],
+            "type": [
+                "Grass"
+            ],
+            "moves": [
+                "Giga Drain",
+                "Knock Off",
+                "Sleep Powder",
+                "Hidden Power Ice",
+                "Hidden Power Fire"
+            ]
+        },
+        "name": "Tangrowth"
+    },
+    {
+        "labels": [
+            "sweeper"
+        ],
+        "features": {
+            "stats": [
+                218,
+                279,
+                180,
+                194,
+                295,
+                346
+            ],
+            "item": [
+                " Grassium Z"
+            ],
+            "ability": [
+                "Justified"
+            ],
+            "type": [
+                "Grass",
+                "Fighting"
+            ],
+            "moves": [
+                "Swords Dance",
+                "Leaf Blade",
+                "Close Combat",
+                "Stone Edge"
+            ]
+        },
+        "name": "Virizion"
+    },
+    {
+        "labels": [
+            "tank",
+            "wallbreaker"
+        ],
+        "features": {
+            "stats": [
+                217,
+                328,
+                176,
+                230,
+                336,
+                259
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Sap Sipper"
+            ],
+            "type": [
+                "Dragon"
+            ],
+            "moves": [
+                "Outrage",
+                "Iron Tail",
+                "Fire Punch",
+                "Earthquake",
+                "Power Whip"
+            ]
+        },
+        "name": "Goodra"
+    },
+    {
+        "labels": [
+            "tank",
+            "wallbreaker",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                217,
+                212,
+                176,
+                350,
+                336,
+                259
+            ],
+            "item": [
+                " Choice Specs"
+            ],
+            "ability": [
+                "Sap Sipper"
+            ],
+            "type": [
+                "Dragon"
+            ],
+            "moves": [
+                "Draco Meteor",
+                "Fire Blast",
+                "Thunderbolt",
+                "Sludge Wave"
+            ]
+        },
+        "name": "Goodra"
+    },
+    {
+        "labels": [
+            "utility",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                288,
+                167,
+                308,
+                236,
+                237,
+                96
+            ],
+            "item": [
+                " Leftovers",
+                " Slowbronite"
+            ],
+            "ability": [
+                "Regenerator"
+            ],
+            "type": [
+                "Water",
+                "Psychic"
+            ],
+            "moves": [
+                "Scald",
+                "Ice Beam",
+                "Slack Off",
+                "Flamethrower",
+                "Toxic",
+                "Thunder Wave"
+            ]
+        },
+        "name": "Slowbro"
+    },
+    {
+        "labels": [
+            "support"
+        ],
+        "features": {
+            "stats": [
+                282,
+                171,
+                180,
+                297,
+                221,
+                236
+            ],
+            "item": [
+                " Focus Sash"
+            ],
+            "ability": [
+                "Snow Warning"
+            ],
+            "type": [
+                "Rock",
+                "Ice"
+            ],
+            "moves": [
+                "Stealth Rock",
+                "Freeze-Dry",
+                "Hidden Power Fire",
+                "Blizzard",
+                "Encore",
+                "Thunder Wave"
+            ]
+        },
+        "name": "Aurorus"
+    },
+    {
+        "labels": [
+            "tank",
+            "utility"
+        ],
+        "features": {
+            "stats": [
+                196,
+                339,
+                196,
+                277,
+                176,
+                328
+            ],
+            "item": [
+                " Glalitite"
+            ],
+            "ability": [
+                "Inner Focus"
+            ],
+            "type": [
+                "Ice"
+            ],
+            "moves": [
+                "Spikes",
+                "Return",
+                "Double-Edge",
+                "Freeze-Dry",
+                "Ice Shard",
+                "Earthquake",
+                "Hidden Power Fire",
+                "Explosion"
+            ]
+        },
+        "name": "Glalie"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                278,
+                469,
+                336,
+                203,
+                276,
+                200
+            ],
+            "item": [
+                " Tyranitarite"
+            ],
+            "ability": [
+                "Sand Stream"
+            ],
+            "type": [
+                "Rock",
+                "Dark"
+            ],
+            "moves": [
+                "Stealth Rock",
+                "Pursuit",
+                "Stone Edge",
+                "Fire Punch",
+                "Earthquake"
+            ]
+        },
+        "name": "Tyranitar"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                292,
+                312,
+                256,
+                203,
+                328,
+                158
+            ],
+            "item": [
+                " Assault Vest"
+            ],
+            "ability": [
+                "Sand Stream"
+            ],
+            "type": [
+                "Rock",
+                "Dark"
+            ],
+            "moves": [
+                "Rock Slide",
+                "Crunch",
+                "Pursuit",
+                "Earthquake"
+            ]
+        },
+        "name": "Tyranitar"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                246,
+                403,
+                256,
+                203,
+                248,
+                200
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Sand Stream"
+            ],
+            "type": [
+                "Rock",
+                "Dark"
+            ],
+            "moves": [
+                "Stone Edge",
+                "Crunch",
+                "Pursuit",
+                "Earthquake",
+                "Fire Punch"
+            ]
+        },
+        "name": "Tyranitar"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "sweeper",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                236,
+                427,
+                336,
+                203,
+                277,
+                265
+            ],
+            "item": [
+                " Tyranitarite"
+            ],
+            "ability": [
+                "Sand Stream"
+            ],
+            "type": [
+                "Rock",
+                "Dark"
+            ],
+            "moves": [
+                "Dragon Dance",
+                "Stone Edge",
+                "Ice Punch",
+                "Fire Punch",
+                "Earthquake"
+            ]
+        },
+        "name": "Tyranitar"
+    },
+    {
+        "labels": [
+            "sweeper",
+            "utility",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                236,
+                299,
+                236,
+                212,
+                237,
+                328
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Victory Star"
+            ],
+            "type": [
+                "Psychic",
+                "Fire"
+            ],
+            "moves": [
+                "V-create",
+                "Bolt Strike",
+                "U-turn",
+                "Zen Headbutt",
+                "Brick Break"
+            ]
+        },
+        "name": "Victini"
+    },
+    {
+        "labels": [
+            "sweeper",
+            "utility",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                236,
+                299,
+                236,
+                212,
+                237,
+                328
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Victory Star"
+            ],
+            "type": [
+                "Psychic",
+                "Fire"
+            ],
+            "moves": [
+                "V-create",
+                "Bolt Strike",
+                "U-turn",
+                "Trick",
+                "Final Gambit"
+            ]
+        },
+        "name": "Victini"
+    },
+    {
+        "labels": [
+            "sweeper",
+            "utility"
+        ],
+        "features": {
+            "stats": [
+                236,
+                212,
+                236,
+                299,
+                237,
+                328
+            ],
+            "item": [
+                " Normalium Z"
+            ],
+            "ability": [
+                "Victory Star"
+            ],
+            "type": [
+                "Psychic",
+                "Fire"
+            ],
+            "moves": [
+                "Celebrate",
+                "Searing Shot",
+                "Stored Power",
+                "Focus Blast"
+            ]
+        },
+        "name": "Victini"
+    },
+    {
+        "labels": [
+            "utility"
+        ],
+        "features": {
+            "stats": [
+                177,
+                176,
+                176,
+                259,
+                176,
+                350
+            ],
+            "item": [
+                " Focus Sash"
+            ],
+            "ability": [
+                "Cursed Body"
+            ],
+            "type": [
+                "Ice",
+                "Ghost"
+            ],
+            "moves": [
+                "Spikes",
+                "Taunt",
+                "Icy Wind",
+                "Destiny Bond"
+            ]
+        },
+        "name": "Froslass"
+    },
+    {
+        "labels": [
+            "tank",
+            "utility",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                269,
+                176,
+                242,
+                246,
+                290,
+                156
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Trace"
+            ],
+            "type": [
+                "Normal"
+            ],
+            "moves": [
+                "Recover",
+                "Thunder Wave",
+                "Toxic",
+                "Ice Beam",
+                "Foul Play",
+                "Thunderbolt"
+            ]
+        },
+        "name": "Porygon2"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "support",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                236,
+                299,
+                236,
+                212,
+                237,
+                328
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Serene Grace"
+            ],
+            "type": [
+                "Steel",
+                "Psychic"
+            ],
+            "moves": [
+                "Iron Head",
+                "U-turn",
+                "Healing Wish",
+                "Fire Punch"
+            ]
+        },
+        "name": "Jirachi"
+    },
+    {
+        "labels": [
+            "support"
+        ],
+        "features": {
+            "stats": [
+                298,
+                236,
+                236,
+                212,
+                311,
+                254
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Serene Grace"
+            ],
+            "type": [
+                "Steel",
+                "Psychic"
+            ],
+            "moves": [
+                "Wish",
+                "Protect",
+                "Iron Head",
+                "U-turn",
+                "Body Slam"
+            ]
+        },
+        "name": "Jirachi"
+    },
+    {
+        "labels": [
+            "tank",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                298,
+                236,
+                236,
+                212,
+                311,
+                254
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Serene Grace"
+            ],
+            "type": [
+                "Steel",
+                "Psychic"
+            ],
+            "moves": [
+                "Stealth Rock",
+                "Iron Head",
+                "U-turn",
+                "Healing Wish"
+            ]
+        },
+        "name": "Jirachi"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "utility",
+            "support",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                157,
+                149,
+                156,
+                359,
+                186,
+                350
+            ],
+            "item": [
+                " Life Orb",
+                " Ghostium Z"
+            ],
+            "ability": [
+                "Cursed Body"
+            ],
+            "type": [
+                "Ghost",
+                "Poison"
+            ],
+            "moves": [
+                "Shadow Ball",
+                "Sludge Wave",
+                "Taunt",
+                "Focus Blast"
+            ]
+        },
+        "name": "Gengar"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "utility",
+            "support",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                157,
+                149,
+                156,
+                359,
+                186,
+                350
+            ],
+            "item": [
+                " Choice Specs"
+            ],
+            "ability": [
+                "Cursed Body"
+            ],
+            "type": [
+                "Ghost",
+                "Poison"
+            ],
+            "moves": [
+                "Shadow Ball",
+                "Sludge Wave",
+                "Focus Blast",
+                "Trick",
+                "Thunderbolt"
+            ]
+        },
+        "name": "Gengar"
+    },
+    {
+        "labels": [
+            "tank",
+            "utility"
+        ],
+        "features": {
+            "stats": [
+                254,
+                127,
+                130,
+                353,
+                299,
+                335
+            ],
+            "item": [
+                " Electrium Z",
+                " Black Sludge",
+                " Life Orb"
+            ],
+            "ability": [
+                "Beast Boost"
+            ],
+            "type": [
+                "Rock",
+                "Poison"
+            ],
+            "moves": [
+                "Sludge Wave",
+                "Thunderbolt",
+                "Grass Knot",
+                "Power Gem",
+                "Stealth Rock",
+                "Protect",
+                "Toxic Spikes"
+            ]
+        },
+        "name": "Nihilego"
+    },
+    {
+        "labels": [
+            "tank",
+            "utility",
+            "sweeper",
+            "support",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                254,
+                127,
+                130,
+                353,
+                299,
+                335
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Beast Boost"
+            ],
+            "type": [
+                "Rock",
+                "Poison"
+            ],
+            "moves": [
+                "Power Gem",
+                "Sludge Wave",
+                "Grass Knot",
+                "Thunderbolt",
+                "Dazzling Gleam"
+            ]
+        },
+        "name": "Nihilego"
+    },
+    {
+        "labels": [
+            "support"
+        ],
+        "features": {
+            "stats": [
+                289,
+                206,
+                295,
+                166,
+                167,
+                95
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Unaware"
+            ],
+            "type": [
+                "Water",
+                "Ground"
+            ],
+            "moves": [
+                "Scald",
+                "Earthquake",
+                "Recover",
+                "Toxic",
+                "Curse"
+            ]
+        },
+        "name": "Quagsire"
+    },
+    {
+        "labels": [
+            "wall"
+        ],
+        "features": {
+            "stats": [
+                289,
+                149,
+                256,
+                156,
+                394,
+                167
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Synchronize"
+            ],
+            "type": [
+                "Dark"
+            ],
+            "moves": [
+                "Foul Play",
+                "Heal Bell",
+                "Toxic",
+                "Wish",
+                "Protect",
+                "Moonlight"
+            ]
+        },
+        "name": "Umbreon"
+    },
+    {
+        "labels": [
+            "support"
+        ],
+        "features": {
+            "stats": [
+                320,
+                202,
+                174,
+                220,
+                289,
+                102
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Storm Drain"
+            ],
+            "type": [
+                "Water",
+                "Ground"
+            ],
+            "moves": [
+                "Scald",
+                "Recover",
+                "Toxic",
+                "Earthquake"
+            ]
+        },
+        "name": "Gastrodon"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "sweeper"
+        ],
+        "features": {
+            "stats": [
+                176,
+                230,
+                176,
+                329,
+                177,
+                306
+            ],
+            "item": [
+                " Life Orb",
+                " Fightinium Z"
+            ],
+            "ability": [
+                "Inner Focus"
+            ],
+            "type": [
+                "Fighting",
+                "Steel"
+            ],
+            "moves": [
+                "Nasty Plot",
+                "Aura Sphere",
+                "Focus Blast",
+                "Flash Cannon",
+                "Vacuum Wave",
+                "Dark Pulse"
+            ]
+        },
+        "name": "Lucario"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "sweeper"
+        ],
+        "features": {
+            "stats": [
+                176,
+                319,
+                176,
+                239,
+                177,
+                306
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Justified"
+            ],
+            "type": [
+                "Fighting",
+                "Steel"
+            ],
+            "moves": [
+                "Swords Dance",
+                "Close Combat",
+                "Extreme Speed",
+                "Meteor Mash",
+                "Bullet Punch"
+            ]
+        },
+        "name": "Lucario"
+    },
+    {
+        "labels": [
+            "tank"
+        ],
+        "features": {
+            "stats": [
+                136,
+                289,
+                396,
+                207,
+                113,
+                262
+            ],
+            "item": [
+                " Normalium Z",
+                " Life Orb"
+            ],
+            "ability": [
+                "Skill Link"
+            ],
+            "type": [
+                "Water",
+                "Ice"
+            ],
+            "moves": [
+                "Shell Smash",
+                "Icicle Spear",
+                "Explosion",
+                "Hydro Pump"
+            ]
+        },
+        "name": "Cloyster"
+    },
+    {
+        "labels": [
+            "support"
+        ],
+        "features": {
+            "stats": [
+                156,
+                167,
+                206,
+                299,
+                207,
+                361
+            ],
+            "item": [
+                " Life Orb",
+                " Waterium Z"
+            ],
+            "ability": [
+                "Analytic"
+            ],
+            "type": [
+                "Water",
+                "Psychic"
+            ],
+            "moves": [
+                "Hydro Pump",
+                "Ice Beam",
+                "Psyshock",
+                "Thunderbolt",
+                "Rapid Spin",
+                "Thunderbolt"
+            ]
+        },
+        "name": "Starmie"
+    },
+    {
+        "labels": [
+            "support"
+        ],
+        "features": {
+            "stats": [
+                219,
+                167,
+                206,
+                237,
+                206,
+                361
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Natural Cure"
+            ],
+            "type": [
+                "Water",
+                "Psychic"
+            ],
+            "moves": [
+                "Scald",
+                "Toxic",
+                "Reflect Type",
+                "Recover",
+                "Rapid Spin"
+            ]
+        },
+        "name": "Starmie"
+    },
+    {
+        "labels": [
+            "wallbreaker"
+        ],
+        "features": {
+            "stats": [
+                276,
+                349,
+                197,
+                131,
+                156,
+                240
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Fluffy"
+            ],
+            "type": [
+                "Normal",
+                "Fighting"
+            ],
+            "moves": [
+                "Return",
+                "Superpower",
+                "Shadow Claw",
+                "Earthquake",
+                "Facade"
+            ]
+        },
+        "name": "Bewear"
+    },
+    {
+        "labels": [
+            "wallbreaker"
+        ],
+        "features": {
+            "stats": [
+                276,
+                349,
+                197,
+                131,
+                156,
+                240
+            ],
+            "item": [
+                " Normalium Z"
+            ],
+            "ability": [
+                "Fluffy"
+            ],
+            "type": [
+                "Normal",
+                "Fighting"
+            ],
+            "moves": [
+                "Swords Dance",
+                "Drain Punch",
+                "Double-Edge",
+                "Earthquake"
+            ]
+        },
+        "name": "Bewear"
+    },
+    {
+        "labels": [
+            "support",
+            "wall"
+        ],
+        "features": {
+            "stats": [
+                236,
+                212,
+                236,
+                299,
+                237,
+                328
+            ],
+            "item": [
+                " Normalium Z"
+            ],
+            "ability": [
+                "Natural Cure"
+            ],
+            "type": [
+                "Grass"
+            ],
+            "moves": [
+                "Celebrate",
+                "Seed Flare",
+                "Dazzling Gleam",
+                "Hidden Power Fire"
+            ]
+        },
+        "name": "Shaymin"
+    },
+    {
+        "labels": [
+            "stallbreaker",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                156,
+                131,
+                216,
+                389,
+                217,
+                284
+            ],
+            "item": [
+                " Ghostium Z",
+                " Leftovers"
+            ],
+            "ability": [
+                "Flame Body"
+            ],
+            "type": [
+                "Ghost",
+                "Fire"
+            ],
+            "moves": [
+                "Fire Blast",
+                "Flamethrower",
+                "Shadow Ball",
+                "Calm Mind",
+                "Substitute"
+            ]
+        },
+        "name": "Chandelure"
+    },
+    {
+        "labels": [
+            "stallbreaker",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                156,
+                131,
+                216,
+                389,
+                217,
+                284
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Flame Body"
+            ],
+            "type": [
+                "Ghost",
+                "Fire"
+            ],
+            "moves": [
+                "Fire Blast",
+                "Shadow Ball",
+                "Trick",
+                "Flamethrower",
+                "Memento",
+                "Energy Ball"
+            ]
+        },
+        "name": "Chandelure"
+    },
+    {
+        "labels": [
+            "stallbreaker",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                156,
+                131,
+                216,
+                389,
+                217,
+                284
+            ],
+            "item": [
+                " Choice Specs"
+            ],
+            "ability": [
+                "Flame Body"
+            ],
+            "type": [
+                "Ghost",
+                "Fire"
+            ],
+            "moves": [
+                "Fire Blast",
+                "Shadow Ball",
+                "Memento",
+                "Energy Ball",
+                "Trick"
+            ]
+        },
+        "name": "Chandelure"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "utility",
+            "sweeper",
+            "stallbreaker"
+        ],
+        "features": {
+            "stats": [
+                188,
+                393,
+                216,
+                140,
+                177,
+                322
+            ],
+            "item": [
+                " Dragonium Z",
+                " Lum Berry"
+            ],
+            "ability": [
+                "Mold Breaker"
+            ],
+            "type": [
+                "Dragon"
+            ],
+            "moves": [
+                "Swords Dance",
+                "Outrage",
+                "Earthquake",
+                "Poison Jab"
+            ]
+        },
+        "name": "Haxorus"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "utility",
+            "stallbreaker",
+            "sweeper",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                188,
+                393,
+                216,
+                140,
+                177,
+                322
+            ],
+            "item": [
+                " Dragonium Z",
+                " Lum Berry"
+            ],
+            "ability": [
+                "Mold Breaker"
+            ],
+            "type": [
+                "Dragon"
+            ],
+            "moves": [
+                "Dragon Dance",
+                "Outrage",
+                "Earthquake",
+                "Poison Jab"
+            ]
+        },
+        "name": "Haxorus"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "sweeper",
+            "wall"
+        ],
+        "features": {
+            "stats": [
+                146,
+                122,
+                167,
+                449,
+                246,
+                438
+            ],
+            "item": [
+                " Alakazite"
+            ],
+            "ability": [
+                "Magic Guard"
+            ],
+            "type": [
+                "Psychic"
+            ],
+            "moves": [
+                "Psychic",
+                "Focus Blast",
+                "Recover",
+                "Shadow Ball",
+                "Calm Mind",
+                "Knock Off"
+            ]
+        },
+        "name": "Alakazam"
+    },
+    {
+        "labels": [
+            "sweeper",
+            "wallbreaker",
+            "wall",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                146,
+                122,
+                126,
+                369,
+                227,
+                372
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Magic Guard"
+            ],
+            "type": [
+                "Psychic"
+            ],
+            "moves": [
+                "Psychic",
+                "Focus Blast",
+                "Shadow Ball",
+                "Hidden Power Fire",
+                "Hidden Power Ice"
+            ]
+        },
+        "name": "Alakazam"
+    },
+    {
+        "labels": [
+            "utility",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                259,
+                158,
+                194,
+                196,
+                276,
+                299
+            ],
+            "item": [
+                " Black Sludge",
+                " Icium Z"
+            ],
+            "ability": [
+                "Clear Body"
+            ],
+            "type": [
+                "Water",
+                "Poison"
+            ],
+            "moves": [
+                "Scald",
+                "Rapid Spin",
+                "Haze",
+                "Sludge Bomb",
+                "Toxic Spikes",
+                "Knock Off"
+            ]
+        },
+        "name": "Tentacruel"
+    },
+    {
+        "labels": [
+            "wallbreaker"
+        ],
+        "features": {
+            "stats": [
+                194,
+                239,
+                177,
+                349,
+                196,
+                353
+            ],
+            "item": [
+                " Fightinium Z"
+            ],
+            "ability": [
+                "Prankster"
+            ],
+            "type": [
+                "Electric",
+                "Flying"
+            ],
+            "moves": [
+                "Nasty Plot",
+                "Thunderbolt",
+                "Hidden Power Ice",
+                "Focus Blast"
+            ]
+        },
+        "name": "Thundurus"
+    },
+    {
+        "labels": [
+            "tank",
+            "pivot",
+            "stallbreaker",
+            "spinblocker"
+        ],
+        "features": {
+            "stats": [
+                299,
+                140,
+                251,
+                206,
+                246,
+                167
+            ],
+            "item": [
+                " Leftovers",
+                " Colbur Berry"
+            ],
+            "ability": [
+                "Water Absorb"
+            ],
+            "type": [
+                "Water",
+                "Ghost"
+            ],
+            "moves": [
+                "Hex",
+                "Scald",
+                "Taunt",
+                "Will-O-Wisp",
+                "Recover"
+            ]
+        },
+        "name": "Jellicent"
+    },
+    {
+        "labels": [
+            "utility",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                255,
+                149,
+                258,
+                260,
+                345,
+                186
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Symbiosis"
+            ],
+            "type": [
+                "Fairy"
+            ],
+            "moves": [
+                "Moonblast",
+                "Synthesis",
+                "Aromatherapy",
+                "Hidden Power Fire",
+                "Defog",
+                "Wish"
+            ]
+        },
+        "name": "Florges"
+    },
+    {
+        "labels": [
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                191,
+                286,
+                156,
+                203,
+                195,
+                339
+            ],
+            "item": [
+                " Assault Vest"
+            ],
+            "ability": [
+                "Regenerator"
+            ],
+            "type": [
+                "Fighting"
+            ],
+            "moves": [
+                "High Jump Kick",
+                "Knock Off",
+                "U-turn",
+                "Fake Out"
+            ]
+        },
+        "name": "Mienshao"
+    },
+    {
+        "labels": [
+            "support"
+        ],
+        "features": {
+            "stats": [
+                269,
+                122,
+                226,
+                277,
+                266,
+                284
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Serene Grace"
+            ],
+            "type": [
+                "Fairy",
+                "Flying"
+            ],
+            "moves": [
+                "Nasty Plot",
+                "Heal Bell",
+                "Thunder Wave",
+                "Air Slash",
+                "Roost"
+            ]
+        },
+        "name": "Togekiss"
+    },
+    {
+        "labels": [
+            "sweeper",
+            "stallbreaker",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                247,
+                226,
+                299,
+                113,
+                205,
+                286
+            ],
+            "item": [
+                " Toxic Orb"
+            ],
+            "ability": [
+                "Poison Heal"
+            ],
+            "type": [
+                "Ground",
+                "Flying"
+            ],
+            "moves": [
+                "Stealth Rock",
+                "Earthquake",
+                "Toxic",
+                "Roost"
+            ]
+        },
+        "name": "Gliscor"
+    },
+    {
+        "labels": [
+            "sweeper",
+            "stallbreaker"
+        ],
+        "features": {
+            "stats": [
+                247,
+                226,
+                299,
+                113,
+                205,
+                286
+            ],
+            "item": [
+                " Toxic Orb"
+            ],
+            "ability": [
+                "Poison Heal"
+            ],
+            "type": [
+                "Ground",
+                "Flying"
+            ],
+            "moves": [
+                "Swords Dance",
+                "Roost",
+                "Earthquake",
+                "Facade",
+                "Ice Fang"
+            ]
+        },
+        "name": "Gliscor"
+    },
+    {
+        "labels": [
+            "sweeper",
+            "stallbreaker",
+            "wall"
+        ],
+        "features": {
+            "stats": [
+                247,
+                226,
+                299,
+                113,
+                205,
+                286
+            ],
+            "item": [
+                " Toxic Orb"
+            ],
+            "ability": [
+                "Poison Heal"
+            ],
+            "type": [
+                "Ground",
+                "Flying"
+            ],
+            "moves": [
+                "Earthquake",
+                "Defog",
+                "Roost",
+                "Knock Off",
+                "Toxic"
+            ]
+        },
+        "name": "Gliscor"
+    },
+    {
+        "labels": [
+            "revengekiller",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                195,
+                133,
+                214,
+                132,
+                132,
+                90
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Imposter"
+            ],
+            "type": [
+                "Normal"
+            ],
+            "moves": [
+                "Transform"
+            ]
+        },
+        "name": "Ditto"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "utility",
+            "support",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                194,
+                267,
+                158,
+                349,
+                196,
+                353
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Defiant",
+                "Prankster"
+            ],
+            "type": [
+                "Flying"
+            ],
+            "moves": [
+                "Hurricane",
+                "Heat Wave",
+                "Superpower",
+                "Grass Knot",
+                "Defog",
+                "Tailwind"
+            ]
+        },
+        "name": "Tornadus"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "utility",
+            "support",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                194,
+                267,
+                158,
+                349,
+                196,
+                353
+            ],
+            "item": [
+                " Flyinium Z"
+            ],
+            "ability": [
+                "Prankster"
+            ],
+            "type": [
+                "Flying"
+            ],
+            "moves": [
+                "Hurricane",
+                "U-turn",
+                "Superpower",
+                "Heat Wave",
+                "Defog",
+                "Tailwind"
+            ]
+        },
+        "name": "Tornadus"
+    },
+    {
+        "labels": [
+            "utility",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                273,
+                250,
+                377,
+                165,
+                186,
+                167
+            ],
+            "item": [
+                " Leftovers",
+                " Rocky Helmet"
+            ],
+            "ability": [
+                "Bulletproof"
+            ],
+            "type": [
+                "Grass",
+                "Fighting"
+            ],
+            "moves": [
+                "Spikes",
+                "Wood Hammer",
+                "Roar",
+                "Drain Punch",
+                "Synthesis"
+            ]
+        },
+        "name": "Chesnaught"
+    },
+    {
+        "labels": [
+            "support"
+        ],
+        "features": {
+            "stats": [
+                218,
+                122,
+                269,
+                226,
+                232,
+                166
+            ],
+            "item": [
+                " Damp Rock"
+            ],
+            "ability": [
+                "Drizzle"
+            ],
+            "type": [
+                "Water",
+                "Flying"
+            ],
+            "moves": [
+                "Scald",
+                "U-turn",
+                "Roost",
+                "Defog",
+                "Hurricane"
+            ]
+        },
+        "name": "Pelipper"
+    },
+    {
+        "labels": [
+            "support"
+        ],
+        "features": {
+            "stats": [
+                156,
+                122,
+                236,
+                317,
+                177,
+                229
+            ],
+            "item": [
+                " Choice Specs"
+            ],
+            "ability": [
+                "Drizzle"
+            ],
+            "type": [
+                "Water",
+                "Flying"
+            ],
+            "moves": [
+                "Hydro Pump",
+                "Hurricane",
+                "Surf",
+                "Knock Off",
+                "U-turn"
+            ]
+        },
+        "name": "Pelipper"
+    },
+    {
+        "labels": [
+            "utility",
+            "wall",
+            "revengekiller",
+            "sweeper",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                192,
+                261,
+                179,
+                165,
+                174,
+                386
+            ],
+            "item": [
+                " Flyinium Z"
+            ],
+            "ability": [
+                "Gale Wings"
+            ],
+            "type": [
+                "Fire",
+                "Flying"
+            ],
+            "moves": [
+                "Swords Dance",
+                "Brave Bird",
+                "Flare Blitz",
+                "Flame Charge",
+                "Roost",
+                "Taunt",
+                "Flame Charge"
+            ]
+        },
+        "name": "Talonflame"
+    },
+    {
+        "labels": [
+            "sweeper",
+            "utility"
+        ],
+        "features": {
+            "stats": [
+                289,
+                158,
+                269,
+                226,
+                217,
+                156
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Magic Guard"
+            ],
+            "type": [
+                "Fairy"
+            ],
+            "moves": [
+                "Moonblast",
+                "Soft-Boiled",
+                "Stealth Rock",
+                "Wish"
+            ]
+        },
+        "name": "Clefable"
+    },
+    {
+        "labels": [
+            "sweeper",
+            "utility"
+        ],
+        "features": {
+            "stats": [
+                289,
+                158,
+                269,
+                226,
+                217,
+                156
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Magic Guard"
+            ],
+            "type": [
+                "Fairy"
+            ],
+            "moves": [
+                "Calm Mind",
+                "Moonblast",
+                "Soft-Boiled",
+                "Stealth Rock",
+                "Thunder Wave"
+            ]
+        },
+        "name": "Clefable"
+    },
+    {
+        "labels": [
+            "sweeper",
+            "utility"
+        ],
+        "features": {
+            "stats": [
+                289,
+                158,
+                269,
+                226,
+                217,
+                156
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Unaware"
+            ],
+            "type": [
+                "Fairy"
+            ],
+            "moves": [
+                "Moonblast",
+                "Wish",
+                "Protect",
+                "Heal Bell"
+            ]
+        },
+        "name": "Clefable"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                156,
+                185,
+                157,
+                249,
+                136,
+                383
+            ],
+            "item": [
+                " Choice Specs"
+            ],
+            "ability": [
+                "Scrappy"
+            ],
+            "type": [
+                "Normal",
+                "Flying"
+            ],
+            "moves": [
+                "Boomburst",
+                "U-turn",
+                "Heat Wave",
+                "Air Slash"
+            ]
+        },
+        "name": "Swellow"
+    },
+    {
+        "labels": [
+            "tank",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                176,
+                185,
+                186,
+                359,
+                267,
+                317
+            ],
+            "item": [
+                " Fightinium Z"
+            ],
+            "ability": [
+                "Psychic Surge"
+            ],
+            "type": [
+                "Psychic",
+                "Fairy"
+            ],
+            "moves": [
+                "Psychic",
+                "Psyshock",
+                "Moonblast",
+                "Taunt",
+                "Focus Blast"
+            ]
+        },
+        "name": "Tapu Lele"
+    },
+    {
+        "labels": [
+            "tank",
+            "wallbreaker",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                176,
+                185,
+                186,
+                359,
+                267,
+                317
+            ],
+            "item": [
+                " Psychium Z"
+            ],
+            "ability": [
+                "Psychic Surge"
+            ],
+            "type": [
+                "Psychic",
+                "Fairy"
+            ],
+            "moves": [
+                "Psyshock",
+                "Moonblast",
+                "Calm Mind",
+                "Hidden Power Fire",
+                "Focus Blast"
+            ]
+        },
+        "name": "Tapu Lele"
+    },
+    {
+        "labels": [
+            "tank"
+        ],
+        "features": {
+            "stats": [
+                176,
+                185,
+                186,
+                359,
+                267,
+                317
+            ],
+            "item": [
+                " Choice Specs"
+            ],
+            "ability": [
+                "Psychic Surge"
+            ],
+            "type": [
+                "Psychic",
+                "Fairy"
+            ],
+            "moves": [
+                "Psychic",
+                "Moonblast",
+                "Psyshock",
+                "Hidden Power Fire"
+            ]
+        },
+        "name": "Tapu Lele"
+    },
+    {
+        "labels": [
+            "revengekiller",
+            "tank"
+        ],
+        "features": {
+            "stats": [
+                176,
+                185,
+                186,
+                359,
+                267,
+                317
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Psychic Surge"
+            ],
+            "type": [
+                "Psychic",
+                "Fairy"
+            ],
+            "moves": [
+                "Psychic",
+                "Moonblast",
+                "Hidden Power Fire",
+                "Focus Blast",
+                "Thunderbolt",
+                "Nature's Madness"
+            ]
+        },
+        "name": "Tapu Lele"
+    },
+    {
+        "labels": [
+            "tank"
+        ],
+        "features": {
+            "stats": [
+                218,
+                162,
+                216,
+                357,
+                217,
+                346
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Justified"
+            ],
+            "type": [
+                "Water",
+                "Fighting"
+            ],
+            "moves": [
+                "Calm Mind",
+                "Scald",
+                "Secret Sword",
+                "Taunt"
+            ]
+        },
+        "name": "Keldeo"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                218,
+                162,
+                216,
+                357,
+                217,
+                346
+            ],
+            "item": [
+                " Choice Specs"
+            ],
+            "ability": [
+                "Justified"
+            ],
+            "type": [
+                "Water",
+                "Fighting"
+            ],
+            "moves": [
+                "Hydro Pump",
+                "Secret Sword",
+                "Scald",
+                "Icy Wind"
+            ]
+        },
+        "name": "Keldeo"
+    },
+    {
+        "labels": [
+            "revengekiller"
+        ],
+        "features": {
+            "stats": [
+                226,
+                333,
+                197,
+                149,
+                176,
+                311
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Intimidate"
+            ],
+            "type": [
+                "Ground",
+                "Dark"
+            ],
+            "moves": [
+                "Knock Off",
+                "Earthquake",
+                "Pursuit",
+                "Stone Edge",
+                "Crunch"
+            ]
+        },
+        "name": "Krookodile"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "sweeper"
+        ],
+        "features": {
+            "stats": [
+                166,
+                383,
+                236,
+                140,
+                177,
+                239
+            ],
+            "item": [
+                " Darkinium Z",
+                " Black Glasses"
+            ],
+            "ability": [
+                "Defiant"
+            ],
+            "type": [
+                "Dark",
+                "Steel"
+            ],
+            "moves": [
+                "Knock Off",
+                "Iron Head",
+                "Sucker Punch",
+                "Swords Dance"
+            ]
+        },
+        "name": "Bisharp"
+    },
+    {
+        "labels": [
+            "wallbreaker"
+        ],
+        "features": {
+            "stats": [
+                257,
+                225,
+                238,
+                388,
+                214,
+                230
+            ],
+            "item": [
+                " Metronome",
+                " Iapapa Berry"
+            ],
+            "ability": [
+                "Prism Armor"
+            ],
+            "type": [
+                "Psychic"
+            ],
+            "moves": [
+                "Stealth Rock",
+                "Photon Geyser",
+                "Heat Wave",
+                "Signal Beam"
+            ]
+        },
+        "name": "Necrozma"
+    },
+    {
+        "labels": [
+            "wallbreaker"
+        ],
+        "features": {
+            "stats": [
+                230,
+                225,
+                238,
+                388,
+                215,
+                257
+            ],
+            "item": [
+                " Choice Specs"
+            ],
+            "ability": [
+                "Prism Armor"
+            ],
+            "type": [
+                "Psychic"
+            ],
+            "moves": [
+                "Photon Geyser",
+                "Earth Power",
+                "Heat Wave",
+                "Signal Beam"
+            ]
+        },
+        "name": "Necrozma"
+    },
+    {
+        "labels": [
+            "support"
+        ],
+        "features": {
+            "stats": [
+                315,
+                260,
+                330,
+                154,
+                216,
+                130
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Sand Stream"
+            ],
+            "type": [
+                "Ground"
+            ],
+            "moves": [
+                "Stealth Rock",
+                "Earthquake",
+                "Slack Off",
+                "Whirlwind"
+            ]
+        },
+        "name": "Hippowdon"
+    },
+    {
+        "labels": [
+            "glasscannon"
+        ],
+        "features": {
+            "stats": [
+                201,
+                341,
+                274,
+                156,
+                154,
+                265
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Rock Head"
+            ],
+            "type": [
+                "Rock",
+                "Dragon"
+            ],
+            "moves": [
+                "Head Smash",
+                "Outrage",
+                "Earthquake",
+                "Dragon Claw"
+            ]
+        },
+        "name": "Tyrantrum"
+    },
+    {
+        "labels": [
+            "glasscannon"
+        ],
+        "features": {
+            "stats": [
+                201,
+                375,
+                274,
+                156,
+                154,
+                241
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Rock Head"
+            ],
+            "type": [
+                "Rock",
+                "Dragon"
+            ],
+            "moves": [
+                "Head Smash",
+                "Outrage",
+                "Earthquake",
+                "Superpower",
+                "Crunch"
+            ]
+        },
+        "name": "Tyrantrum"
+    },
+    {
+        "labels": [
+            "glasscannon"
+        ],
+        "features": {
+            "stats": [
+                201,
+                341,
+                274,
+                156,
+                154,
+                265
+            ],
+            "item": [
+                " Dragonium Z",
+                " Rockium Z"
+            ],
+            "ability": [
+                "Rock Head"
+            ],
+            "type": [
+                "Rock",
+                "Dragon"
+            ],
+            "moves": [
+                "Rock Polish",
+                "Head Smash",
+                "Outrage",
+                "Earthquake"
+            ]
+        },
+        "name": "Tyrantrum"
+    },
+    {
+        "labels": [
+            "tank",
+            "wallbreaker",
+            "utility",
+            "support",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                212,
+                323,
+                186,
+                241,
+                176,
+                423
+            ],
+            "item": [
+                " Life Orb",
+                " Expert Belt",
+                " Shuca Berry"
+            ],
+            "ability": [
+                "Volt Absorb"
+            ],
+            "type": [
+                "Electric"
+            ],
+            "moves": [
+                "Plasma Fists",
+                "Close Combat",
+                "Grass Knot",
+                "Knock Off",
+                "Volt Switch"
+            ]
+        },
+        "name": "Zeraora"
+    },
+    {
+        "labels": [
+            "tank",
+            "wallbreaker",
+            "utility",
+            "sweeper",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                212,
+                323,
+                187,
+                216,
+                196,
+                423
+            ],
+            "item": [
+                " Electrium Z",
+                " Shuca Berry",
+                " Normalium Z"
+            ],
+            "ability": [
+                "Volt Absorb"
+            ],
+            "type": [
+                "Electric"
+            ],
+            "moves": [
+                "Bulk Up",
+                "Plasma Fists",
+                "Close Combat",
+                "Knock Off",
+                "Giga Impact"
+            ]
+        },
+        "name": "Zeraora"
+    },
+    {
+        "labels": [
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                196,
+                369,
+                207,
+                158,
+                226,
+                438
+            ],
+            "item": [
+                " Aerodactylite"
+            ],
+            "ability": [
+                "Unnerve"
+            ],
+            "type": [
+                "Rock",
+                "Flying"
+            ],
+            "moves": [
+                "Stone Edge",
+                "Earthquake",
+                "Pursuit",
+                "Roost",
+                "Roost",
+                "Ice Fang",
+                "Aqua Tail"
+            ]
+        },
+        "name": "Aerodactyl"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "utility"
+        ],
+        "features": {
+            "stats": [
+                180,
+                339,
+                232,
+                122,
+                233,
+                267
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Queenly Majesty"
+            ],
+            "type": [
+                "Grass"
+            ],
+            "moves": [
+                "Power Whip",
+                "Knock Off",
+                "Rapid Spin",
+                "High Jump Kick",
+                "U-turn"
+            ]
+        },
+        "name": "Tsareena"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "utility"
+        ],
+        "features": {
+            "stats": [
+                180,
+                339,
+                233,
+                122,
+                232,
+                267
+            ],
+            "item": [
+                " Lum Berry"
+            ],
+            "ability": [
+                "Queenly Majesty"
+            ],
+            "type": [
+                "Grass"
+            ],
+            "moves": [
+                "Rapid Spin",
+                "Power Whip",
+                "U-turn",
+                "High Jump Kick",
+                "Knock Off"
+            ]
+        },
+        "name": "Tsareena"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "utility",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                246,
+                379,
+                146,
+                86,
+                147,
+                317
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Sheer Force"
+            ],
+            "type": [
+                "Fire"
+            ],
+            "moves": [
+                "Flare Blitz",
+                "U-turn",
+                "Earthquake",
+                "Rock Slide",
+                "Fire Punch"
+            ]
+        },
+        "name": "Darmanitan"
+    },
+    {
+        "labels": [
+            "tank"
+        ],
+        "features": {
+            "stats": [
+                279,
+                372,
+                276,
+                140,
+                156,
+                137
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Sturdy"
+            ],
+            "type": [
+                "Ground"
+            ],
+            "moves": [
+                "Rapid Spin",
+                "Earthquake",
+                "Knock Off",
+                "Ice Shard"
+            ]
+        },
+        "name": "Donphan"
+    },
+    {
+        "labels": [
+            "utility",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                238,
+                336,
+                352,
+                149,
+                297,
+                186
+            ],
+            "item": [
+                " Scizorite"
+            ],
+            "ability": [
+                "Light Metal"
+            ],
+            "type": [
+                "Bug",
+                "Steel"
+            ],
+            "moves": [
+                "Swords Dance",
+                "Bullet Punch",
+                "Roost",
+                "Knock Off",
+                "Superpower"
+            ]
+        },
+        "name": "Scizor"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "sweeper",
+            "support",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                172,
+                309,
+                177,
+                158,
+                176,
+                311
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Strong Jaw"
+            ],
+            "type": [
+                "Water",
+                "Psychic"
+            ],
+            "moves": [
+                "Swords Dance",
+                "Psychic Fangs",
+                "Aqua Jet",
+                "Crunch",
+                "Liquidation"
+            ]
+        },
+        "name": "Bruxish"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "sweeper"
+        ],
+        "features": {
+            "stats": [
+                172,
+                309,
+                177,
+                158,
+                176,
+                311
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Strong Jaw"
+            ],
+            "type": [
+                "Water",
+                "Psychic"
+            ],
+            "moves": [
+                "Psychic Fangs",
+                "Aqua Jet",
+                "Liquidation",
+                "Crunch"
+            ]
+        },
+        "name": "Bruxish"
+    },
+    {
+        "labels": [
+            "sweeper"
+        ],
+        "features": {
+            "stats": [
+                186,
+                194,
+                216,
+                379,
+                217,
+                361
+            ],
+            "item": [
+                " Houndoominite"
+            ],
+            "ability": [
+                "Flash Fire"
+            ],
+            "type": [
+                "Dark",
+                "Fire"
+            ],
+            "moves": [
+                "Nasty Plot",
+                "Fire Blast",
+                "Dark Pulse",
+                "Sludge Bomb",
+                "Taunt"
+            ]
+        },
+        "name": "Houndoom"
+    },
+    {
+        "labels": [
+            "sweeper"
+        ],
+        "features": {
+            "stats": [
+                237,
+                218,
+                196,
+                140,
+                196,
+                199
+            ],
+            "item": [
+                " Normalium Z",
+                " Sitrus Berry"
+            ],
+            "ability": [
+                "Huge Power"
+            ],
+            "type": [
+                "Water",
+                "Fairy"
+            ],
+            "moves": [
+                "Belly Drum",
+                "Aqua Jet",
+                "Play Rough",
+                "Knock Off"
+            ]
+        },
+        "name": "Azumarill"
+    },
+    {
+        "labels": [
+            "sweeper"
+        ],
+        "features": {
+            "stats": [
+                299,
+                122,
+                196,
+                156,
+                278,
+                143
+            ],
+            "item": [
+                " Leftovers",
+                " Iapapa Berry"
+            ],
+            "ability": [
+                "Sap Sipper"
+            ],
+            "type": [
+                "Water",
+                "Fairy"
+            ],
+            "moves": [
+                "Perish Song",
+                "Whirlpool",
+                "Protect",
+                "Toxic",
+                "Hidden Power Fire"
+            ]
+        },
+        "name": "Azumarill"
+    },
+    {
+        "labels": [
+            "revengekiller"
+        ],
+        "features": {
+            "stats": [
+                166,
+                371,
+                224,
+                129,
+                229,
+                405
+            ],
+            "item": [
+                " Lopunnite"
+            ],
+            "ability": [
+                "Limber"
+            ],
+            "type": [
+                "Normal",
+                "Fighting"
+            ],
+            "moves": [
+                "Return",
+                "High Jump Kick",
+                "Fake Out",
+                "Ice Punch",
+                "Quick Attack"
+            ]
+        },
+        "name": "Lopunny"
+    },
+    {
+        "labels": [
+            "support"
+        ],
+        "features": {
+            "stats": [
+                319,
+                149,
+                262,
+                286,
+                206,
+                107
+            ],
+            "item": [
+                " Leftovers",
+                " Psychium Z"
+            ],
+            "ability": [
+                "Magic Guard"
+            ],
+            "type": [
+                "Psychic"
+            ],
+            "moves": [
+                "Calm Mind",
+                "Psyshock",
+                "Focus Blast",
+                "Energy Ball",
+                "Recover"
+            ]
+        },
+        "name": "Reuniclus"
+    },
+    {
+        "labels": [
+            "support"
+        ],
+        "features": {
+            "stats": [
+                319,
+                149,
+                262,
+                286,
+                206,
+                107
+            ],
+            "item": [
+                " Leftovers",
+                " Rocky Helmet"
+            ],
+            "ability": [
+                "Magic Guard"
+            ],
+            "type": [
+                "Psychic"
+            ],
+            "moves": [
+                "Calm Mind",
+                "Acid Armor",
+                "Psyshock",
+                "Recover"
+            ]
+        },
+        "name": "Reuniclus"
+    },
+    {
+        "labels": [
+            "sweeper",
+            "support",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                338,
+                176,
+                372,
+                186,
+                298,
+                157
+            ],
+            "item": [
+                " Mental Herb"
+            ],
+            "ability": [
+                "Levitate"
+            ],
+            "type": [
+                "Psychic"
+            ],
+            "moves": [
+                "Trick Room",
+                "Ice Beam",
+                "Moonlight",
+                "Lunar Dance"
+            ]
+        },
+        "name": "Cresselia"
+    },
+    {
+        "labels": [
+            "support"
+        ],
+        "features": {
+            "stats": [
+                278,
+                185,
+                237,
+                226,
+                358,
+                230
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Pressure"
+            ],
+            "type": [
+                "Ice",
+                "Flying"
+            ],
+            "moves": [
+                "Defog",
+                "Heal Bell",
+                "Freeze-Dry",
+                "Roost"
+            ]
+        },
+        "name": "Articuno"
+    },
+    {
+        "labels": [
+            "utility",
+            "wall"
+        ],
+        "features": {
+            "stats": [
+                278,
+                230,
+                282,
+                236,
+                196,
+                230
+            ],
+            "item": [
+                " Rocky Helmet"
+            ],
+            "ability": [
+                "Intimidate"
+            ],
+            "type": [
+                "Fire"
+            ],
+            "moves": [
+                "Flamethrower",
+                "Flare Blitz",
+                "Will-O-Wisp",
+                "Morning Sun",
+                "Toxic"
+            ]
+        },
+        "name": "Arcanine"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                216,
+                394,
+                197,
+                149,
+                206,
+                209
+            ],
+            "item": [
+                " Flame Orb"
+            ],
+            "ability": [
+                "Guts"
+            ],
+            "type": [
+                "Fighting"
+            ],
+            "moves": [
+                "Close Combat",
+                "Knock Off",
+                "Facade",
+                "Bullet Punch"
+            ]
+        },
+        "name": "Machamp"
+    },
+    {
+        "labels": [
+            "wallbreaker",
+            "wall"
+        ],
+        "features": {
+            "stats": [
+                279,
+                380,
+                196,
+                149,
+                206,
+                160
+            ],
+            "item": [
+                " Assault Vest"
+            ],
+            "ability": [
+                "Guts"
+            ],
+            "type": [
+                "Fighting"
+            ],
+            "moves": [
+                "Close Combat",
+                "Knock Off",
+                "Ice Punch",
+                "Thunder Punch",
+                "Bullet Punch"
+            ]
+        },
+        "name": "Machamp"
+    },
+    {
+        "labels": [
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                258,
+                212,
+                304,
+                280,
+                346,
+                200
+            ],
+            "item": [
+                " Venusaurite"
+            ],
+            "ability": [
+                "Chlorophyll"
+            ],
+            "type": [
+                "Grass",
+                "Poison"
+            ],
+            "moves": [
+                "Leech Seed",
+                "Giga Drain",
+                "Sludge Bomb",
+                "Synthesis",
+                "Hidden Power Fire",
+                "Earthquake"
+            ]
+        },
+        "name": "Venusaur"
+    },
+    {
+        "labels": [
+            "wallbreaker"
+        ],
+        "features": {
+            "stats": [
+                219,
+                165,
+                184,
+                386,
+                268,
+                197
+            ],
+            "item": [
+                " Choice Specs"
+            ],
+            "ability": [
+                "Torrent"
+            ],
+            "type": [
+                "Water",
+                "Fairy"
+            ],
+            "moves": [
+                "Hydro Pump",
+                "Moonblast",
+                "Sparkling Aria",
+                "Scald",
+                "Psychic"
+            ]
+        },
+        "name": "Primarina"
+    },
+    {
+        "labels": [
+            "wallbreaker"
+        ],
+        "features": {
+            "stats": [
+                259,
+                165,
+                271,
+                288,
+                269,
+                156
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Torrent"
+            ],
+            "type": [
+                "Water",
+                "Fairy"
+            ],
+            "moves": [
+                "Scald",
+                "Moonblast",
+                "Rest",
+                "Sleep Talk"
+            ]
+        },
+        "name": "Primarina"
+    },
+    {
+        "labels": [
+            "wall",
+            "pivot"
+        ],
+        "features": {
+            "stats": [
+                269,
+                104,
+                185,
+                196,
+                408,
+                176
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Water Absorb"
+            ],
+            "type": [
+                "Water",
+                "Flying"
+            ],
+            "moves": [
+                "Roost",
+                "Scald",
+                "Defog",
+                "Toxic",
+                "Haze"
+            ]
+        },
+        "name": "Mantine"
+    },
+    {
+        "labels": [
+            "sweeper",
+            "wall"
+        ],
+        "features": {
+            "stats": [
+                215,
+                136,
+                326,
+                317,
+                247,
+                58
+            ],
+            "item": [
+                " Ghostium Z"
+            ],
+            "ability": [
+                "Mummy"
+            ],
+            "type": [
+                "Ghost"
+            ],
+            "moves": [
+                "Shadow Ball",
+                "Hidden Power Fighting",
+                "Trick Room",
+                "Nasty Plot"
+            ]
+        },
+        "name": "Cofagrigus"
+    },
+    {
+        "labels": [
+            "utility"
+        ],
+        "features": {
+            "stats": [
+                186,
+                349,
+                187,
+                86,
+                186,
+                295
+            ],
+            "item": [
+                " Fightinium Z"
+            ],
+            "ability": [
+                "Sturdy"
+            ],
+            "type": [
+                "Fighting"
+            ],
+            "moves": [
+                "Close Combat",
+                "Knock Off",
+                "Taunt",
+                "Poison Jab",
+                "Earthquake"
+            ]
+        },
+        "name": "Sawk"
+    },
+    {
+        "labels": [
+            "sweeper",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                229,
+                261,
+                160,
+                122,
+                180,
+                240
+            ],
+            "item": [
+                " Figy Berry"
+            ],
+            "ability": [
+                "Gluttony"
+            ],
+            "type": [
+                "Normal"
+            ],
+            "moves": [
+                "Belly Drum",
+                "Extreme Speed",
+                "Stomping Tantrum",
+                "Seed Bomb"
+            ]
+        },
+        "name": "Linoone"
+    },
+    {
+        "labels": [
+            "sweeper",
+            "support"
+        ],
+        "features": {
+            "stats": [
+                299,
+                167,
+                266,
+                216,
+                276,
+                286
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Pressure"
+            ],
+            "type": [
+                "Water"
+            ],
+            "moves": [
+                "Scald",
+                "Substitute",
+                "Calm Mind",
+                "Protect"
+            ]
+        },
+        "name": "Suicune"
+    },
+    {
+        "labels": [
+            "sweeper"
+        ],
+        "features": {
+            "stats": [
+                201,
+                284,
+                208,
+                185,
+                186,
+                243
+            ],
+            "item": [
+                " Sitrus Berry"
+            ],
+            "ability": [
+                "Unburden"
+            ],
+            "type": [
+                "Fairy"
+            ],
+            "moves": [
+                "Belly Drum",
+                "Play Rough",
+                "Return",
+                "Drain Punch"
+            ]
+        },
+        "name": "Slurpuff"
+    }
+]
