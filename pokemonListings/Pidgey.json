@@ -1,1 +1,33 @@
-{"name": "Pidgey", "forms": {"Base": {"base stats": [40, 45, 40, 35, 35, 56], "types": ["Normal", "Flying"], "abilities": ["Big Pecks", "Keen Eye", "Tangled Feet"], "tier": ["LC"], "form": "Base"}}, "overview": "ExportPidgeyMove 1Brave BirdMove 2ReturnMove 3U-turnMove 4DefogHeat WaveItem Choice ScarfAbilityBig PecksNatureJollyNaiveEVs36 HP236 Atk228 SpePidgey's most viable set would be a Choice Scarf set to revenge kill weakened Fighting-types. However, its low Attack and average Speed prevent it from being threatening; Doduo, Vullaby, and Rufflet all perform this role more effectively.\n", "strategies' format": "LC", "strategies": [], "counters": [], "credits": []}
+{
+    "name": "Pidgey",
+    "forms": {
+        "Base": {
+            "base stats": [
+                40,
+                45,
+                40,
+                35,
+                35,
+                56
+            ],
+            "types": [
+                "Normal",
+                "Flying"
+            ],
+            "abilities": [
+                "Big Pecks",
+                "Keen Eye",
+                "Tangled Feet"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "ExportPidgeyMove 1Brave BirdMove 2ReturnMove 3U-turnMove 4DefogHeat WaveItem Choice ScarfAbilityBig PecksNatureJollyNaiveEVs36 HP236 Atk228 SpePidgey's most viable set would be a Choice Scarf set to revenge kill weakened Fighting-types. However, its low Attack and average Speed prevent it from being threatening; Doduo, Vullaby, and Rufflet all perform this role more effectively.\n",
+    "strategies' format": "LC",
+    "strategies": [],
+    "counters": [],
+    "credits": []
+}

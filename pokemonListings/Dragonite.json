@@ -1,1 +1,100 @@
-{"name": "Dragonite", "forms": {"Base": {"base stats": [91, 134, 95, 100, 100, 80], "types": ["Dragon", "Flying"], "abilities": ["Inner Focus", "Multiscale"], "tier": ["UUBL"], "form": "Base"}}, "overview": "Dragonite is an excellent user of Dragon Dance\u2014its sky-high Attack stat and access to Extreme Speed make it a difficult Pokemon to stop after it has boosted. Dragonite's ability Multiscale halves the damage Dragonite takes if it is at full health. This makes it easy for Dragonite to set up a Dragon Dance, even against foes with super effective moves. In addition, Z-Moves allow Dragonite to take advantage of its Flying STAB as well as stronger coverage options, enabling it to break through defensive Pokemon that would otherwise counter it, such as Skarmory, Tapu Fini, Slowbro, or Landorus-T, depending on the Z-Crystal Dragonite uses. However, because of Dragonite's low base Speed, it faces competition as a Dragon Dance user from Gyarados and Mega Gyarados. Dragonite is also very vulnerable to Stealth Rock, as it takes 25% damage from it upon switching in, losing Multiscale in the process.\n", "strategies' format": "OU", "strategies": [{"name": "Flyinium Z", "stats": [218, 403, 227, 212, 236, 259], "type": ["Dragon", "Flying"], "usage": "This variant of Dragonite relies heavily on neutral coverage. Chip damage on the opposing team is helpful. Set up entry hazards before attempting a sweep with Dragonite. Before sending in Dragonite, remove Stealth Rock from its side of the field to keep Multiscale intact, allowing it to set up more freely. Dragonite can either be used to wallbreak early-game or sweep late-game. If Stealth Rock is not preventing Dragonite from coming in safely, it can use Extreme Speed to revenge kill opposing threats.", "moves": [["Dragon Dance"], ["Fly"], ["Earthquake", "Fire Punch"], ["Extreme Speed"]], "item": [" Flyinium Z"], "ability": ["Multiscale"], "nature": ["Adamant"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Stealth Rock", "Ice-types", "Fairy-types", "Status", "Physically Defensive Pokemon"], "credits": ["Written by GMars", "Earlier versions by Wob", "Quality checked by Colonel M, Subject 18,  and p2", "Grammar checked by Lemonade and GatoDelFuego"]}
+{
+    "name": "Dragonite",
+    "forms": {
+        "Base": {
+            "base stats": [
+                91,
+                134,
+                95,
+                100,
+                100,
+                80
+            ],
+            "types": [
+                "Dragon",
+                "Flying"
+            ],
+            "abilities": [
+                "Inner Focus",
+                "Multiscale"
+            ],
+            "tier": [
+                "UUBL"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Dragonite is an excellent user of Dragon Dance\u2014its sky-high Attack stat and access to Extreme Speed make it a difficult Pokemon to stop after it has boosted. Dragonite's ability Multiscale halves the damage Dragonite takes if it is at full health. This makes it easy for Dragonite to set up a Dragon Dance, even against foes with super effective moves. In addition, Z-Moves allow Dragonite to take advantage of its Flying STAB as well as stronger coverage options, enabling it to break through defensive Pokemon that would otherwise counter it, such as Skarmory, Tapu Fini, Slowbro, or Landorus-T, depending on the Z-Crystal Dragonite uses. However, because of Dragonite's low base Speed, it faces competition as a Dragon Dance user from Gyarados and Mega Gyarados. Dragonite is also very vulnerable to Stealth Rock, as it takes 25% damage from it upon switching in, losing Multiscale in the process.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Flyinium Z",
+            "stats": [
+                218,
+                403,
+                227,
+                212,
+                236,
+                259
+            ],
+            "type": [
+                "Dragon",
+                "Flying"
+            ],
+            "usage": "This variant of Dragonite relies heavily on neutral coverage. Chip damage on the opposing team is helpful. Set up entry hazards before attempting a sweep with Dragonite. Before sending in Dragonite, remove Stealth Rock from its side of the field to keep Multiscale intact, allowing it to set up more freely. Dragonite can either be used to wallbreak early-game or sweep late-game. If Stealth Rock is not preventing Dragonite from coming in safely, it can use Extreme Speed to revenge kill opposing threats.",
+            "moves": [
+                [
+                    "Dragon Dance"
+                ],
+                [
+                    "Fly"
+                ],
+                [
+                    "Earthquake",
+                    "Fire Punch"
+                ],
+                [
+                    "Extreme Speed"
+                ]
+            ],
+            "item": [
+                " Flyinium Z"
+            ],
+            "ability": [
+                "Multiscale"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Stealth Rock",
+        "Ice-types",
+        "Fairy-types",
+        "Status",
+        "Physically Defensive Pokemon"
+    ],
+    "credits": [
+        "Written by GMars",
+        "Earlier versions by Wob",
+        "Quality checked by Colonel M, Subject 18,  and p2",
+        "Grammar checked by Lemonade and GatoDelFuego"
+    ]
+}

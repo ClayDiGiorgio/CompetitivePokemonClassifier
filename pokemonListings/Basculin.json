@@ -1,1 +1,100 @@
-{"name": "Basculin", "forms": {"Base": {"base stats": [70, 92, 65, 80, 55, 98], "types": ["Water"], "abilities": ["Adaptability", "Mold Breaker", "Reckless", "Rock Head"], "tier": ["Untiered"], "form": "Base"}}, "overview": "Basculin's access to Adaptability and good Speed tier give it a slight niche as a physical Water-type that can more easily break through more physical walls like Mesprit and Weezing and revenge kill targets with Aqua Jet than other physical Water-types. However, Basculin's wallbreaking capabilities are limited due to its poor movepool causing it to struggle against teams with more defined Water-type answers and its only decent Attack stat preventing it from reliably sweeping and making its coverage less powerful. Because its base Attack stat is not the greatest, its coverage moves don't deal the best damage, and Basculin is overreliant on Adaptability. Along with susceptibility to all entry hazards, Basculin's poor bulk is not doing it any favors and makes it vulnerable to being knocked out by priority moves such as Sucker Punch and Mach Punch. While Basculin's Speed is good, it sits at that uncertain point where it is fast but not fast enough to outspeed everything that it wants to, such as Lycanroc and Dodrio. It also faces competition from its Water-type brethren such as Floatzel and Carracosta, which can hit harder and have access to Shell Smash, respectively.\n", "strategies' format": "PU", "strategies": [{"name": "All-out Attacker", "stats": [176, 283, 166, 197, 131, 324], "type": ["Water"], "usage": "Basculin functions primarily as a physical wallbreaker by slowly breaking down physically bulky Pokemon over time. Due to its poor bulk, Basculin should never be switched into any attacking move unless it absolutely has to to preserve its longevity. Basculin does have to be aware of Pokemon with Water-type immunities such as Poliwrath, Jynx, and Jellicent as well as Pokemon that resist Water, which include Ludicolo, Qwilfish, and Silvally-Water. However, with its coverage moves, Basculin functions really well as a lure for other Water-type Pokemon such as Poliwrath, Qwilfish, and Jellicent. Basculin should almost always be using Liquidation or Aqua Jet and not reveal coverage until absolutely necessary, since both Water-type moves are Adaptability-boosted. Basculin should use its Adaptability-boosted Aqua Jet to revenge kill threats that are faster than it such as Dodrio, Choice Scarf Primeape, and Alolan Dugtrio.", "moves": [["Waterfall", "Liquidation"], ["Aqua Jet"], ["Ice Beam"], ["Crunch", "Zen Headbutt"]], "item": [" Waterium Z", " Life Orb"], "ability": ["Adaptability"], "nature": ["Naive"], "ev spread": [0, 252, 0, 4, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Water-type Pokemon", "Physically Bulky Pokemon", "Faster Pokemon", "Priority"], "credits": ["Written by Oathkeepre", "Quality checked by Akir, allstarapology,  and Darkinium", "Grammar checked by The Dutch Plumberjack and lotiasite"]}
+{
+    "name": "Basculin",
+    "forms": {
+        "Base": {
+            "base stats": [
+                70,
+                92,
+                65,
+                80,
+                55,
+                98
+            ],
+            "types": [
+                "Water"
+            ],
+            "abilities": [
+                "Adaptability",
+                "Mold Breaker",
+                "Reckless",
+                "Rock Head"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Basculin's access to Adaptability and good Speed tier give it a slight niche as a physical Water-type that can more easily break through more physical walls like Mesprit and Weezing and revenge kill targets with Aqua Jet than other physical Water-types. However, Basculin's wallbreaking capabilities are limited due to its poor movepool causing it to struggle against teams with more defined Water-type answers and its only decent Attack stat preventing it from reliably sweeping and making its coverage less powerful. Because its base Attack stat is not the greatest, its coverage moves don't deal the best damage, and Basculin is overreliant on Adaptability. Along with susceptibility to all entry hazards, Basculin's poor bulk is not doing it any favors and makes it vulnerable to being knocked out by priority moves such as Sucker Punch and Mach Punch. While Basculin's Speed is good, it sits at that uncertain point where it is fast but not fast enough to outspeed everything that it wants to, such as Lycanroc and Dodrio. It also faces competition from its Water-type brethren such as Floatzel and Carracosta, which can hit harder and have access to Shell Smash, respectively.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "All-out Attacker",
+            "stats": [
+                176,
+                283,
+                166,
+                197,
+                131,
+                324
+            ],
+            "type": [
+                "Water"
+            ],
+            "usage": "Basculin functions primarily as a physical wallbreaker by slowly breaking down physically bulky Pokemon over time. Due to its poor bulk, Basculin should never be switched into any attacking move unless it absolutely has to to preserve its longevity. Basculin does have to be aware of Pokemon with Water-type immunities such as Poliwrath, Jynx, and Jellicent as well as Pokemon that resist Water, which include Ludicolo, Qwilfish, and Silvally-Water. However, with its coverage moves, Basculin functions really well as a lure for other Water-type Pokemon such as Poliwrath, Qwilfish, and Jellicent. Basculin should almost always be using Liquidation or Aqua Jet and not reveal coverage until absolutely necessary, since both Water-type moves are Adaptability-boosted. Basculin should use its Adaptability-boosted Aqua Jet to revenge kill threats that are faster than it such as Dodrio, Choice Scarf Primeape, and Alolan Dugtrio.",
+            "moves": [
+                [
+                    "Waterfall",
+                    "Liquidation"
+                ],
+                [
+                    "Aqua Jet"
+                ],
+                [
+                    "Ice Beam"
+                ],
+                [
+                    "Crunch",
+                    "Zen Headbutt"
+                ]
+            ],
+            "item": [
+                " Waterium Z",
+                " Life Orb"
+            ],
+            "ability": [
+                "Adaptability"
+            ],
+            "nature": [
+                "Naive"
+            ],
+            "ev spread": [
+                0,
+                252,
+                0,
+                4,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Water-type Pokemon",
+        "Physically Bulky Pokemon",
+        "Faster Pokemon",
+        "Priority"
+    ],
+    "credits": [
+        "Written by Oathkeepre",
+        "Quality checked by Akir, allstarapology,  and Darkinium",
+        "Grammar checked by The Dutch Plumberjack and lotiasite"
+    ]
+}

@@ -1,1 +1,236 @@
-{"name": "Metagross", "forms": {"Base": {"base stats": [80, 135, 130, 95, 90, 70], "types": ["Steel", "Psychic"], "abilities": ["Clear Body", "Light Metal"], "tier": ["RU"], "form": "Base"}, "Mega": {"base stats": [80, 145, 150, 105, 110, 110], "types": ["Steel", "Psychic"], "abilities": ["Tough Claws"], "tier": ["Uber"], "form": "Mega"}}, "overview": "What stands out most about Metagross is its sky-high base 135 Attack stat and high-powered STAB move in Meteor Mash, which, in conjunction with a Choice Band and its solid bulk, lets it OHKO common offensive Pokemon such as Primarina, Latias, and Hydreigon after Stealth Rock. This ability to stay in and do big damage gives it a valid niche among the tier's many offensive Steel-types, mainly Scizor, which doesn't have a STAB move as powerful as Meteor Mash. Metagross's movepool and other stats are also decent, which allows it to serve niche support roles as needed, either as a bulky Stealth Rock setter or as an offensive lure. Thanks to its bulk and power, it is unique among offensive Stealth Rock setters in its ability to soft check Pokemon such as Mega Altaria and Latias much more proficiently than its closest analog in Cobalion. These niches help it distinguish itself from Scizor, Cobalion, and Bisharp, which otherwise thoroughly outclass it as a strong offensive Steel-type due to their ability to set up while being forced out by much less of the tier. Metagross also suffers from a mediocre base 70 Speed, a lack of recovery, and a glaring weakness to common offensive types in Fire, Ground, and Dark, which makes it easy to overwhelm with strong attacks, entry hazards, and the ever-present Pursuit.\n", "strategies' format": "UU", "strategies": [{"name": "Choice Band", "stats": [206, 405, 296, 203, 216, 230], "type": ["Steel", "Psychic"], "usage": "Use Metagross's bulk and typing to apply immediate pressure and spam Meteor Mash early-game to soften up its switch-ins and clear the way for a teammate. If you are carrying Trick and do not feel Metagross will be useful in the long run, try to give a switch-in its Choice Band with Trick. Crippling an Alomomola or Hippowdon early-game will often get you much more mileage out of Metagross than being walled indefinitely. This same result can also be achieved with Explosion, though at a higher cost. Feel free to go for Explosion if you feel Metagross has outlived its usefulness or if it is at low HP. Avoid switching directly into attacks Metagross doesn't necessarily have to take, especially if its bulk is needed to soft-check an offensive Pokemon later. Dragon Dance Mega Altaria and Calm Latias, for example, do not need much chip damage at all to KO Metagross with +1 Earthquake or +1 Devastating Drake, respectively. Unnecessary damage can be avoided with VoltTurn support from Pokemon such as Mega Manectric and Hydreigon. All of Metagross's moves are exploitable to some capacity, so be discerning with which move you lock it into. Calm Mind Slowbro or Calm Mind Suicune, for example, can set up on Metagross locked into Meteor Mash or Earthquake, while going for Pursuit will leave Metagross a sitting duck versus virtually anything that comes in.", "moves": [["Meteor Mash"], ["Earthquake"], ["Pursuit"], ["Explosion", "Bullet Punch", "Trick"]], "item": [" Choice Band"], "ability": ["Clear Body"], "nature": ["Adamant"], "ev spread": [40, 252, 0, 0, 0, 216], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Offensive Stealth Rock", "stats": [206, 405, 296, 203, 216, 230], "type": ["Steel", "Psychic"], "usage": "Use Metagross's typing to your advantage and switch it into Pokemon such as Latias, Klefki, Florges, and Amoonguss, provided something has been put to sleep in the case of the latter, to set up Stealth Rock. Do note, though, that Metagross should not be your primary switch-in to such Pokemon due to how quickly it is worn down. If the opponent is carrying a Pokemon that can take advantage of Metagross, either pick up the slack with aggressive play or apply offensive pressure by firing off attacks so Pokemon can't come in completely for free. If Rotom-H comes in to Defog away Stealth Rock, for example, you can lure it in and remove it from play with Explosion. Preserve Metagross's HP and Berry, if using one, so it can stay in against a foe using either Ground- or Dark-type attacks. This can prove useful for beating massive threats such as Mamoswine and Bisharp one-on-one that would otherwise force Metagross out.", "moves": [["Stealth Rock"], ["Meteor Mash"], ["Earthquake"], ["Explosion", "Bullet Punch"]], "item": [" Life Orb", " Shuca Berry", " Colbur Berry"], "ability": ["Clear Body"], "nature": ["Adamant"], "ev spread": [40, 252, 0, 0, 0, 216], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Mixed Offensive Lure", "stats": [196, 307, 266, 289, 216, 262], "type": ["Steel", "Psychic"], "usage": "Bring Metagross in on foes it checks by virtue of its typing, such as Latias and Klefki, to set up Stealth Rock or fire off an attack. Don't do this frequently, however, as the lack of bulk investment means Metagross doesn't take many hits, and it needs HP to fire off as many Life Orb-boosted attacks as possible. Precise prediction is necessary to get the most damage out of Metagross and cripple or eliminate the targets it is intended to lure. Predict obvious switch-ins to the likes of Scizor, Hippowdon, Swampert, and Doublade early on so that Metagross's teammates can do work unhindered by their defensive checks. If carrying Explosion, be extremely selective with its use and designate a threat you want to use it on, as you can only use it once. It should generally be saved for a Pokemon Metagross cannot hurt otherwise, such as Blissey or Tentacruel, or if you desperately need to get a teammate in for free on your chosen target. Note that without Meteor Mash, Explosion is this set's only real way to threaten special walls, so be careful not to reveal your coverage until an opportune time unless you decide to target a specially bulky Pokemon with Explosion.", "moves": [["Meteor Mash", "Explosion"], ["Hidden Power Fire"], ["Grass Knot"], ["Stealth Rock"]], "item": [" Life Orb"], "ability": ["Clear Body"], "nature": ["Hasty"], "ev spread": [0, 4, 0, 252, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Ground-types", "Fire-types", "Bulky Water-types", "Dark-types", "Steel-types", "Strong Attackers"], "credits": ["Written by eht", "Quality checked by Hilomilo, Surgeon,  and martha", "Grammar checked by The Dutch Plumberjack and Fireflame479"]}
+{
+    "name": "Metagross",
+    "forms": {
+        "Base": {
+            "base stats": [
+                80,
+                135,
+                130,
+                95,
+                90,
+                70
+            ],
+            "types": [
+                "Steel",
+                "Psychic"
+            ],
+            "abilities": [
+                "Clear Body",
+                "Light Metal"
+            ],
+            "tier": [
+                "RU"
+            ],
+            "form": "Base"
+        },
+        "Mega": {
+            "base stats": [
+                80,
+                145,
+                150,
+                105,
+                110,
+                110
+            ],
+            "types": [
+                "Steel",
+                "Psychic"
+            ],
+            "abilities": [
+                "Tough Claws"
+            ],
+            "tier": [
+                "Uber"
+            ],
+            "form": "Mega"
+        }
+    },
+    "overview": "What stands out most about Metagross is its sky-high base 135 Attack stat and high-powered STAB move in Meteor Mash, which, in conjunction with a Choice Band and its solid bulk, lets it OHKO common offensive Pokemon such as Primarina, Latias, and Hydreigon after Stealth Rock. This ability to stay in and do big damage gives it a valid niche among the tier's many offensive Steel-types, mainly Scizor, which doesn't have a STAB move as powerful as Meteor Mash. Metagross's movepool and other stats are also decent, which allows it to serve niche support roles as needed, either as a bulky Stealth Rock setter or as an offensive lure. Thanks to its bulk and power, it is unique among offensive Stealth Rock setters in its ability to soft check Pokemon such as Mega Altaria and Latias much more proficiently than its closest analog in Cobalion. These niches help it distinguish itself from Scizor, Cobalion, and Bisharp, which otherwise thoroughly outclass it as a strong offensive Steel-type due to their ability to set up while being forced out by much less of the tier. Metagross also suffers from a mediocre base 70 Speed, a lack of recovery, and a glaring weakness to common offensive types in Fire, Ground, and Dark, which makes it easy to overwhelm with strong attacks, entry hazards, and the ever-present Pursuit.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Choice Band",
+            "stats": [
+                206,
+                405,
+                296,
+                203,
+                216,
+                230
+            ],
+            "type": [
+                "Steel",
+                "Psychic"
+            ],
+            "usage": "Use Metagross's bulk and typing to apply immediate pressure and spam Meteor Mash early-game to soften up its switch-ins and clear the way for a teammate. If you are carrying Trick and do not feel Metagross will be useful in the long run, try to give a switch-in its Choice Band with Trick. Crippling an Alomomola or Hippowdon early-game will often get you much more mileage out of Metagross than being walled indefinitely. This same result can also be achieved with Explosion, though at a higher cost. Feel free to go for Explosion if you feel Metagross has outlived its usefulness or if it is at low HP. Avoid switching directly into attacks Metagross doesn't necessarily have to take, especially if its bulk is needed to soft-check an offensive Pokemon later. Dragon Dance Mega Altaria and Calm Latias, for example, do not need much chip damage at all to KO Metagross with +1 Earthquake or +1 Devastating Drake, respectively. Unnecessary damage can be avoided with VoltTurn support from Pokemon such as Mega Manectric and Hydreigon. All of Metagross's moves are exploitable to some capacity, so be discerning with which move you lock it into. Calm Mind Slowbro or Calm Mind Suicune, for example, can set up on Metagross locked into Meteor Mash or Earthquake, while going for Pursuit will leave Metagross a sitting duck versus virtually anything that comes in.",
+            "moves": [
+                [
+                    "Meteor Mash"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Pursuit"
+                ],
+                [
+                    "Explosion",
+                    "Bullet Punch",
+                    "Trick"
+                ]
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Clear Body"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                40,
+                252,
+                0,
+                0,
+                0,
+                216
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Offensive Stealth Rock",
+            "stats": [
+                206,
+                405,
+                296,
+                203,
+                216,
+                230
+            ],
+            "type": [
+                "Steel",
+                "Psychic"
+            ],
+            "usage": "Use Metagross's typing to your advantage and switch it into Pokemon such as Latias, Klefki, Florges, and Amoonguss, provided something has been put to sleep in the case of the latter, to set up Stealth Rock. Do note, though, that Metagross should not be your primary switch-in to such Pokemon due to how quickly it is worn down. If the opponent is carrying a Pokemon that can take advantage of Metagross, either pick up the slack with aggressive play or apply offensive pressure by firing off attacks so Pokemon can't come in completely for free. If Rotom-H comes in to Defog away Stealth Rock, for example, you can lure it in and remove it from play with Explosion. Preserve Metagross's HP and Berry, if using one, so it can stay in against a foe using either Ground- or Dark-type attacks. This can prove useful for beating massive threats such as Mamoswine and Bisharp one-on-one that would otherwise force Metagross out.",
+            "moves": [
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Meteor Mash"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Explosion",
+                    "Bullet Punch"
+                ]
+            ],
+            "item": [
+                " Life Orb",
+                " Shuca Berry",
+                " Colbur Berry"
+            ],
+            "ability": [
+                "Clear Body"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                40,
+                252,
+                0,
+                0,
+                0,
+                216
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Mixed Offensive Lure",
+            "stats": [
+                196,
+                307,
+                266,
+                289,
+                216,
+                262
+            ],
+            "type": [
+                "Steel",
+                "Psychic"
+            ],
+            "usage": "Bring Metagross in on foes it checks by virtue of its typing, such as Latias and Klefki, to set up Stealth Rock or fire off an attack. Don't do this frequently, however, as the lack of bulk investment means Metagross doesn't take many hits, and it needs HP to fire off as many Life Orb-boosted attacks as possible. Precise prediction is necessary to get the most damage out of Metagross and cripple or eliminate the targets it is intended to lure. Predict obvious switch-ins to the likes of Scizor, Hippowdon, Swampert, and Doublade early on so that Metagross's teammates can do work unhindered by their defensive checks. If carrying Explosion, be extremely selective with its use and designate a threat you want to use it on, as you can only use it once. It should generally be saved for a Pokemon Metagross cannot hurt otherwise, such as Blissey or Tentacruel, or if you desperately need to get a teammate in for free on your chosen target. Note that without Meteor Mash, Explosion is this set's only real way to threaten special walls, so be careful not to reveal your coverage until an opportune time unless you decide to target a specially bulky Pokemon with Explosion.",
+            "moves": [
+                [
+                    "Meteor Mash",
+                    "Explosion"
+                ],
+                [
+                    "Hidden Power Fire"
+                ],
+                [
+                    "Grass Knot"
+                ],
+                [
+                    "Stealth Rock"
+                ]
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Clear Body"
+            ],
+            "nature": [
+                "Hasty"
+            ],
+            "ev spread": [
+                0,
+                4,
+                0,
+                252,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Ground-types",
+        "Fire-types",
+        "Bulky Water-types",
+        "Dark-types",
+        "Steel-types",
+        "Strong Attackers"
+    ],
+    "credits": [
+        "Written by eht",
+        "Quality checked by Hilomilo, Surgeon,  and martha",
+        "Grammar checked by The Dutch Plumberjack and Fireflame479"
+    ]
+}

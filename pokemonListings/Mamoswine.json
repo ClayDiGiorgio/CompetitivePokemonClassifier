@@ -1,1 +1,99 @@
-{"name": "Mamoswine", "forms": {"Base": {"base stats": [110, 130, 80, 70, 60, 80], "types": ["Ice", "Ground"], "abilities": ["Oblivious", "Snow Cloak", "Thick Fat"], "tier": ["UU"], "form": "Base"}}, "overview": "Mamoswine's primary role in OU is as a wallbreaker due to its high Attack stat and fantastic Ice- and Ground-type STAB combination that is very difficult to deal with defensively. It also has good utility due to its priority Ice Shard, threatening prevalent threats such as Landorus-T and Garchomp. Access to Stealth Rock and its Ground typing are some of the main traits that help it fit onto teams, as both are invaluable. However, Mamoswine suffers competition from other Stealth Rock setters and Ground-type wallbreakers such as Landorus-T and Garchomp due to its mediocre Speed stat and subpar defenses, leaving it vulnerable to a lot of offensive Pokemon. Mega Scizor is probably the biggest issue for Mamoswine, as it can actually tank its attacks and threaten it with Bullet Punch while also removing Stealth Rock with Defog. In general, other priority users pose a threat to Mamoswine, as it is weak to common priority moves such as Bullet Punch and Aqua Jet. Overall, Mamoswine is a good Pokemon but requires more team support than the most common Ground-types in the tier.\n", "strategies' format": "OU", "strategies": [{"name": "Physical Attacker", "stats": [256, 359, 196, 158, 157, 284], "type": ["Ice", "Ground"], "usage": "Mamoswine should be used as a wallbreaker to threaten defensive backbones that cannot stomach powerful Ice- and Ground-type attacks. Icicle Crash is often the primary option, because nothing is immune to it and Ice-type attacks are generally very difficult to switch into. In general, one should weigh the risk and reward scenario presented to them and select their move based on that; Earthquake might not lose you too much against a team whose Ground switch-in is Landorus-T. Mamoswine can also be used to check faster threats such as Garchomp with Ice Shard; you can use this opportunity to predict a switch and go for more powerful STAB attacks as well. Mamoswine shouldn't be directly switched in very often, as it has relatively poor defenses, but it can be used in some cases to block Volt Switch from Pokemon such as Magearna and Tapu Koko if you predict correctly.", "moves": [["Earthquake"], ["Ice Shard"], ["Icicle Crash"], ["Stealth Rock"]], "item": [" Metronome"], "ability": ["Thick Fat"], "nature": ["Jolly"], "ev spread": [0, 252, 0, 0, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Steel-types", "Water-types", "Faster Pokemon", "Tanks"], "credits": ["Written by bludz", "Earlier versions by Ash Borer", "Quality checked by p2, Gary,  and Subject 18", "Grammar checked by Fireflame479 and The Dutch Plumberjack"]}
+{
+    "name": "Mamoswine",
+    "forms": {
+        "Base": {
+            "base stats": [
+                110,
+                130,
+                80,
+                70,
+                60,
+                80
+            ],
+            "types": [
+                "Ice",
+                "Ground"
+            ],
+            "abilities": [
+                "Oblivious",
+                "Snow Cloak",
+                "Thick Fat"
+            ],
+            "tier": [
+                "UU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Mamoswine's primary role in OU is as a wallbreaker due to its high Attack stat and fantastic Ice- and Ground-type STAB combination that is very difficult to deal with defensively. It also has good utility due to its priority Ice Shard, threatening prevalent threats such as Landorus-T and Garchomp. Access to Stealth Rock and its Ground typing are some of the main traits that help it fit onto teams, as both are invaluable. However, Mamoswine suffers competition from other Stealth Rock setters and Ground-type wallbreakers such as Landorus-T and Garchomp due to its mediocre Speed stat and subpar defenses, leaving it vulnerable to a lot of offensive Pokemon. Mega Scizor is probably the biggest issue for Mamoswine, as it can actually tank its attacks and threaten it with Bullet Punch while also removing Stealth Rock with Defog. In general, other priority users pose a threat to Mamoswine, as it is weak to common priority moves such as Bullet Punch and Aqua Jet. Overall, Mamoswine is a good Pokemon but requires more team support than the most common Ground-types in the tier.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Physical Attacker",
+            "stats": [
+                256,
+                359,
+                196,
+                158,
+                157,
+                284
+            ],
+            "type": [
+                "Ice",
+                "Ground"
+            ],
+            "usage": "Mamoswine should be used as a wallbreaker to threaten defensive backbones that cannot stomach powerful Ice- and Ground-type attacks. Icicle Crash is often the primary option, because nothing is immune to it and Ice-type attacks are generally very difficult to switch into. In general, one should weigh the risk and reward scenario presented to them and select their move based on that; Earthquake might not lose you too much against a team whose Ground switch-in is Landorus-T. Mamoswine can also be used to check faster threats such as Garchomp with Ice Shard; you can use this opportunity to predict a switch and go for more powerful STAB attacks as well. Mamoswine shouldn't be directly switched in very often, as it has relatively poor defenses, but it can be used in some cases to block Volt Switch from Pokemon such as Magearna and Tapu Koko if you predict correctly.",
+            "moves": [
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Ice Shard"
+                ],
+                [
+                    "Icicle Crash"
+                ],
+                [
+                    "Stealth Rock"
+                ]
+            ],
+            "item": [
+                " Metronome"
+            ],
+            "ability": [
+                "Thick Fat"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                0,
+                0,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Steel-types",
+        "Water-types",
+        "Faster Pokemon",
+        "Tanks"
+    ],
+    "credits": [
+        "Written by bludz",
+        "Earlier versions by Ash Borer",
+        "Quality checked by p2, Gary,  and Subject 18",
+        "Grammar checked by Fireflame479 and The Dutch Plumberjack"
+    ]
+}

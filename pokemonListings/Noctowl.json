@@ -1,1 +1,102 @@
-{"name": "Noctowl", "forms": {"Base": {"base stats": [100, 50, 50, 86, 96, 70], "types": ["Normal", "Flying"], "abilities": ["Insomnia", "Keen Eye", "Tinted Lens"], "tier": ["Untiered"], "form": "Base"}}, "overview": "Noctowl sports Tinted Lens, Work Up, and a powerful STAB move in Hurricane, making it capable of breaking past Pokemon that check other Flying-types such as Regirock and Lanturn. Access to Agility lets Noctowl double as a late-game sweeper by being able to outspeed prominent threats such as Alolan Raichu and Choice Scarf Primeape after a boost. The combination of these traits allows Noctowl to match up well versus offensive and defensive teams alike. Noctowl's respectable special bulk also grants it valuable setup opportunities versus weaker special attackers such as Weezing and defensive Mesprit. However, Noctowl's paltry base 50 Defense can prove troublesome, as common powerful attackers such as Togedemaru and Alolan Sandslash can outspeed Noctowl and OHKO it. By extension, +2 Modest Noctowl fails to outspeed particularly fast and threatening Choice Scarf users such as Togedemaru and Manectric. Even though Roost can somewhat remedy residual damage taken, a weakness to Stealth Rock means that Noctowl will often be forced to use Roost and miss out on chances to set up or fire off an attack. Furthermore, Noctowl is reliant on setting up and having a Z-Move to apply offensive pressure, as its middling Special Attack and mediocre Speed otherwise keep it from being a sizeable threat. Finally, Noctowl faces stiff competition from other Flying- and Normal-type wallbreakers and sweepers such as Oricorio-G and Drampa; the former can similarly break through balance and stall teams with its powerful STAB combination alongside access to a superior boosting move in Calm Mind, while the latter possesses far more raw power.\n", "strategies' format": "PU", "strategies": [{"name": "Double Dance", "stats": [236, 122, 136, 298, 229, 239], "type": ["Normal", "Flying"], "usage": "Noctowl functions best utilizing Work Up, Tinted Lens, and Hurricane to break through balance and bulky offense teams that rely on Pokemon like Regirock, Oricorio-E, and Lanturn to take Flying-type attacks. Assess whether Agility or Work Up is more important to set up first. Against offensive teams, Agility gives Noctowl an edge over fast Pokemon that would otherwise threaten it like Alolan Sandslash and Jynx. Work Up functions well versus bulkier teams, allowing Noctowl to punch through walls after a sufficient number of uses. For instance, +1 Supersonic Skystrike can OHKO Aurorus and Regirock after Stealth Rock damage, whereas an unboosted Supersonic Skystrike or a boosted Hurricane can OHKO Alolan Sandslash and Kabutops. Supersonic Skystrike can also be used if Noctowl can't afford to miss Hurricane, such as against a Pokemon like Aggron, which threatens to decimate Noctowl in return. It's also useful for securing an OHKO on Pokemon like Carracosta and Omastar, where Noctowl can't afford to set up at all. In spite of great special bulk, Noctowl should not be used as a sponge to special attacks; instead, bring it in safely through pivoting moves like Volt Switch and Parting Shot. However, Noctowl can switch into weaker users of Knock Off such as Tangela and Sableye to preserve its teammates' items and threaten both examples with Supersonic Skystrike. A weakness to Stealth Rock and susceptibility to residual damage is often a liability for Noctowl, so keeping it healthy increases its chances of being able to successfully set up versus weaker special attackers such as Bellossom and defensive Mesprit. Use Roost to heal when against Pokemon that can't do much harm to Noctowl, such as Weezing and Audino, but be wary of the occasional Toxic. Status from users like Toxic Poliwrath and Thunder Wave Mesprit is something Noctowl should try to avoid in general. Use advantageous matchups as setup time, as this is the key to Noctowl's success. Choice item users such as Haunter and Alolan Exeggutor can be taken advantage of, depending on what they're locked into. Some Pokemon that can't do much to Noctowl include Weezing, defensive Mesprit lacking Thunder Wave, and Gourgeist-XL. Finally, Noctowl can engage in mind games with other Pokemon like Hitmonchan and Abomasnow, which are naturally threatened out by Supersonic Skystrike.", "moves": [["Agility"], ["Work Up"], ["Hurricane"], ["Roost"]], "item": [" Flyinium Z"], "ability": ["Tinted Lens"], "nature": ["Modest"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Specially Defensive Walls", "Electric-types", "Rock-types", "Ice-types", "Physical Attackers", "Faster Pokemon", "Stealth Rock", "Status"], "credits": ["Written by tondas", "Quality checked by jklioe, TONE,  and yogi", "Grammar checked by CryoGyro and The Dutch Plumberjack"]}
+{
+    "name": "Noctowl",
+    "forms": {
+        "Base": {
+            "base stats": [
+                100,
+                50,
+                50,
+                86,
+                96,
+                70
+            ],
+            "types": [
+                "Normal",
+                "Flying"
+            ],
+            "abilities": [
+                "Insomnia",
+                "Keen Eye",
+                "Tinted Lens"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Noctowl sports Tinted Lens, Work Up, and a powerful STAB move in Hurricane, making it capable of breaking past Pokemon that check other Flying-types such as Regirock and Lanturn. Access to Agility lets Noctowl double as a late-game sweeper by being able to outspeed prominent threats such as Alolan Raichu and Choice Scarf Primeape after a boost. The combination of these traits allows Noctowl to match up well versus offensive and defensive teams alike. Noctowl's respectable special bulk also grants it valuable setup opportunities versus weaker special attackers such as Weezing and defensive Mesprit. However, Noctowl's paltry base 50 Defense can prove troublesome, as common powerful attackers such as Togedemaru and Alolan Sandslash can outspeed Noctowl and OHKO it. By extension, +2 Modest Noctowl fails to outspeed particularly fast and threatening Choice Scarf users such as Togedemaru and Manectric. Even though Roost can somewhat remedy residual damage taken, a weakness to Stealth Rock means that Noctowl will often be forced to use Roost and miss out on chances to set up or fire off an attack. Furthermore, Noctowl is reliant on setting up and having a Z-Move to apply offensive pressure, as its middling Special Attack and mediocre Speed otherwise keep it from being a sizeable threat. Finally, Noctowl faces stiff competition from other Flying- and Normal-type wallbreakers and sweepers such as Oricorio-G and Drampa; the former can similarly break through balance and stall teams with its powerful STAB combination alongside access to a superior boosting move in Calm Mind, while the latter possesses far more raw power.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Double Dance",
+            "stats": [
+                236,
+                122,
+                136,
+                298,
+                229,
+                239
+            ],
+            "type": [
+                "Normal",
+                "Flying"
+            ],
+            "usage": "Noctowl functions best utilizing Work Up, Tinted Lens, and Hurricane to break through balance and bulky offense teams that rely on Pokemon like Regirock, Oricorio-E, and Lanturn to take Flying-type attacks. Assess whether Agility or Work Up is more important to set up first. Against offensive teams, Agility gives Noctowl an edge over fast Pokemon that would otherwise threaten it like Alolan Sandslash and Jynx. Work Up functions well versus bulkier teams, allowing Noctowl to punch through walls after a sufficient number of uses. For instance, +1 Supersonic Skystrike can OHKO Aurorus and Regirock after Stealth Rock damage, whereas an unboosted Supersonic Skystrike or a boosted Hurricane can OHKO Alolan Sandslash and Kabutops. Supersonic Skystrike can also be used if Noctowl can't afford to miss Hurricane, such as against a Pokemon like Aggron, which threatens to decimate Noctowl in return. It's also useful for securing an OHKO on Pokemon like Carracosta and Omastar, where Noctowl can't afford to set up at all. In spite of great special bulk, Noctowl should not be used as a sponge to special attacks; instead, bring it in safely through pivoting moves like Volt Switch and Parting Shot. However, Noctowl can switch into weaker users of Knock Off such as Tangela and Sableye to preserve its teammates' items and threaten both examples with Supersonic Skystrike. A weakness to Stealth Rock and susceptibility to residual damage is often a liability for Noctowl, so keeping it healthy increases its chances of being able to successfully set up versus weaker special attackers such as Bellossom and defensive Mesprit. Use Roost to heal when against Pokemon that can't do much harm to Noctowl, such as Weezing and Audino, but be wary of the occasional Toxic. Status from users like Toxic Poliwrath and Thunder Wave Mesprit is something Noctowl should try to avoid in general. Use advantageous matchups as setup time, as this is the key to Noctowl's success. Choice item users such as Haunter and Alolan Exeggutor can be taken advantage of, depending on what they're locked into. Some Pokemon that can't do much to Noctowl include Weezing, defensive Mesprit lacking Thunder Wave, and Gourgeist-XL. Finally, Noctowl can engage in mind games with other Pokemon like Hitmonchan and Abomasnow, which are naturally threatened out by Supersonic Skystrike.",
+            "moves": [
+                [
+                    "Agility"
+                ],
+                [
+                    "Work Up"
+                ],
+                [
+                    "Hurricane"
+                ],
+                [
+                    "Roost"
+                ]
+            ],
+            "item": [
+                " Flyinium Z"
+            ],
+            "ability": [
+                "Tinted Lens"
+            ],
+            "nature": [
+                "Modest"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Specially Defensive Walls",
+        "Electric-types",
+        "Rock-types",
+        "Ice-types",
+        "Physical Attackers",
+        "Faster Pokemon",
+        "Stealth Rock",
+        "Status"
+    ],
+    "credits": [
+        "Written by tondas",
+        "Quality checked by jklioe, TONE,  and yogi",
+        "Grammar checked by CryoGyro and The Dutch Plumberjack"
+    ]
+}

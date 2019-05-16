@@ -1,1 +1,122 @@
-{"name": "Scizor", "forms": {"Base": {"base stats": [70, 130, 100, 55, 80, 65], "types": ["Bug", "Steel"], "abilities": ["Light Metal", "Swarm", "Technician"], "tier": ["UU"], "form": "Base"}, "Mega": {"base stats": [70, 150, 140, 65, 100, 75], "types": ["Bug", "Steel"], "abilities": ["Technician"], "tier": ["OU"], "form": "Mega"}}, "overview": "Mega Scizor possesses an outstanding defensive typing in Bug / Steel, great defensive stats, and Roost to keep itself healthy, which let it handle titans like Landorus-T, Kartana, Tapu Bulu, and Mamoswine. Mega Scizor holds excellent utility thanks to its access to moves like Bullet Punch and Knock Off. Access to a STAB priority move in Bullet Punch, which is also boosted by Technician, lets Mega Scizor threaten a variety of Pokemon like Tapu Bulu, Kyurem-B, and Mega Diancie. Mega Scizor also has access to Swords Dance, which can let it sweep or clean up late-game. Although Mega Scizor may be capable of beating Kartana, Tapu Bulu, and Mamoswine on their own, they're often paired with Magnezone, which can trap and remove Mega Scizor from the match if not played around cautiously. While Mega Scizor's typing is very strong defensively, it also comes with a downside: it is very susceptible to the decently common Fire-types, and Pokemon that Mega Scizor is supposed to check, such as Kyurem-B and Mega Diancie, often run Fire-type coverage to beat it.\n", "strategies' format": "OU", "strategies": [{"name": "Swords Dance", "stats": [238, 336, 352, 149, 297, 186], "type": ["Bug", "Steel"], "usage": "Mega Scizor should aim to weaken the opposing team before sweeping by forcing switches and using Knock Off or U-turn. It should be used to pivot into threats like Landorus-T, Kartana, Tapu Bulu, and Mamoswine. Don't use Swords Dance purely to sweep, as Mega Scizor can also be used to defeat Pokemon like Magearna and Ferrothorn. Mega Scizor can lay pressure on the opponent's team by using Swords Dance to force a switch so that it can freely use Knock Off or U-turn to weaken the team. Always scout for Fire-type coverage on Pokemon that Mega Scizor is supposed to check, such as Kyurem-B and Mega Diancie. If the opponent has Magnezone, Mega Scizor should be wary of using Swords Dance and should instead always use U-turn or double switch out. You should also be cautious when knocking out Pokemon, as this can give Magnezone a free switch in and will result in a knocked out Mega Scizor. Superpower variants should, instead, scout the Magnezone set and be careful around Choice Scarf variants of Magnezone. The team's matchup against Kartana can usually help telling the Magnezone set, though, because teams that are weak to Kartana are inclined to run Choice Scarf Magnezone.", "moves": [["Swords Dance"], ["Bullet Punch"], ["Roost"], ["Knock Off", "Superpower"]], "item": [" Scizorite"], "ability": ["Light Metal"], "nature": ["Impish"], "ev spread": [248, 0, 16, 0, 244, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Water-types", "Magnezone", "Fire-types and Coverage", "Bulky Steel-types", "Electric-types", "Special Attackers"], "credits": ["Written by Jordy", "Quality checked by Leo, GMars,  and ABR", "Grammar checked by P Squared and Kris"]}
+{
+    "name": "Scizor",
+    "forms": {
+        "Base": {
+            "base stats": [
+                70,
+                130,
+                100,
+                55,
+                80,
+                65
+            ],
+            "types": [
+                "Bug",
+                "Steel"
+            ],
+            "abilities": [
+                "Light Metal",
+                "Swarm",
+                "Technician"
+            ],
+            "tier": [
+                "UU"
+            ],
+            "form": "Base"
+        },
+        "Mega": {
+            "base stats": [
+                70,
+                150,
+                140,
+                65,
+                100,
+                75
+            ],
+            "types": [
+                "Bug",
+                "Steel"
+            ],
+            "abilities": [
+                "Technician"
+            ],
+            "tier": [
+                "OU"
+            ],
+            "form": "Mega"
+        }
+    },
+    "overview": "Mega Scizor possesses an outstanding defensive typing in Bug / Steel, great defensive stats, and Roost to keep itself healthy, which let it handle titans like Landorus-T, Kartana, Tapu Bulu, and Mamoswine. Mega Scizor holds excellent utility thanks to its access to moves like Bullet Punch and Knock Off. Access to a STAB priority move in Bullet Punch, which is also boosted by Technician, lets Mega Scizor threaten a variety of Pokemon like Tapu Bulu, Kyurem-B, and Mega Diancie. Mega Scizor also has access to Swords Dance, which can let it sweep or clean up late-game. Although Mega Scizor may be capable of beating Kartana, Tapu Bulu, and Mamoswine on their own, they're often paired with Magnezone, which can trap and remove Mega Scizor from the match if not played around cautiously. While Mega Scizor's typing is very strong defensively, it also comes with a downside: it is very susceptible to the decently common Fire-types, and Pokemon that Mega Scizor is supposed to check, such as Kyurem-B and Mega Diancie, often run Fire-type coverage to beat it.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Swords Dance",
+            "stats": [
+                238,
+                336,
+                352,
+                149,
+                297,
+                186
+            ],
+            "type": [
+                "Bug",
+                "Steel"
+            ],
+            "usage": "Mega Scizor should aim to weaken the opposing team before sweeping by forcing switches and using Knock Off or U-turn. It should be used to pivot into threats like Landorus-T, Kartana, Tapu Bulu, and Mamoswine. Don't use Swords Dance purely to sweep, as Mega Scizor can also be used to defeat Pokemon like Magearna and Ferrothorn. Mega Scizor can lay pressure on the opponent's team by using Swords Dance to force a switch so that it can freely use Knock Off or U-turn to weaken the team. Always scout for Fire-type coverage on Pokemon that Mega Scizor is supposed to check, such as Kyurem-B and Mega Diancie. If the opponent has Magnezone, Mega Scizor should be wary of using Swords Dance and should instead always use U-turn or double switch out. You should also be cautious when knocking out Pokemon, as this can give Magnezone a free switch in and will result in a knocked out Mega Scizor. Superpower variants should, instead, scout the Magnezone set and be careful around Choice Scarf variants of Magnezone. The team's matchup against Kartana can usually help telling the Magnezone set, though, because teams that are weak to Kartana are inclined to run Choice Scarf Magnezone.",
+            "moves": [
+                [
+                    "Swords Dance"
+                ],
+                [
+                    "Bullet Punch"
+                ],
+                [
+                    "Roost"
+                ],
+                [
+                    "Knock Off",
+                    "Superpower"
+                ]
+            ],
+            "item": [
+                " Scizorite"
+            ],
+            "ability": [
+                "Light Metal"
+            ],
+            "nature": [
+                "Impish"
+            ],
+            "ev spread": [
+                248,
+                0,
+                16,
+                0,
+                244,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Water-types",
+        "Magnezone",
+        "Fire-types and Coverage",
+        "Bulky Steel-types",
+        "Electric-types",
+        "Special Attackers"
+    ],
+    "credits": [
+        "Written by Jordy",
+        "Quality checked by Leo, GMars,  and ABR",
+        "Grammar checked by P Squared and Kris"
+    ]
+}

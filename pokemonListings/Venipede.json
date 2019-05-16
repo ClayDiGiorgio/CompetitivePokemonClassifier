@@ -1,1 +1,101 @@
-{"name": "Venipede", "forms": {"Base": {"base stats": [30, 45, 59, 30, 39, 57], "types": ["Bug", "Poison"], "abilities": ["Poison Point", "Speed Boost", "Swarm"], "tier": ["LC"], "form": "Base"}}, "overview": "Venipede's access to Speed Boost and Spikes gives it a niche as a reliable entry hazard setter that can deal with common spinners and hazard setters such as Staryu, Drilbur, and Onix using Bloom Doom. Additionally, its multi-hit STAB move Pin Missile can OHKO Focus Sash users like Abra and is generally powerful. Unlike other Spikes setters, Venipede can effectively set up Spikes at nearly any point in the game. Its defensive typing is also pretty good, granting it a 4x resistance to the incredibly common Fighting- and Grass-type moves. Sadly, Venipede's overall poor offensive presence and relatively poor defensive presence make it outclassed by other hazard setters if reliability isn't needed, mainly Ferroseed and Dwebble, which have much better defensive and offensive presence, respectively.\n", "strategies' format": "LC", "strategies": [{"name": "Entry Hazard Stacker", "stats": [96, 145, 205, 105, 125, 187], "type": ["Bug", "Poison"], "usage": "If the opponent has an antilead to Venipede, such as Dwebble, Venipede should be saved until it can be brought in and utilized safely. If the opponent leads with Mienfoo or any other Fake Out user, using Protect immediately can stop Venipede from taking unnecessary damage. Bloom Doom allows Venipede to function as a lure to common Rapid Spin users, but because Venipede outspeeds them thanks to Speed Boost anyway, it should set up entry hazards first and use Bloom Doom only after they have switched in. If Venipede needs to outspeed threats or set hazards for any reason, it should use Protect to gain extra Speed. However, if any of these threats commonly carry Substitute or can boost further, it may be better to attack and surprise them instead. Due to its primary role as a hazard setter, Venipede should usually focus on this instead of attempting to deal chip damage, unless this chip damage is essential for its teammates to score KOs.", "moves": [["Spikes"], ["Solar Beam", "Toxic Spikes"], ["Protect"], ["Pin Missile"]], "item": [" Grassium Z", " Eviolite"], "ability": ["Speed Boost"], "nature": ["Serious", "Impish"], "ev spread": [0, 76, 204, 36, 44, 148], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Flying-types", "Fire-types", "Entry Hazard Removers", "Setup Sweepers"], "credits": ["Written by Drew", "Quality checked by Berks, Fiend,  and Xayah", "Grammar checked by The Dutch Plumberjack and Haund"]}
+{
+    "name": "Venipede",
+    "forms": {
+        "Base": {
+            "base stats": [
+                30,
+                45,
+                59,
+                30,
+                39,
+                57
+            ],
+            "types": [
+                "Bug",
+                "Poison"
+            ],
+            "abilities": [
+                "Poison Point",
+                "Speed Boost",
+                "Swarm"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Venipede's access to Speed Boost and Spikes gives it a niche as a reliable entry hazard setter that can deal with common spinners and hazard setters such as Staryu, Drilbur, and Onix using Bloom Doom. Additionally, its multi-hit STAB move Pin Missile can OHKO Focus Sash users like Abra and is generally powerful. Unlike other Spikes setters, Venipede can effectively set up Spikes at nearly any point in the game. Its defensive typing is also pretty good, granting it a 4x resistance to the incredibly common Fighting- and Grass-type moves. Sadly, Venipede's overall poor offensive presence and relatively poor defensive presence make it outclassed by other hazard setters if reliability isn't needed, mainly Ferroseed and Dwebble, which have much better defensive and offensive presence, respectively.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Entry Hazard Stacker",
+            "stats": [
+                96,
+                145,
+                205,
+                105,
+                125,
+                187
+            ],
+            "type": [
+                "Bug",
+                "Poison"
+            ],
+            "usage": "If the opponent has an antilead to Venipede, such as Dwebble, Venipede should be saved until it can be brought in and utilized safely. If the opponent leads with Mienfoo or any other Fake Out user, using Protect immediately can stop Venipede from taking unnecessary damage. Bloom Doom allows Venipede to function as a lure to common Rapid Spin users, but because Venipede outspeeds them thanks to Speed Boost anyway, it should set up entry hazards first and use Bloom Doom only after they have switched in. If Venipede needs to outspeed threats or set hazards for any reason, it should use Protect to gain extra Speed. However, if any of these threats commonly carry Substitute or can boost further, it may be better to attack and surprise them instead. Due to its primary role as a hazard setter, Venipede should usually focus on this instead of attempting to deal chip damage, unless this chip damage is essential for its teammates to score KOs.",
+            "moves": [
+                [
+                    "Spikes"
+                ],
+                [
+                    "Solar Beam",
+                    "Toxic Spikes"
+                ],
+                [
+                    "Protect"
+                ],
+                [
+                    "Pin Missile"
+                ]
+            ],
+            "item": [
+                " Grassium Z",
+                " Eviolite"
+            ],
+            "ability": [
+                "Speed Boost"
+            ],
+            "nature": [
+                "Serious",
+                "Impish"
+            ],
+            "ev spread": [
+                0,
+                76,
+                204,
+                36,
+                44,
+                148
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Flying-types",
+        "Fire-types",
+        "Entry Hazard Removers",
+        "Setup Sweepers"
+    ],
+    "credits": [
+        "Written by Drew",
+        "Quality checked by Berks, Fiend,  and Xayah",
+        "Grammar checked by The Dutch Plumberjack and Haund"
+    ]
+}

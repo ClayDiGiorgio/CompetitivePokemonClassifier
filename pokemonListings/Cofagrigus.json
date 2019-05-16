@@ -1,1 +1,93 @@
-{"name": "Cofagrigus", "forms": {"Base": {"base stats": [58, 50, 145, 95, 105, 30], "types": ["Ghost"], "abilities": ["Mummy"], "tier": ["NUBL"], "form": "Base"}}, "overview": "Cofagrigus's access to Nasty Plot and Trick Room makes it a potent sweeper in the UU metagame, particularly against offensively inclined teams, where it generally outspeeds every Pokemon while Trick Room is up. Its Ghost typing is good offensively, especially when paired with Ghostium Z, with STAB Shadow Ball only being resisted by Dark- and Normal-types like Hydreigon and Blissey. Cofagrigus also possesses great natural bulk, especially physically, granting it a solid number of setup opportunities and allowing it to act as a blanket check to certain physical threats such as Scizor and Mega Altaria. Ghost is rather mediocre defensively, though it does give Cofagrigus setup opportunities against Pokemon like Cobalion and Choice Scarf Infernape. Cofagrigus's ability Mummy helps it set up in the face of Pokemon such as Scizor and physical Mega Altaria that rely on their abilities to do meaningful damage. However, Cofagrigus is not particularly threatening without both Nasty Plot and Trick Room set up, often being either too weak to execute a sweep without Nasty Plot boosts or revenge killed by a faster Pokemon outside of Trick Room. It also struggles to break past any formidable special wall that is not hit at least neutrally by its Ghost STAB moves; examples include Blissey and Alolan Muk. While in theory Hidden Power Fighting offers fantastic coverage alongside Cofagrigus's STAB Shadow Ball, its low Base Power leads Cofagrigus to struggle against Ghost-resistant Pokemon such as Blissey and Mega Pidgeot, due to the former's great Special Defense and the latter's neutrality to Fighting-type moves.\n", "strategies' format": "UU", "strategies": [{"name": "Trick Room", "stats": [215, 136, 326, 317, 247, 58], "type": ["Ghost"], "usage": "It is preferable to bring Cofagrigus in to clean up late-game after opposing dedicated special walls and Dark-types have been weakened to the point that they can no longer stand in the way of a sweep. Set up Nasty Plot and Trick Room against Pokemon such as Infernape, Cobalion, and Mienshao that deal minimal amounts of damage to Cofagrigus. Always keep an eye out for other setup opportunities such as a Latias or Choice Scarf Hydreigon using Draco Meteor and dropping its Special Attack by two stages. It is ideal to keep Cofagrigus healthy if aiming to sweep with it late-game. Cofagrigus can be used to check Pokemon like Scizor and Mega Aerodactyl in a pinch, but this should really only be done if sweeping later on is out of the question.", "moves": [["Shadow Ball"], ["Hidden Power Fighting"], ["Trick Room"], ["Nasty Plot"]], "item": [" Ghostium Z"], "ability": ["Mummy"], "nature": ["Quiet"], "ev spread": [252, 0, 0, 252, 4, 0], "iv spread": [31, 31, 31, 31, 31, 0]}], "counters": ["Special Walls", "Offensive Dark-types", "Strong Special Attackers"], "credits": ["Written by Pak", "Quality checked by A Cake Wearing A Hat, Hilomilo,  and Amaroq", "Grammar checked by Fireflame479 and The Dutch Plumberjack"]}
+{
+    "name": "Cofagrigus",
+    "forms": {
+        "Base": {
+            "base stats": [
+                58,
+                50,
+                145,
+                95,
+                105,
+                30
+            ],
+            "types": [
+                "Ghost"
+            ],
+            "abilities": [
+                "Mummy"
+            ],
+            "tier": [
+                "NUBL"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Cofagrigus's access to Nasty Plot and Trick Room makes it a potent sweeper in the UU metagame, particularly against offensively inclined teams, where it generally outspeeds every Pokemon while Trick Room is up. Its Ghost typing is good offensively, especially when paired with Ghostium Z, with STAB Shadow Ball only being resisted by Dark- and Normal-types like Hydreigon and Blissey. Cofagrigus also possesses great natural bulk, especially physically, granting it a solid number of setup opportunities and allowing it to act as a blanket check to certain physical threats such as Scizor and Mega Altaria. Ghost is rather mediocre defensively, though it does give Cofagrigus setup opportunities against Pokemon like Cobalion and Choice Scarf Infernape. Cofagrigus's ability Mummy helps it set up in the face of Pokemon such as Scizor and physical Mega Altaria that rely on their abilities to do meaningful damage. However, Cofagrigus is not particularly threatening without both Nasty Plot and Trick Room set up, often being either too weak to execute a sweep without Nasty Plot boosts or revenge killed by a faster Pokemon outside of Trick Room. It also struggles to break past any formidable special wall that is not hit at least neutrally by its Ghost STAB moves; examples include Blissey and Alolan Muk. While in theory Hidden Power Fighting offers fantastic coverage alongside Cofagrigus's STAB Shadow Ball, its low Base Power leads Cofagrigus to struggle against Ghost-resistant Pokemon such as Blissey and Mega Pidgeot, due to the former's great Special Defense and the latter's neutrality to Fighting-type moves.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Trick Room",
+            "stats": [
+                215,
+                136,
+                326,
+                317,
+                247,
+                58
+            ],
+            "type": [
+                "Ghost"
+            ],
+            "usage": "It is preferable to bring Cofagrigus in to clean up late-game after opposing dedicated special walls and Dark-types have been weakened to the point that they can no longer stand in the way of a sweep. Set up Nasty Plot and Trick Room against Pokemon such as Infernape, Cobalion, and Mienshao that deal minimal amounts of damage to Cofagrigus. Always keep an eye out for other setup opportunities such as a Latias or Choice Scarf Hydreigon using Draco Meteor and dropping its Special Attack by two stages. It is ideal to keep Cofagrigus healthy if aiming to sweep with it late-game. Cofagrigus can be used to check Pokemon like Scizor and Mega Aerodactyl in a pinch, but this should really only be done if sweeping later on is out of the question.",
+            "moves": [
+                [
+                    "Shadow Ball"
+                ],
+                [
+                    "Hidden Power Fighting"
+                ],
+                [
+                    "Trick Room"
+                ],
+                [
+                    "Nasty Plot"
+                ]
+            ],
+            "item": [
+                " Ghostium Z"
+            ],
+            "ability": [
+                "Mummy"
+            ],
+            "nature": [
+                "Quiet"
+            ],
+            "ev spread": [
+                252,
+                0,
+                0,
+                252,
+                4,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                0
+            ]
+        }
+    ],
+    "counters": [
+        "Special Walls",
+        "Offensive Dark-types",
+        "Strong Special Attackers"
+    ],
+    "credits": [
+        "Written by Pak",
+        "Quality checked by A Cake Wearing A Hat, Hilomilo,  and Amaroq",
+        "Grammar checked by Fireflame479 and The Dutch Plumberjack"
+    ]
+}

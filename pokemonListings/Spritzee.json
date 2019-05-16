@@ -1,1 +1,151 @@
-{"name": "Spritzee", "forms": {"Base": {"base stats": [78, 52, 60, 63, 65, 23], "types": ["Fairy"], "abilities": ["Aroma Veil", "Healer"], "tier": ["LC"], "form": "Base"}}, "overview": "Spritzee has a solid place in the metagame thanks to its good bulk and fantastic Fairy typing, allowing it to check the ever-present Fighting- and Dark-type moves that dominate the LC metagame. Additionally, Spritzee has fantastic defensive synergy with other prominent defensive Pokemon in the metagame, allowing it to form backbones to support defensive, balanced, and bulky offensive teams. Spritzee also has access to Wish, giving it both a semi-reliable form of recovery and the ability to support its team. Coupled with Aromatherapy, Wish helps Spritzee become the best cleric in the LC metagame. Spritzee can even act as a late-game wincon with access to Calm Mind. Its ability Aroma Veil doesn't hurt either, giving it an immunity to moves that would typically take down defensive Pokemon, including Taunt and Encore.\nSpritzee is held back, however, by several key flaws. Spritzee is essentially forced to rely on Moonblast as its sole attack, which leaves it easily walled by many of the Poison-, Steel-, and Fire-types that resist it. Even against Pokemon that don't resist its attack, Spritzee lacks offensive power without Calm Mind boosts, leaving it open to be setup fodder for key Pokemon. A limited movepool makes Spritzee quite predictable and easy to prepare for as well, meaning that most teams are equipped to handle it. In addition, because of its role as a Fighting-type check, Spritzee usually is hit by Knock Off during a match, depriving it of its Eviolite and thus limiting its defensive capabilities for the rest of the match.\n", "strategies' format": "LC", "strategies": [{"name": "Defensive", "stats": [245, 126, 225, 165, 185, 85], "type": ["Fairy"], "usage": "Spritzee should be brought in against the Pokemon it checks, most notably Fighting-types that aren't Croagunk. From there, Spritzee can heal itself and its teammates with Wish and Protect. Despite its good bulk, be careful of allowing Spritzee to take super effective hits, especially if its Eviolite has been knocked off, as it can get worn down quickly. However, Spritzee can take most neutral hits, so don't be afraid to attack. If you're running Calm Mind, Spritzee should wait until late in the game to set up, after its checks have been weakened and it has a safe opportunity to set up. If Spritzee is acting as a wincon in a given battle, be careful about letting it get hit by Knock Off, which will limit its eventual setup opportunities. If you're using Aromatherapy, Spritzee can take advantage of the switches it forces by coming in on the Pokemon it checks to quickly heal its team. Be aware of the fact that Spritzee often requires using Protect the turn after using Wish to heal itself, which can give the opponent a free switch or setup opportunity, especially late in the game, and predict accordingly.", "moves": [["Wish"], ["Protect"], ["Moonblast"], ["Covet", "Psychic", "Calm Mind"]], "item": [" Eviolite"], "ability": ["Aroma Veil"], "nature": ["Bold"], "ev spread": [212, 0, 196, 12, 76, 12], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Nasty Plot", "stats": [205, 126, 185, 247, 185, 85], "type": ["Fairy"], "usage": "This set is a bit less bulky than others and lacks Wish recovery, so it functions less as an emergency blanket check to Fighting- and Dark-types and more like a regular setup sweeper. Thus, try not to switch it into attacks as often, as it will need to take a couple just to set up and attack. Try to keep entry hazards up, as Spritzee can't secure KOs on Pokemon like Foongus and Mareanie without them, even at +2 Special Attack. If using Trick Room, don't use it if Pokemon like Foongus are still healthy, as they will go before Spritzee under Trick Room and KO it. Spritzee doesn't need to sweep to be successful. Don't be afraid to use it to simply break a core or clean up late-game.", "moves": [["Nasty Plot"], ["Moonblast"], ["Psychic"], ["Trick Room"]], "item": [" Eviolite", " Berry Juice"], "ability": ["Aroma Veil"], "nature": ["Modest"], "ev spread": [52, 0, 116, 252, 76, 12], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Steel-types", "Poison-types", "Fire-types"], "credits": ["Written by Nineage and Gummy", "Quality checked by Fiend, Corporal Levi, tahu, dcae,  and jake", "Grammar checked by The Dutch Plumberjack, Fireflame479, Kris,  and P Squared"]}
+{
+    "name": "Spritzee",
+    "forms": {
+        "Base": {
+            "base stats": [
+                78,
+                52,
+                60,
+                63,
+                65,
+                23
+            ],
+            "types": [
+                "Fairy"
+            ],
+            "abilities": [
+                "Aroma Veil",
+                "Healer"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Spritzee has a solid place in the metagame thanks to its good bulk and fantastic Fairy typing, allowing it to check the ever-present Fighting- and Dark-type moves that dominate the LC metagame. Additionally, Spritzee has fantastic defensive synergy with other prominent defensive Pokemon in the metagame, allowing it to form backbones to support defensive, balanced, and bulky offensive teams. Spritzee also has access to Wish, giving it both a semi-reliable form of recovery and the ability to support its team. Coupled with Aromatherapy, Wish helps Spritzee become the best cleric in the LC metagame. Spritzee can even act as a late-game wincon with access to Calm Mind. Its ability Aroma Veil doesn't hurt either, giving it an immunity to moves that would typically take down defensive Pokemon, including Taunt and Encore.\nSpritzee is held back, however, by several key flaws. Spritzee is essentially forced to rely on Moonblast as its sole attack, which leaves it easily walled by many of the Poison-, Steel-, and Fire-types that resist it. Even against Pokemon that don't resist its attack, Spritzee lacks offensive power without Calm Mind boosts, leaving it open to be setup fodder for key Pokemon. A limited movepool makes Spritzee quite predictable and easy to prepare for as well, meaning that most teams are equipped to handle it. In addition, because of its role as a Fighting-type check, Spritzee usually is hit by Knock Off during a match, depriving it of its Eviolite and thus limiting its defensive capabilities for the rest of the match.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Defensive",
+            "stats": [
+                245,
+                126,
+                225,
+                165,
+                185,
+                85
+            ],
+            "type": [
+                "Fairy"
+            ],
+            "usage": "Spritzee should be brought in against the Pokemon it checks, most notably Fighting-types that aren't Croagunk. From there, Spritzee can heal itself and its teammates with Wish and Protect. Despite its good bulk, be careful of allowing Spritzee to take super effective hits, especially if its Eviolite has been knocked off, as it can get worn down quickly. However, Spritzee can take most neutral hits, so don't be afraid to attack. If you're running Calm Mind, Spritzee should wait until late in the game to set up, after its checks have been weakened and it has a safe opportunity to set up. If Spritzee is acting as a wincon in a given battle, be careful about letting it get hit by Knock Off, which will limit its eventual setup opportunities. If you're using Aromatherapy, Spritzee can take advantage of the switches it forces by coming in on the Pokemon it checks to quickly heal its team. Be aware of the fact that Spritzee often requires using Protect the turn after using Wish to heal itself, which can give the opponent a free switch or setup opportunity, especially late in the game, and predict accordingly.",
+            "moves": [
+                [
+                    "Wish"
+                ],
+                [
+                    "Protect"
+                ],
+                [
+                    "Moonblast"
+                ],
+                [
+                    "Covet",
+                    "Psychic",
+                    "Calm Mind"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Aroma Veil"
+            ],
+            "nature": [
+                "Bold"
+            ],
+            "ev spread": [
+                212,
+                0,
+                196,
+                12,
+                76,
+                12
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Nasty Plot",
+            "stats": [
+                205,
+                126,
+                185,
+                247,
+                185,
+                85
+            ],
+            "type": [
+                "Fairy"
+            ],
+            "usage": "This set is a bit less bulky than others and lacks Wish recovery, so it functions less as an emergency blanket check to Fighting- and Dark-types and more like a regular setup sweeper. Thus, try not to switch it into attacks as often, as it will need to take a couple just to set up and attack. Try to keep entry hazards up, as Spritzee can't secure KOs on Pokemon like Foongus and Mareanie without them, even at +2 Special Attack. If using Trick Room, don't use it if Pokemon like Foongus are still healthy, as they will go before Spritzee under Trick Room and KO it. Spritzee doesn't need to sweep to be successful. Don't be afraid to use it to simply break a core or clean up late-game.",
+            "moves": [
+                [
+                    "Nasty Plot"
+                ],
+                [
+                    "Moonblast"
+                ],
+                [
+                    "Psychic"
+                ],
+                [
+                    "Trick Room"
+                ]
+            ],
+            "item": [
+                " Eviolite",
+                " Berry Juice"
+            ],
+            "ability": [
+                "Aroma Veil"
+            ],
+            "nature": [
+                "Modest"
+            ],
+            "ev spread": [
+                52,
+                0,
+                116,
+                252,
+                76,
+                12
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Steel-types",
+        "Poison-types",
+        "Fire-types"
+    ],
+    "credits": [
+        "Written by Nineage and Gummy",
+        "Quality checked by Fiend, Corporal Levi, tahu, dcae,  and jake",
+        "Grammar checked by The Dutch Plumberjack, Fireflame479, Kris,  and P Squared"
+    ]
+}

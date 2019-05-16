@@ -1,1 +1,100 @@
-{"name": "Cradily", "forms": {"Base": {"base stats": [86, 81, 97, 81, 107, 43], "types": ["Rock", "Grass"], "abilities": ["Storm Drain", "Suction Cups"], "tier": ["Untiered"], "form": "Base"}}, "overview": "Cradily is a fairly niche defensive Stealth Rock setter that manages to set itself apart with unique resistances and immunities. Its good bulk and access to reliable recovery allow it to consistently set up Stealth Rock multiple times in a match while checking strong threats such as Kangaskhan. Cradily's unique type combination and access to Storm Drain give it useful immunities and resistances to Water, Normal, and Electric, allowing it to check Pokemon such as Floatzel, Pyroar, and Eelektross. However, Cradily is highly susceptible to common Ice- and Fighting-types such as Aurorus and Primeape. Additionally, many Water- and Normal-types pack Ice- or Fighting-type coverage, meaning Cradily is not a reliable counter to Pokemon such as Kingler and Zangoose. Base 81 offenses make Cradily unable to do much damage against anything that resists its STAB moves, forcing it to rely on badly poisoning them with Toxic. It is terribly slow and thus usually forced to take two hits when switching in, limiting its ability to switch into strong hits and set up Stealth Rock. Being passive can also invite setup sweepers that are not worried about Toxic such as Gurdurr and Oricorio-G. All of these flaws mean that Cradily faces severe competition from other Stealth Rock setters such as Torterra and Regirock.\n", "strategies' format": "PU", "strategies": [{"name": "Specially Defensive", "stats": [271, 198, 231, 178, 344, 122], "type": ["Rock", "Grass"], "usage": "Find opportunities to bring in Cradily early-game to set up Stealth Rock, ideally as quickly as possible. Use Recover to keep Cradily as healthy as possible so it can switch into Pokemon such as Pyroar and Swanna and set up Stealth Rock multiple times in a match. Certain stronger attackers that Cradily could normally counter such as Ludicolo are capable of 2HKOing it with only slight prior chip damage. Bring Cradily into Water-type Pokemon like Ludicolo, Lanturn, and Carracosta and force them out with the threat of Giga Drain or Toxic. Use these forced switches as opportunities to set up Stealth Rock or use Recover if Cradily is not healthy. Avoid using Cradily's STAB move early in the match to make the opponent wary of switching in Pokemon like Abomasnow and Oricorio-E that can switch into Cradily depending on its STAB move. Make use of Cradily's immunity to Water to ease prediction against opposing Water-type Pokemon like Carracosta and Ludicolo, as they are less likely to use Water-type moves as long as Cradily is healthy. Cradily should avoid Toxic at all costs from Pokemon such as Clefairy, which can cripple it very badly, and super effective coverage moves from Pokemon it can otherwise counter. Scouting for lures such as Z-Focus Punch Kangaskhan will drastically increase Cradily's survivability.", "moves": [["Stealth Rock"], ["Recover"], ["Toxic"], ["Rock Slide", "Giga Drain"]], "item": [" Leftovers"], "ability": ["Storm Drain"], "nature": ["Careful", "Calm"], "ev spread": [252, 0, 4, 0, 252, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Fighting-types", "Steel-types", "Toxic", "Ice-types", "Setup Sweepers"], "credits": ["Written by Megazard and LzzzR", "Quality checked by yogi, Megazard,  and allstarapology", "Grammar checked by A Cake Wearing A Hat and Fireflame479"]}
+{
+    "name": "Cradily",
+    "forms": {
+        "Base": {
+            "base stats": [
+                86,
+                81,
+                97,
+                81,
+                107,
+                43
+            ],
+            "types": [
+                "Rock",
+                "Grass"
+            ],
+            "abilities": [
+                "Storm Drain",
+                "Suction Cups"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Cradily is a fairly niche defensive Stealth Rock setter that manages to set itself apart with unique resistances and immunities. Its good bulk and access to reliable recovery allow it to consistently set up Stealth Rock multiple times in a match while checking strong threats such as Kangaskhan. Cradily's unique type combination and access to Storm Drain give it useful immunities and resistances to Water, Normal, and Electric, allowing it to check Pokemon such as Floatzel, Pyroar, and Eelektross. However, Cradily is highly susceptible to common Ice- and Fighting-types such as Aurorus and Primeape. Additionally, many Water- and Normal-types pack Ice- or Fighting-type coverage, meaning Cradily is not a reliable counter to Pokemon such as Kingler and Zangoose. Base 81 offenses make Cradily unable to do much damage against anything that resists its STAB moves, forcing it to rely on badly poisoning them with Toxic. It is terribly slow and thus usually forced to take two hits when switching in, limiting its ability to switch into strong hits and set up Stealth Rock. Being passive can also invite setup sweepers that are not worried about Toxic such as Gurdurr and Oricorio-G. All of these flaws mean that Cradily faces severe competition from other Stealth Rock setters such as Torterra and Regirock.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Specially Defensive",
+            "stats": [
+                271,
+                198,
+                231,
+                178,
+                344,
+                122
+            ],
+            "type": [
+                "Rock",
+                "Grass"
+            ],
+            "usage": "Find opportunities to bring in Cradily early-game to set up Stealth Rock, ideally as quickly as possible. Use Recover to keep Cradily as healthy as possible so it can switch into Pokemon such as Pyroar and Swanna and set up Stealth Rock multiple times in a match. Certain stronger attackers that Cradily could normally counter such as Ludicolo are capable of 2HKOing it with only slight prior chip damage. Bring Cradily into Water-type Pokemon like Ludicolo, Lanturn, and Carracosta and force them out with the threat of Giga Drain or Toxic. Use these forced switches as opportunities to set up Stealth Rock or use Recover if Cradily is not healthy. Avoid using Cradily's STAB move early in the match to make the opponent wary of switching in Pokemon like Abomasnow and Oricorio-E that can switch into Cradily depending on its STAB move. Make use of Cradily's immunity to Water to ease prediction against opposing Water-type Pokemon like Carracosta and Ludicolo, as they are less likely to use Water-type moves as long as Cradily is healthy. Cradily should avoid Toxic at all costs from Pokemon such as Clefairy, which can cripple it very badly, and super effective coverage moves from Pokemon it can otherwise counter. Scouting for lures such as Z-Focus Punch Kangaskhan will drastically increase Cradily's survivability.",
+            "moves": [
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Recover"
+                ],
+                [
+                    "Toxic"
+                ],
+                [
+                    "Rock Slide",
+                    "Giga Drain"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Storm Drain"
+            ],
+            "nature": [
+                "Careful",
+                "Calm"
+            ],
+            "ev spread": [
+                252,
+                0,
+                4,
+                0,
+                252,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Fighting-types",
+        "Steel-types",
+        "Toxic",
+        "Ice-types",
+        "Setup Sweepers"
+    ],
+    "credits": [
+        "Written by Megazard and LzzzR",
+        "Quality checked by yogi, Megazard,  and allstarapology",
+        "Grammar checked by A Cake Wearing A Hat and Fireflame479"
+    ]
+}

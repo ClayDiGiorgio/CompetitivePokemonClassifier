@@ -1,1 +1,121 @@
-{"name": "Sceptile", "forms": {"Base": {"base stats": [70, 85, 65, 105, 85, 120], "types": ["Grass"], "abilities": ["Overgrow", "Unburden"], "tier": ["NU"], "form": "Base"}, "Mega": {"base stats": [70, 110, 75, 145, 85, 145], "types": ["Grass", "Dragon"], "abilities": ["Lightning Rod"], "tier": ["RU"], "form": "Mega"}}, "overview": "Mega Sceptile has a unique set of perks over the tier's other Mega Evolutions that make it an effective revenge killer, cleaner, and offensive check to the tier's many Water- , Ground-, and Electric-types. Chief among these are its exceptional Special Attack and Speed stats, which enable it to threaten many offensive teams with its powerful STAB moves; its Grass / Dragon typing, which allows it to function as a decent check to Pokemon such as Suicune, Latias, and Hippowdon; and its ability in Lighting Rod, which makes it a uniquely potent offensive answer to Electric-types such as Mega Manectric and Zeraora. These traits make it quite an effective tool on offense against opposing offensive teams that lack a strong defensive presence and render it difficult to switch into consistently without a specially bulky Pokemon. That said, Mega Sceptile can nevertheless be quite easy to check both offensively and defensively. Choice Scarf users, strong priority attackers, Pursuit trappers, and the ubiquitous Mega Aerodactyl all exploit Mega Sceptile's frailty and common weaknesses, while most specially bulky Pokemon have the typing, natural bulk, or both required to switch into Mega Sceptile's attacks consistently. It is also helplessly walled by most of the tier's defensive Fairy-types, making it tough to use in the face of common threats such as Mega Altaria, Klefki, and Togekiss. It also relies heavily on punishable moves in Leaf Storm, Focus Blast, and the very weak Hidden Power Fire to do significant damage and cannot fit all of its ideal coverage onto a single set, giving it a mild case of four-moveslot syndrome. This makes it tough to optimize for teams and relatively easy to position an offensive check against it. These setbacks leave Mega Sceptile quite helpless in a number of matchups despite its upsides and relatively awkward to fit onto teams due to both its numerous downsides compared to other Mega Evolutions and its covering of roles easily filled by other, non-Mega Pokemon.\n", "strategies' format": "UU", "strategies": [{"name": "All-out Attacker", "stats": [176, 230, 186, 389, 207, 427], "type": ["Grass", "Dragon"], "usage": "Use Mega Sceptile's blazing Speed to revenge kill key offensive threats such as Latias, Mega Manectric, and non-Choice Scarf Hydreigon after they have been put in KO range of its attacks. This is best accomplished by getting entry hazards up early and often with a teammate, as chip damage is generally needed to put most threats in range. For example, unboosted Latias needs to switch into Stealth Rock twice before it is cleanly OHKOed by Dragon Pulse, and Primarina and Terrakion both need to switch into Stealth Rock twice to be OHKOed by Giga Drain. In this way, entry hazard support minimizes Mega Sceptile's overreliance on Leaf Storm to do major damage. Mega Sceptile has decent defensive utility despite its frailty thanks to its resistances and Lightning Rod; take advantage of this by switching in on predicted status moves such as Wish and Stealth Rock, as well as predicted Water- and Ground-type attacks from passive Pokemon such as Hippowdon and Slowbro, for an opportunity to fire off an attack. Don't do this too liberally, though, as this will lead to Mega Sceptile being worn down very quickly, and it can be caught off guard with a predicted Ice Beam from Pokemon such as Swampert and Slowbro if it comes in too predictably without scouting. Despite Lightning Rod effectively deterring Electric-type attacks, especially Volt Switch, the generally offensive nature of Electric-types makes them trickier to switch into for Mega Sceptile than predicted Scalds from Swampert, as they will generally carry hard-hitting coverage to pressure it and prevent it from switching in unpunished. Zeraora can do major damage to Mega Sceptile with Close Combat, while Mega Manectric can chip it with a Fire-type move or simply remove it from the game with Hidden Power Ice if it has it. For these reasons, Mega Sceptile should ideally only come in versus these Pokemon on a slow Volt Switch or U-turn, a double switch, an aggressive prediction, or after a teammate has been KOed, so as to minimize unnecessary damage. Many of the Pokemon Sceptile is capable of switching into, such as Hippowdon and Alomomola will often carry Toxic, making it risky to consistently switch directly into them. It is therefore ideal to bring Mega Sceptile in against these Pokemon on a slow U-turn or with precise prediction. Play aggressively early-game around Mega Sceptile's switch-ins and predict them with either your coverage moves or double switching. Despite the high risk of aggressive prediction, simply attacking what's in front of you is often a losing game due to how dangerous it is to give free turns to Mega Sceptile's most common switch-ins. The many switches Sceptile forces by virtue of its Speed and power are useful in this regard for gaining favorable positioning early on for offensive teams. Be careful when using Leaf Storm, as most of the tier can exploit a Mega Sceptile after the Special Attack drop. It should generally only be used if the added power is needed to KO what is in front of Mega Sceptile or if you need to wear down whatever is coming in on it.", "moves": [["Leaf Storm"], ["Dragon Pulse"], ["Earthquake", "Giga Drain", "Focus Blast"], ["Hidden Power Fire", "Focus Blast"]], "item": [" Sceptilite"], "ability": ["Overgrow"], "nature": ["Timid"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Fairy-types", "Ice-types and Ice-type coverage", "Steel-types", "Pursuit", "Faster Pokemon and Strong Priority"], "credits": ["Written by eht", "Quality checked by vivalospride, Hilomilo,  and Surgeon", "Grammar checked by martha and The Dutch Plumberjack"]}
+{
+    "name": "Sceptile",
+    "forms": {
+        "Base": {
+            "base stats": [
+                70,
+                85,
+                65,
+                105,
+                85,
+                120
+            ],
+            "types": [
+                "Grass"
+            ],
+            "abilities": [
+                "Overgrow",
+                "Unburden"
+            ],
+            "tier": [
+                "NU"
+            ],
+            "form": "Base"
+        },
+        "Mega": {
+            "base stats": [
+                70,
+                110,
+                75,
+                145,
+                85,
+                145
+            ],
+            "types": [
+                "Grass",
+                "Dragon"
+            ],
+            "abilities": [
+                "Lightning Rod"
+            ],
+            "tier": [
+                "RU"
+            ],
+            "form": "Mega"
+        }
+    },
+    "overview": "Mega Sceptile has a unique set of perks over the tier's other Mega Evolutions that make it an effective revenge killer, cleaner, and offensive check to the tier's many Water- , Ground-, and Electric-types. Chief among these are its exceptional Special Attack and Speed stats, which enable it to threaten many offensive teams with its powerful STAB moves; its Grass / Dragon typing, which allows it to function as a decent check to Pokemon such as Suicune, Latias, and Hippowdon; and its ability in Lighting Rod, which makes it a uniquely potent offensive answer to Electric-types such as Mega Manectric and Zeraora. These traits make it quite an effective tool on offense against opposing offensive teams that lack a strong defensive presence and render it difficult to switch into consistently without a specially bulky Pokemon. That said, Mega Sceptile can nevertheless be quite easy to check both offensively and defensively. Choice Scarf users, strong priority attackers, Pursuit trappers, and the ubiquitous Mega Aerodactyl all exploit Mega Sceptile's frailty and common weaknesses, while most specially bulky Pokemon have the typing, natural bulk, or both required to switch into Mega Sceptile's attacks consistently. It is also helplessly walled by most of the tier's defensive Fairy-types, making it tough to use in the face of common threats such as Mega Altaria, Klefki, and Togekiss. It also relies heavily on punishable moves in Leaf Storm, Focus Blast, and the very weak Hidden Power Fire to do significant damage and cannot fit all of its ideal coverage onto a single set, giving it a mild case of four-moveslot syndrome. This makes it tough to optimize for teams and relatively easy to position an offensive check against it. These setbacks leave Mega Sceptile quite helpless in a number of matchups despite its upsides and relatively awkward to fit onto teams due to both its numerous downsides compared to other Mega Evolutions and its covering of roles easily filled by other, non-Mega Pokemon.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "All-out Attacker",
+            "stats": [
+                176,
+                230,
+                186,
+                389,
+                207,
+                427
+            ],
+            "type": [
+                "Grass",
+                "Dragon"
+            ],
+            "usage": "Use Mega Sceptile's blazing Speed to revenge kill key offensive threats such as Latias, Mega Manectric, and non-Choice Scarf Hydreigon after they have been put in KO range of its attacks. This is best accomplished by getting entry hazards up early and often with a teammate, as chip damage is generally needed to put most threats in range. For example, unboosted Latias needs to switch into Stealth Rock twice before it is cleanly OHKOed by Dragon Pulse, and Primarina and Terrakion both need to switch into Stealth Rock twice to be OHKOed by Giga Drain. In this way, entry hazard support minimizes Mega Sceptile's overreliance on Leaf Storm to do major damage. Mega Sceptile has decent defensive utility despite its frailty thanks to its resistances and Lightning Rod; take advantage of this by switching in on predicted status moves such as Wish and Stealth Rock, as well as predicted Water- and Ground-type attacks from passive Pokemon such as Hippowdon and Slowbro, for an opportunity to fire off an attack. Don't do this too liberally, though, as this will lead to Mega Sceptile being worn down very quickly, and it can be caught off guard with a predicted Ice Beam from Pokemon such as Swampert and Slowbro if it comes in too predictably without scouting. Despite Lightning Rod effectively deterring Electric-type attacks, especially Volt Switch, the generally offensive nature of Electric-types makes them trickier to switch into for Mega Sceptile than predicted Scalds from Swampert, as they will generally carry hard-hitting coverage to pressure it and prevent it from switching in unpunished. Zeraora can do major damage to Mega Sceptile with Close Combat, while Mega Manectric can chip it with a Fire-type move or simply remove it from the game with Hidden Power Ice if it has it. For these reasons, Mega Sceptile should ideally only come in versus these Pokemon on a slow Volt Switch or U-turn, a double switch, an aggressive prediction, or after a teammate has been KOed, so as to minimize unnecessary damage. Many of the Pokemon Sceptile is capable of switching into, such as Hippowdon and Alomomola will often carry Toxic, making it risky to consistently switch directly into them. It is therefore ideal to bring Mega Sceptile in against these Pokemon on a slow U-turn or with precise prediction. Play aggressively early-game around Mega Sceptile's switch-ins and predict them with either your coverage moves or double switching. Despite the high risk of aggressive prediction, simply attacking what's in front of you is often a losing game due to how dangerous it is to give free turns to Mega Sceptile's most common switch-ins. The many switches Sceptile forces by virtue of its Speed and power are useful in this regard for gaining favorable positioning early on for offensive teams. Be careful when using Leaf Storm, as most of the tier can exploit a Mega Sceptile after the Special Attack drop. It should generally only be used if the added power is needed to KO what is in front of Mega Sceptile or if you need to wear down whatever is coming in on it.",
+            "moves": [
+                [
+                    "Leaf Storm"
+                ],
+                [
+                    "Dragon Pulse"
+                ],
+                [
+                    "Earthquake",
+                    "Giga Drain",
+                    "Focus Blast"
+                ],
+                [
+                    "Hidden Power Fire",
+                    "Focus Blast"
+                ]
+            ],
+            "item": [
+                " Sceptilite"
+            ],
+            "ability": [
+                "Overgrow"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Fairy-types",
+        "Ice-types and Ice-type coverage",
+        "Steel-types",
+        "Pursuit",
+        "Faster Pokemon and Strong Priority"
+    ],
+    "credits": [
+        "Written by eht",
+        "Quality checked by vivalospride, Hilomilo,  and Surgeon",
+        "Grammar checked by martha and The Dutch Plumberjack"
+    ]
+}

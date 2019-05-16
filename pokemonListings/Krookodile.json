@@ -1,1 +1,160 @@
-{"name": "Krookodile", "forms": {"Base": {"base stats": [95, 117, 80, 65, 70, 92], "types": ["Ground", "Dark"], "abilities": ["Anger Point", "Intimidate", "Moxie"], "tier": ["UU"], "form": "Base"}}, "overview": "With the ability to fulfill many roles, Krookodile is a big threat in the UnderUsed metagame and is capable of fitting onto multiple team archetypes. Its great typing gives it excellent coverage between its STAB attacks as well as key immunities to Psychic- and Electric-type attacks and four helpful resistances. Its Intimidate ability further solidifies its defensive capabilities and allows it to function as a capable Stealth Rock setter. Krookodile also excels as one of the tier's best Choice Scarf users thanks to its ability to revenge kill several foes quite easily as well as take advantage of the switches it forces with STAB Pursuit. However, Krookodile's typing provides with as many useful resistances as common weaknesses, most notably to Fairy-, Water-, and Fighting-type attacks. Krookodile can also be hindered at times by its Speed tier, which, while not bad, leaves it outsped by several offensive Pokemon, including Kyurem, Mega Pidgeot, and Infernape. Lastly, Krookodile is also hurt by its only average damage output, which prevents it from breaking past especially bulky foes like Hippowdon, Suicune, and Alomomola.\n", "strategies' format": "UU", "strategies": [{"name": "Choice Scarf", "stats": [226, 333, 197, 149, 176, 311], "type": ["Ground", "Dark"], "usage": "This set outspeeds every unboosted Pokemon in the tier as well as +1 Pokemon like Mega Altaria and Mega Sharpedo, so it should be used as a revenge killer. Krookodile should look to switch in on attacks it resists from Pokemon it can either revenge kill or Pursuit trap, such as Latias, Mega Manectric, and Alolan Muk. When a foe is predicted to switch out, it is best to use Pursuit to trap and deal heavy damage to it. Foes that will commonly switch out of Krookodile include Latias, Gengar, Mega Aerodactyl, and Blissey. Knock Off should be used frequently early-game, as Krookodile will often annoy foes that even resist the attack by removing items. Most of Krookodile's attacks are rather undesirable to stay locked into for long, as this allows Pokemon like Cobalion, Suicune, and Scizor to begin setting up on Krookodile. Due to this, Krookodile should immediately switch out as its foe begins setting up and bring in a teammate that can reliably take care of the foe. Due to the nature of Choice Scarf, it is best that Krookodile carefully predicts when attacking. For example, if a Flying-type is expected to switch into an anticipated Earthquake, Krookodile should predict the switch by using Stone Edge to hit it super effectively.", "moves": [["Knock Off"], ["Earthquake"], ["Pursuit"], ["Stone Edge", "Crunch"]], "item": [" Choice Scarf"], "ability": ["Intimidate"], "nature": ["Jolly"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Stealth Rock", "stats": [226, 333, 197, 149, 176, 311], "type": ["Ground", "Dark"], "usage": "Krookodile should be primarily used early-game to set up Stealth Rock, taking advantage of its good matchup against other Stealth Rock users such as Gligar and Hippowdon to either cripple them with Knock Off or afflict them with Taunt. After Stealth Rock has been set up, Krookodile can utilize Taunt and its offensive typing to pressure Defoggers like Empoleon and Latias to keep its hazards up. Knock Off should be used liberally, particularly against defensive teams, to remove items early-game to cripple foes and make it easier for Krookodile's teammates to break them. Earthquake's high Base Power and overall good neutral coverage means it can be used frequently, especially to weaken or KO bulky hazard removers like Empoleon and Tentacruel. If running Groundium Z, it should be saved for breaking past a particularly bulky target like Mega Aggron or OHKOing a crucial threat that avoids it otherwise. Pursuit can be used when predicting a Pokemon that is severely threatened by Krookodile to switch out, particularly Latias and Chandelure, due to Krookodile's ability to survive an unboosted attack from them and retaliate for an OHKO on both. If Krookodile is severely weakened and Stealth Rock is up, it can be used to switch into some of its physically oriented answers, such as Crawdaunt and Scizor, to lower their Attack with Intimidate and potentially chip at them with Rocky Helmet damage.", "moves": [["Stealth Rock"], ["Knock Off"], ["Earthquake"], ["Taunt", "Pursuit"]], "item": [" Rocky Helmet", " Groundium Z"], "ability": ["Intimidate"], "nature": ["Jolly"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Fairy-types", "Fighting-types", "Grass-types", "Water-types", "Physically Bulky Pokemon", "Faster Pokemon", "Scizor"], "credits": ["Written by Hilomilo and martha", "Earlier versions by Bouff", "Quality checked by Amaroq, Bouff, Eyan, Kink,  and Ark", "Grammar checked by The Dutch Plumberjack, CryoGyro, Kris,  and Fireflame479"]}
+{
+    "name": "Krookodile",
+    "forms": {
+        "Base": {
+            "base stats": [
+                95,
+                117,
+                80,
+                65,
+                70,
+                92
+            ],
+            "types": [
+                "Ground",
+                "Dark"
+            ],
+            "abilities": [
+                "Anger Point",
+                "Intimidate",
+                "Moxie"
+            ],
+            "tier": [
+                "UU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "With the ability to fulfill many roles, Krookodile is a big threat in the UnderUsed metagame and is capable of fitting onto multiple team archetypes. Its great typing gives it excellent coverage between its STAB attacks as well as key immunities to Psychic- and Electric-type attacks and four helpful resistances. Its Intimidate ability further solidifies its defensive capabilities and allows it to function as a capable Stealth Rock setter. Krookodile also excels as one of the tier's best Choice Scarf users thanks to its ability to revenge kill several foes quite easily as well as take advantage of the switches it forces with STAB Pursuit. However, Krookodile's typing provides with as many useful resistances as common weaknesses, most notably to Fairy-, Water-, and Fighting-type attacks. Krookodile can also be hindered at times by its Speed tier, which, while not bad, leaves it outsped by several offensive Pokemon, including Kyurem, Mega Pidgeot, and Infernape. Lastly, Krookodile is also hurt by its only average damage output, which prevents it from breaking past especially bulky foes like Hippowdon, Suicune, and Alomomola.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Choice Scarf",
+            "stats": [
+                226,
+                333,
+                197,
+                149,
+                176,
+                311
+            ],
+            "type": [
+                "Ground",
+                "Dark"
+            ],
+            "usage": "This set outspeeds every unboosted Pokemon in the tier as well as +1 Pokemon like Mega Altaria and Mega Sharpedo, so it should be used as a revenge killer. Krookodile should look to switch in on attacks it resists from Pokemon it can either revenge kill or Pursuit trap, such as Latias, Mega Manectric, and Alolan Muk. When a foe is predicted to switch out, it is best to use Pursuit to trap and deal heavy damage to it. Foes that will commonly switch out of Krookodile include Latias, Gengar, Mega Aerodactyl, and Blissey. Knock Off should be used frequently early-game, as Krookodile will often annoy foes that even resist the attack by removing items. Most of Krookodile's attacks are rather undesirable to stay locked into for long, as this allows Pokemon like Cobalion, Suicune, and Scizor to begin setting up on Krookodile. Due to this, Krookodile should immediately switch out as its foe begins setting up and bring in a teammate that can reliably take care of the foe. Due to the nature of Choice Scarf, it is best that Krookodile carefully predicts when attacking. For example, if a Flying-type is expected to switch into an anticipated Earthquake, Krookodile should predict the switch by using Stone Edge to hit it super effectively.",
+            "moves": [
+                [
+                    "Knock Off"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Pursuit"
+                ],
+                [
+                    "Stone Edge",
+                    "Crunch"
+                ]
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Intimidate"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Stealth Rock",
+            "stats": [
+                226,
+                333,
+                197,
+                149,
+                176,
+                311
+            ],
+            "type": [
+                "Ground",
+                "Dark"
+            ],
+            "usage": "Krookodile should be primarily used early-game to set up Stealth Rock, taking advantage of its good matchup against other Stealth Rock users such as Gligar and Hippowdon to either cripple them with Knock Off or afflict them with Taunt. After Stealth Rock has been set up, Krookodile can utilize Taunt and its offensive typing to pressure Defoggers like Empoleon and Latias to keep its hazards up. Knock Off should be used liberally, particularly against defensive teams, to remove items early-game to cripple foes and make it easier for Krookodile's teammates to break them. Earthquake's high Base Power and overall good neutral coverage means it can be used frequently, especially to weaken or KO bulky hazard removers like Empoleon and Tentacruel. If running Groundium Z, it should be saved for breaking past a particularly bulky target like Mega Aggron or OHKOing a crucial threat that avoids it otherwise. Pursuit can be used when predicting a Pokemon that is severely threatened by Krookodile to switch out, particularly Latias and Chandelure, due to Krookodile's ability to survive an unboosted attack from them and retaliate for an OHKO on both. If Krookodile is severely weakened and Stealth Rock is up, it can be used to switch into some of its physically oriented answers, such as Crawdaunt and Scizor, to lower their Attack with Intimidate and potentially chip at them with Rocky Helmet damage.",
+            "moves": [
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Knock Off"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Taunt",
+                    "Pursuit"
+                ]
+            ],
+            "item": [
+                " Rocky Helmet",
+                " Groundium Z"
+            ],
+            "ability": [
+                "Intimidate"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Fairy-types",
+        "Fighting-types",
+        "Grass-types",
+        "Water-types",
+        "Physically Bulky Pokemon",
+        "Faster Pokemon",
+        "Scizor"
+    ],
+    "credits": [
+        "Written by Hilomilo and martha",
+        "Earlier versions by Bouff",
+        "Quality checked by Amaroq, Bouff, Eyan, Kink,  and Ark",
+        "Grammar checked by The Dutch Plumberjack, CryoGyro, Kris,  and Fireflame479"
+    ]
+}

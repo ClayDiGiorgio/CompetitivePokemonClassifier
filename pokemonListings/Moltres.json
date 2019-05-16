@@ -1,1 +1,97 @@
-{"name": "Moltres", "forms": {"Base": {"base stats": [90, 100, 90, 125, 85, 90], "types": ["Fire", "Flying"], "abilities": ["Flame Body", "Pressure"], "tier": ["UU"], "form": "Base"}}, "overview": "Moltres's typing alongside access to Defog lets it carve itself a niche on stall teams, checking Stealth Rock setters that trouble Mega Sableye such as Excadrill, offensive Heatran, and Calm Mind Clefable. An outstanding ability in Pressure in tandem with Substitute enables it to stall out would-be threats such as Tyranitar locked into Stone Edge and win the PP war most of the time. Its typing also lets it tackle a few other threats, namely Kartana, Tapu Bulu, and Mega Scizor. Nonetheless, Moltres's bulk is somewhat lackluster, especially since it can't afford to invest enough EVs into its defenses, which means it will often crumble to strong wallbreakers. Furthermore, if a skillful opponent manages to get up Stealth Rock against Moltres's team, its typing gets turned against it, putting huge pressure on Moltres.\n", "strategies' format": "OU", "strategies": [{"name": "Pressure", "stats": [268, 212, 231, 286, 206, 303], "type": ["Fire", "Flying"], "usage": "Always switch Moltres into Stealth Rock setters it walls. Attempt to Defog after scouting for moves that could threaten it like Thunder Wave from Clefable, Toxic from Heatran, and Rock Tomb from Excadrill. If your opponent manages to get up Stealth Rock against Moltres's team, it's advisable to remove said entry hazard via a secondary Defogger before recklessly sending it in. Keep track of the PP of opposing Pok\u00e9mon to know when Moltres will be able to fully PP stall them. For instance, if Calm Mind Clefable still has all of its Moonblast PP, it can beat Moltres one-on-one. Be careful of status ailments; Toxic Heatran or Thunder Wave Clefable could be annoying if your opponent can put enough pressure on your Heal Bell user. Try to pivot Moltres in when threats to stall such as Mega Mawile and Mega Heracross come in, as it can force them out with Flamethrower; however, scout for Thunder Punch on Mega Mawile, and be careful of the aforementioned move as well as Rock Blast from Mega Heracross. Likewise, pulling double switches not to let these two come in is a risky but also quite rewarding play.", "moves": [["Substitute"], ["Roost"], ["Defog"], ["Flamethrower"]], "item": [" Leftovers"], "ability": ["Pressure"], "nature": ["Timid"], "ev spread": [208, 0, 60, 0, 0, 240], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Stealth Rock", "Miscellaneous Wallbreakers", "Setup Sweepers", "Status Ailments"], "credits": ["Written by Lyd", "Quality checked by Jordy, Leo,  and LL", "Grammar checked by The Dutch Plumberjack and martha"]}
+{
+    "name": "Moltres",
+    "forms": {
+        "Base": {
+            "base stats": [
+                90,
+                100,
+                90,
+                125,
+                85,
+                90
+            ],
+            "types": [
+                "Fire",
+                "Flying"
+            ],
+            "abilities": [
+                "Flame Body",
+                "Pressure"
+            ],
+            "tier": [
+                "UU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Moltres's typing alongside access to Defog lets it carve itself a niche on stall teams, checking Stealth Rock setters that trouble Mega Sableye such as Excadrill, offensive Heatran, and Calm Mind Clefable. An outstanding ability in Pressure in tandem with Substitute enables it to stall out would-be threats such as Tyranitar locked into Stone Edge and win the PP war most of the time. Its typing also lets it tackle a few other threats, namely Kartana, Tapu Bulu, and Mega Scizor. Nonetheless, Moltres's bulk is somewhat lackluster, especially since it can't afford to invest enough EVs into its defenses, which means it will often crumble to strong wallbreakers. Furthermore, if a skillful opponent manages to get up Stealth Rock against Moltres's team, its typing gets turned against it, putting huge pressure on Moltres.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Pressure",
+            "stats": [
+                268,
+                212,
+                231,
+                286,
+                206,
+                303
+            ],
+            "type": [
+                "Fire",
+                "Flying"
+            ],
+            "usage": "Always switch Moltres into Stealth Rock setters it walls. Attempt to Defog after scouting for moves that could threaten it like Thunder Wave from Clefable, Toxic from Heatran, and Rock Tomb from Excadrill. If your opponent manages to get up Stealth Rock against Moltres's team, it's advisable to remove said entry hazard via a secondary Defogger before recklessly sending it in. Keep track of the PP of opposing Pok\u00e9mon to know when Moltres will be able to fully PP stall them. For instance, if Calm Mind Clefable still has all of its Moonblast PP, it can beat Moltres one-on-one. Be careful of status ailments; Toxic Heatran or Thunder Wave Clefable could be annoying if your opponent can put enough pressure on your Heal Bell user. Try to pivot Moltres in when threats to stall such as Mega Mawile and Mega Heracross come in, as it can force them out with Flamethrower; however, scout for Thunder Punch on Mega Mawile, and be careful of the aforementioned move as well as Rock Blast from Mega Heracross. Likewise, pulling double switches not to let these two come in is a risky but also quite rewarding play.",
+            "moves": [
+                [
+                    "Substitute"
+                ],
+                [
+                    "Roost"
+                ],
+                [
+                    "Defog"
+                ],
+                [
+                    "Flamethrower"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Pressure"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                208,
+                0,
+                60,
+                0,
+                0,
+                240
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Stealth Rock",
+        "Miscellaneous Wallbreakers",
+        "Setup Sweepers",
+        "Status Ailments"
+    ],
+    "credits": [
+        "Written by Lyd",
+        "Quality checked by Jordy, Leo,  and LL",
+        "Grammar checked by The Dutch Plumberjack and martha"
+    ]
+}

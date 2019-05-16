@@ -1,1 +1,157 @@
-{"name": "Bewear", "forms": {"Base": {"base stats": [120, 125, 80, 55, 60, 60], "types": ["Normal", "Fighting"], "abilities": ["Fluffy", "Klutz", "Unnerve"], "tier": ["RU"], "form": "Base"}}, "overview": "Due to its Normal / Fighting STAB combination and high Attack stat, Bewear functions as a potent wallbreaker in the UU metagame. Its ability Fluffy in conjunction with its solid HP and Defense stats allows Bewear to check a large range of physical threats in the metagame such as Mega Beedrill, Scizor lacking Superpower, and Mega Aerodactyl. The coverage moves Bewear has at its disposal, such as Shadow Claw and Earthquake, allow it to take on a wide variety of would-be checks like Chandelure, Jellicent, and Doublade. However, Bewear's low special bulk and set of weaknesses let special attackers like Latias, Celebi, Nidoking, and Primarina force it out easily, even if they cannot switch into its attacks. In addition, Bewear's typing and Fluffy's mechanics give many physical attackers in the tier like Terrakion and Mamoswine a way to bypass its bulk with super effective Fighting-type attacks like Close Combat or non-contact moves like Earthquake and Icicle Crash. Fluffy also causes Bewear to take double damage from Fire-type attacks, which prevents it from being very useful versus Pokemon like Infernape, Volcanion, and Chandelure. Bewear's Speed stat also leaves it outsped by the vast majority of offensive Pokemon even with maximum investment, although it still outspeeds most defensive Pokemon like Alomomola and Blissey.\n", "strategies' format": "UU", "strategies": [{"name": "Choice Band", "stats": [276, 349, 197, 131, 156, 240], "type": ["Normal", "Fighting"], "usage": "Bewear should use Return as much as possible due to its lack of drawbacks compared to Superpower. It should be sent in either on a free switch or on a Pokemon that cannot harm it significantly such as Scizor, Mega Aggron, or Blissey. Bewear should use its coverage moves as little as possible to minimize opportunities for the foe to set up on it. Its coverage moves should primarily be used to damage predicted Ghost-type switch-ins. Try to keep Bewear healthy throughout the game if Pokemon that it needs to check or revenge kill like Scizor and Mega Sharpedo are still in play.", "moves": [["Return"], ["Superpower"], ["Shadow Claw", "Earthquake"], ["Facade"]], "item": [" Choice Band"], "ability": ["Fluffy"], "nature": ["Jolly", "Adamant"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Swords Dance", "stats": [276, 349, 197, 131, 156, 240], "type": ["Normal", "Fighting"], "usage": "Swords Dance is generally most useful when trying to break through bulkier balance or stall teams, as versus offensive teams Bewear is often forced out too easily to make setting up worth it. To elaborate on this, Bewear can set up Swords Dance easily on Pokemon such as Blissey or bulky variants of Scizor. Versus stall teams, Bewear should save its Z-Move for breaking past Quagsire, as it cannot do so otherwise. Versus offensive teams, Bewear should be using Double-Edge as much as possible and expending its Z-Move whenever it is most opportune to get an OHKO in order to break through as many Pokemon as possible before fainting. Bring Bewear in on free switches or versus certain physical attackers like Scizor, Alolan Muk, and Mega Aggron in order to keep its health as high as possible. However, be wary of Scizor's Superpower and Alolan Muk's Fire Blast. If possible, attempt to avoid having Bewear inflicted with status effects, as they severely hinder its wallbreaking capabilities. For example, try not to switch Bewear into Pokemon that are known to use Scald, such as Alomomola and Mantine. If there is a Pokemon that Bewear is able to check on the opposing team such as Scizor or Mega Beedrill, try to keep Bewear as healthy as possible to maximize its usefulness against said threats.", "moves": [["Swords Dance"], ["Drain Punch"], ["Double-Edge"], ["Earthquake"]], "item": [" Normalium Z"], "ability": ["Fluffy"], "nature": ["Jolly"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Ghost-types", "Special Attackers", "Faster Pokemon", "Fighting-types", "Fire-types"], "credits": ["Written by A Cake Wearing A Hat", "Earlier versions by TSR", "Quality checked by Hilomilo, Pak, Amaroq,  and Nuked", "Grammar checked by The Dutch Plumberjack, Fireflame479, martha,  and P Squared"]}
+{
+    "name": "Bewear",
+    "forms": {
+        "Base": {
+            "base stats": [
+                120,
+                125,
+                80,
+                55,
+                60,
+                60
+            ],
+            "types": [
+                "Normal",
+                "Fighting"
+            ],
+            "abilities": [
+                "Fluffy",
+                "Klutz",
+                "Unnerve"
+            ],
+            "tier": [
+                "RU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Due to its Normal / Fighting STAB combination and high Attack stat, Bewear functions as a potent wallbreaker in the UU metagame. Its ability Fluffy in conjunction with its solid HP and Defense stats allows Bewear to check a large range of physical threats in the metagame such as Mega Beedrill, Scizor lacking Superpower, and Mega Aerodactyl. The coverage moves Bewear has at its disposal, such as Shadow Claw and Earthquake, allow it to take on a wide variety of would-be checks like Chandelure, Jellicent, and Doublade. However, Bewear's low special bulk and set of weaknesses let special attackers like Latias, Celebi, Nidoking, and Primarina force it out easily, even if they cannot switch into its attacks. In addition, Bewear's typing and Fluffy's mechanics give many physical attackers in the tier like Terrakion and Mamoswine a way to bypass its bulk with super effective Fighting-type attacks like Close Combat or non-contact moves like Earthquake and Icicle Crash. Fluffy also causes Bewear to take double damage from Fire-type attacks, which prevents it from being very useful versus Pokemon like Infernape, Volcanion, and Chandelure. Bewear's Speed stat also leaves it outsped by the vast majority of offensive Pokemon even with maximum investment, although it still outspeeds most defensive Pokemon like Alomomola and Blissey.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Choice Band",
+            "stats": [
+                276,
+                349,
+                197,
+                131,
+                156,
+                240
+            ],
+            "type": [
+                "Normal",
+                "Fighting"
+            ],
+            "usage": "Bewear should use Return as much as possible due to its lack of drawbacks compared to Superpower. It should be sent in either on a free switch or on a Pokemon that cannot harm it significantly such as Scizor, Mega Aggron, or Blissey. Bewear should use its coverage moves as little as possible to minimize opportunities for the foe to set up on it. Its coverage moves should primarily be used to damage predicted Ghost-type switch-ins. Try to keep Bewear healthy throughout the game if Pokemon that it needs to check or revenge kill like Scizor and Mega Sharpedo are still in play.",
+            "moves": [
+                [
+                    "Return"
+                ],
+                [
+                    "Superpower"
+                ],
+                [
+                    "Shadow Claw",
+                    "Earthquake"
+                ],
+                [
+                    "Facade"
+                ]
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Fluffy"
+            ],
+            "nature": [
+                "Jolly",
+                "Adamant"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Swords Dance",
+            "stats": [
+                276,
+                349,
+                197,
+                131,
+                156,
+                240
+            ],
+            "type": [
+                "Normal",
+                "Fighting"
+            ],
+            "usage": "Swords Dance is generally most useful when trying to break through bulkier balance or stall teams, as versus offensive teams Bewear is often forced out too easily to make setting up worth it. To elaborate on this, Bewear can set up Swords Dance easily on Pokemon such as Blissey or bulky variants of Scizor. Versus stall teams, Bewear should save its Z-Move for breaking past Quagsire, as it cannot do so otherwise. Versus offensive teams, Bewear should be using Double-Edge as much as possible and expending its Z-Move whenever it is most opportune to get an OHKO in order to break through as many Pokemon as possible before fainting. Bring Bewear in on free switches or versus certain physical attackers like Scizor, Alolan Muk, and Mega Aggron in order to keep its health as high as possible. However, be wary of Scizor's Superpower and Alolan Muk's Fire Blast. If possible, attempt to avoid having Bewear inflicted with status effects, as they severely hinder its wallbreaking capabilities. For example, try not to switch Bewear into Pokemon that are known to use Scald, such as Alomomola and Mantine. If there is a Pokemon that Bewear is able to check on the opposing team such as Scizor or Mega Beedrill, try to keep Bewear as healthy as possible to maximize its usefulness against said threats.",
+            "moves": [
+                [
+                    "Swords Dance"
+                ],
+                [
+                    "Drain Punch"
+                ],
+                [
+                    "Double-Edge"
+                ],
+                [
+                    "Earthquake"
+                ]
+            ],
+            "item": [
+                " Normalium Z"
+            ],
+            "ability": [
+                "Fluffy"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Ghost-types",
+        "Special Attackers",
+        "Faster Pokemon",
+        "Fighting-types",
+        "Fire-types"
+    ],
+    "credits": [
+        "Written by A Cake Wearing A Hat",
+        "Earlier versions by TSR",
+        "Quality checked by Hilomilo, Pak, Amaroq,  and Nuked",
+        "Grammar checked by The Dutch Plumberjack, Fireflame479, martha,  and P Squared"
+    ]
+}

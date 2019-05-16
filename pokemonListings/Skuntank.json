@@ -1,1 +1,275 @@
-{"name": "Skuntank", "forms": {"Base": {"base stats": [103, 93, 67, 71, 61, 84], "types": ["Poison", "Dark"], "abilities": ["Aftermath", "Keen Eye", "Stench"], "tier": ["PU"], "form": "Base"}}, "overview": "Skuntank is a very versatile Pokemon in PU thanks to its unique Poison / Dark typing, access to Pursuit and Sucker Punch along with support moves like Defog and Taunt, and ability to run several viable sets; these qualities also make it easy to fit on most teams. Skuntank's typing allows it to check Dark- and Grass-types such as Liepard and Roselia while also giving it a helpful immunity against Psychic-types like Mesprit and to Prankster moves from foes like Sableye. Access to both Pursuit and Sucker Punch gives Skuntank the ability to trap a Pokemon or revenge kill it, which is especially useful against Psychic- and Ghost-types or frail Pokemon. Skuntank\u2019s reasonable Speed tier, decent Attack, and ability to run both physical and special sets make it strong offensive threat that's difficult to predict at Team Preview. Skuntank is the best hazard remover in PU, in part by virtue of being a Poison-type, meaning it's able to absorb Toxic Spikes upon switching in and then use Defog to remove remaining entry hazards. Aftermath is a notable ability due to it dealing 1/4 damage to a foe if it KOes Skuntank with a contact move. Regardless, even though it provides excellent role compression, Skuntank\u2019s stats are all average to mediocre. This means that while it does have several roles that it fills, it does all of them to an average standard while also not being able to hit that hard or take unresisted hits.\n", "strategies' format": "PU", "strategies": [{"name": "Physical Defog", "stats": [243, 285, 170, 160, 158, 293], "type": ["Poison", "Dark"], "usage": "Skuntank acts as a good check to Psychic- and Grass-types such as Alolan Raichu and Ludicolo and can offensively pressure them to prevent setup. Lum Berry allows it to more reliably check sleep inducers such as Tangela and Jynx. With Sucker Punch, Skuntank can pick off and revenge kill fast attackers such as Floatzel and Manectric, but be wary of using it versus foes like Oricorio-G, as Substitute and setup moves cause it to fail and force mind games. Skuntank can switch into predicted Psychic-type moves from Pokemon such as Mr. Mime and Mesprit and then Pursuit trap them for teammates, along with weakened foes if predicted correctly. Pursuit along with Sucker Punch also forces the opponent into mind games. Skuntank can be brought in to use Defog on foes that have STAB combinations it resists, like Shiftry and Haunter, or more passive Pokemon such as Clefairy, which it usually forces out. Skuntank is also able to absorb Toxic Spikes when it switches in to stop status spreading to the rest of its team. An immunity to Prankster also allows Skuntank to switch in on Sableye freely, giving it ample opportunity to use Defog or Pursuit trap. If Skuntank opts for Taunt over Defog, it can shut down setup sweepers like Musharna and walls like Jellicent from crippling it with Will-O-Wisp or, in Musharna's case, healing with Moonlight. During the mid- to late-game, a weakened Skuntank can use its ability Aftermath to pressure Pokemon such as Primeape and Hitmonchan from attacking it.", "moves": [["Defog"], ["Pursuit"], ["Sucker Punch", "Crunch"], ["Poison Jab"]], "item": [" Rocky Helmet", " Black Sludge", " Lum Berry"], "ability": ["Aftermath"], "nature": ["Jolly", "Adamant"], "ev spread": [4, 252, 0, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Special Defog", "stats": [243, 199, 170, 241, 158, 293], "type": ["Poison", "Dark"], "usage": "Skuntank acts as a good check to Psychic- and Ghost-types such as Musharna and Haunter, being able to easily force them out with a STAB Dark Pulse. Special Skuntank has a far easier time switching in and dealing with Stealth Rock and Spikes setters, as they usually expect the more common physical set, which often struggles versus the likes of Aggron and Qwilfish. Acid Spray + Dark Pulse cripples almost all of them, which gives Skuntank an easier time clearing the field. Skuntank is able to switch in and Defog on more passive Pokemon like defensive Mesprit and foes with STAB combinations it resists, like Shiftry and Sableye, only fearing the loss of its item\u2014if it's running Black Sludge\u2014via Knock Off from the latter two. Special Skuntank can also use Defog on Froslass and bulky variants of Jellicent due to it not fearing the Attack drop from Will-O-Wisp, allowing it to absorb burns for teammates. With Darkinium Z, Skuntank acts as a wallbreaker capable of severely denting most special walls that don't resist Dark, such as Lanturn and Audino. It struggles versus Fighting-types, however, especially Assault Vest Hitmonchan, which can easily take its Z-Move at -2, meaning Skuntank should be cautious of using its Z-Move when these foes are still present.", "moves": [["Defog"], ["Dark Pulse"], ["Acid Spray"], ["Taunt", "Sucker Punch"]], "item": [" Black Sludge", " Darkinium Z"], "ability": ["Aftermath"], "nature": ["Timid", "Modest"], "ev spread": [4, 0, 0, 252, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "All-out Attacker", "stats": [243, 285, 170, 160, 158, 293], "type": ["Poison", "Dark"], "usage": "Skuntank acts as a solid Psychic- and Ghost-type check with Pursuit and Sucker Punch. Pokemon such as Haunter and Alolan Raichu can be revenge killed with the aforementioned moves, with neither being able to do enough damage to OHKO Skuntank, allowing Skuntank to pick off certain foes for teammates. Sucker Punch backed by the power boost from Choice Band, or Black Glasses, allows Skuntank to effectively pick off faster threats like Swanna as long as they go for an attacking move; this means that Skuntank can revenge kill faster foes that would otherwise naturally outspeed and KO it. The increased damage from Choice Band also helps Skuntank break foes such as Musharna, while also pressuring walls like Spiritomb, which the standard physical set fails to do. All-out attacker Skuntank is, however, extremely susceptible to being burned by Will-O-Wisp or Scald and is made almost useless if this happens, so caution should be taken when against foes like Jellicent and Lanturn to not stay in or directly switch into an attack from either. Due to the nature of using a Choice item, being locked into a singular move can be exploited by the opposing side; for example, Skuntank being locked into Sucker Punch can let foes like Oricorio-G set up absolutely for free with both Substitute and Calm Mind while forcing Skuntank out. Similarly, being locked into Pursuit after trapping a foe can give the opponent ample opportunity to freely set up given the move's low Base Power, forcing Skuntank to switch and lose momentum. Using Black Glasses over Choice Band mitigates the disadvantages that the latter poses, but the reduced damage means Skuntank can struggle to revenge kill with Sucker Punch or break with Poison Jab and Crunch. Even though this set loses the ability to Defog, it's still able to absorb Toxic Spikes when it switches in, meaning it's still a valuable way to stop the spread of poison among the rest of its team.", "moves": [["Pursuit"], ["Sucker Punch"], ["Crunch"], ["Poison Jab"]], "item": [" Choice Band", " Black Glasses"], "ability": ["Aftermath"], "nature": ["Jolly", "Adamant"], "ev spread": [4, 252, 0, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Choice Scarf", "stats": [242, 285, 171, 160, 158, 293], "type": ["Poison", "Dark"], "usage": "Skuntank should aim to revenge kill weakened Pokemon, most notably those weak to its attacks such as Mesprit and Haunter. That said, one should attempt to not reveal Skuntank's item so it can take out Pokemon such as Lycanroc and Dodrio, as well as Substitute users like Alolan Raichu and Alolan Dugtrio, which all have ways to maneuver around Sucker Punch from other Skuntank sets. Throughout a match, Skuntank can put its utility to use by absorbing Toxic Spikes or trapping foes with Pursuit, as it can switch into predicted Psychic-type moves or resisted hits such as Haunter's Shadow Ball. Take note of when to use Skuntank's Dark-type STAB moves; Crunch is the move of choice against Pokemon with a low Attack stat such as Jynx, Oricorio-G, and Musharna. However, if running Foul Play, it should be used to securely revenge kill boosted Pokemon like Dodrio and Lycanroc, as well as deal more damage to Pokemon with naturally high Attack stats such as Stoutland and Golurk. As a Choice item Pokemon, Skuntank should be cautious of what it locks itself into; for instance, unboosted Pursuit is quite weak and can be exploited by setup sweepers and wallbreakers like Omastar and Crabominable. Poison Jab is unable to touch Steel-types such as Aggron and Alolan Sandslash, which forces Skuntank to switch out entirely. Choice Scarf Skuntank is most effective late-game, as it struggles to break past Pokemon like Mudsdale and Oricorio-E if they're kept healthy. Memento or Explosion can be utilized to sacrifice Skuntank whenever it's no longer needed in order to make the opposing Pokemon vulnerable or weakened, create momentum, and give setup opportunities to the likes of Alolan Raichu, Carracosta, and Dodrio.", "moves": [["Poison Jab"], ["Crunch"], ["Pursuit", "Foul Play"], ["Memento", "Explosion"]], "item": [" Choice Scarf"], "ability": ["Aftermath"], "nature": ["Jolly", "Adamant"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Ground-types", "Fighting-types", "Faster Pokemon", "Defensive Walls"], "credits": ["Written by yogi and tondas", "Quality checked by Megazard, Many, Taskr, TONE,  and TJ", "Grammar checked by P Squared, The Dutch Plumberjack, Fireflame479,  and Electrolyte"]}
+{
+    "name": "Skuntank",
+    "forms": {
+        "Base": {
+            "base stats": [
+                103,
+                93,
+                67,
+                71,
+                61,
+                84
+            ],
+            "types": [
+                "Poison",
+                "Dark"
+            ],
+            "abilities": [
+                "Aftermath",
+                "Keen Eye",
+                "Stench"
+            ],
+            "tier": [
+                "PU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Skuntank is a very versatile Pokemon in PU thanks to its unique Poison / Dark typing, access to Pursuit and Sucker Punch along with support moves like Defog and Taunt, and ability to run several viable sets; these qualities also make it easy to fit on most teams. Skuntank's typing allows it to check Dark- and Grass-types such as Liepard and Roselia while also giving it a helpful immunity against Psychic-types like Mesprit and to Prankster moves from foes like Sableye. Access to both Pursuit and Sucker Punch gives Skuntank the ability to trap a Pokemon or revenge kill it, which is especially useful against Psychic- and Ghost-types or frail Pokemon. Skuntank\u2019s reasonable Speed tier, decent Attack, and ability to run both physical and special sets make it strong offensive threat that's difficult to predict at Team Preview. Skuntank is the best hazard remover in PU, in part by virtue of being a Poison-type, meaning it's able to absorb Toxic Spikes upon switching in and then use Defog to remove remaining entry hazards. Aftermath is a notable ability due to it dealing 1/4 damage to a foe if it KOes Skuntank with a contact move. Regardless, even though it provides excellent role compression, Skuntank\u2019s stats are all average to mediocre. This means that while it does have several roles that it fills, it does all of them to an average standard while also not being able to hit that hard or take unresisted hits.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Physical Defog",
+            "stats": [
+                243,
+                285,
+                170,
+                160,
+                158,
+                293
+            ],
+            "type": [
+                "Poison",
+                "Dark"
+            ],
+            "usage": "Skuntank acts as a good check to Psychic- and Grass-types such as Alolan Raichu and Ludicolo and can offensively pressure them to prevent setup. Lum Berry allows it to more reliably check sleep inducers such as Tangela and Jynx. With Sucker Punch, Skuntank can pick off and revenge kill fast attackers such as Floatzel and Manectric, but be wary of using it versus foes like Oricorio-G, as Substitute and setup moves cause it to fail and force mind games. Skuntank can switch into predicted Psychic-type moves from Pokemon such as Mr. Mime and Mesprit and then Pursuit trap them for teammates, along with weakened foes if predicted correctly. Pursuit along with Sucker Punch also forces the opponent into mind games. Skuntank can be brought in to use Defog on foes that have STAB combinations it resists, like Shiftry and Haunter, or more passive Pokemon such as Clefairy, which it usually forces out. Skuntank is also able to absorb Toxic Spikes when it switches in to stop status spreading to the rest of its team. An immunity to Prankster also allows Skuntank to switch in on Sableye freely, giving it ample opportunity to use Defog or Pursuit trap. If Skuntank opts for Taunt over Defog, it can shut down setup sweepers like Musharna and walls like Jellicent from crippling it with Will-O-Wisp or, in Musharna's case, healing with Moonlight. During the mid- to late-game, a weakened Skuntank can use its ability Aftermath to pressure Pokemon such as Primeape and Hitmonchan from attacking it.",
+            "moves": [
+                [
+                    "Defog"
+                ],
+                [
+                    "Pursuit"
+                ],
+                [
+                    "Sucker Punch",
+                    "Crunch"
+                ],
+                [
+                    "Poison Jab"
+                ]
+            ],
+            "item": [
+                " Rocky Helmet",
+                " Black Sludge",
+                " Lum Berry"
+            ],
+            "ability": [
+                "Aftermath"
+            ],
+            "nature": [
+                "Jolly",
+                "Adamant"
+            ],
+            "ev spread": [
+                4,
+                252,
+                0,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Special Defog",
+            "stats": [
+                243,
+                199,
+                170,
+                241,
+                158,
+                293
+            ],
+            "type": [
+                "Poison",
+                "Dark"
+            ],
+            "usage": "Skuntank acts as a good check to Psychic- and Ghost-types such as Musharna and Haunter, being able to easily force them out with a STAB Dark Pulse. Special Skuntank has a far easier time switching in and dealing with Stealth Rock and Spikes setters, as they usually expect the more common physical set, which often struggles versus the likes of Aggron and Qwilfish. Acid Spray + Dark Pulse cripples almost all of them, which gives Skuntank an easier time clearing the field. Skuntank is able to switch in and Defog on more passive Pokemon like defensive Mesprit and foes with STAB combinations it resists, like Shiftry and Sableye, only fearing the loss of its item\u2014if it's running Black Sludge\u2014via Knock Off from the latter two. Special Skuntank can also use Defog on Froslass and bulky variants of Jellicent due to it not fearing the Attack drop from Will-O-Wisp, allowing it to absorb burns for teammates. With Darkinium Z, Skuntank acts as a wallbreaker capable of severely denting most special walls that don't resist Dark, such as Lanturn and Audino. It struggles versus Fighting-types, however, especially Assault Vest Hitmonchan, which can easily take its Z-Move at -2, meaning Skuntank should be cautious of using its Z-Move when these foes are still present.",
+            "moves": [
+                [
+                    "Defog"
+                ],
+                [
+                    "Dark Pulse"
+                ],
+                [
+                    "Acid Spray"
+                ],
+                [
+                    "Taunt",
+                    "Sucker Punch"
+                ]
+            ],
+            "item": [
+                " Black Sludge",
+                " Darkinium Z"
+            ],
+            "ability": [
+                "Aftermath"
+            ],
+            "nature": [
+                "Timid",
+                "Modest"
+            ],
+            "ev spread": [
+                4,
+                0,
+                0,
+                252,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "All-out Attacker",
+            "stats": [
+                243,
+                285,
+                170,
+                160,
+                158,
+                293
+            ],
+            "type": [
+                "Poison",
+                "Dark"
+            ],
+            "usage": "Skuntank acts as a solid Psychic- and Ghost-type check with Pursuit and Sucker Punch. Pokemon such as Haunter and Alolan Raichu can be revenge killed with the aforementioned moves, with neither being able to do enough damage to OHKO Skuntank, allowing Skuntank to pick off certain foes for teammates. Sucker Punch backed by the power boost from Choice Band, or Black Glasses, allows Skuntank to effectively pick off faster threats like Swanna as long as they go for an attacking move; this means that Skuntank can revenge kill faster foes that would otherwise naturally outspeed and KO it. The increased damage from Choice Band also helps Skuntank break foes such as Musharna, while also pressuring walls like Spiritomb, which the standard physical set fails to do. All-out attacker Skuntank is, however, extremely susceptible to being burned by Will-O-Wisp or Scald and is made almost useless if this happens, so caution should be taken when against foes like Jellicent and Lanturn to not stay in or directly switch into an attack from either. Due to the nature of using a Choice item, being locked into a singular move can be exploited by the opposing side; for example, Skuntank being locked into Sucker Punch can let foes like Oricorio-G set up absolutely for free with both Substitute and Calm Mind while forcing Skuntank out. Similarly, being locked into Pursuit after trapping a foe can give the opponent ample opportunity to freely set up given the move's low Base Power, forcing Skuntank to switch and lose momentum. Using Black Glasses over Choice Band mitigates the disadvantages that the latter poses, but the reduced damage means Skuntank can struggle to revenge kill with Sucker Punch or break with Poison Jab and Crunch. Even though this set loses the ability to Defog, it's still able to absorb Toxic Spikes when it switches in, meaning it's still a valuable way to stop the spread of poison among the rest of its team.",
+            "moves": [
+                [
+                    "Pursuit"
+                ],
+                [
+                    "Sucker Punch"
+                ],
+                [
+                    "Crunch"
+                ],
+                [
+                    "Poison Jab"
+                ]
+            ],
+            "item": [
+                " Choice Band",
+                " Black Glasses"
+            ],
+            "ability": [
+                "Aftermath"
+            ],
+            "nature": [
+                "Jolly",
+                "Adamant"
+            ],
+            "ev spread": [
+                4,
+                252,
+                0,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Choice Scarf",
+            "stats": [
+                242,
+                285,
+                171,
+                160,
+                158,
+                293
+            ],
+            "type": [
+                "Poison",
+                "Dark"
+            ],
+            "usage": "Skuntank should aim to revenge kill weakened Pokemon, most notably those weak to its attacks such as Mesprit and Haunter. That said, one should attempt to not reveal Skuntank's item so it can take out Pokemon such as Lycanroc and Dodrio, as well as Substitute users like Alolan Raichu and Alolan Dugtrio, which all have ways to maneuver around Sucker Punch from other Skuntank sets. Throughout a match, Skuntank can put its utility to use by absorbing Toxic Spikes or trapping foes with Pursuit, as it can switch into predicted Psychic-type moves or resisted hits such as Haunter's Shadow Ball. Take note of when to use Skuntank's Dark-type STAB moves; Crunch is the move of choice against Pokemon with a low Attack stat such as Jynx, Oricorio-G, and Musharna. However, if running Foul Play, it should be used to securely revenge kill boosted Pokemon like Dodrio and Lycanroc, as well as deal more damage to Pokemon with naturally high Attack stats such as Stoutland and Golurk. As a Choice item Pokemon, Skuntank should be cautious of what it locks itself into; for instance, unboosted Pursuit is quite weak and can be exploited by setup sweepers and wallbreakers like Omastar and Crabominable. Poison Jab is unable to touch Steel-types such as Aggron and Alolan Sandslash, which forces Skuntank to switch out entirely. Choice Scarf Skuntank is most effective late-game, as it struggles to break past Pokemon like Mudsdale and Oricorio-E if they're kept healthy. Memento or Explosion can be utilized to sacrifice Skuntank whenever it's no longer needed in order to make the opposing Pokemon vulnerable or weakened, create momentum, and give setup opportunities to the likes of Alolan Raichu, Carracosta, and Dodrio.",
+            "moves": [
+                [
+                    "Poison Jab"
+                ],
+                [
+                    "Crunch"
+                ],
+                [
+                    "Pursuit",
+                    "Foul Play"
+                ],
+                [
+                    "Memento",
+                    "Explosion"
+                ]
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Aftermath"
+            ],
+            "nature": [
+                "Jolly",
+                "Adamant"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Ground-types",
+        "Fighting-types",
+        "Faster Pokemon",
+        "Defensive Walls"
+    ],
+    "credits": [
+        "Written by yogi and tondas",
+        "Quality checked by Megazard, Many, Taskr, TONE,  and TJ",
+        "Grammar checked by P Squared, The Dutch Plumberjack, Fireflame479,  and Electrolyte"
+    ]
+}

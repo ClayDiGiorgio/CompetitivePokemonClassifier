@@ -1,1 +1,153 @@
-{"name": "Blacephalon", "forms": {"Base": {"base stats": [53, 127, 53, 151, 79, 107], "types": ["Fire", "Ghost"], "abilities": ["Beast Boost"], "tier": ["OU"], "form": "Base"}}, "overview": "Blacephalon is blessed with an outstanding Special Attack stat, which, coupled with its great offensive typing in Fire / Ghost, turns it into a deadly wallbreaker. Blacephalon sets itself apart from other special wallbreakers thanks to its high Speed stat, which lets it act as a late-game cleaner and revenge killer when equipped with a Choice Scarf and outspeed a fair amount of the metagame without a boosting item. On top of that, Blacephalon's Beast Boost ability can boost its Special Attack by one stage after each KO or can be tuned to boost its Speed, further bolstering its late-game cleaning capabilities. However, Blacephalon has a fair amount of issues that hold it back in the metagame, such as an annoying vulnerability to every entry hazard and a weakness to Stealth Rock. Additionally, Blacephalon is weak to common priority moves like Ash-Greninja's Water Shuriken and Mega Mawile's Sucker Punch, which allows these Pokemon to stop a late-game sweep from it and gain momentum by forcing it out. Finally, the presence of Tyranitar as a top-tier threat in the metagame hurts Blacephalon's viability, since it's unable to 2HKO Tyranitar on the switch without prior damage and falls prey to Pursuit.\n", "strategies' format": "OU", "strategies": [{"name": "Choice Specs", "stats": [142, 261, 142, 401, 195, 344], "type": ["Fire", "Ghost"], "usage": "Choice Specs Blacephalon will be switching in several times during a game, so keeping entry hazards off the field is a priority. Blacephalon is very frail, so it's going to need to be brought into the field with the aid of VoltTurn users to start punching holes in the opposing team. Since few Pokemon resist Shadow Ball, it's a pretty safe move to use most of the time when facing a foe that Blacephalon forces out, though you have to watch out for Pursuit users like Weavile that could take advantage of Shadow Ball and trap it. Finally, don't throw out attacks recklessly if there's a Tyranitar on the opponent's team; play smart until you manage to weaken it for Blacephalon.", "moves": [["Fire Blast"], ["Shadow Ball"], ["Hidden Power Ground", "Hidden Power Grass"], ["Trick"]], "item": [" Choice Specs"], "ability": ["Beast Boost"], "nature": ["Timid"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Substitute + Calm Mind", "stats": [200, 261, 143, 343, 194, 344], "type": ["Fire", "Ghost"], "usage": "In situations where Blacephalon is forcing a switch, it is often the correct play to get up a Substitute in order to ease prediction and make it harder for your opponent to revenge kill Blacephalon. Be sure to use Blacephalon's Z-Move to break through bulkier Pokemon that could otherwise take a hit from it in order to get a Speed boost and possibly sweep the opponent's team. Avoid letting foes afflict Blacephalon with paralysis or Toxic poison, as they severely hinder Blacephalon's offensive capabilities by making it very slow or putting it on a timer. It should be noted that this set lacks the power of other Blacephalon sets, so you'll need the opposing team to be weakened more than usual to attempt a sweep.", "moves": [["Flamethrower"], ["Shadow Ball"], ["Substitute"], ["Calm Mind"]], "item": [" Ghostium Z"], "ability": ["Beast Boost"], "nature": ["Timid"], "ev spread": [232, 0, 4, 20, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Pursuit", "Faster Pokemon", "Priority", "Bulky Water-types", "Residual Damage"], "credits": ["Written by Leo and Mellow", "Quality checked by Subject 18, ABR,  and Colonel M", "Grammar checked by martha and Fireflame479"]}
+{
+    "name": "Blacephalon",
+    "forms": {
+        "Base": {
+            "base stats": [
+                53,
+                127,
+                53,
+                151,
+                79,
+                107
+            ],
+            "types": [
+                "Fire",
+                "Ghost"
+            ],
+            "abilities": [
+                "Beast Boost"
+            ],
+            "tier": [
+                "OU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Blacephalon is blessed with an outstanding Special Attack stat, which, coupled with its great offensive typing in Fire / Ghost, turns it into a deadly wallbreaker. Blacephalon sets itself apart from other special wallbreakers thanks to its high Speed stat, which lets it act as a late-game cleaner and revenge killer when equipped with a Choice Scarf and outspeed a fair amount of the metagame without a boosting item. On top of that, Blacephalon's Beast Boost ability can boost its Special Attack by one stage after each KO or can be tuned to boost its Speed, further bolstering its late-game cleaning capabilities. However, Blacephalon has a fair amount of issues that hold it back in the metagame, such as an annoying vulnerability to every entry hazard and a weakness to Stealth Rock. Additionally, Blacephalon is weak to common priority moves like Ash-Greninja's Water Shuriken and Mega Mawile's Sucker Punch, which allows these Pokemon to stop a late-game sweep from it and gain momentum by forcing it out. Finally, the presence of Tyranitar as a top-tier threat in the metagame hurts Blacephalon's viability, since it's unable to 2HKO Tyranitar on the switch without prior damage and falls prey to Pursuit.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Choice Specs",
+            "stats": [
+                142,
+                261,
+                142,
+                401,
+                195,
+                344
+            ],
+            "type": [
+                "Fire",
+                "Ghost"
+            ],
+            "usage": "Choice Specs Blacephalon will be switching in several times during a game, so keeping entry hazards off the field is a priority. Blacephalon is very frail, so it's going to need to be brought into the field with the aid of VoltTurn users to start punching holes in the opposing team. Since few Pokemon resist Shadow Ball, it's a pretty safe move to use most of the time when facing a foe that Blacephalon forces out, though you have to watch out for Pursuit users like Weavile that could take advantage of Shadow Ball and trap it. Finally, don't throw out attacks recklessly if there's a Tyranitar on the opponent's team; play smart until you manage to weaken it for Blacephalon.",
+            "moves": [
+                [
+                    "Fire Blast"
+                ],
+                [
+                    "Shadow Ball"
+                ],
+                [
+                    "Hidden Power Ground",
+                    "Hidden Power Grass"
+                ],
+                [
+                    "Trick"
+                ]
+            ],
+            "item": [
+                " Choice Specs"
+            ],
+            "ability": [
+                "Beast Boost"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Substitute + Calm Mind",
+            "stats": [
+                200,
+                261,
+                143,
+                343,
+                194,
+                344
+            ],
+            "type": [
+                "Fire",
+                "Ghost"
+            ],
+            "usage": "In situations where Blacephalon is forcing a switch, it is often the correct play to get up a Substitute in order to ease prediction and make it harder for your opponent to revenge kill Blacephalon. Be sure to use Blacephalon's Z-Move to break through bulkier Pokemon that could otherwise take a hit from it in order to get a Speed boost and possibly sweep the opponent's team. Avoid letting foes afflict Blacephalon with paralysis or Toxic poison, as they severely hinder Blacephalon's offensive capabilities by making it very slow or putting it on a timer. It should be noted that this set lacks the power of other Blacephalon sets, so you'll need the opposing team to be weakened more than usual to attempt a sweep.",
+            "moves": [
+                [
+                    "Flamethrower"
+                ],
+                [
+                    "Shadow Ball"
+                ],
+                [
+                    "Substitute"
+                ],
+                [
+                    "Calm Mind"
+                ]
+            ],
+            "item": [
+                " Ghostium Z"
+            ],
+            "ability": [
+                "Beast Boost"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                232,
+                0,
+                4,
+                20,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Pursuit",
+        "Faster Pokemon",
+        "Priority",
+        "Bulky Water-types",
+        "Residual Damage"
+    ],
+    "credits": [
+        "Written by Leo and Mellow",
+        "Quality checked by Subject 18, ABR,  and Colonel M",
+        "Grammar checked by martha and Fireflame479"
+    ]
+}

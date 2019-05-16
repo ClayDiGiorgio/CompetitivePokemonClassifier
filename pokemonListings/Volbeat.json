@@ -1,1 +1,98 @@
-{"name": "Volbeat", "forms": {"Base": {"base stats": [65, 73, 75, 47, 85, 85], "types": ["Bug"], "abilities": ["Illuminate", "Prankster", "Swarm"], "tier": ["Untiered"], "form": "Base"}}, "overview": "Volbeat is one of the tier's best weather setters due to Prankster, decent bulk, and key resistances to Ground and Fighting. Access to both Rain Dance and Sunny Day makes Volbeat a superb choice for hyper offensive rain and sun teams alike. Additionally, Volbeat has an array of utility support options like Defog, Thunder Wave, Encore and Roost, as well as U-turn for pivoting. However, Volbeat suffers from a weakness to Stealth Rock and being incredibly passive, meaning it can usually only get up sun or rain twice per game.\n", "strategies' format": "PU", "strategies": [{"name": "Weather Setter", "stats": [229, 183, 273, 130, 206, 157], "type": ["Bug"], "usage": "Volbeat is primarily used as a weather setter on hyper offensive weather teams and should only be brought in when the duration of sun or rain has ended or is about to end. Volbeat's main priority should be to set up sun or rain and U-turn out right after. Despite the investment into Volbeat's defensive stats, its bulk is still lackluster; thus, one should switch Volbeat in cautiously when the opponent is predicted to switch or go for a resisted hit, since hyper offensive teams rely heavily on their chosen weather being set up. Volbeat can also be brought in after a teammate has fainted, giving it a free setup turn. There are some Pokemon Volbeat just cannot underspeed, such as Drampa and Gurdurr; in these situations, it's best to stay and let Volbeat faint than to U-turn and let one of your hyper offensive sweepers take a massive hit. In the case of Gurdurr, you may be able to Encore it into a non-attacking move like Bulk Up, allowing you then to safely pivot into a teammate. Encore is able to generate free turns for teammates or force a switch while also keeping setup sweepers checked.", "moves": [["Sunny Day", "Rain Dance"], ["U-turn"], ["Thunder Wave"], ["Encore"]], "item": [" Heat Rock", " Damp Rock"], "ability": ["Prankster"], "nature": ["Relaxed"], "ev spread": [252, 4, 252, 0, 0, 0], "iv spread": [31, 31, 31, 31, 31, 0]}], "counters": ["Strong Attackers", "Taunt Users", "Residual Damage", "Opposing Weather"], "credits": ["Written by Aaronboyer", "Quality checked by yogi, allstarapology,  and Megazard", "Grammar checked by The Dutch Plumberjack and lotiasite"]}
+{
+    "name": "Volbeat",
+    "forms": {
+        "Base": {
+            "base stats": [
+                65,
+                73,
+                75,
+                47,
+                85,
+                85
+            ],
+            "types": [
+                "Bug"
+            ],
+            "abilities": [
+                "Illuminate",
+                "Prankster",
+                "Swarm"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Volbeat is one of the tier's best weather setters due to Prankster, decent bulk, and key resistances to Ground and Fighting. Access to both Rain Dance and Sunny Day makes Volbeat a superb choice for hyper offensive rain and sun teams alike. Additionally, Volbeat has an array of utility support options like Defog, Thunder Wave, Encore and Roost, as well as U-turn for pivoting. However, Volbeat suffers from a weakness to Stealth Rock and being incredibly passive, meaning it can usually only get up sun or rain twice per game.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Weather Setter",
+            "stats": [
+                229,
+                183,
+                273,
+                130,
+                206,
+                157
+            ],
+            "type": [
+                "Bug"
+            ],
+            "usage": "Volbeat is primarily used as a weather setter on hyper offensive weather teams and should only be brought in when the duration of sun or rain has ended or is about to end. Volbeat's main priority should be to set up sun or rain and U-turn out right after. Despite the investment into Volbeat's defensive stats, its bulk is still lackluster; thus, one should switch Volbeat in cautiously when the opponent is predicted to switch or go for a resisted hit, since hyper offensive teams rely heavily on their chosen weather being set up. Volbeat can also be brought in after a teammate has fainted, giving it a free setup turn. There are some Pokemon Volbeat just cannot underspeed, such as Drampa and Gurdurr; in these situations, it's best to stay and let Volbeat faint than to U-turn and let one of your hyper offensive sweepers take a massive hit. In the case of Gurdurr, you may be able to Encore it into a non-attacking move like Bulk Up, allowing you then to safely pivot into a teammate. Encore is able to generate free turns for teammates or force a switch while also keeping setup sweepers checked.",
+            "moves": [
+                [
+                    "Sunny Day",
+                    "Rain Dance"
+                ],
+                [
+                    "U-turn"
+                ],
+                [
+                    "Thunder Wave"
+                ],
+                [
+                    "Encore"
+                ]
+            ],
+            "item": [
+                " Heat Rock",
+                " Damp Rock"
+            ],
+            "ability": [
+                "Prankster"
+            ],
+            "nature": [
+                "Relaxed"
+            ],
+            "ev spread": [
+                252,
+                4,
+                252,
+                0,
+                0,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                0
+            ]
+        }
+    ],
+    "counters": [
+        "Strong Attackers",
+        "Taunt Users",
+        "Residual Damage",
+        "Opposing Weather"
+    ],
+    "credits": [
+        "Written by Aaronboyer",
+        "Quality checked by yogi, allstarapology,  and Megazard",
+        "Grammar checked by The Dutch Plumberjack and lotiasite"
+    ]
+}

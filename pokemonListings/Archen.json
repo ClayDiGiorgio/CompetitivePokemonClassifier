@@ -1,1 +1,157 @@
-{"name": "Archen", "forms": {"Base": {"base stats": [55, 112, 45, 74, 45, 70], "types": ["Rock", "Flying"], "abilities": ["Defeatist"], "tier": ["LC"], "form": "Base"}}, "overview": "Thanks to a great base 112 Attack and a good base 70 Speed, Archen is a strong offensive Pokemon in Little Cup. Its unique Rock / Flying typing also makes it a good check to Normal- and Flying-types, such as Bunnelby and Rufflet, while also giving STAB to powerful moves such as Stone Edge and Acrobatics. Archen's interesting utility movepool, which includes U-turn, Knock Off, Stealth Rock, Defog, and Roost, also allows it to support its team in various ways.\nHowever, Archen has a terrible ability in Defeatist, which halves both its Attack and Special Attack when its HP drops below half. It also suffers from a weakness to Stealth Rock, which makes it even harder to avoid falling into Defeatist range as well as to come in and remove Stealth Rock with Defog.\n", "strategies' format": "LC", "strategies": [{"name": "The Hero", "stats": [165, 305, 126, 165, 126, 247], "type": ["Rock", "Flying"], "usage": "Try to bring Archen in on free switches, such as via a slow Volt Switch or U-turn, so that it won't be forced take a hit and risk going into Defeatist range. This is especially important if it has consumed its Berry Juice already. If Archen is still holding a Berry Juice, it can be switched in to take a hit, consume its Berry Juice, and fire off a powerful move. Depending on which move is chosen, Rock Slide or Stone Edge should be used most often while Archen is still holding its Berry Juice, as Acrobatics will have a meager 55 Base Power. After Berry Juice is consumed, Acrobatics should be used the most often. Be careful of staying in on faster foes, since usually they will be able to knock Archen into Defeatist range before taking a hit, meaning they won't be taking much damage.", "moves": [["Acrobatics"], ["Rock Slide", "Head Smash"], ["Heat Wave", "Earthquake"], ["Hidden Power Grass", "Defog"]], "item": [" Berry Juice"], "ability": ["Defeatist"], "nature": ["Jolly"], "ev spread": [76, 180, 0, 0, 0, 196], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Utility", "stats": [165, 265, 145, 165, 145, 247], "type": ["Rock", "Flying"], "usage": "This set should focus on maintaining hazard control by using its high Speed to repeatedly set up or remove Stealth Rock, depending on whether Stealth Rock or Defog is used. Even though this set does not have a lot of Attack investment, Archen still has a respectable 18 Attack stat, so don't be afraid to fire off attacks. Archen can be switched in on Flying-types such as Doduo and Rufflet and proceed to go for a powerful attack or set up or remove Stealth Rock. Always avoid falling into Defeatist range, as it makes Archen significantly less threatening.", "moves": [["Stealth Rock", "Defog"], ["Rock Slide"], ["Acrobatics"], ["Earthquake", "Defog", "Knock Off"]], "item": [" Berry Juice"], "ability": ["Defeatist"], "nature": ["Jolly"], "ev spread": [76, 20, 76, 0, 76, 196], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Physically Defensive Pokemon", "Steel-types", "Water-types", "Faster Pokemon"], "credits": ["Written by Xayah", "Quality checked by Berks, Fiend,  and himeringo", "Grammar checked by Haund and P Squared"]}
+{
+    "name": "Archen",
+    "forms": {
+        "Base": {
+            "base stats": [
+                55,
+                112,
+                45,
+                74,
+                45,
+                70
+            ],
+            "types": [
+                "Rock",
+                "Flying"
+            ],
+            "abilities": [
+                "Defeatist"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Thanks to a great base 112 Attack and a good base 70 Speed, Archen is a strong offensive Pokemon in Little Cup. Its unique Rock / Flying typing also makes it a good check to Normal- and Flying-types, such as Bunnelby and Rufflet, while also giving STAB to powerful moves such as Stone Edge and Acrobatics. Archen's interesting utility movepool, which includes U-turn, Knock Off, Stealth Rock, Defog, and Roost, also allows it to support its team in various ways.\nHowever, Archen has a terrible ability in Defeatist, which halves both its Attack and Special Attack when its HP drops below half. It also suffers from a weakness to Stealth Rock, which makes it even harder to avoid falling into Defeatist range as well as to come in and remove Stealth Rock with Defog.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "The Hero",
+            "stats": [
+                165,
+                305,
+                126,
+                165,
+                126,
+                247
+            ],
+            "type": [
+                "Rock",
+                "Flying"
+            ],
+            "usage": "Try to bring Archen in on free switches, such as via a slow Volt Switch or U-turn, so that it won't be forced take a hit and risk going into Defeatist range. This is especially important if it has consumed its Berry Juice already. If Archen is still holding a Berry Juice, it can be switched in to take a hit, consume its Berry Juice, and fire off a powerful move. Depending on which move is chosen, Rock Slide or Stone Edge should be used most often while Archen is still holding its Berry Juice, as Acrobatics will have a meager 55 Base Power. After Berry Juice is consumed, Acrobatics should be used the most often. Be careful of staying in on faster foes, since usually they will be able to knock Archen into Defeatist range before taking a hit, meaning they won't be taking much damage.",
+            "moves": [
+                [
+                    "Acrobatics"
+                ],
+                [
+                    "Rock Slide",
+                    "Head Smash"
+                ],
+                [
+                    "Heat Wave",
+                    "Earthquake"
+                ],
+                [
+                    "Hidden Power Grass",
+                    "Defog"
+                ]
+            ],
+            "item": [
+                " Berry Juice"
+            ],
+            "ability": [
+                "Defeatist"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                76,
+                180,
+                0,
+                0,
+                0,
+                196
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Utility",
+            "stats": [
+                165,
+                265,
+                145,
+                165,
+                145,
+                247
+            ],
+            "type": [
+                "Rock",
+                "Flying"
+            ],
+            "usage": "This set should focus on maintaining hazard control by using its high Speed to repeatedly set up or remove Stealth Rock, depending on whether Stealth Rock or Defog is used. Even though this set does not have a lot of Attack investment, Archen still has a respectable 18 Attack stat, so don't be afraid to fire off attacks. Archen can be switched in on Flying-types such as Doduo and Rufflet and proceed to go for a powerful attack or set up or remove Stealth Rock. Always avoid falling into Defeatist range, as it makes Archen significantly less threatening.",
+            "moves": [
+                [
+                    "Stealth Rock",
+                    "Defog"
+                ],
+                [
+                    "Rock Slide"
+                ],
+                [
+                    "Acrobatics"
+                ],
+                [
+                    "Earthquake",
+                    "Defog",
+                    "Knock Off"
+                ]
+            ],
+            "item": [
+                " Berry Juice"
+            ],
+            "ability": [
+                "Defeatist"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                76,
+                20,
+                76,
+                0,
+                76,
+                196
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Physically Defensive Pokemon",
+        "Steel-types",
+        "Water-types",
+        "Faster Pokemon"
+    ],
+    "credits": [
+        "Written by Xayah",
+        "Quality checked by Berks, Fiend,  and himeringo",
+        "Grammar checked by Haund and P Squared"
+    ]
+}

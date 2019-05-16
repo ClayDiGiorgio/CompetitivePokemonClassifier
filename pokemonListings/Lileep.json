@@ -1,1 +1,100 @@
-{"name": "Lileep", "forms": {"Base": {"base stats": [66, 41, 77, 61, 87, 23], "types": ["Rock", "Grass"], "abilities": ["Storm Drain", "Suction Cups"], "tier": ["LC"], "form": "Base"}}, "overview": "Lileep is arguably one of the best Water-type checks in LC. It has access to Storm Drain, a very handy tool that lets it absorb Water-type moves and boost its already decent Special Attack by one stage; this allows it to check the majority of Water-types in the tier, such as Chinchou, Mareanie, Tirtouga, and Corphish. It also sports impressive natural bulk that is further boosted by Eviolite, which lets it switch in on moves that are weak or resisted with ease. Furthermore, it has access to Stealth Rock, which is very useful for weakening the opposing team, and Lileep can easily set it up thanks to its bulk and its ability. On top of that, Giga Drain and Recover grant it solid forms of recovery and the ability to stay around for much longer. However, like most defensive Pokemon, Lileep has poor Speed, meaning that it will almost always take a hit before moving, and despite its decent Special Attack, it suffers from mediocre damage output, even after a Storm Drain boost. While it has impressive bulk, its typing leaves it weak to common Steel-, Fighting-, and Ice-type moves, with that last weakness being quite a nuisance because almost any Water-type that Lileep checks tends to carry Ice Beam. Finally, its tanking abilities are severely hindered by both Knock Off and Toxic.\n", "strategies' format": "LC", "strategies": [{"name": "Tank", "stats": [185, 106, 269, 185, 225, 85], "type": ["Rock", "Grass"], "usage": "Lileep can be directly switched in on Water-type moves because of its ability. It can come in on a plethora of Water-types, such as Chinchou, Mareanie, Tirtouga, Corphish ( though it dislikes Knock Off), and Carvanha. It can also check Foongus, Ponyta, and Ferroseed\u2014be wary of Iron Head and Knock Off though\u2014and can easily set up Stealth Rock on any of them. Recover should be used on any predicted switch, as it restores Lileep's health, allowing it to stay around for longer; Lileep has no trouble pulling Recover off thanks to its unique set of resistances. When facing a Water-type, Lileep should prioritize setting up Stealth Rock because it can afford to take an Ice Beam. After Stealth Rock has been set up, Lileep should either switch out or start using Giga Drain to restore its health. Note that a boosted Giga Drain can hit the majority of Water-types hard. Be wary of set up sweepers like Scraggy, Timburr, and Spritzee coming in on Lileep and starting to set up, as Lileep can't do anything to stop them and this could potentially allow them to sweep your entire team.", "moves": [["Recover"], ["Giga Drain"], ["Stealth Rock"], ["Ancient Power", "Earth Power", "Toxic"]], "item": [" Eviolite"], "ability": ["Storm Drain"], "nature": ["Bold"], "ev spread": [68, 0, 220, 108, 60, 12], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Steel-types", "Fighting-types", "Grass-types", "Setup Sweepers", "Toxic Poison"], "credits": ["Written by Alolan Dusky", "Quality checked by Xayah, OP,  and Hilomilo", "Grammar checked by Kris and CryoGyro"]}
+{
+    "name": "Lileep",
+    "forms": {
+        "Base": {
+            "base stats": [
+                66,
+                41,
+                77,
+                61,
+                87,
+                23
+            ],
+            "types": [
+                "Rock",
+                "Grass"
+            ],
+            "abilities": [
+                "Storm Drain",
+                "Suction Cups"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Lileep is arguably one of the best Water-type checks in LC. It has access to Storm Drain, a very handy tool that lets it absorb Water-type moves and boost its already decent Special Attack by one stage; this allows it to check the majority of Water-types in the tier, such as Chinchou, Mareanie, Tirtouga, and Corphish. It also sports impressive natural bulk that is further boosted by Eviolite, which lets it switch in on moves that are weak or resisted with ease. Furthermore, it has access to Stealth Rock, which is very useful for weakening the opposing team, and Lileep can easily set it up thanks to its bulk and its ability. On top of that, Giga Drain and Recover grant it solid forms of recovery and the ability to stay around for much longer. However, like most defensive Pokemon, Lileep has poor Speed, meaning that it will almost always take a hit before moving, and despite its decent Special Attack, it suffers from mediocre damage output, even after a Storm Drain boost. While it has impressive bulk, its typing leaves it weak to common Steel-, Fighting-, and Ice-type moves, with that last weakness being quite a nuisance because almost any Water-type that Lileep checks tends to carry Ice Beam. Finally, its tanking abilities are severely hindered by both Knock Off and Toxic.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Tank",
+            "stats": [
+                185,
+                106,
+                269,
+                185,
+                225,
+                85
+            ],
+            "type": [
+                "Rock",
+                "Grass"
+            ],
+            "usage": "Lileep can be directly switched in on Water-type moves because of its ability. It can come in on a plethora of Water-types, such as Chinchou, Mareanie, Tirtouga, Corphish ( though it dislikes Knock Off), and Carvanha. It can also check Foongus, Ponyta, and Ferroseed\u2014be wary of Iron Head and Knock Off though\u2014and can easily set up Stealth Rock on any of them. Recover should be used on any predicted switch, as it restores Lileep's health, allowing it to stay around for longer; Lileep has no trouble pulling Recover off thanks to its unique set of resistances. When facing a Water-type, Lileep should prioritize setting up Stealth Rock because it can afford to take an Ice Beam. After Stealth Rock has been set up, Lileep should either switch out or start using Giga Drain to restore its health. Note that a boosted Giga Drain can hit the majority of Water-types hard. Be wary of set up sweepers like Scraggy, Timburr, and Spritzee coming in on Lileep and starting to set up, as Lileep can't do anything to stop them and this could potentially allow them to sweep your entire team.",
+            "moves": [
+                [
+                    "Recover"
+                ],
+                [
+                    "Giga Drain"
+                ],
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Ancient Power",
+                    "Earth Power",
+                    "Toxic"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Storm Drain"
+            ],
+            "nature": [
+                "Bold"
+            ],
+            "ev spread": [
+                68,
+                0,
+                220,
+                108,
+                60,
+                12
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Steel-types",
+        "Fighting-types",
+        "Grass-types",
+        "Setup Sweepers",
+        "Toxic Poison"
+    ],
+    "credits": [
+        "Written by Alolan Dusky",
+        "Quality checked by Xayah, OP,  and Hilomilo",
+        "Grammar checked by Kris and CryoGyro"
+    ]
+}

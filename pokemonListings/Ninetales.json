@@ -1,1 +1,150 @@
-{"name": "Ninetales", "forms": {"Base": {"base stats": [73, 76, 75, 81, 100, 100], "types": ["Fire"], "abilities": ["Drought", "Flash Fire"], "tier": ["RU"], "form": "Base"}}, "overview": "Ninetales is a threatening wallbreaker thanks to its Drought ability and ability to threaten switch ins with Nasty Plot or Choice Specs. It also gets great coverage Solar Beam to beat Water- and Rock-types and Hidden Power Ice for Noivern and Flygon. Also, Drought combined with its good special bulk makes Ninetales more effective against Water-types than any of its competitors. However, while Ninetales has decent Speed, it still is vulnerable to faster attackers such as Zygarde-10% and Choice Scarf Tyrantrum, which can revenge kill it. Ninetales also faces stiff competition from similar attackers like Salazzle, which can also utilize Nasty Plot and has better Speed, better Special Attack, and a secondary type for coverage.\n", "strategies' format": "RU", "strategies": [{"name": "Nasty Plot Wallbreaker", "stats": [182, 169, 186, 261, 237, 328], "type": ["Fire"], "usage": "Do not directly switch Ninetales into any neutral attacks, as that will hinder its ability to set up at a later point. Only attempt to set up against Pokemon that can't hurt Ninetales like Fairy-types such as Florges and weaker Grass-types such as Chesnaught. Ninetales can also use passive walls like Registeel and Umbreon as setup fodder, but watch out for status like Toxic or Thunder Wave. Before all this you need to make sure answers like Thick Fat Snorlax are removed before attempting to sweep. Having your own Stealth Rock or Spikes on the field greatly improves Ninetales's ability to wallbreak. Finally, utilizing slow U-turn or Volt Switch users gives you more opportunities to safely come in and set up.", "moves": [["Nasty Plot"], ["Fire Blast"], ["Solar Beam"], ["Hidden Power Ice"]], "item": [" Firium Z"], "ability": ["Drought"], "nature": ["Timid"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Choice Specs", "stats": [182, 169, 186, 261, 237, 328], "type": ["Fire"], "usage": "Choice Specs Ninetales should mainly be used to wallbreak early- and mid-game, since this can pave the way for a teammate to have an easier time finishing the opposing team off late-game. Switching Ninetales in on stronger, neutral attacks from Pokemon like Gardevoir is ill advised, especially if Stealth Rock is on its side of the field, due to it lacking the bulk to handle stronger attacks and this cutting into its longevity; however, Ninetales can switch in on weaker or resisted attacks from Pokemon such as Mandibuzz and Vanilluxe. The ideal methods of getting Ninetales in are on predicted double switches to Pokemon like Mega Steelix and Rotom-C, through the use of U-turn or Volt Switch, and after a teammate has been KOed in order to revenge kill the foe. Since Ninetales is Choice locked, prediction plays a major role in it succeeding at wallbreaking; for example, if it predicts a Water- or Rock-type to switch in, it should use Solar Beam. Once these Pokemon have been removed, Ninetales is freer to spam its STAB moves. Ninetales can also take advantage of the switches it forces by doubling into a teammate that can take advantage of the Pokemon that switched in, like Virizion against Pokemon like Gigalith. Exercise caution when using Overheat if the opponent has a Pokemon like Feraligatr or Barbaracle that can take advantage of Ninetales being locked into it.", "moves": [["Overheat"], ["Fire Blast", "Flamethrower"], ["Solar Beam"], ["Hidden Power Ice"]], "item": [" Choice Specs"], "ability": ["Drought"], "nature": ["Timid"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Special Tanks", "Faster Attackers", "Rock-types", "Residual Damage and Status"], "credits": ["Written by rhydonphilip and allstarapology", "Quality checked by avocado, EonX, phantom, roman,  and Rakan", "Grammar checked by Lemonade, The Dutch Plumberjack,  and A Cake Wearing A Hat"]}
+{
+    "name": "Ninetales",
+    "forms": {
+        "Base": {
+            "base stats": [
+                73,
+                76,
+                75,
+                81,
+                100,
+                100
+            ],
+            "types": [
+                "Fire"
+            ],
+            "abilities": [
+                "Drought",
+                "Flash Fire"
+            ],
+            "tier": [
+                "RU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Ninetales is a threatening wallbreaker thanks to its Drought ability and ability to threaten switch ins with Nasty Plot or Choice Specs. It also gets great coverage Solar Beam to beat Water- and Rock-types and Hidden Power Ice for Noivern and Flygon. Also, Drought combined with its good special bulk makes Ninetales more effective against Water-types than any of its competitors. However, while Ninetales has decent Speed, it still is vulnerable to faster attackers such as Zygarde-10% and Choice Scarf Tyrantrum, which can revenge kill it. Ninetales also faces stiff competition from similar attackers like Salazzle, which can also utilize Nasty Plot and has better Speed, better Special Attack, and a secondary type for coverage.\n",
+    "strategies' format": "RU",
+    "strategies": [
+        {
+            "name": "Nasty Plot Wallbreaker",
+            "stats": [
+                182,
+                169,
+                186,
+                261,
+                237,
+                328
+            ],
+            "type": [
+                "Fire"
+            ],
+            "usage": "Do not directly switch Ninetales into any neutral attacks, as that will hinder its ability to set up at a later point. Only attempt to set up against Pokemon that can't hurt Ninetales like Fairy-types such as Florges and weaker Grass-types such as Chesnaught. Ninetales can also use passive walls like Registeel and Umbreon as setup fodder, but watch out for status like Toxic or Thunder Wave. Before all this you need to make sure answers like Thick Fat Snorlax are removed before attempting to sweep. Having your own Stealth Rock or Spikes on the field greatly improves Ninetales's ability to wallbreak. Finally, utilizing slow U-turn or Volt Switch users gives you more opportunities to safely come in and set up.",
+            "moves": [
+                [
+                    "Nasty Plot"
+                ],
+                [
+                    "Fire Blast"
+                ],
+                [
+                    "Solar Beam"
+                ],
+                [
+                    "Hidden Power Ice"
+                ]
+            ],
+            "item": [
+                " Firium Z"
+            ],
+            "ability": [
+                "Drought"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Choice Specs",
+            "stats": [
+                182,
+                169,
+                186,
+                261,
+                237,
+                328
+            ],
+            "type": [
+                "Fire"
+            ],
+            "usage": "Choice Specs Ninetales should mainly be used to wallbreak early- and mid-game, since this can pave the way for a teammate to have an easier time finishing the opposing team off late-game. Switching Ninetales in on stronger, neutral attacks from Pokemon like Gardevoir is ill advised, especially if Stealth Rock is on its side of the field, due to it lacking the bulk to handle stronger attacks and this cutting into its longevity; however, Ninetales can switch in on weaker or resisted attacks from Pokemon such as Mandibuzz and Vanilluxe. The ideal methods of getting Ninetales in are on predicted double switches to Pokemon like Mega Steelix and Rotom-C, through the use of U-turn or Volt Switch, and after a teammate has been KOed in order to revenge kill the foe. Since Ninetales is Choice locked, prediction plays a major role in it succeeding at wallbreaking; for example, if it predicts a Water- or Rock-type to switch in, it should use Solar Beam. Once these Pokemon have been removed, Ninetales is freer to spam its STAB moves. Ninetales can also take advantage of the switches it forces by doubling into a teammate that can take advantage of the Pokemon that switched in, like Virizion against Pokemon like Gigalith. Exercise caution when using Overheat if the opponent has a Pokemon like Feraligatr or Barbaracle that can take advantage of Ninetales being locked into it.",
+            "moves": [
+                [
+                    "Overheat"
+                ],
+                [
+                    "Fire Blast",
+                    "Flamethrower"
+                ],
+                [
+                    "Solar Beam"
+                ],
+                [
+                    "Hidden Power Ice"
+                ]
+            ],
+            "item": [
+                " Choice Specs"
+            ],
+            "ability": [
+                "Drought"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Special Tanks",
+        "Faster Attackers",
+        "Rock-types",
+        "Residual Damage and Status"
+    ],
+    "credits": [
+        "Written by rhydonphilip and allstarapology",
+        "Quality checked by avocado, EonX, phantom, roman,  and Rakan",
+        "Grammar checked by Lemonade, The Dutch Plumberjack,  and A Cake Wearing A Hat"
+    ]
+}

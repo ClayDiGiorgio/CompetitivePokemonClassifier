@@ -1,1 +1,97 @@
-{"name": "Lurantis", "forms": {"Base": {"base stats": [70, 105, 90, 80, 90, 45], "types": ["Grass"], "abilities": ["Contrary", "Leaf Guard"], "tier": ["PU"], "form": "Base"}}, "overview": "Lurantis is a good utility choice for teams with its decent defensive typing, good support options, access to the ability Contrary, access to recovery, and most importantly access to Defog. A pure Grass typing and decent mixed defenses make Lurantis a sought-after switch-in for attacking types such as Ground, Electric, and Water while also giving it good matchups against many Stealth Rock setters such as Regirock. Additionally, access to Defog gives Lurantis the ability to remove entry hazards from the playing field for its teammates. On top of all of that, Lurantis is not as passive as some other Defog users, as it has a strong STAB option in the form of Leaf Storm and the ability to raise its Special Attack through Contrary. However, Lurantis faces strong competition from other hazard removers such as Skuntank and Hitmonchan, which generally have more utility, such as priority or simply the ability to absorb Toxic Spikes, and are immediately more threatening by being more powerful and faster. Lurantis also struggles with weaknesses to common attacking types, such as Fire and Flying from threats like Simisear and Oricorio-G, reliance on low-PP moves like Leaf Storm and Synthesis, and susceptibility to residual damage from the hazards it is trying to remove, especially Toxic Spikes.\n", "strategies' format": "PU", "strategies": [{"name": "Defog", "stats": [238, 221, 306, 198, 216, 126], "type": ["Grass"], "usage": "Lurantis should be kept as healthy as possible to remove as many entry hazards as possible throughout the match. As a result, playing conservatively and using Synthesis whenever Lurantis is below 50% health is recommended. The best time to bring in Lurantis is either against a resisted move, like Golurk's Earthquake, or with a slow U-turn or Volt Switch from a teammate like Mesprit or Lanturn. Using Defog on a turn where Lurantis forces a switch is ideal, but Defogging on an opposing Pokemon that cannot do more damage than Lurantis can heal with Synthesis is also acceptable. It is important to remember that, even with Leaf Storm, Lurantis is not a wallbreaker or sweeper. The boosted Special Attack very rarely results in a sweep and instead finds a primary purpose in warding away less bulky attackers that may want to try and set up or other threats that may try to take advantage of Lurantis's perceived passivity such as Gurdurr. Lurantis is forced out by many threats in the tier, so making use of the turn that Lurantis is out by predicting threats to switch in and using the appropriate move is key to Lurantis's success.", "moves": [["Defog"], ["Leaf Storm"], ["Superpower", "Toxic"], ["Synthesis"]], "item": [" Leftovers"], "ability": ["Contrary"], "nature": ["Bold"], "ev spread": [248, 0, 252, 8, 0, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Fire-types", "Flying-types", "Poison-types", "Toxic Spikes", "Strong Attackers"], "credits": ["Written by Akir", "Quality checked by Megazard, yogi,  and UberSkitty", "Grammar checked by lotiasite and The Dutch Plumberjack"]}
+{
+    "name": "Lurantis",
+    "forms": {
+        "Base": {
+            "base stats": [
+                70,
+                105,
+                90,
+                80,
+                90,
+                45
+            ],
+            "types": [
+                "Grass"
+            ],
+            "abilities": [
+                "Contrary",
+                "Leaf Guard"
+            ],
+            "tier": [
+                "PU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Lurantis is a good utility choice for teams with its decent defensive typing, good support options, access to the ability Contrary, access to recovery, and most importantly access to Defog. A pure Grass typing and decent mixed defenses make Lurantis a sought-after switch-in for attacking types such as Ground, Electric, and Water while also giving it good matchups against many Stealth Rock setters such as Regirock. Additionally, access to Defog gives Lurantis the ability to remove entry hazards from the playing field for its teammates. On top of all of that, Lurantis is not as passive as some other Defog users, as it has a strong STAB option in the form of Leaf Storm and the ability to raise its Special Attack through Contrary. However, Lurantis faces strong competition from other hazard removers such as Skuntank and Hitmonchan, which generally have more utility, such as priority or simply the ability to absorb Toxic Spikes, and are immediately more threatening by being more powerful and faster. Lurantis also struggles with weaknesses to common attacking types, such as Fire and Flying from threats like Simisear and Oricorio-G, reliance on low-PP moves like Leaf Storm and Synthesis, and susceptibility to residual damage from the hazards it is trying to remove, especially Toxic Spikes.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Defog",
+            "stats": [
+                238,
+                221,
+                306,
+                198,
+                216,
+                126
+            ],
+            "type": [
+                "Grass"
+            ],
+            "usage": "Lurantis should be kept as healthy as possible to remove as many entry hazards as possible throughout the match. As a result, playing conservatively and using Synthesis whenever Lurantis is below 50% health is recommended. The best time to bring in Lurantis is either against a resisted move, like Golurk's Earthquake, or with a slow U-turn or Volt Switch from a teammate like Mesprit or Lanturn. Using Defog on a turn where Lurantis forces a switch is ideal, but Defogging on an opposing Pokemon that cannot do more damage than Lurantis can heal with Synthesis is also acceptable. It is important to remember that, even with Leaf Storm, Lurantis is not a wallbreaker or sweeper. The boosted Special Attack very rarely results in a sweep and instead finds a primary purpose in warding away less bulky attackers that may want to try and set up or other threats that may try to take advantage of Lurantis's perceived passivity such as Gurdurr. Lurantis is forced out by many threats in the tier, so making use of the turn that Lurantis is out by predicting threats to switch in and using the appropriate move is key to Lurantis's success.",
+            "moves": [
+                [
+                    "Defog"
+                ],
+                [
+                    "Leaf Storm"
+                ],
+                [
+                    "Superpower",
+                    "Toxic"
+                ],
+                [
+                    "Synthesis"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Contrary"
+            ],
+            "nature": [
+                "Bold"
+            ],
+            "ev spread": [
+                248,
+                0,
+                252,
+                8,
+                0,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Fire-types",
+        "Flying-types",
+        "Poison-types",
+        "Toxic Spikes",
+        "Strong Attackers"
+    ],
+    "credits": [
+        "Written by Akir",
+        "Quality checked by Megazard, yogi,  and UberSkitty",
+        "Grammar checked by lotiasite and The Dutch Plumberjack"
+    ]
+}

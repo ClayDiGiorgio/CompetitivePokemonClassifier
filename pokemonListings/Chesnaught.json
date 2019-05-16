@@ -1,1 +1,99 @@
-{"name": "Chesnaught", "forms": {"Base": {"base stats": [88, 107, 122, 74, 75, 64], "types": ["Grass", "Fighting"], "abilities": ["Bulletproof", "Overgrow"], "tier": ["UU"], "form": "Base"}}, "overview": "Chesnaught is a reliable physically bulky Spikes user that has access to recovery in Synthesis, enabling it to get the entry hazard up several times in a game. Bulletproof helps it out defensively, providing it with immunities to common moves such as Gengar and Chandelure's Shadow Ball and Stakataka's Gyro Ball. Its Grass / Fighting typing combined with Chesnaught's high Defense helps it switch into several key physical attackers such as Krookodile, Zeraora, and Bisharp. However, while this typing helps Chesnaught greatly against many physical threats, it also leaves Chesnaught critically weak to several powerful attackers such as Latias, Togekiss, Moltres, and Mega Altaria. This, combined with its passivity, gives several free turns to threatening setup sweepers like Calm Mind Latias, Swords Dance Scizor, and Dragon Dance Mega Altaria. Furthermore, while Chesnaught offers several utility options and more physical bulk, it still competes with Klefki as a Spiker, which is faster, has access to Prankster and a variety of status moves, and has a typing that can check threatening Dragon-types.\n", "strategies' format": "UU", "strategies": [{"name": "Spikes", "stats": [273, 250, 377, 165, 186, 167], "type": ["Grass", "Fighting"], "usage": "Chesnaught can be switched into physical attackers that fail to substantially damage it, such as Bisharp, Krookodile, and Crawdaunt, to generate free turns as they're forced out. Chesnaught can take advantage of free turns to either heal itself or set up Spikes, which can punish the switches that Chesnaught forces by virtue of its typing and physical bulk. Synthesis should be used to maintain Chesnaught's HP if it's needed to check a threatening physical attacker such as Crawdaunt and Zeraora, but it has low PP, so being aware of this and preserving it for when it's necessary ensures Chesnaught has the best matchup against key physical wallbreakers. Chesnaught should utilize Drain Punch consistently due to its good neutral coverage against foes it switches into like Zeraora. It is also optimal to use it against foes such as Krookodile and Crawdaunt to prevent Chesnaught from being worn down through recoil if it can be avoided. Chesnaught is extremely passive and does not have much offensive presence, so it should be wary of letting setup sweepers in. However, if it is running Roar, it can phaze them. Roar can also be used to phaze entry hazard removers predicted to switch in, such as Moltres, Rotom-H, and Tentacruel, to prevent them from being able to remove Chesnaught's Spikes and force them to take more damage from entry hazards when switching back in. Leech Seed should also be used liberally if being run; Leech Seed and Leftovers recovery can help to keep Chesnaught healthy without being forced to rely on Synthesis as much. If a foe is predicted to switch out, using Leech Seed consistently helps to wear switch-ins down and punish them. Status can burden Chesnaught greatly, particularly Toxic poison and burn, so being wary of potential Toxic users like Alomomola and Blissey and Scald users such as Suicune and Empoleon can keep Chesnaught clear of status. Without cleric support, switching Chesnaught into these Pokemon, despite its typing and resistances, can cripple it for the remainder of the game.", "moves": [["Spikes"], ["Wood Hammer", "Roar"], ["Drain Punch"], ["Synthesis"]], "item": [" Leftovers", " Rocky Helmet"], "ability": ["Bulletproof"], "nature": ["Impish"], "ev spread": [244, 0, 252, 0, 0, 12], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Flying-types", "Fire-types", "Fairy-types", "Setup Sweepers"], "credits": ["Written by martha", "Quality checked by Hilomilo, Surgeon,  and Nuked", "Grammar checked by The Dutch Plumberjack and A Cake Wearing A Hat"]}
+{
+    "name": "Chesnaught",
+    "forms": {
+        "Base": {
+            "base stats": [
+                88,
+                107,
+                122,
+                74,
+                75,
+                64
+            ],
+            "types": [
+                "Grass",
+                "Fighting"
+            ],
+            "abilities": [
+                "Bulletproof",
+                "Overgrow"
+            ],
+            "tier": [
+                "UU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Chesnaught is a reliable physically bulky Spikes user that has access to recovery in Synthesis, enabling it to get the entry hazard up several times in a game. Bulletproof helps it out defensively, providing it with immunities to common moves such as Gengar and Chandelure's Shadow Ball and Stakataka's Gyro Ball. Its Grass / Fighting typing combined with Chesnaught's high Defense helps it switch into several key physical attackers such as Krookodile, Zeraora, and Bisharp. However, while this typing helps Chesnaught greatly against many physical threats, it also leaves Chesnaught critically weak to several powerful attackers such as Latias, Togekiss, Moltres, and Mega Altaria. This, combined with its passivity, gives several free turns to threatening setup sweepers like Calm Mind Latias, Swords Dance Scizor, and Dragon Dance Mega Altaria. Furthermore, while Chesnaught offers several utility options and more physical bulk, it still competes with Klefki as a Spiker, which is faster, has access to Prankster and a variety of status moves, and has a typing that can check threatening Dragon-types.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Spikes",
+            "stats": [
+                273,
+                250,
+                377,
+                165,
+                186,
+                167
+            ],
+            "type": [
+                "Grass",
+                "Fighting"
+            ],
+            "usage": "Chesnaught can be switched into physical attackers that fail to substantially damage it, such as Bisharp, Krookodile, and Crawdaunt, to generate free turns as they're forced out. Chesnaught can take advantage of free turns to either heal itself or set up Spikes, which can punish the switches that Chesnaught forces by virtue of its typing and physical bulk. Synthesis should be used to maintain Chesnaught's HP if it's needed to check a threatening physical attacker such as Crawdaunt and Zeraora, but it has low PP, so being aware of this and preserving it for when it's necessary ensures Chesnaught has the best matchup against key physical wallbreakers. Chesnaught should utilize Drain Punch consistently due to its good neutral coverage against foes it switches into like Zeraora. It is also optimal to use it against foes such as Krookodile and Crawdaunt to prevent Chesnaught from being worn down through recoil if it can be avoided. Chesnaught is extremely passive and does not have much offensive presence, so it should be wary of letting setup sweepers in. However, if it is running Roar, it can phaze them. Roar can also be used to phaze entry hazard removers predicted to switch in, such as Moltres, Rotom-H, and Tentacruel, to prevent them from being able to remove Chesnaught's Spikes and force them to take more damage from entry hazards when switching back in. Leech Seed should also be used liberally if being run; Leech Seed and Leftovers recovery can help to keep Chesnaught healthy without being forced to rely on Synthesis as much. If a foe is predicted to switch out, using Leech Seed consistently helps to wear switch-ins down and punish them. Status can burden Chesnaught greatly, particularly Toxic poison and burn, so being wary of potential Toxic users like Alomomola and Blissey and Scald users such as Suicune and Empoleon can keep Chesnaught clear of status. Without cleric support, switching Chesnaught into these Pokemon, despite its typing and resistances, can cripple it for the remainder of the game.",
+            "moves": [
+                [
+                    "Spikes"
+                ],
+                [
+                    "Wood Hammer",
+                    "Roar"
+                ],
+                [
+                    "Drain Punch"
+                ],
+                [
+                    "Synthesis"
+                ]
+            ],
+            "item": [
+                " Leftovers",
+                " Rocky Helmet"
+            ],
+            "ability": [
+                "Bulletproof"
+            ],
+            "nature": [
+                "Impish"
+            ],
+            "ev spread": [
+                244,
+                0,
+                252,
+                0,
+                0,
+                12
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Flying-types",
+        "Fire-types",
+        "Fairy-types",
+        "Setup Sweepers"
+    ],
+    "credits": [
+        "Written by martha",
+        "Quality checked by Hilomilo, Surgeon,  and Nuked",
+        "Grammar checked by The Dutch Plumberjack and A Cake Wearing A Hat"
+    ]
+}

@@ -1,1 +1,98 @@
-{"name": "Munchlax", "forms": {"Base": {"base stats": [135, 85, 40, 40, 85, 5], "types": ["Normal"], "abilities": ["Gluttony", "Pickup", "Thick Fat"], "tier": ["LC"], "form": "Base"}}, "overview": "Munchlax is an effective stop to many powerful special attackers such as Lilligant, Choice Specs Jellicent, and Aurorus thanks to its immense HP, decent Special Defense, and access to Thick Fat. Munchlax can also check weaker physical attackers like defensive Alolan Sandslash and Regirock despite its low base Defense courtesy of Eviolite and investment. These defensive attributes grant Munchlax several opportunities to either fire off an attack or cripple the opposing team with Toxic. However, even though the combination of Earthquake and Toxic covers a wide array of Pokemon, Munchlax is very passive due to its mediocre Attack and abysmal Speed. This in conjunction with Munchlax's reliance on Rest for recovery often makes Munchlax exploitable by setup sweepers and physical wallbreakers such as Dodrio, Gurdurr, and Stoutland. Gurdurr and Stoutland are also able to benefit from Toxic due to Guts and Facade, respectively. Munchlax's reliance on Eviolite means it can't viably run Leftovers for passive recovery and is highly susceptible to Knock Off from Pokemon like Eelektross and Kabutops. Finally, Munchlax faces immense competition from Type: Null, which has higher overall stats and access to moves such as Swords Dance, Iron Defense, and U-turn, allowing it to apply more offensive pressure, check a wider array of Pokemon, or provide momentum for its team.\n", "strategies' format": "PU", "strategies": [{"name": "Specially Defensive Wall", "stats": [307, 206, 179, 104, 295, 46], "type": ["Normal"], "usage": "Munchlax can pivot into various special attackers, including Aurorus, Mesprit, and Swanna, as well as weaker physical attackers such as Regirock. Against such Pokemon, Munchlax is free to use either Earthquake to deal damage or Toxic to cripple checks such as Hitmonchan and Sableye. Earthquake in particular is best utilized to heavily damage predicted switch-ins like Aggron and Lycanroc, which would otherwise come in for free and take advantage of Munchlax. Munchlax should maintain a high amount of HP so it can consistently pivot into attackers; however, exercise caution when using Rest, as being asleep drastically increases Munchlax's passivity and gives setup sweepers like Dodrio and Alolan Sandslash much more leeway. Keeping Munchlax's item intact is imperative to its success, as it's far more difficult to check Pokemon like Aurorus and Lilligant without it. While Munchlax can take hits from Pokemon like offensive Jellicent, Mesprit, and Manectric, they are all viable users of Trick and Switcheroo, which can completely disable Munchlax. Similarly, Munchlax should be cautious of Z-Moves and coverage moves such as Omastar's Hydro Vortex and Simisear's Focus Blast, which threaten to power through a weakened Munchlax.", "moves": [["Toxic"], ["Earthquake"], ["Rest"], ["Sleep Talk"]], "item": [" Eviolite"], "ability": ["Thick Fat"], "nature": ["Careful"], "ev spread": [4, 0, 252, 0, 252, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Strong Physical Attackers", "Fighting-types", "Eviolite Removal", "Taunt", "Setup Sweepers"], "credits": ["Written by tondas", "Earlier versions by yogi", "Quality checked by TJ, TONE,  and Megazard", "Grammar checked by Electrolyte and The Dutch Plumberjack"]}
+{
+    "name": "Munchlax",
+    "forms": {
+        "Base": {
+            "base stats": [
+                135,
+                85,
+                40,
+                40,
+                85,
+                5
+            ],
+            "types": [
+                "Normal"
+            ],
+            "abilities": [
+                "Gluttony",
+                "Pickup",
+                "Thick Fat"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Munchlax is an effective stop to many powerful special attackers such as Lilligant, Choice Specs Jellicent, and Aurorus thanks to its immense HP, decent Special Defense, and access to Thick Fat. Munchlax can also check weaker physical attackers like defensive Alolan Sandslash and Regirock despite its low base Defense courtesy of Eviolite and investment. These defensive attributes grant Munchlax several opportunities to either fire off an attack or cripple the opposing team with Toxic. However, even though the combination of Earthquake and Toxic covers a wide array of Pokemon, Munchlax is very passive due to its mediocre Attack and abysmal Speed. This in conjunction with Munchlax's reliance on Rest for recovery often makes Munchlax exploitable by setup sweepers and physical wallbreakers such as Dodrio, Gurdurr, and Stoutland. Gurdurr and Stoutland are also able to benefit from Toxic due to Guts and Facade, respectively. Munchlax's reliance on Eviolite means it can't viably run Leftovers for passive recovery and is highly susceptible to Knock Off from Pokemon like Eelektross and Kabutops. Finally, Munchlax faces immense competition from Type: Null, which has higher overall stats and access to moves such as Swords Dance, Iron Defense, and U-turn, allowing it to apply more offensive pressure, check a wider array of Pokemon, or provide momentum for its team.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Specially Defensive Wall",
+            "stats": [
+                307,
+                206,
+                179,
+                104,
+                295,
+                46
+            ],
+            "type": [
+                "Normal"
+            ],
+            "usage": "Munchlax can pivot into various special attackers, including Aurorus, Mesprit, and Swanna, as well as weaker physical attackers such as Regirock. Against such Pokemon, Munchlax is free to use either Earthquake to deal damage or Toxic to cripple checks such as Hitmonchan and Sableye. Earthquake in particular is best utilized to heavily damage predicted switch-ins like Aggron and Lycanroc, which would otherwise come in for free and take advantage of Munchlax. Munchlax should maintain a high amount of HP so it can consistently pivot into attackers; however, exercise caution when using Rest, as being asleep drastically increases Munchlax's passivity and gives setup sweepers like Dodrio and Alolan Sandslash much more leeway. Keeping Munchlax's item intact is imperative to its success, as it's far more difficult to check Pokemon like Aurorus and Lilligant without it. While Munchlax can take hits from Pokemon like offensive Jellicent, Mesprit, and Manectric, they are all viable users of Trick and Switcheroo, which can completely disable Munchlax. Similarly, Munchlax should be cautious of Z-Moves and coverage moves such as Omastar's Hydro Vortex and Simisear's Focus Blast, which threaten to power through a weakened Munchlax.",
+            "moves": [
+                [
+                    "Toxic"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Rest"
+                ],
+                [
+                    "Sleep Talk"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Thick Fat"
+            ],
+            "nature": [
+                "Careful"
+            ],
+            "ev spread": [
+                4,
+                0,
+                252,
+                0,
+                252,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Strong Physical Attackers",
+        "Fighting-types",
+        "Eviolite Removal",
+        "Taunt",
+        "Setup Sweepers"
+    ],
+    "credits": [
+        "Written by tondas",
+        "Earlier versions by yogi",
+        "Quality checked by TJ, TONE,  and Megazard",
+        "Grammar checked by Electrolyte and The Dutch Plumberjack"
+    ]
+}

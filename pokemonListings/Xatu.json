@@ -1,1 +1,99 @@
-{"name": "Xatu", "forms": {"Base": {"base stats": [65, 75, 70, 95, 70, 95], "types": ["Psychic", "Flying"], "abilities": ["Early Bird", "Magic Bounce", "Synchronize"], "tier": ["NU"], "form": "Base"}}, "overview": "Access to Magic Bounce lets Xatu block entry hazards from defensive Stealth Rock users, mainly the omnipresent Registeel as well as Bronzong. While Xatu struggles to switch directly into offensive hazard setters like Metagross and Roserade due to mediocre bulk, it still beats them one-on-one and forces prediction with the threat of Magic Bounce. Xatu's fantastic movepool also gives it the option to further support its team with U-turn or pose a massive threat to passive teams with Calm Mind in its last moveslot. However, Xatu is very matchup reliant. It fails to consistently beat offensive hazard setters, and its mediocre stats and defensive typing prevent it from threatening offensive teams with Calm Mind, meaning it'll only truly excel against balance teams with Registeel or Bronzong as their Stealth Rock user or against passive defensive teams lacking an Unaware user when running Calm Mind. Xatu is exploitable as well; many common Pokemon such as Zygarde-10%, Ninetales, Barbaracle, and Houndoom set up on it for free, and Pursuit users like Sneasel and Drapion can remove it, making it much easier for the opponent to set up Stealth Rock. It also has competition with Espeon, which offers a much more formidable offensive presence, and with other Defog users. For example, Defog Magic Guard Sigilyph beats Registeel and Bronzong lacking Gyro Ball nearly as well as Xatu while having better stats all around, and other Defog users such as Mandibuzz trade the ability to excel against Registeel for a much more impressive defensive presence and typing.\n", "strategies' format": "RU", "strategies": [{"name": "Defensive", "stats": [229, 167, 186, 226, 176, 308], "type": ["Psychic", "Flying"], "usage": "Use Xatu to block Stealth Rock from Registeel and Bronzong, and keep in mind that if Stealth Rock Metagross is chipped a bit, you can switch in and wear it down with Rocky Helmet while recovering health with Roost until Xatu can remove it with Heat Wave. Xatu can also switch into Roserade lacking Poisonium Z unless chipped, so capitalize on that to block its Spikes. Calm Mind shouldn't be revealed until checks such as Mega Ampharos and Honchkrow are either chipped into range of Xatu's boosted attacks or removed completely. This is because if you reveal Calm Mind, they'll be played much more carefully, making it much harder to make full use of it. Use U-turn to pivot out of walls like Mandibuzz and Milotic that Xatu struggles with and bring in a threatening wallbreaker to deal with them. Take advantage of Xatu's useful defensive typing to switch in and check common threats such as Virizion lacking Stone Edge. Use Roost liberally, as Xatu's mediocre bulk makes it very difficult to switch into offensive entry hazard setters when chipped.", "moves": [["Psyshock"], ["Roost"], ["Heat Wave"], ["U-turn", "Calm Mind"]], "item": [" Rocky Helmet"], "ability": ["Magic Bounce"], "nature": ["Timid"], "ev spread": [252, 0, 40, 0, 0, 216], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Dark-types", "Rock-types", "Setup Pokemon", "Wallbreakers"], "credits": ["Written by roman", "Quality checked by Averardo, zizalith,  and Chrisloud1", "Grammar checked by Rabia and The Dutch Plumberjack"]}
+{
+    "name": "Xatu",
+    "forms": {
+        "Base": {
+            "base stats": [
+                65,
+                75,
+                70,
+                95,
+                70,
+                95
+            ],
+            "types": [
+                "Psychic",
+                "Flying"
+            ],
+            "abilities": [
+                "Early Bird",
+                "Magic Bounce",
+                "Synchronize"
+            ],
+            "tier": [
+                "NU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Access to Magic Bounce lets Xatu block entry hazards from defensive Stealth Rock users, mainly the omnipresent Registeel as well as Bronzong. While Xatu struggles to switch directly into offensive hazard setters like Metagross and Roserade due to mediocre bulk, it still beats them one-on-one and forces prediction with the threat of Magic Bounce. Xatu's fantastic movepool also gives it the option to further support its team with U-turn or pose a massive threat to passive teams with Calm Mind in its last moveslot. However, Xatu is very matchup reliant. It fails to consistently beat offensive hazard setters, and its mediocre stats and defensive typing prevent it from threatening offensive teams with Calm Mind, meaning it'll only truly excel against balance teams with Registeel or Bronzong as their Stealth Rock user or against passive defensive teams lacking an Unaware user when running Calm Mind. Xatu is exploitable as well; many common Pokemon such as Zygarde-10%, Ninetales, Barbaracle, and Houndoom set up on it for free, and Pursuit users like Sneasel and Drapion can remove it, making it much easier for the opponent to set up Stealth Rock. It also has competition with Espeon, which offers a much more formidable offensive presence, and with other Defog users. For example, Defog Magic Guard Sigilyph beats Registeel and Bronzong lacking Gyro Ball nearly as well as Xatu while having better stats all around, and other Defog users such as Mandibuzz trade the ability to excel against Registeel for a much more impressive defensive presence and typing.\n",
+    "strategies' format": "RU",
+    "strategies": [
+        {
+            "name": "Defensive",
+            "stats": [
+                229,
+                167,
+                186,
+                226,
+                176,
+                308
+            ],
+            "type": [
+                "Psychic",
+                "Flying"
+            ],
+            "usage": "Use Xatu to block Stealth Rock from Registeel and Bronzong, and keep in mind that if Stealth Rock Metagross is chipped a bit, you can switch in and wear it down with Rocky Helmet while recovering health with Roost until Xatu can remove it with Heat Wave. Xatu can also switch into Roserade lacking Poisonium Z unless chipped, so capitalize on that to block its Spikes. Calm Mind shouldn't be revealed until checks such as Mega Ampharos and Honchkrow are either chipped into range of Xatu's boosted attacks or removed completely. This is because if you reveal Calm Mind, they'll be played much more carefully, making it much harder to make full use of it. Use U-turn to pivot out of walls like Mandibuzz and Milotic that Xatu struggles with and bring in a threatening wallbreaker to deal with them. Take advantage of Xatu's useful defensive typing to switch in and check common threats such as Virizion lacking Stone Edge. Use Roost liberally, as Xatu's mediocre bulk makes it very difficult to switch into offensive entry hazard setters when chipped.",
+            "moves": [
+                [
+                    "Psyshock"
+                ],
+                [
+                    "Roost"
+                ],
+                [
+                    "Heat Wave"
+                ],
+                [
+                    "U-turn",
+                    "Calm Mind"
+                ]
+            ],
+            "item": [
+                " Rocky Helmet"
+            ],
+            "ability": [
+                "Magic Bounce"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                252,
+                0,
+                40,
+                0,
+                0,
+                216
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Dark-types",
+        "Rock-types",
+        "Setup Pokemon",
+        "Wallbreakers"
+    ],
+    "credits": [
+        "Written by roman",
+        "Quality checked by Averardo, zizalith,  and Chrisloud1",
+        "Grammar checked by Rabia and The Dutch Plumberjack"
+    ]
+}

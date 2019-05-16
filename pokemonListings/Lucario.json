@@ -1,1 +1,178 @@
-{"name": "Lucario", "forms": {"Base": {"base stats": [70, 110, 70, 115, 70, 90], "types": ["Fighting", "Steel"], "abilities": ["Inner Focus", "Justified", "Steadfast"], "tier": ["UU"], "form": "Base"}, "Mega": {"base stats": [70, 145, 88, 140, 70, 112], "types": ["Fighting", "Steel"], "abilities": ["Adaptability"], "tier": ["Uber"], "form": "Mega"}}, "overview": "With good offensive stats, access to Swords Dance and Nasty Plot, and a wide movepool, Lucario is a menacing and unpredictable setup sweeper for offensive teams. It also has a good defensive typing with nifty resistances to Bug, Rock, Dark, and Steel, as well as an immunity to Poison that can aid in its setup. However, this is offset by Lucario's meager defensive stats, meaning that it has to rely on forced switches and its resistances for setup opportunities. It also has a middling Speed stat that, while circumvented somewhat by its access to priority moves, leaves it vulnerable to faster threats that can take a hit, like Mega Aerodactyl and Krookodile. Lastly, Lucario faces heavy competition from the tier's plethora of other Fighting-types and struggles to stand out from the likes of Terrakion, Infernape, Cobalion, and Heracross.\n", "strategies' format": "UU", "strategies": [{"name": "Nasty Plot", "stats": [176, 230, 176, 329, 177, 306], "type": ["Fighting", "Steel"], "usage": "Special Lucario is more of a wallbreaker than a flat-out sweeper. As such, it does best versus balance and stall teams, although it still has an edge versus some offensive builds. Set up on something that can't touch it, such as Blissey or Amoonguss, provided something has already been put to sleep in the case of the latter. Vacuum Wave is a much weaker move than Extreme Speed, meaning that fast threats like Mega Aerodactyl, Mega Sceptile, and Talonflame must be weakened considerably to be KOed even at +2. Faster Fighting-resistant Pokemon like Latias, Mega Beedrill, and Starmie must be eliminated entirely if Lucario wants to sweep. Dark Pulse gives Lucario a much easier time versus defensive teams that rely on Ghost-types to check Fighting-types. If carrying Dark Pulse, surefire checks to faster offensive threats are highly recommended, as they must be eliminated outright to stop them from revenge killing Lucario.", "moves": [["Nasty Plot"], ["Aura Sphere", "Focus Blast"], ["Flash Cannon"], ["Vacuum Wave", "Dark Pulse"]], "item": [" Life Orb", " Fightinium Z"], "ability": ["Inner Focus"], "nature": ["Timid"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Swords Dance", "stats": [176, 319, 176, 239, 177, 306], "type": ["Fighting", "Steel"], "usage": "Lucario should generally only be brought in after something on your team has been KOed, as it is frail and needs all the HP it can get in order to properly sweep. Ideally, you should wait until checks, such as Hippowdon and Doublade, have been weakened or eliminated before setting up. However, you can use Lucario as an early-game wallbreaker to set the stage for a teammate as well. Set up on Pokemon that Lucario can threaten, such as Nihilego, Blissey, and Choice-locked Hydreigon. Setup isn't always necessary, however, as Lucario is pressured to get off as much damage as possible and is quite powerful even without a boost. If your opponent sends out a Fighting-resistant Pokemon to stop Lucario, it is worth noting that resisted STAB Close Combat still does more damage than a neutral Extreme Speed, so don't be afraid to use it even against such targets.", "moves": [["Swords Dance"], ["Close Combat"], ["Extreme Speed"], ["Meteor Mash", "Bullet Punch"]], "item": [" Life Orb"], "ability": ["Justified"], "nature": ["Jolly", "Adamant"], "ev spread": [0, 252, 0, 0, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Offensive Pressure", "Ghost-types", "Bulky Fighting-resistant Pokemon"], "credits": ["Written by eht", "Quality checked by Eyan, Bouff,  and A Cake Wearing A Hat", "Grammar checked by The Dutch Plumberjack and martha"]}
+{
+    "name": "Lucario",
+    "forms": {
+        "Base": {
+            "base stats": [
+                70,
+                110,
+                70,
+                115,
+                70,
+                90
+            ],
+            "types": [
+                "Fighting",
+                "Steel"
+            ],
+            "abilities": [
+                "Inner Focus",
+                "Justified",
+                "Steadfast"
+            ],
+            "tier": [
+                "UU"
+            ],
+            "form": "Base"
+        },
+        "Mega": {
+            "base stats": [
+                70,
+                145,
+                88,
+                140,
+                70,
+                112
+            ],
+            "types": [
+                "Fighting",
+                "Steel"
+            ],
+            "abilities": [
+                "Adaptability"
+            ],
+            "tier": [
+                "Uber"
+            ],
+            "form": "Mega"
+        }
+    },
+    "overview": "With good offensive stats, access to Swords Dance and Nasty Plot, and a wide movepool, Lucario is a menacing and unpredictable setup sweeper for offensive teams. It also has a good defensive typing with nifty resistances to Bug, Rock, Dark, and Steel, as well as an immunity to Poison that can aid in its setup. However, this is offset by Lucario's meager defensive stats, meaning that it has to rely on forced switches and its resistances for setup opportunities. It also has a middling Speed stat that, while circumvented somewhat by its access to priority moves, leaves it vulnerable to faster threats that can take a hit, like Mega Aerodactyl and Krookodile. Lastly, Lucario faces heavy competition from the tier's plethora of other Fighting-types and struggles to stand out from the likes of Terrakion, Infernape, Cobalion, and Heracross.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Nasty Plot",
+            "stats": [
+                176,
+                230,
+                176,
+                329,
+                177,
+                306
+            ],
+            "type": [
+                "Fighting",
+                "Steel"
+            ],
+            "usage": "Special Lucario is more of a wallbreaker than a flat-out sweeper. As such, it does best versus balance and stall teams, although it still has an edge versus some offensive builds. Set up on something that can't touch it, such as Blissey or Amoonguss, provided something has already been put to sleep in the case of the latter. Vacuum Wave is a much weaker move than Extreme Speed, meaning that fast threats like Mega Aerodactyl, Mega Sceptile, and Talonflame must be weakened considerably to be KOed even at +2. Faster Fighting-resistant Pokemon like Latias, Mega Beedrill, and Starmie must be eliminated entirely if Lucario wants to sweep. Dark Pulse gives Lucario a much easier time versus defensive teams that rely on Ghost-types to check Fighting-types. If carrying Dark Pulse, surefire checks to faster offensive threats are highly recommended, as they must be eliminated outright to stop them from revenge killing Lucario.",
+            "moves": [
+                [
+                    "Nasty Plot"
+                ],
+                [
+                    "Aura Sphere",
+                    "Focus Blast"
+                ],
+                [
+                    "Flash Cannon"
+                ],
+                [
+                    "Vacuum Wave",
+                    "Dark Pulse"
+                ]
+            ],
+            "item": [
+                " Life Orb",
+                " Fightinium Z"
+            ],
+            "ability": [
+                "Inner Focus"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Swords Dance",
+            "stats": [
+                176,
+                319,
+                176,
+                239,
+                177,
+                306
+            ],
+            "type": [
+                "Fighting",
+                "Steel"
+            ],
+            "usage": "Lucario should generally only be brought in after something on your team has been KOed, as it is frail and needs all the HP it can get in order to properly sweep. Ideally, you should wait until checks, such as Hippowdon and Doublade, have been weakened or eliminated before setting up. However, you can use Lucario as an early-game wallbreaker to set the stage for a teammate as well. Set up on Pokemon that Lucario can threaten, such as Nihilego, Blissey, and Choice-locked Hydreigon. Setup isn't always necessary, however, as Lucario is pressured to get off as much damage as possible and is quite powerful even without a boost. If your opponent sends out a Fighting-resistant Pokemon to stop Lucario, it is worth noting that resisted STAB Close Combat still does more damage than a neutral Extreme Speed, so don't be afraid to use it even against such targets.",
+            "moves": [
+                [
+                    "Swords Dance"
+                ],
+                [
+                    "Close Combat"
+                ],
+                [
+                    "Extreme Speed"
+                ],
+                [
+                    "Meteor Mash",
+                    "Bullet Punch"
+                ]
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Justified"
+            ],
+            "nature": [
+                "Jolly",
+                "Adamant"
+            ],
+            "ev spread": [
+                0,
+                252,
+                0,
+                0,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Offensive Pressure",
+        "Ghost-types",
+        "Bulky Fighting-resistant Pokemon"
+    ],
+    "credits": [
+        "Written by eht",
+        "Quality checked by Eyan, Bouff,  and A Cake Wearing A Hat",
+        "Grammar checked by The Dutch Plumberjack and martha"
+    ]
+}

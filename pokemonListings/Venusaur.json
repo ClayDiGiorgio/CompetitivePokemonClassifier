@@ -1,1 +1,123 @@
-{"name": "Venusaur", "forms": {"Base": {"base stats": [80, 82, 83, 100, 100, 80], "types": ["Grass", "Poison"], "abilities": ["Chlorophyll", "Overgrow"], "tier": ["NUBL"], "form": "Base"}, "Mega": {"base stats": [80, 100, 123, 122, 120, 80], "types": ["Grass", "Poison"], "abilities": ["Thick Fat"], "tier": ["OU"], "form": "Mega"}}, "overview": "Mega Venusaur's very good bulk allows it to check a plethora of prominent threats in the OU metagame, including Magearna, Kartana, Tapu Koko, Serperior, Battle Bond Greninja pre-transformation, and Tapu Bulu. Its Thick Fat ability and decent defensive typing leave it with only two weaknesses, Psychic and Flying, while giving it resistances to many common types, such as Water and Fairy. Mega Venusaur is surprisingly not very passive, as it possesses a solid Special Attack stat of base 122. However, Mega Venusaur faces competition from Tangrowth and Toxapex, both of which perform similar roles and don't need to rely as much on recovery because they have Regenerator. Mega Venusaur is easily worn down by entry hazards, Scald burns, and even just powerful attacks, so it finds itself using Synthesis a lot as opposed to attacking, which results in momentum loss and passivity. Lastly, Synthesis only has 8 PP, which often forces Mega Venusaur to heal itself more sparingly to compensate.\n", "strategies' format": "OU", "strategies": [{"name": "Defensive", "stats": [258, 212, 304, 280, 346, 200], "type": ["Grass", "Poison"], "usage": "Pivot Mega Venusaur into Pokemon that it checks, such as Keldeo and Tapu Bulu, so it can threaten them with its STAB moves or recover its HP using Synthesis. Prioritize safely Mega Evolving with Venusaur so it can better pivot into Pokemon with its improved bulk and Thick Fat. While Mega Venusaur can switch into Greninja most of the time, it has a hard time taking Choice Specs-boosted Dark Pulses from Ash-Greninja or Extrasensory from Protean Greninja. If the opponent has a Greninja, play conservatively with Mega Venusaur by scouting for Extrasensory and by using Synthesis.", "moves": [["Leech Seed", "Giga Drain"], ["Sludge Bomb"], ["Synthesis"], ["Hidden Power Fire", "Earthquake"]], "item": [" Venusaurite"], "ability": ["Chlorophyll"], "nature": ["Calm", "Sassy"], "ev spread": [248, 0, 88, 0, 156, 16], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Psychic-types", "Fire-types", "Flying-types", "Chansey", "Super Effective Coverage Moves"], "credits": ["Written by pancake", "Earlier versions by Colonel M", "Quality checked by dk, PK Gaming,  and Subject 18", "Grammar checked by Eyan and CryoGyro"]}
+{
+    "name": "Venusaur",
+    "forms": {
+        "Base": {
+            "base stats": [
+                80,
+                82,
+                83,
+                100,
+                100,
+                80
+            ],
+            "types": [
+                "Grass",
+                "Poison"
+            ],
+            "abilities": [
+                "Chlorophyll",
+                "Overgrow"
+            ],
+            "tier": [
+                "NUBL"
+            ],
+            "form": "Base"
+        },
+        "Mega": {
+            "base stats": [
+                80,
+                100,
+                123,
+                122,
+                120,
+                80
+            ],
+            "types": [
+                "Grass",
+                "Poison"
+            ],
+            "abilities": [
+                "Thick Fat"
+            ],
+            "tier": [
+                "OU"
+            ],
+            "form": "Mega"
+        }
+    },
+    "overview": "Mega Venusaur's very good bulk allows it to check a plethora of prominent threats in the OU metagame, including Magearna, Kartana, Tapu Koko, Serperior, Battle Bond Greninja pre-transformation, and Tapu Bulu. Its Thick Fat ability and decent defensive typing leave it with only two weaknesses, Psychic and Flying, while giving it resistances to many common types, such as Water and Fairy. Mega Venusaur is surprisingly not very passive, as it possesses a solid Special Attack stat of base 122. However, Mega Venusaur faces competition from Tangrowth and Toxapex, both of which perform similar roles and don't need to rely as much on recovery because they have Regenerator. Mega Venusaur is easily worn down by entry hazards, Scald burns, and even just powerful attacks, so it finds itself using Synthesis a lot as opposed to attacking, which results in momentum loss and passivity. Lastly, Synthesis only has 8 PP, which often forces Mega Venusaur to heal itself more sparingly to compensate.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Defensive",
+            "stats": [
+                258,
+                212,
+                304,
+                280,
+                346,
+                200
+            ],
+            "type": [
+                "Grass",
+                "Poison"
+            ],
+            "usage": "Pivot Mega Venusaur into Pokemon that it checks, such as Keldeo and Tapu Bulu, so it can threaten them with its STAB moves or recover its HP using Synthesis. Prioritize safely Mega Evolving with Venusaur so it can better pivot into Pokemon with its improved bulk and Thick Fat. While Mega Venusaur can switch into Greninja most of the time, it has a hard time taking Choice Specs-boosted Dark Pulses from Ash-Greninja or Extrasensory from Protean Greninja. If the opponent has a Greninja, play conservatively with Mega Venusaur by scouting for Extrasensory and by using Synthesis.",
+            "moves": [
+                [
+                    "Leech Seed",
+                    "Giga Drain"
+                ],
+                [
+                    "Sludge Bomb"
+                ],
+                [
+                    "Synthesis"
+                ],
+                [
+                    "Hidden Power Fire",
+                    "Earthquake"
+                ]
+            ],
+            "item": [
+                " Venusaurite"
+            ],
+            "ability": [
+                "Chlorophyll"
+            ],
+            "nature": [
+                "Calm",
+                "Sassy"
+            ],
+            "ev spread": [
+                248,
+                0,
+                88,
+                0,
+                156,
+                16
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Psychic-types",
+        "Fire-types",
+        "Flying-types",
+        "Chansey",
+        "Super Effective Coverage Moves"
+    ],
+    "credits": [
+        "Written by pancake",
+        "Earlier versions by Colonel M",
+        "Quality checked by dk, PK Gaming,  and Subject 18",
+        "Grammar checked by Eyan and CryoGyro"
+    ]
+}

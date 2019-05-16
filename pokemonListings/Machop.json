@@ -1,1 +1,96 @@
-{"name": "Machop", "forms": {"Base": {"base stats": [70, 80, 50, 35, 35, 35], "types": ["Fighting"], "abilities": ["Guts", "No Guard", "Steadfast"], "tier": ["LC"], "form": "Base"}}, "overview": "Machop is a decent Choice Scarf user with great utility moves in Knock Off and a 100% accurate Dynamic Punch thanks to No Guard. Dynamic Punch is very spammable due to the guaranteed confusion, as even Pokemon that resist it don't want to switch in and be confused. It's complemented further by great coverage moves, always giving Machop the option to hit what Dynamic Punch doesn't: Knock Off hits Ghost-types, Poison Jab hits Fairy-types, and Rock Slide hits Flying-types. However, Machop is very frail due to its lack of Eviolite and is very reliant on its Choice Scarf, becoming quite slow for its role without the Choice Scarf and losing almost all of its effectiveness. Machop's low bulk allows it to be easily revenge killed and its low base Speed causes it to be outsped by most other Choice Scarf users. Also, some checks to Machop such as Spritzee and Slowpoke don't mind the confusion very much, and the chance to hit oneself in confusion is only one in three. Machop faces competition from other Fighting-types: as a Choice Scarf user, Mienfoo gives it competition because of its better Speed, Regenerator ability, and access to U-turn, and as a bulky attacker, Timburr gives it competition because of its better bulk and access to Mach Punch.\n", "strategies' format": "LC", "strategies": [{"name": "Choice Scarf", "stats": [185, 245, 145, 95, 106, 181], "type": ["Fighting"], "usage": "Machop is a decent Choice Scarf user, dealing out heavy damage and spreading confusion with Dynamic Punch, and removing items with Knock Off. Dynamic Punch only has 8 PP, but it is a very spammable move and should be used often. It is very strong, and nothing wants to switch into a guaranteed confusion. Knock Off is also fairly spammable, since it provides great utility and is a good option to use on a predicted switch-in that resists Dynamic Punch and isn't hit super effectively by its coverage moves. Psychic-, Fairy-, and Flying-types give Machop problems, but if their switch into battle is predicted and a super effective move is used, Machop can possibly stay in and 2HKO next turn. However, Machop is not capable of handling most bulky Pokemon of these types if they come in on Machop and have not taken previous damage. For example, Spritzee is 3HKOed by Poison Jab and Slowpoke is 3HKOed by Knock Off. As with any Choice Scarf user, you must predict carefully so as not to be locked into an undesirable attack and give your opponent free turns. Machop is not very bulky and has no Eviolite, so it should only be brought in after a teammate has fainted or by a slow pivot so that it doesn't take an attack.", "moves": [["Dynamic Punch"], ["Knock Off"], ["Poison Jab"], ["Rock Slide"]], "item": [" Choice Scarf"], "ability": ["No Guard"], "nature": ["Jolly"], "ev spread": [36, 196, 36, 0, 0, 236], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Faster Choice Scarf Users", "Physically Defensive Pokemon", "Ghost-types", "Status Moves"], "credits": ["Written by Aaron's Aron", "Quality checked by Hilomilo, Xayah,  and Corporal Levi", "Grammar checked by GatoDelFuego and The Dutch Plumberjack"]}
+{
+    "name": "Machop",
+    "forms": {
+        "Base": {
+            "base stats": [
+                70,
+                80,
+                50,
+                35,
+                35,
+                35
+            ],
+            "types": [
+                "Fighting"
+            ],
+            "abilities": [
+                "Guts",
+                "No Guard",
+                "Steadfast"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Machop is a decent Choice Scarf user with great utility moves in Knock Off and a 100% accurate Dynamic Punch thanks to No Guard. Dynamic Punch is very spammable due to the guaranteed confusion, as even Pokemon that resist it don't want to switch in and be confused. It's complemented further by great coverage moves, always giving Machop the option to hit what Dynamic Punch doesn't: Knock Off hits Ghost-types, Poison Jab hits Fairy-types, and Rock Slide hits Flying-types. However, Machop is very frail due to its lack of Eviolite and is very reliant on its Choice Scarf, becoming quite slow for its role without the Choice Scarf and losing almost all of its effectiveness. Machop's low bulk allows it to be easily revenge killed and its low base Speed causes it to be outsped by most other Choice Scarf users. Also, some checks to Machop such as Spritzee and Slowpoke don't mind the confusion very much, and the chance to hit oneself in confusion is only one in three. Machop faces competition from other Fighting-types: as a Choice Scarf user, Mienfoo gives it competition because of its better Speed, Regenerator ability, and access to U-turn, and as a bulky attacker, Timburr gives it competition because of its better bulk and access to Mach Punch.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Choice Scarf",
+            "stats": [
+                185,
+                245,
+                145,
+                95,
+                106,
+                181
+            ],
+            "type": [
+                "Fighting"
+            ],
+            "usage": "Machop is a decent Choice Scarf user, dealing out heavy damage and spreading confusion with Dynamic Punch, and removing items with Knock Off. Dynamic Punch only has 8 PP, but it is a very spammable move and should be used often. It is very strong, and nothing wants to switch into a guaranteed confusion. Knock Off is also fairly spammable, since it provides great utility and is a good option to use on a predicted switch-in that resists Dynamic Punch and isn't hit super effectively by its coverage moves. Psychic-, Fairy-, and Flying-types give Machop problems, but if their switch into battle is predicted and a super effective move is used, Machop can possibly stay in and 2HKO next turn. However, Machop is not capable of handling most bulky Pokemon of these types if they come in on Machop and have not taken previous damage. For example, Spritzee is 3HKOed by Poison Jab and Slowpoke is 3HKOed by Knock Off. As with any Choice Scarf user, you must predict carefully so as not to be locked into an undesirable attack and give your opponent free turns. Machop is not very bulky and has no Eviolite, so it should only be brought in after a teammate has fainted or by a slow pivot so that it doesn't take an attack.",
+            "moves": [
+                [
+                    "Dynamic Punch"
+                ],
+                [
+                    "Knock Off"
+                ],
+                [
+                    "Poison Jab"
+                ],
+                [
+                    "Rock Slide"
+                ]
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "No Guard"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                36,
+                196,
+                36,
+                0,
+                0,
+                236
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Faster Choice Scarf Users",
+        "Physically Defensive Pokemon",
+        "Ghost-types",
+        "Status Moves"
+    ],
+    "credits": [
+        "Written by Aaron's Aron",
+        "Quality checked by Hilomilo, Xayah,  and Corporal Levi",
+        "Grammar checked by GatoDelFuego and The Dutch Plumberjack"
+    ]
+}

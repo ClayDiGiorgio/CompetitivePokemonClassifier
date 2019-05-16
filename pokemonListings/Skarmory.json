@@ -1,1 +1,99 @@
-{"name": "Skarmory", "forms": {"Base": {"base stats": [65, 80, 140, 40, 70, 70], "types": ["Steel", "Flying"], "abilities": ["Keen Eye", "Sturdy", "Weak Armor"], "tier": ["OU"], "form": "Base"}}, "overview": "Thanks to a high Defense stat and great defensive typing, Skarmory is a good check to several physical attackers including Garchomp, Kartana, Tapu Bulu, Landorus-T, and Mega Scizor due to its access to Whirlwind and Toxic. Skarmory also has access to Spikes, which it can set up mutiple times throughout a battle. For these reasons, Skarmory is a decent pick on stall and balance teams. However, Skarmory's low HP and Special Defense stats mean it struggles to take even resisted hits from special attackers like Tapu Lele and Mega Alakazam, leaving it outclassed by Celesteela in this regard. Skarmory is also very passive, relying on Toxic to deal damage unless it is running Counter or Brave Bird. This leaves it completely useless against Taunt users like Tornadus-T and Tapu Fini. Despite its high Defense stat, physical attackers such as Swords Dance Kartana and Garchomp can potentially overwhelm Skarmory with Z-Moves if they have already set up.\n", "strategies' format": "OU", "strategies": [{"name": "Physically Defensive", "stats": [229, 176, 416, 116, 177, 176], "type": ["Steel", "Flying"], "usage": "Skarmory can be switched into physical attackers that it checks, and its health should be maintained by using Roost often so that it can take attacks like Sacred Sword from Choice Band Kartana and +2 Continental Crush from Garchomp. However, Skarmory must be wary of very powerful attacks, as well as super effective coverage moves. A +2 All-Out Pummeling from Kartana and Fire Punch from Mega Tyranitar will OHKO and 2HKO Skarmory, respectively, unless Skarmory is kept near full health. Skarmory must also be careful when switching into Garchomp before its set is revealed, as it could turn out to be a Mega Garchomp with Fire Blast. Avoid switching Skarmory into special attackers, as even resisted attacks like Psychic from Tapu Lele as well as neutral attacks like Ice Beam from Mega Latias will overwhelm it. Spikes is best used against Pokemon that can't deal much damage to Skarmory such as Mega Scizor and Gliscor, as well as Choice-locked Kartana and Landorus-T. If Skarmory is lacking a Shed Shell, it should be wary of using Spikes or Toxic if the opponent has a Magnezone and should instead double switch or use Whirlwind. If Stealth Rock is off the field and Skarmory is at full HP, it can utilize Sturdy along with Whirlwind or Counter to act as an emergency check to Pokemon such as +2 Mega Mawile or Mega Heracross, which could otherwise OHKO it with Thunder Punch and Close Combat, respectively.", "moves": [["Roost"], ["Spikes"], ["Whirlwind"], ["Toxic"]], "item": [" Rocky Helmet"], "ability": ["Sturdy"], "nature": ["Bold"], "ev spread": [252, 0, 252, 0, 4, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Electric-types", "Fire-types", "Special Attackers", "Taunt"], "credits": ["Written by DKM", "Earlier versions by Martin", "Quality checked by GMars, Leo,  and Jordy", "Grammar checked by martha and NixHex"]}
+{
+    "name": "Skarmory",
+    "forms": {
+        "Base": {
+            "base stats": [
+                65,
+                80,
+                140,
+                40,
+                70,
+                70
+            ],
+            "types": [
+                "Steel",
+                "Flying"
+            ],
+            "abilities": [
+                "Keen Eye",
+                "Sturdy",
+                "Weak Armor"
+            ],
+            "tier": [
+                "OU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Thanks to a high Defense stat and great defensive typing, Skarmory is a good check to several physical attackers including Garchomp, Kartana, Tapu Bulu, Landorus-T, and Mega Scizor due to its access to Whirlwind and Toxic. Skarmory also has access to Spikes, which it can set up mutiple times throughout a battle. For these reasons, Skarmory is a decent pick on stall and balance teams. However, Skarmory's low HP and Special Defense stats mean it struggles to take even resisted hits from special attackers like Tapu Lele and Mega Alakazam, leaving it outclassed by Celesteela in this regard. Skarmory is also very passive, relying on Toxic to deal damage unless it is running Counter or Brave Bird. This leaves it completely useless against Taunt users like Tornadus-T and Tapu Fini. Despite its high Defense stat, physical attackers such as Swords Dance Kartana and Garchomp can potentially overwhelm Skarmory with Z-Moves if they have already set up.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Physically Defensive",
+            "stats": [
+                229,
+                176,
+                416,
+                116,
+                177,
+                176
+            ],
+            "type": [
+                "Steel",
+                "Flying"
+            ],
+            "usage": "Skarmory can be switched into physical attackers that it checks, and its health should be maintained by using Roost often so that it can take attacks like Sacred Sword from Choice Band Kartana and +2 Continental Crush from Garchomp. However, Skarmory must be wary of very powerful attacks, as well as super effective coverage moves. A +2 All-Out Pummeling from Kartana and Fire Punch from Mega Tyranitar will OHKO and 2HKO Skarmory, respectively, unless Skarmory is kept near full health. Skarmory must also be careful when switching into Garchomp before its set is revealed, as it could turn out to be a Mega Garchomp with Fire Blast. Avoid switching Skarmory into special attackers, as even resisted attacks like Psychic from Tapu Lele as well as neutral attacks like Ice Beam from Mega Latias will overwhelm it. Spikes is best used against Pokemon that can't deal much damage to Skarmory such as Mega Scizor and Gliscor, as well as Choice-locked Kartana and Landorus-T. If Skarmory is lacking a Shed Shell, it should be wary of using Spikes or Toxic if the opponent has a Magnezone and should instead double switch or use Whirlwind. If Stealth Rock is off the field and Skarmory is at full HP, it can utilize Sturdy along with Whirlwind or Counter to act as an emergency check to Pokemon such as +2 Mega Mawile or Mega Heracross, which could otherwise OHKO it with Thunder Punch and Close Combat, respectively.",
+            "moves": [
+                [
+                    "Roost"
+                ],
+                [
+                    "Spikes"
+                ],
+                [
+                    "Whirlwind"
+                ],
+                [
+                    "Toxic"
+                ]
+            ],
+            "item": [
+                " Rocky Helmet"
+            ],
+            "ability": [
+                "Sturdy"
+            ],
+            "nature": [
+                "Bold"
+            ],
+            "ev spread": [
+                252,
+                0,
+                252,
+                0,
+                4,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Electric-types",
+        "Fire-types",
+        "Special Attackers",
+        "Taunt"
+    ],
+    "credits": [
+        "Written by DKM",
+        "Earlier versions by Martin",
+        "Quality checked by GMars, Leo,  and Jordy",
+        "Grammar checked by martha and NixHex"
+    ]
+}

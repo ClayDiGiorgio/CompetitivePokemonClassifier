@@ -1,1 +1,207 @@
-{"name": "Kommo-o", "forms": {"Base": {"base stats": [75, 110, 125, 100, 105, 85], "types": ["Dragon", "Fighting"], "abilities": ["Bulletproof", "Overcoat", "Soundproof"], "tier": ["OU"], "form": "Base"}}, "overview": "Kommo-o is a valuable addition to a number of offensive teams, as the combination of a powerful Z-Move, colorful coverage, and access to Stealth Rock makes it simultaneously one of the best sweepers and Stealth Rock users for such teams. Likewise, Belly Drum with Salac Berry is also a deadly sweeper that can be quite the useful addition to hyper offense by cleaning up teams or punching hole for fellow sweepers. Kommo-o's bulk and typing are beneficial to its offensive role too, letting it act as a soft check to many Pokemon that are troublesome to offense, such as Ash-Greninja, Blacephalon, Tyranitar, and Heatran while allowing Kommo-o to set up Stealth Rock or Substitutes on a number of common Pokemon in the tier, such as Ferrothorn, Jirachi, and Tapu Bulu. Its bulk and typing also make it resistant to a number of forms of revenge killing, such as Choice Scarf Kartana and priority like Water Shuriken or Sucker Punch. Alternatively, a specially defensive set can also be run on stall teams, which provides stall a switch-in to notable breakers such as Blacephalon, Heatran, Tyranitar, and Mega Gyarados. However, Kommo-o does have its downsides. Its typing, while good in a lot of regards, leaves it weak to some common typings like Psychic, Ice, and especially Fairy. This weakness to Fairy also extends to the fact that Fairy-types can easily block its Z-Move and prevent it from sweeping, as can Pokemon sacrificed to entry hazard damage. Additionally, its Speed is only decent, meaning offensive sets are prone to being revenge killed by faster Pokemon like Choice Scarf Landorus-T and Choice Scarf Greninja. As for the specially defensive set, it can struggle defensively due to a lack of access to any reliable recovery, making it over-reliant on Wish support from other members of its team.\n", "strategies' format": "OU", "strategies": [{"name": "Offensive Stealth Rock", "stats": [187, 319, 257, 236, 246, 295], "type": ["Dragon", "Fighting"], "usage": "Kommo-o should attempt to set up Stealth Rock early-game, and Pokemon like Ferrothorn and Heatran give it a good opportunity to do so, as they're unable to do much damage to it. Kommo-o can also switch directly into offensive Pokemon like Ash-Greninja, Heatran, and Tyranitar thanks to its typing and decent bulk. However, this wears it down quickly, so if Kommo-o's goal is to sweep late-game, this is not always the best option. Kommo-o also has to be cautious of coverage moves like Heatran's Corkscrew Crash and Mega Tyranitar's Ice Punch. Once Stealth Rock is up, Kommo-o can attempt to weaken its checks such as Magearna and Tapu Fini with Close Combat and Poison Jab, respectively; this can help its teammates and give it potential to clean late-game. Kommo-o must be wary of the Defense and Special Defense drops from Clanging Scales and Close Combat, as they leave it more vulnerable to Pokemon it would usually check. Clangorous Soulblaze is best used against Pokemon that Kommo-o forces out, ensuring that it sets up safely without being put in range of attacks from faster Choice Scarf users such as Landorus-T using Earthquake and Kartana using Sacred Sword. Avoid using Clangorous Soulblaze if the opponent still has a Fairy-type that can switch in or a Pokemon that can be sacrificed to entry hazards, as this will waste Kommo-o's Z-Crystal and prevent its boosts. Status conditions will often leave Kommo-o unable to sweep due to it being worn down quickly or having a lowered Speed or Attack stat, so be cautious against Pokemon like Toxapex, Gliscor, and Rotom-W that could potentially inflict them. If Kommo-o's goal is to keep hazards up, then the Z-Move can be used against Tornadus-T and Zapdos as they attempt to remove them.", "moves": [["Stealth Rock"], ["Clanging Scales"], ["Close Combat"], ["Poison Jab"]], "item": [" Kommonium Z"], "ability": ["Bulletproof"], "nature": ["Hasty"], "ev spread": [4, 252, 0, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Specially Defensive", "stats": [249, 256, 286, 212, 336, 210], "type": ["Dragon", "Fighting"], "usage": "Kommo-o should be used as a switch-in to the Pokemon it walls like Heatran, Mega Gyarados, and Blacephalon, which it can use as an opportunity to set up Stealth Rock when it inevitably forces them out. Protect is vital in Kommo-o's ability to check threats like the aforementioned Blacephalon, so you should attempt to predict when they will use their Z-Move. However, the Blacephalon user could predict this and use Calm Mind again, so the risk versus reward of using Protect should be evaluated. Keep Kommo-o from being inflicted with Toxic, as it will severely hinder its ability to check the Pokemon it's supposed to. Wish should be passed to Kommo-o fairly regularly to avoid letting it get too weakened; otherwise, it won't be able to check the Pokemon it should.", "moves": [["Stealth Rock"], ["Dragon Tail"], ["Earthquake"], ["Protect"]], "item": [" Leftovers"], "ability": ["Bulletproof"], "nature": ["Careful"], "ev spread": [252, 0, 0, 0, 240, 16], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Belly Drum", "stats": [199, 307, 286, 212, 246, 295], "type": ["Dragon", "Fighting"], "usage": "This set is used on hyper offensive teams, so the majority of the time Kommo-o should be sent out to attempt to sweep when its checks have been weakened and revenge killers dealt with. It can also be used to weaken the opposing team in order to pave the way for one of its teammates to clean up. Kommo-o's typing and decent bulk mean it can be used to check certain threats like Heatran and Ash-Greninja. However, sometimes it can be better to not use it to check these Pokemon, as it can put Kommo-o in range of even resisted priority like Water Shuriken and Sucker Punch after a Belly Drum, or it can simply leave Kommo-o unable to set up a Belly Drum and render it mostly useless offensively. While Kommo-o can set up on numerous Pokemon, it is often not a good idea to switch into these Pokemon and try to set up, as they will often be able to harass Kommo-o if it doesn't have a Substitute up\u2014for example, Ferrothorn can whittle it down with Leech Seed, and Rotom-W can burn it with Will-O-Wisp.", "moves": [["Belly Drum"], ["Substitute"], ["Drain Punch"], ["Thunder Punch"]], "item": [" Salac Berry"], "ability": ["Bulletproof"], "nature": ["Jolly"], "ev spread": [52, 204, 0, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Fairy-types", "Psychic-types", "Status"], "credits": ["Written by Mellow and DKM", "Quality checked by lyd, Jordy, GMars,  and Indigo Plateau", "Grammar checked by frostration, The Dutch Plumberjack, Rabia,  and Fireflame479"]}
+{
+    "name": "Kommo-o",
+    "forms": {
+        "Base": {
+            "base stats": [
+                75,
+                110,
+                125,
+                100,
+                105,
+                85
+            ],
+            "types": [
+                "Dragon",
+                "Fighting"
+            ],
+            "abilities": [
+                "Bulletproof",
+                "Overcoat",
+                "Soundproof"
+            ],
+            "tier": [
+                "OU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Kommo-o is a valuable addition to a number of offensive teams, as the combination of a powerful Z-Move, colorful coverage, and access to Stealth Rock makes it simultaneously one of the best sweepers and Stealth Rock users for such teams. Likewise, Belly Drum with Salac Berry is also a deadly sweeper that can be quite the useful addition to hyper offense by cleaning up teams or punching hole for fellow sweepers. Kommo-o's bulk and typing are beneficial to its offensive role too, letting it act as a soft check to many Pokemon that are troublesome to offense, such as Ash-Greninja, Blacephalon, Tyranitar, and Heatran while allowing Kommo-o to set up Stealth Rock or Substitutes on a number of common Pokemon in the tier, such as Ferrothorn, Jirachi, and Tapu Bulu. Its bulk and typing also make it resistant to a number of forms of revenge killing, such as Choice Scarf Kartana and priority like Water Shuriken or Sucker Punch. Alternatively, a specially defensive set can also be run on stall teams, which provides stall a switch-in to notable breakers such as Blacephalon, Heatran, Tyranitar, and Mega Gyarados. However, Kommo-o does have its downsides. Its typing, while good in a lot of regards, leaves it weak to some common typings like Psychic, Ice, and especially Fairy. This weakness to Fairy also extends to the fact that Fairy-types can easily block its Z-Move and prevent it from sweeping, as can Pokemon sacrificed to entry hazard damage. Additionally, its Speed is only decent, meaning offensive sets are prone to being revenge killed by faster Pokemon like Choice Scarf Landorus-T and Choice Scarf Greninja. As for the specially defensive set, it can struggle defensively due to a lack of access to any reliable recovery, making it over-reliant on Wish support from other members of its team.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Offensive Stealth Rock",
+            "stats": [
+                187,
+                319,
+                257,
+                236,
+                246,
+                295
+            ],
+            "type": [
+                "Dragon",
+                "Fighting"
+            ],
+            "usage": "Kommo-o should attempt to set up Stealth Rock early-game, and Pokemon like Ferrothorn and Heatran give it a good opportunity to do so, as they're unable to do much damage to it. Kommo-o can also switch directly into offensive Pokemon like Ash-Greninja, Heatran, and Tyranitar thanks to its typing and decent bulk. However, this wears it down quickly, so if Kommo-o's goal is to sweep late-game, this is not always the best option. Kommo-o also has to be cautious of coverage moves like Heatran's Corkscrew Crash and Mega Tyranitar's Ice Punch. Once Stealth Rock is up, Kommo-o can attempt to weaken its checks such as Magearna and Tapu Fini with Close Combat and Poison Jab, respectively; this can help its teammates and give it potential to clean late-game. Kommo-o must be wary of the Defense and Special Defense drops from Clanging Scales and Close Combat, as they leave it more vulnerable to Pokemon it would usually check. Clangorous Soulblaze is best used against Pokemon that Kommo-o forces out, ensuring that it sets up safely without being put in range of attacks from faster Choice Scarf users such as Landorus-T using Earthquake and Kartana using Sacred Sword. Avoid using Clangorous Soulblaze if the opponent still has a Fairy-type that can switch in or a Pokemon that can be sacrificed to entry hazards, as this will waste Kommo-o's Z-Crystal and prevent its boosts. Status conditions will often leave Kommo-o unable to sweep due to it being worn down quickly or having a lowered Speed or Attack stat, so be cautious against Pokemon like Toxapex, Gliscor, and Rotom-W that could potentially inflict them. If Kommo-o's goal is to keep hazards up, then the Z-Move can be used against Tornadus-T and Zapdos as they attempt to remove them.",
+            "moves": [
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Clanging Scales"
+                ],
+                [
+                    "Close Combat"
+                ],
+                [
+                    "Poison Jab"
+                ]
+            ],
+            "item": [
+                " Kommonium Z"
+            ],
+            "ability": [
+                "Bulletproof"
+            ],
+            "nature": [
+                "Hasty"
+            ],
+            "ev spread": [
+                4,
+                252,
+                0,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Specially Defensive",
+            "stats": [
+                249,
+                256,
+                286,
+                212,
+                336,
+                210
+            ],
+            "type": [
+                "Dragon",
+                "Fighting"
+            ],
+            "usage": "Kommo-o should be used as a switch-in to the Pokemon it walls like Heatran, Mega Gyarados, and Blacephalon, which it can use as an opportunity to set up Stealth Rock when it inevitably forces them out. Protect is vital in Kommo-o's ability to check threats like the aforementioned Blacephalon, so you should attempt to predict when they will use their Z-Move. However, the Blacephalon user could predict this and use Calm Mind again, so the risk versus reward of using Protect should be evaluated. Keep Kommo-o from being inflicted with Toxic, as it will severely hinder its ability to check the Pokemon it's supposed to. Wish should be passed to Kommo-o fairly regularly to avoid letting it get too weakened; otherwise, it won't be able to check the Pokemon it should.",
+            "moves": [
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Dragon Tail"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Protect"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Bulletproof"
+            ],
+            "nature": [
+                "Careful"
+            ],
+            "ev spread": [
+                252,
+                0,
+                0,
+                0,
+                240,
+                16
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Belly Drum",
+            "stats": [
+                199,
+                307,
+                286,
+                212,
+                246,
+                295
+            ],
+            "type": [
+                "Dragon",
+                "Fighting"
+            ],
+            "usage": "This set is used on hyper offensive teams, so the majority of the time Kommo-o should be sent out to attempt to sweep when its checks have been weakened and revenge killers dealt with. It can also be used to weaken the opposing team in order to pave the way for one of its teammates to clean up. Kommo-o's typing and decent bulk mean it can be used to check certain threats like Heatran and Ash-Greninja. However, sometimes it can be better to not use it to check these Pokemon, as it can put Kommo-o in range of even resisted priority like Water Shuriken and Sucker Punch after a Belly Drum, or it can simply leave Kommo-o unable to set up a Belly Drum and render it mostly useless offensively. While Kommo-o can set up on numerous Pokemon, it is often not a good idea to switch into these Pokemon and try to set up, as they will often be able to harass Kommo-o if it doesn't have a Substitute up\u2014for example, Ferrothorn can whittle it down with Leech Seed, and Rotom-W can burn it with Will-O-Wisp.",
+            "moves": [
+                [
+                    "Belly Drum"
+                ],
+                [
+                    "Substitute"
+                ],
+                [
+                    "Drain Punch"
+                ],
+                [
+                    "Thunder Punch"
+                ]
+            ],
+            "item": [
+                " Salac Berry"
+            ],
+            "ability": [
+                "Bulletproof"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                52,
+                204,
+                0,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Fairy-types",
+        "Psychic-types",
+        "Status"
+    ],
+    "credits": [
+        "Written by Mellow and DKM",
+        "Quality checked by lyd, Jordy, GMars,  and Indigo Plateau",
+        "Grammar checked by frostration, The Dutch Plumberjack, Rabia,  and Fireflame479"
+    ]
+}

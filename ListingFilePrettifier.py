@@ -9,10 +9,16 @@ failedPokemon = {}
 files = os.listdir("pokemonListings/")
 
 for file in files:
-    f = open("pokemonListings/" + file, 'r')
-    data = json.loads(f.read())
-    f.close()
+    try:
+        f = open("pokemonListings/" + file, 'r')
+        data = f.read()
+        f.close()
+        data = json.loads(data)
 
-    f = open("pokemonListings/" + file, 'w')
-    pprint.pprint(data, stream=f, indent=4, width=120)
-    f.close()
+        f = open("pokemonListings/" + file, 'w')
+        # pprint.pprint(data, stream=f, indent=4, width=120)
+        json.dump(data, f, indent=4)
+        f.close()
+    except Exception as ex:
+        print(ex)
+        print("-> ", file)

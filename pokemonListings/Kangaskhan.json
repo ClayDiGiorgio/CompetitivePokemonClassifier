@@ -1,1 +1,227 @@
-{"name": "Kangaskhan", "forms": {"Base": {"base stats": [105, 95, 80, 40, 80, 90], "types": ["Normal"], "abilities": ["Early Bird", "Inner Focus", "Scrappy"], "tier": ["PU"], "form": "Base"}, "Mega": {"base stats": [105, 125, 100, 60, 100, 100], "types": ["Normal"], "abilities": ["Parental Bond"], "tier": ["Uber"], "form": "Mega"}}, "overview": "Kangaskhan is a solid pick in PU due to its passable Attack and Speed alongside Fake Out, which allows it to act as a decent revenge killer. These traits are aided by naturally good bulk that lets it to take a couple of hits if it must. Due to these traits, Kangaskhan acts as a decent blanket check against offense with the ability to pressure most setup sweepers with dual priority and chip faster foes while also being bulky enough to switch in a few times throughout a match. Additionally, Scrappy allows it to threaten offensive Ghost-types such as Froslsas or Oricorio-G with Fake Out while denting defensive ones such as Sableye and Spiritomb with Double-Edge. Kangaskhan can also effectively lure most of its counters with Z-move and Substitute + Toxic sets, significantly increasing its diversity and threat level. However, lack of recovery alongside Double-Edge recoil wears down Kanghaskan quickly. All-out attacking sets struggle against bulky Normal-resistant Pokemon like Regirock and Carracosta, and it faces notable competition from Stoutland which can reliably deal more immediate damage at the cost of Speed and priority.\n", "strategies' format": "PU", "strategies": [{"name": "All-Out Attacker", "stats": [246, 317, 196, 104, 197, 279], "type": ["Normal"], "usage": "Kangaskhan's main goal early in the match is to wear down the opponent's Pokemon with Fake Out (or Earthquake on a predicted switch), after which it should be kept in reserve to keep the opponent's sweepers from setting up freely lest they be revenge killed by the Fake Out + Sucker Punch combination. Kangaskhan should be brought in after a teammate is KOed to revenge kill frail offensive threats such as Absol or Floatzel with dual priority. Note, however, that these Pokemon often need to have some form prior damage on them to ensure a KO, especially Jynx, as they can use a sleep-inducing move after the initial Fake Out to easily avoid the Sucker Punch while shutting down Kangaskhan. Additionally, Kangaskhan can be brought in on predicted switches or via slow U-turn from teammates such as Mesprit. However, avoid switching it into stronger attacks, as Kangaskhan should be at a decent HP for the later parts of a match to successfully revenge kill and possibly take a hit if need be. On another note, Normal-type moves shouldn't be spammed if the opponent has anything Normal-resistant, as this can grant them a safe switch in.", "moves": [["Fake Out"], ["Double-Edge"], ["Earthquake"], ["Sucker Punch"]], "item": [" Silk Scarf"], "ability": ["Scrappy"], "nature": ["Adamant", "Jolly"], "ev spread": [0, 252, 0, 0, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Power-Up Punch + Z-Move", "stats": [246, 317, 197, 104, 196, 279], "type": ["Normal"], "usage": "Switch Kangaskhan into threats it can revenge kill like Lanturn and Eelektross, as this generates offensive pressure and provides Kangaskhan with an opportunity to safely use Power-Up Punch. Disguise Kangaskhan's set until it is necessary to break through a foe, as the set will become apparent to opponents once Kangaskhan uses Power-Up Punch or it is revealed that it lacks Fake Out. Use Power-Up Punch when anticipating a physically bulky Pokemon like Omastar, Carracosta, or Qwilfish that would otherwise take on Kangaskhan with little issue to switch in, since this enables Kangaskhan to break through them. Aside from luring in these checks, Kangaskhan should still be used to break through specially defensive Pokemon like Clefairy, Audino, and Eelektross for its team as well. Be careful about when Kangaskhan uses its Z-Move, especially in the case of Fightinium Z variants, since opposing teams can take advantage of Kangaskhan's reliance on the Z-Move to break through most Normal checks by forcing predictions and absorbing the Z-Move with weakened Pokemon. Once all Normal-resistant foes have been weakened enough or removed, Kangaskhan can more freely set up with Power-Up Punch and clean teams with Double-Edge. Late-game, Kangaskhan can also make use of Sucker Punch to finish off more offensive teams, as the move becomes fairly powerful after a boost from Power-Up Punch. Though Kangaskhan has decent bulk, refrain from directly switching it into stronger attacks, since it needs to be as healthy as possible to reliably wallbreak as well as stomach priority moves from Pokemon like Skuntank and Spiritomb.", "moves": [["Power-Up Punch"], ["Double-Edge"], ["Sucker Punch"], ["Focus Punch", "Earthquake"]], "item": [" Fightinium Z", " Normalium Z"], "ability": ["Scrappy"], "nature": ["Adamant", "Jolly"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Substitute + Toxic", "stats": [309, 226, 256, 104, 223, 216], "type": ["Normal"], "usage": "Early- and mid-game, Kangaskhan should aim to cripple its checks like Mudsdale and Regirock and set up a Substitute to rack up damage with Toxic. Due to its decently high bulk, it can be used as a check to foes such as non-Flyinium Z Oricorio-E and Stealth Rock Mesprit if healthy. It can come in on passive Pokemon that can't break its Substitute like Jellicent and Articuno. However, it has to be wary of Will-O-Wisp and Toxic, which greatly hinder its longevity. Furthermore, Kangaskhan should only set up when its checks, such as Regirock and Mudsdale, are weakened. However, in Quagsire's case, Kangaskhan should pressure it with Toxic and attacks until it's forced to switch out, as Unaware allows Quagsire to ignore the Attack boost provided by Power-Up Punch. Finally, due to Kangaskhan's lack of reliable recovery, it shouldn't be switched in repeatedly.", "moves": [["Substitute"], ["Toxic"], ["Power-Up Punch"], ["Return"]], "item": [" Leftovers"], "ability": ["Scrappy"], "nature": ["Impish"], "ev spread": [252, 0, 148, 0, 108, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Normal-resistant Pokemon", "Fighting-types", "Physically Bulky Pokemon"], "credits": ["Written by leonard (from big bang theory), allstarapology,  and Gum", "Quality checked by Megazard, yogi, TONE, UberSkitty, TJ,  and tondas", "Grammar checked by Mr. Uncompetitive, The Dutch Plumberjack, Fireflame479, Eien,  and Estronic"]}
+{
+    "name": "Kangaskhan",
+    "forms": {
+        "Base": {
+            "base stats": [
+                105,
+                95,
+                80,
+                40,
+                80,
+                90
+            ],
+            "types": [
+                "Normal"
+            ],
+            "abilities": [
+                "Early Bird",
+                "Inner Focus",
+                "Scrappy"
+            ],
+            "tier": [
+                "PU"
+            ],
+            "form": "Base"
+        },
+        "Mega": {
+            "base stats": [
+                105,
+                125,
+                100,
+                60,
+                100,
+                100
+            ],
+            "types": [
+                "Normal"
+            ],
+            "abilities": [
+                "Parental Bond"
+            ],
+            "tier": [
+                "Uber"
+            ],
+            "form": "Mega"
+        }
+    },
+    "overview": "Kangaskhan is a solid pick in PU due to its passable Attack and Speed alongside Fake Out, which allows it to act as a decent revenge killer. These traits are aided by naturally good bulk that lets it to take a couple of hits if it must. Due to these traits, Kangaskhan acts as a decent blanket check against offense with the ability to pressure most setup sweepers with dual priority and chip faster foes while also being bulky enough to switch in a few times throughout a match. Additionally, Scrappy allows it to threaten offensive Ghost-types such as Froslsas or Oricorio-G with Fake Out while denting defensive ones such as Sableye and Spiritomb with Double-Edge. Kangaskhan can also effectively lure most of its counters with Z-move and Substitute + Toxic sets, significantly increasing its diversity and threat level. However, lack of recovery alongside Double-Edge recoil wears down Kanghaskan quickly. All-out attacking sets struggle against bulky Normal-resistant Pokemon like Regirock and Carracosta, and it faces notable competition from Stoutland which can reliably deal more immediate damage at the cost of Speed and priority.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "All-Out Attacker",
+            "stats": [
+                246,
+                317,
+                196,
+                104,
+                197,
+                279
+            ],
+            "type": [
+                "Normal"
+            ],
+            "usage": "Kangaskhan's main goal early in the match is to wear down the opponent's Pokemon with Fake Out (or Earthquake on a predicted switch), after which it should be kept in reserve to keep the opponent's sweepers from setting up freely lest they be revenge killed by the Fake Out + Sucker Punch combination. Kangaskhan should be brought in after a teammate is KOed to revenge kill frail offensive threats such as Absol or Floatzel with dual priority. Note, however, that these Pokemon often need to have some form prior damage on them to ensure a KO, especially Jynx, as they can use a sleep-inducing move after the initial Fake Out to easily avoid the Sucker Punch while shutting down Kangaskhan. Additionally, Kangaskhan can be brought in on predicted switches or via slow U-turn from teammates such as Mesprit. However, avoid switching it into stronger attacks, as Kangaskhan should be at a decent HP for the later parts of a match to successfully revenge kill and possibly take a hit if need be. On another note, Normal-type moves shouldn't be spammed if the opponent has anything Normal-resistant, as this can grant them a safe switch in.",
+            "moves": [
+                [
+                    "Fake Out"
+                ],
+                [
+                    "Double-Edge"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Sucker Punch"
+                ]
+            ],
+            "item": [
+                " Silk Scarf"
+            ],
+            "ability": [
+                "Scrappy"
+            ],
+            "nature": [
+                "Adamant",
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                0,
+                0,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Power-Up Punch + Z-Move",
+            "stats": [
+                246,
+                317,
+                197,
+                104,
+                196,
+                279
+            ],
+            "type": [
+                "Normal"
+            ],
+            "usage": "Switch Kangaskhan into threats it can revenge kill like Lanturn and Eelektross, as this generates offensive pressure and provides Kangaskhan with an opportunity to safely use Power-Up Punch. Disguise Kangaskhan's set until it is necessary to break through a foe, as the set will become apparent to opponents once Kangaskhan uses Power-Up Punch or it is revealed that it lacks Fake Out. Use Power-Up Punch when anticipating a physically bulky Pokemon like Omastar, Carracosta, or Qwilfish that would otherwise take on Kangaskhan with little issue to switch in, since this enables Kangaskhan to break through them. Aside from luring in these checks, Kangaskhan should still be used to break through specially defensive Pokemon like Clefairy, Audino, and Eelektross for its team as well. Be careful about when Kangaskhan uses its Z-Move, especially in the case of Fightinium Z variants, since opposing teams can take advantage of Kangaskhan's reliance on the Z-Move to break through most Normal checks by forcing predictions and absorbing the Z-Move with weakened Pokemon. Once all Normal-resistant foes have been weakened enough or removed, Kangaskhan can more freely set up with Power-Up Punch and clean teams with Double-Edge. Late-game, Kangaskhan can also make use of Sucker Punch to finish off more offensive teams, as the move becomes fairly powerful after a boost from Power-Up Punch. Though Kangaskhan has decent bulk, refrain from directly switching it into stronger attacks, since it needs to be as healthy as possible to reliably wallbreak as well as stomach priority moves from Pokemon like Skuntank and Spiritomb.",
+            "moves": [
+                [
+                    "Power-Up Punch"
+                ],
+                [
+                    "Double-Edge"
+                ],
+                [
+                    "Sucker Punch"
+                ],
+                [
+                    "Focus Punch",
+                    "Earthquake"
+                ]
+            ],
+            "item": [
+                " Fightinium Z",
+                " Normalium Z"
+            ],
+            "ability": [
+                "Scrappy"
+            ],
+            "nature": [
+                "Adamant",
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Substitute + Toxic",
+            "stats": [
+                309,
+                226,
+                256,
+                104,
+                223,
+                216
+            ],
+            "type": [
+                "Normal"
+            ],
+            "usage": "Early- and mid-game, Kangaskhan should aim to cripple its checks like Mudsdale and Regirock and set up a Substitute to rack up damage with Toxic. Due to its decently high bulk, it can be used as a check to foes such as non-Flyinium Z Oricorio-E and Stealth Rock Mesprit if healthy. It can come in on passive Pokemon that can't break its Substitute like Jellicent and Articuno. However, it has to be wary of Will-O-Wisp and Toxic, which greatly hinder its longevity. Furthermore, Kangaskhan should only set up when its checks, such as Regirock and Mudsdale, are weakened. However, in Quagsire's case, Kangaskhan should pressure it with Toxic and attacks until it's forced to switch out, as Unaware allows Quagsire to ignore the Attack boost provided by Power-Up Punch. Finally, due to Kangaskhan's lack of reliable recovery, it shouldn't be switched in repeatedly.",
+            "moves": [
+                [
+                    "Substitute"
+                ],
+                [
+                    "Toxic"
+                ],
+                [
+                    "Power-Up Punch"
+                ],
+                [
+                    "Return"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Scrappy"
+            ],
+            "nature": [
+                "Impish"
+            ],
+            "ev spread": [
+                252,
+                0,
+                148,
+                0,
+                108,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Normal-resistant Pokemon",
+        "Fighting-types",
+        "Physically Bulky Pokemon"
+    ],
+    "credits": [
+        "Written by leonard (from big bang theory), allstarapology,  and Gum",
+        "Quality checked by Megazard, yogi, TONE, UberSkitty, TJ,  and tondas",
+        "Grammar checked by Mr. Uncompetitive, The Dutch Plumberjack, Fireflame479, Eien,  and Estronic"
+    ]
+}

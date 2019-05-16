@@ -1,1 +1,100 @@
-{"name": "Sneasel", "forms": {"Base": {"base stats": [55, 95, 55, 35, 75, 115], "types": ["Dark", "Ice"], "abilities": ["Inner Focus", "Keen Eye", "Pickpocket"], "tier": ["NU"], "form": "Base"}}, "overview": "Sneasel carves itself a niche in the RU tier by virtue of its unique Dark and Ice STAB moves that make it difficult to switch into, as few Pokemon in the tier resist both; combined, they hit a wide expanse of the tier for super effective damage. This makes many common physical walls such as Gligar, Doublade, and Slowbro wary of switching in on Sneasel. Additionally, its high Speed stat puts it above most of the unboosted tier, which, combined with its STAB Ice-type priority, makes it difficult for offensive teams to deal with and a great revenge killer for prominent offensive threats. Sneasel's access to Pursuit allows it to trap Psychic- and Ghost-type Pokemon as well as catch threats that are weak to Ice as they switch out for big damage, which is a unique trait among Dark-types and sets it apart from rivals such as Zoroark. However, Sneasel's frailty and poor defensive typing lead it to contribute little defensively and leave it unable to switch in on much, and a weakness to Stealth Rock can lead to it being worn down quickly. Also, a lackluster base Attack stat means Sneasel hits neutral targets for low damage and often misses OHKOs or 2HKOs on some bulkier targets, even those weak to it, which prevents it from dealing huge damage to teams from the get-go and means it requires support to realize its full potential.\n", "strategies' format": "RU", "strategies": [{"name": "All-out Attacker", "stats": [146, 289, 147, 95, 186, 361], "type": ["Dark", "Ice"], "usage": "Due to its frailty and poor defensive typing, Sneasel is best used as a revenge killer or after being brought in by a slow U-turn or Volt Switch such as from Gligar. After getting Sneasel in, utilize its fantastic two-move coverage to threaten a large variety of prominent Pokemon such as Nidoqueen, Kommo-o, Flygon, Shaymin, Gligar, and Bronzong. Use Knock Off liberally, as it has essentially no drawbacks and has the advantage of removing valuable items from foes. Also take advantage of Pursuit to trap problematic Psychic- and Ghost-types, and use the threat of Sneasel's Ice-type STAB moves to threaten out enemies weak to Ice in order to chunk them later with Pursuit. Additionally, due to Sneasel's high Speed and decent power, it can preserved for the late-game in order to act as a cleaner once its checks are sufficiently weakened. When using Sneasel, note that since Z-Crystals cannot be knocked off, so holding one reduces the Base Power of Knock Off to a paltry 65. This allows bulky foes weak to Dark such as Reuniclus, Slowbro, and Cresselia to take advantage of Sneasel, as opposed to the other way around.", "moves": [["Knock Off"], ["Icicle Crash"], ["Ice Shard"], ["Pursuit"]], "item": [" Life Orb", " Choice Band"], "ability": ["Inner Focus"], "nature": ["Jolly"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Bulky Fairy-types", "Bulky Water-types", "Steel-types", "Bulky Pokemon Not Weak to Sneasel", "Choice Scarf Users and Faster Offensive Pokemon"], "credits": ["Written by cyanize", "Quality checked by avocado, MrAldo,  and Arifeen", "Grammar checked by Fireflame479 and P Squared"]}
+{
+    "name": "Sneasel",
+    "forms": {
+        "Base": {
+            "base stats": [
+                55,
+                95,
+                55,
+                35,
+                75,
+                115
+            ],
+            "types": [
+                "Dark",
+                "Ice"
+            ],
+            "abilities": [
+                "Inner Focus",
+                "Keen Eye",
+                "Pickpocket"
+            ],
+            "tier": [
+                "NU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Sneasel carves itself a niche in the RU tier by virtue of its unique Dark and Ice STAB moves that make it difficult to switch into, as few Pokemon in the tier resist both; combined, they hit a wide expanse of the tier for super effective damage. This makes many common physical walls such as Gligar, Doublade, and Slowbro wary of switching in on Sneasel. Additionally, its high Speed stat puts it above most of the unboosted tier, which, combined with its STAB Ice-type priority, makes it difficult for offensive teams to deal with and a great revenge killer for prominent offensive threats. Sneasel's access to Pursuit allows it to trap Psychic- and Ghost-type Pokemon as well as catch threats that are weak to Ice as they switch out for big damage, which is a unique trait among Dark-types and sets it apart from rivals such as Zoroark. However, Sneasel's frailty and poor defensive typing lead it to contribute little defensively and leave it unable to switch in on much, and a weakness to Stealth Rock can lead to it being worn down quickly. Also, a lackluster base Attack stat means Sneasel hits neutral targets for low damage and often misses OHKOs or 2HKOs on some bulkier targets, even those weak to it, which prevents it from dealing huge damage to teams from the get-go and means it requires support to realize its full potential.\n",
+    "strategies' format": "RU",
+    "strategies": [
+        {
+            "name": "All-out Attacker",
+            "stats": [
+                146,
+                289,
+                147,
+                95,
+                186,
+                361
+            ],
+            "type": [
+                "Dark",
+                "Ice"
+            ],
+            "usage": "Due to its frailty and poor defensive typing, Sneasel is best used as a revenge killer or after being brought in by a slow U-turn or Volt Switch such as from Gligar. After getting Sneasel in, utilize its fantastic two-move coverage to threaten a large variety of prominent Pokemon such as Nidoqueen, Kommo-o, Flygon, Shaymin, Gligar, and Bronzong. Use Knock Off liberally, as it has essentially no drawbacks and has the advantage of removing valuable items from foes. Also take advantage of Pursuit to trap problematic Psychic- and Ghost-types, and use the threat of Sneasel's Ice-type STAB moves to threaten out enemies weak to Ice in order to chunk them later with Pursuit. Additionally, due to Sneasel's high Speed and decent power, it can preserved for the late-game in order to act as a cleaner once its checks are sufficiently weakened. When using Sneasel, note that since Z-Crystals cannot be knocked off, so holding one reduces the Base Power of Knock Off to a paltry 65. This allows bulky foes weak to Dark such as Reuniclus, Slowbro, and Cresselia to take advantage of Sneasel, as opposed to the other way around.",
+            "moves": [
+                [
+                    "Knock Off"
+                ],
+                [
+                    "Icicle Crash"
+                ],
+                [
+                    "Ice Shard"
+                ],
+                [
+                    "Pursuit"
+                ]
+            ],
+            "item": [
+                " Life Orb",
+                " Choice Band"
+            ],
+            "ability": [
+                "Inner Focus"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Bulky Fairy-types",
+        "Bulky Water-types",
+        "Steel-types",
+        "Bulky Pokemon Not Weak to Sneasel",
+        "Choice Scarf Users and Faster Offensive Pokemon"
+    ],
+    "credits": [
+        "Written by cyanize",
+        "Quality checked by avocado, MrAldo,  and Arifeen",
+        "Grammar checked by Fireflame479 and P Squared"
+    ]
+}

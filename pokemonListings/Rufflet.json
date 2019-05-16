@@ -1,1 +1,155 @@
-{"name": "Rufflet", "forms": {"Base": {"base stats": [70, 83, 50, 37, 50, 60], "types": ["Normal", "Flying"], "abilities": ["Hustle", "Keen Eye", "Sheer Force"], "tier": ["LC"], "form": "Base"}}, "overview": "Rufflet was a mediocre Pokemon in XY, but SM gave it access to Brave Bird, cementing its place as a fearsome threat. Rufflet is able to hit incredibly hard because of its ability Hustle, which raises its Attack stat by 1.5. However, the downside to this ability is that all of Rufflet's physical moves except for Aerial Ace have only an 80% hit rate. Rufflet's good bulk and ways to get around traditional Flying-type counters with Superpower allow it to run good Choice Scarf and Bulk Up sets, although its mediocre Speed tier makes it unable to outspeed faster threats like Mienfoo, Chinchou, and Onix.\n", "strategies' format": "LC", "strategies": [{"name": "Choice Scarf", "stats": [176, 265, 145, 99, 136, 225], "type": ["Normal", "Flying"], "usage": "Rufflet is best used as an early-game pivot and a late-game sweeper. Use Brave Bird and Return to secure KOs in the early-game and sweep up the remnants of your opponent's team in the late-game. Whenever you suspect that your opponent is going to switch in a Rock- or Steel-type, use Superpower. If you think that your opponent is going to send in a Pokemon that Rufflet cannot KO with any of its moves, you should almost always U-turn out.", "moves": [["Brave Bird"], ["Superpower"], ["U-turn"], ["Return", "Aerial Ace"]], "item": [" Choice Scarf"], "ability": ["Hustle"], "nature": ["Jolly"], "ev spread": [0, 252, 36, 0, 0, 196], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Bulk Up", "stats": [205, 205, 181, 99, 185, 165], "type": ["Normal", "Flying"], "usage": "Rufflet is best used to wall physical attackers like Mudbray and then set up and sweep the opposing team. It can set up on Pokemon like Mudbray and Drilbur, although it is unable to switch in on Drilbur and set up. It is also able to set up on weaker special attackers like Spritzee. Once strong special attackers like Abra and Gastly are gone, Rufflet has a much easier time sweeping opposing teams. Rufflet also has utility outside of being a sweeper; it is a good soft check for Pokemon like Snivy and Scraggy, but after dealing with them it is likely that it will be weakened too much to fulfill its normal role as a sweeper.", "moves": [["Brave Bird", "Aerial Ace"], ["Superpower", "Facade"], ["Bulk Up"], ["Roost"]], "item": [" Eviolite"], "ability": ["Hustle"], "nature": ["Impish"], "ev spread": [116, 12, 116, 0, 196, 36], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Honedge", "Fast Electric-, Rock-, and Steel-types", "Shell Smash Users"], "credits": ["Written by rssp1", "Quality checked by OP, Corporal Levi,  and Tricking", "Grammar checked by The Dutch Plumberjack and P Squared"]}
+{
+    "name": "Rufflet",
+    "forms": {
+        "Base": {
+            "base stats": [
+                70,
+                83,
+                50,
+                37,
+                50,
+                60
+            ],
+            "types": [
+                "Normal",
+                "Flying"
+            ],
+            "abilities": [
+                "Hustle",
+                "Keen Eye",
+                "Sheer Force"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Rufflet was a mediocre Pokemon in XY, but SM gave it access to Brave Bird, cementing its place as a fearsome threat. Rufflet is able to hit incredibly hard because of its ability Hustle, which raises its Attack stat by 1.5. However, the downside to this ability is that all of Rufflet's physical moves except for Aerial Ace have only an 80% hit rate. Rufflet's good bulk and ways to get around traditional Flying-type counters with Superpower allow it to run good Choice Scarf and Bulk Up sets, although its mediocre Speed tier makes it unable to outspeed faster threats like Mienfoo, Chinchou, and Onix.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Choice Scarf",
+            "stats": [
+                176,
+                265,
+                145,
+                99,
+                136,
+                225
+            ],
+            "type": [
+                "Normal",
+                "Flying"
+            ],
+            "usage": "Rufflet is best used as an early-game pivot and a late-game sweeper. Use Brave Bird and Return to secure KOs in the early-game and sweep up the remnants of your opponent's team in the late-game. Whenever you suspect that your opponent is going to switch in a Rock- or Steel-type, use Superpower. If you think that your opponent is going to send in a Pokemon that Rufflet cannot KO with any of its moves, you should almost always U-turn out.",
+            "moves": [
+                [
+                    "Brave Bird"
+                ],
+                [
+                    "Superpower"
+                ],
+                [
+                    "U-turn"
+                ],
+                [
+                    "Return",
+                    "Aerial Ace"
+                ]
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Hustle"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                36,
+                0,
+                0,
+                196
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Bulk Up",
+            "stats": [
+                205,
+                205,
+                181,
+                99,
+                185,
+                165
+            ],
+            "type": [
+                "Normal",
+                "Flying"
+            ],
+            "usage": "Rufflet is best used to wall physical attackers like Mudbray and then set up and sweep the opposing team. It can set up on Pokemon like Mudbray and Drilbur, although it is unable to switch in on Drilbur and set up. It is also able to set up on weaker special attackers like Spritzee. Once strong special attackers like Abra and Gastly are gone, Rufflet has a much easier time sweeping opposing teams. Rufflet also has utility outside of being a sweeper; it is a good soft check for Pokemon like Snivy and Scraggy, but after dealing with them it is likely that it will be weakened too much to fulfill its normal role as a sweeper.",
+            "moves": [
+                [
+                    "Brave Bird",
+                    "Aerial Ace"
+                ],
+                [
+                    "Superpower",
+                    "Facade"
+                ],
+                [
+                    "Bulk Up"
+                ],
+                [
+                    "Roost"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Hustle"
+            ],
+            "nature": [
+                "Impish"
+            ],
+            "ev spread": [
+                116,
+                12,
+                116,
+                0,
+                196,
+                36
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Honedge",
+        "Fast Electric-, Rock-, and Steel-types",
+        "Shell Smash Users"
+    ],
+    "credits": [
+        "Written by rssp1",
+        "Quality checked by OP, Corporal Levi,  and Tricking",
+        "Grammar checked by The Dutch Plumberjack and P Squared"
+    ]
+}

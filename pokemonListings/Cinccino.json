@@ -1,1 +1,98 @@
-{"name": "Cinccino", "forms": {"Base": {"base stats": [75, 95, 60, 65, 60, 115], "types": ["Normal"], "abilities": ["Cute Charm", "Skill Link", "Technician"], "tier": ["NU"], "form": "Base"}}, "overview": "Cinccino's ability in Skill Link gives it great power on its main STAB move, Tail Slap. Thanks to its coverage options in Bullet Seed and Knock Off, it can threaten many Normal-resistant and -immune foes in the metagame such as Rhydon and Palossand and serve as a powerful wallbreaker, as well as a late-game cleaner if its faster checks have been removed from the battle. Cinccino also sits at a fantastic Speed tier, being able to outspeed the likes of Mismagius, Delphox, and +1 Scrafty. Thanks to Skill Link, Cinccino can prevent Substitute users like Braviary and Vivillon from safely setting up behind one. However, despite its great Speed tier, Cinccino fails to outspeed common offensive threats such as Sceptile and Whimsicott, as well as Choice Scarf users like Braviary, Passimian, and Heliolisk. In addition, due to its frailty, Cinccino finds it hard to switch directly into foes; this also means it is pressured into OHKOing its foes to avoid being OHKOed in return. Finally, Cinccino also has major difficulty in dealing with Steel-types such as the common Steelix and Rocky Helmet users such as Garbodor, Vileplume, and Xatu.\n", "strategies' format": "NU", "strategies": [{"name": "All-out Attacker", "stats": [186, 289, 157, 149, 156, 361], "type": ["Normal"], "usage": "Due to Cinccino's frailty, it is best not to switch it directly into threats; instead, it can be brought in on double switches or with the assistance of U-turn and Volt Switch users such as Xatu and Whimsicott. When Cinccino is in play, it is important to look at the opponent's team and watch out for any potential Rocky Helmet users such as Garbodor and Xatu, which can cause Cinccino to inflict massive damage on itself; if any of these foes are present on the opponent's team, then it is safest to use Knock Off to remove their items or Rock Blast to inflict great damage to them while avoiding Rocky Helmet damage. If a Rock-type threat such as Rhydon is on the opposing team, you can choose to predict their switch in by going for Bullet Seed. Knock Off and Bullet Seed may both be used for potential Ghost-type switch-ins such as Mismagius and Rotom, although Bullet Seed is generally the preferred move to avoid activating their potential Colbur Berry. Due to Cinccino's phenomenal Speed stat, it is generally safe to use Tail Slap against the foe in front of it due to its high damage output, provided none of the aforementioned switch-ins are on the opponent's team; this is especially effective if running a Life Orb, as there is less of a need to predict with Cinccino. If running U-turn, then Cinccino can use it to pivot out of its common switch-ins such as Steelix and Garbodor so it can bring in a partner that threatens these foes, such as Delphox.", "moves": [["Tail Slap"], ["Bullet Seed"], ["Knock Off"], ["U-turn", "Rock Blast"]], "item": [" Choice Band", " Life Orb"], "ability": ["Skill Link"], "nature": ["Jolly"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Steelix and Rhydon", "Rocky Helmet Users", "Ghost-types", "Faster Attackers"], "credits": ["Written by Eclipse", "Quality checked by erisia, Hootie,  and Punchshroom", "Grammar checked by Wob and Fireflame479"]}
+{
+    "name": "Cinccino",
+    "forms": {
+        "Base": {
+            "base stats": [
+                75,
+                95,
+                60,
+                65,
+                60,
+                115
+            ],
+            "types": [
+                "Normal"
+            ],
+            "abilities": [
+                "Cute Charm",
+                "Skill Link",
+                "Technician"
+            ],
+            "tier": [
+                "NU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Cinccino's ability in Skill Link gives it great power on its main STAB move, Tail Slap. Thanks to its coverage options in Bullet Seed and Knock Off, it can threaten many Normal-resistant and -immune foes in the metagame such as Rhydon and Palossand and serve as a powerful wallbreaker, as well as a late-game cleaner if its faster checks have been removed from the battle. Cinccino also sits at a fantastic Speed tier, being able to outspeed the likes of Mismagius, Delphox, and +1 Scrafty. Thanks to Skill Link, Cinccino can prevent Substitute users like Braviary and Vivillon from safely setting up behind one. However, despite its great Speed tier, Cinccino fails to outspeed common offensive threats such as Sceptile and Whimsicott, as well as Choice Scarf users like Braviary, Passimian, and Heliolisk. In addition, due to its frailty, Cinccino finds it hard to switch directly into foes; this also means it is pressured into OHKOing its foes to avoid being OHKOed in return. Finally, Cinccino also has major difficulty in dealing with Steel-types such as the common Steelix and Rocky Helmet users such as Garbodor, Vileplume, and Xatu.\n",
+    "strategies' format": "NU",
+    "strategies": [
+        {
+            "name": "All-out Attacker",
+            "stats": [
+                186,
+                289,
+                157,
+                149,
+                156,
+                361
+            ],
+            "type": [
+                "Normal"
+            ],
+            "usage": "Due to Cinccino's frailty, it is best not to switch it directly into threats; instead, it can be brought in on double switches or with the assistance of U-turn and Volt Switch users such as Xatu and Whimsicott. When Cinccino is in play, it is important to look at the opponent's team and watch out for any potential Rocky Helmet users such as Garbodor and Xatu, which can cause Cinccino to inflict massive damage on itself; if any of these foes are present on the opponent's team, then it is safest to use Knock Off to remove their items or Rock Blast to inflict great damage to them while avoiding Rocky Helmet damage. If a Rock-type threat such as Rhydon is on the opposing team, you can choose to predict their switch in by going for Bullet Seed. Knock Off and Bullet Seed may both be used for potential Ghost-type switch-ins such as Mismagius and Rotom, although Bullet Seed is generally the preferred move to avoid activating their potential Colbur Berry. Due to Cinccino's phenomenal Speed stat, it is generally safe to use Tail Slap against the foe in front of it due to its high damage output, provided none of the aforementioned switch-ins are on the opponent's team; this is especially effective if running a Life Orb, as there is less of a need to predict with Cinccino. If running U-turn, then Cinccino can use it to pivot out of its common switch-ins such as Steelix and Garbodor so it can bring in a partner that threatens these foes, such as Delphox.",
+            "moves": [
+                [
+                    "Tail Slap"
+                ],
+                [
+                    "Bullet Seed"
+                ],
+                [
+                    "Knock Off"
+                ],
+                [
+                    "U-turn",
+                    "Rock Blast"
+                ]
+            ],
+            "item": [
+                " Choice Band",
+                " Life Orb"
+            ],
+            "ability": [
+                "Skill Link"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Steelix and Rhydon",
+        "Rocky Helmet Users",
+        "Ghost-types",
+        "Faster Attackers"
+    ],
+    "credits": [
+        "Written by Eclipse",
+        "Quality checked by erisia, Hootie,  and Punchshroom",
+        "Grammar checked by Wob and Fireflame479"
+    ]
+}

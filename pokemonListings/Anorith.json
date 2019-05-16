@@ -1,1 +1,98 @@
-{"name": "Anorith", "forms": {"Base": {"base stats": [45, 95, 50, 40, 50, 75], "types": ["Rock", "Bug"], "abilities": ["Battle Armor", "Swift Swim"], "tier": ["LC"], "form": "Base"}}, "overview": "Anorith's access to Knock Off, Stealth Rock, and Rapid Spin gives it excellent role compression to support the team with. Its great 18 Speed tier makes it the second fastest Stealth Rock user in the tier, only behind Diglett. It also has an excellent Attack stat, one of the highest in the metagame, so it can hit quite hard. However, Anorith faces competition from Onix and Dwebble as an entry hazard setter and from Drilbur and Staryu as a spinner due to their greater reliability. Anorith is also pretty frail, with a very bad defensive typing that only gives it a resistance to two uncommon offensive typings and a weakness to Aqua Jet, Bullet Punch, and Stealth Rock, making it hard to switch in and remove entry hazards. Anorith also has trouble dealing with the common Fighting-types due to its small movepool, and it's completely countered by Staryu because it can KO Anorith before it can move and then remove its entry hazards with Rapid Spin.\n", "strategies' format": "LC", "strategies": [{"name": "Utility", "stats": [126, 285, 145, 104, 136, 269], "type": ["Rock", "Bug"], "usage": "Anorith functions as a good lead because of its great Speed in conjunction with Stealth Rock. It can also remove entry hazards set by the opposing lead thanks to Rapid Spin. The best time to use Rapid Spin, however, is when entry hazard setters on the opponent's team are gone. Beware of Onix, as it easily beats Anorith with Rock Blast. Knock Off should be used if Rock Blast won't KO or if the foe still has its item. Anorith can be used to revenge kill Pokemon that are slower than it due to its great Attack and Speed, such as Archen, Rufflet, and Vullaby. Anorith shouldn't be sent out against Pokemon faster than it such as Staryu, Choice Scarf Doduo, and Choice Scarf Chinchou, as they'll likely KO Anorith before it can do anything.", "moves": [["Stealth Rock"], ["Rapid Spin"], ["Knock Off"], ["Rock Blast"]], "item": [" Berry Juice"], "ability": ["Battle Armor"], "nature": ["Jolly"], "ev spread": [0, 236, 36, 0, 0, 236], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Faster Pokemon", "Water-types", "Rock-types", "Steel-types", "Fighting-types"], "credits": ["Written by crusty", "Quality checked by Rowan, Fiend,  and Xayah", "Grammar checked by CryoGyro and The Dutch Plumberjack"]}
+{
+    "name": "Anorith",
+    "forms": {
+        "Base": {
+            "base stats": [
+                45,
+                95,
+                50,
+                40,
+                50,
+                75
+            ],
+            "types": [
+                "Rock",
+                "Bug"
+            ],
+            "abilities": [
+                "Battle Armor",
+                "Swift Swim"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Anorith's access to Knock Off, Stealth Rock, and Rapid Spin gives it excellent role compression to support the team with. Its great 18 Speed tier makes it the second fastest Stealth Rock user in the tier, only behind Diglett. It also has an excellent Attack stat, one of the highest in the metagame, so it can hit quite hard. However, Anorith faces competition from Onix and Dwebble as an entry hazard setter and from Drilbur and Staryu as a spinner due to their greater reliability. Anorith is also pretty frail, with a very bad defensive typing that only gives it a resistance to two uncommon offensive typings and a weakness to Aqua Jet, Bullet Punch, and Stealth Rock, making it hard to switch in and remove entry hazards. Anorith also has trouble dealing with the common Fighting-types due to its small movepool, and it's completely countered by Staryu because it can KO Anorith before it can move and then remove its entry hazards with Rapid Spin.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Utility",
+            "stats": [
+                126,
+                285,
+                145,
+                104,
+                136,
+                269
+            ],
+            "type": [
+                "Rock",
+                "Bug"
+            ],
+            "usage": "Anorith functions as a good lead because of its great Speed in conjunction with Stealth Rock. It can also remove entry hazards set by the opposing lead thanks to Rapid Spin. The best time to use Rapid Spin, however, is when entry hazard setters on the opponent's team are gone. Beware of Onix, as it easily beats Anorith with Rock Blast. Knock Off should be used if Rock Blast won't KO or if the foe still has its item. Anorith can be used to revenge kill Pokemon that are slower than it due to its great Attack and Speed, such as Archen, Rufflet, and Vullaby. Anorith shouldn't be sent out against Pokemon faster than it such as Staryu, Choice Scarf Doduo, and Choice Scarf Chinchou, as they'll likely KO Anorith before it can do anything.",
+            "moves": [
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Rapid Spin"
+                ],
+                [
+                    "Knock Off"
+                ],
+                [
+                    "Rock Blast"
+                ]
+            ],
+            "item": [
+                " Berry Juice"
+            ],
+            "ability": [
+                "Battle Armor"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                236,
+                36,
+                0,
+                0,
+                236
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Faster Pokemon",
+        "Water-types",
+        "Rock-types",
+        "Steel-types",
+        "Fighting-types"
+    ],
+    "credits": [
+        "Written by crusty",
+        "Quality checked by Rowan, Fiend,  and Xayah",
+        "Grammar checked by CryoGyro and The Dutch Plumberjack"
+    ]
+}

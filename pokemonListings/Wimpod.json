@@ -1,1 +1,94 @@
-{"name": "Wimpod", "forms": {"Base": {"base stats": [25, 35, 40, 20, 30, 80], "types": ["Bug", "Water"], "abilities": ["Wimp Out"], "tier": ["LC"], "form": "Base"}}, "overview": "Thanks to access to Spikes and Taunt as well as having a great Speed stat, Wimpod can function as a decent suicide lead on offensive teams, as it is the fastest user of Spikes. Thanks to its 18 Speed, it can notably outspeed every common lead in the metagame, including Onix and Dwebble. Its ability Wimp Out allows it to usually get up one layer of Spikes and immediately give a teammate a safe switch. This can give your team a lot of momentum, and in combination with Spikes can put your opponent on the backfoot from the start of the game. However, Wimpod's stats other than its Speed are bad, meaning it will be knocked out easily and unable to do much damage in return. In addition, its movepool is very lacking, making it struggle to hit Pokemon that aren't weak to its STAB moves. This makes it incredibly passive. Wimpod's typing leaves it weak to Rock, not only meaning it is weak to Stealth Rock but also that it loses to common leads like Dwebble and Onix. At the same time, Wimpod faces a lot of competition from these Pokemon, as they have greater bulk and can set up entry hazards more consistently thanks to their less situational abilities, though Wimp Out does give Wimpod a small niche. However, Wimp Out can also be a curse, as a faster Pokemon can easily knock it below half HP, thus forcing it to switch out, meaning Wimpod cannot get up a layer of Spikes. Since it is unable to do much other than set up Spikes, Wimpod is very predictable, and opponents will thus easily be able to see its lead coming. Lastly, after it has been forced out because of Wimp Out, it struggles to get back in due to its weakness to Stealth Rock and general frailty.\n", "strategies' format": "LC", "strategies": [{"name": "Spikes Setter", "stats": [86, 125, 165, 85, 86, 269], "type": ["Bug", "Water"], "usage": "Wimpod should almost always be used as a lead. However, if you predict your opponent to lead with a Pokemon that is faster than Wimpod, such as Abra, it is often advised to lead with something else so that Wimpod can be used to grab momentum later in the game. When it is in, setting up Spikes should be the main priority. However, when Wimpod is in on an opposing hazard setter, like Onix or Dwebble, or a setup sweeper, like Shellder or Zigzagoon, going for Taunt is usually worth it, as it can greatly aid your team by preventing these Pokemon from doing what they do best. Always be careful of multi-hit moves like Rock Blast, as they can KO Wimpod even through its Focus Sash. Once Wimpod has taken a hit and thus given a teammate a safe switch thanks to Wimp Out, it can come back in to give another safe switch by going down, use its good Speed to use Taunt on a setup sweeper, or set up another layer of Spikes. If Wimpod hasn't activated Wimp Out yet and is not on the field, it can be used to take a hit from Pokemon such as Timburr and grab momentum using Wimp Out. If Wimpod's Focus Sash hasn't been broken yet, it can do the same against any Pokemon. Since Wimpod is so weak, it's usually not worth it to go for an offensive move instead of Spikes or Taunt. You should only use an offensive move if you are either certain that it will knock out the foe or if you already have three layers of Spikes up and using Taunt is not worth it, such as when Wimpod's foe is an all-out attacker or it is already afflicted with Taunt.", "moves": [["Spikes"], ["Taunt"], ["Scald"], ["Aqua Jet"]], "item": [" Focus Sash"], "ability": ["Wimp Out"], "nature": ["Naive"], "ev spread": [0, 76, 196, 36, 0, 196], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Faster Pokemon", "Hazard Removal"], "credits": ["Written by Xayah", "Quality checked by Nineage, Hilomilo,  and Coconut", "Grammar checked by Fireflame479 and CryoGyro"]}
+{
+    "name": "Wimpod",
+    "forms": {
+        "Base": {
+            "base stats": [
+                25,
+                35,
+                40,
+                20,
+                30,
+                80
+            ],
+            "types": [
+                "Bug",
+                "Water"
+            ],
+            "abilities": [
+                "Wimp Out"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Thanks to access to Spikes and Taunt as well as having a great Speed stat, Wimpod can function as a decent suicide lead on offensive teams, as it is the fastest user of Spikes. Thanks to its 18 Speed, it can notably outspeed every common lead in the metagame, including Onix and Dwebble. Its ability Wimp Out allows it to usually get up one layer of Spikes and immediately give a teammate a safe switch. This can give your team a lot of momentum, and in combination with Spikes can put your opponent on the backfoot from the start of the game. However, Wimpod's stats other than its Speed are bad, meaning it will be knocked out easily and unable to do much damage in return. In addition, its movepool is very lacking, making it struggle to hit Pokemon that aren't weak to its STAB moves. This makes it incredibly passive. Wimpod's typing leaves it weak to Rock, not only meaning it is weak to Stealth Rock but also that it loses to common leads like Dwebble and Onix. At the same time, Wimpod faces a lot of competition from these Pokemon, as they have greater bulk and can set up entry hazards more consistently thanks to their less situational abilities, though Wimp Out does give Wimpod a small niche. However, Wimp Out can also be a curse, as a faster Pokemon can easily knock it below half HP, thus forcing it to switch out, meaning Wimpod cannot get up a layer of Spikes. Since it is unable to do much other than set up Spikes, Wimpod is very predictable, and opponents will thus easily be able to see its lead coming. Lastly, after it has been forced out because of Wimp Out, it struggles to get back in due to its weakness to Stealth Rock and general frailty.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Spikes Setter",
+            "stats": [
+                86,
+                125,
+                165,
+                85,
+                86,
+                269
+            ],
+            "type": [
+                "Bug",
+                "Water"
+            ],
+            "usage": "Wimpod should almost always be used as a lead. However, if you predict your opponent to lead with a Pokemon that is faster than Wimpod, such as Abra, it is often advised to lead with something else so that Wimpod can be used to grab momentum later in the game. When it is in, setting up Spikes should be the main priority. However, when Wimpod is in on an opposing hazard setter, like Onix or Dwebble, or a setup sweeper, like Shellder or Zigzagoon, going for Taunt is usually worth it, as it can greatly aid your team by preventing these Pokemon from doing what they do best. Always be careful of multi-hit moves like Rock Blast, as they can KO Wimpod even through its Focus Sash. Once Wimpod has taken a hit and thus given a teammate a safe switch thanks to Wimp Out, it can come back in to give another safe switch by going down, use its good Speed to use Taunt on a setup sweeper, or set up another layer of Spikes. If Wimpod hasn't activated Wimp Out yet and is not on the field, it can be used to take a hit from Pokemon such as Timburr and grab momentum using Wimp Out. If Wimpod's Focus Sash hasn't been broken yet, it can do the same against any Pokemon. Since Wimpod is so weak, it's usually not worth it to go for an offensive move instead of Spikes or Taunt. You should only use an offensive move if you are either certain that it will knock out the foe or if you already have three layers of Spikes up and using Taunt is not worth it, such as when Wimpod's foe is an all-out attacker or it is already afflicted with Taunt.",
+            "moves": [
+                [
+                    "Spikes"
+                ],
+                [
+                    "Taunt"
+                ],
+                [
+                    "Scald"
+                ],
+                [
+                    "Aqua Jet"
+                ]
+            ],
+            "item": [
+                " Focus Sash"
+            ],
+            "ability": [
+                "Wimp Out"
+            ],
+            "nature": [
+                "Naive"
+            ],
+            "ev spread": [
+                0,
+                76,
+                196,
+                36,
+                0,
+                196
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Faster Pokemon",
+        "Hazard Removal"
+    ],
+    "credits": [
+        "Written by Xayah",
+        "Quality checked by Nineage, Hilomilo,  and Coconut",
+        "Grammar checked by Fireflame479 and CryoGyro"
+    ]
+}

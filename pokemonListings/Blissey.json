@@ -1,1 +1,99 @@
-{"name": "Blissey", "forms": {"Base": {"base stats": [255, 10, 10, 75, 135, 55], "types": ["Normal"], "abilities": ["Healer", "Natural Cure", "Serene Grace"], "tier": ["UU"], "form": "Base"}}, "overview": "Colossal base HP, high base Special Defense, and only one weakness make Blissey the premier special wall in UU, and thanks to its access to various support moves such as Wish and Heal Bell, Blissey finds itself a staple on stall teams. Furthermore, Blissey's ability Natural Cure in combination with reliable recovery in Soft-Boiled makes it very hard to wear down. However, despite access to Seismic Toss and Toxic, Blissey is quite passive, and as a result, it is shut down by Taunt users, such as Krookodile and Gengar. Blissey is also used as a setup fodder by Steel-types such as Scizor and Cobalion, which are immune to Toxic, and bulky Substitute users, such as Suicune. In addition, a poor Defense stat means that Blissey is vulnerable to the most physical attackers in the tier, such as Mega Sharpedo and Terrakion. Overall, although Blissey is a reliable staple on Stall teams, it finds itself hard to fit onto playstyles other than stall and balance, and as a result, it is mostly restricted to them.\n", "strategies' format": "UU", "strategies": [{"name": "Defensive", "stats": [609, 50, 130, 186, 307, 146], "type": ["Normal"], "usage": "Switch Blissey into special attackers, such as Hydreigon and Nidoking. However, it is recommended to scout for mixed sets, such as Superpower on Nidoking and Volcanion, that hit Blissey for physical damage to overpower it. If using Heal Bell, heal up teammates affected by lethal status ailments when an opportunity is provided. If using Stealth Rock, it is best to send out Blissey early-game to set it up. Prevent Blissey from getting worn down so it can repeatedly switch into special attackers, such as Mega Sceptile and Mega Manectric. A way to do that is to remove entry hazards as often as possible and use Soft-Boiled frequently so Blissey is not 2HKOed by any of the special attackers' moves. Avoid staying in with Blissey on setup sweepers that beat it, such as Togekiss, Scizor, and Cobalion, so they don't get extra free turns, and on physical attackers, because they can potentially overpower Blissey. Do not stay in on Taunt users, such as Krookodile and Gengar, that shut down Blissey and beat it. Be wary of bulky Substitute users such as Suicune and Kyurem. Although Blissey can take hits from them, they reliably stall Blissey out of PP.", "moves": [["Seismic Toss"], ["Toxic"], ["Soft-Boiled"], ["Heal Bell", "Stealth Rock"]], "item": [" Leftovers"], "ability": ["Natural Cure"], "nature": ["Bold"], "ev spread": [252, 0, 252, 0, 4, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Fighting-types", "Toxic-immune Pokemon", "Strong Physical Attackers", "Taunt", "Pursuit"], "credits": ["Written by Amane Misa", "Earlier versions by Manipulative", "Quality checked by TSR, Hilomilo,  and Eyan", "Grammar checked by The Dutch Plumberjack and A Cake Wearing A Hat"]}
+{
+    "name": "Blissey",
+    "forms": {
+        "Base": {
+            "base stats": [
+                255,
+                10,
+                10,
+                75,
+                135,
+                55
+            ],
+            "types": [
+                "Normal"
+            ],
+            "abilities": [
+                "Healer",
+                "Natural Cure",
+                "Serene Grace"
+            ],
+            "tier": [
+                "UU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Colossal base HP, high base Special Defense, and only one weakness make Blissey the premier special wall in UU, and thanks to its access to various support moves such as Wish and Heal Bell, Blissey finds itself a staple on stall teams. Furthermore, Blissey's ability Natural Cure in combination with reliable recovery in Soft-Boiled makes it very hard to wear down. However, despite access to Seismic Toss and Toxic, Blissey is quite passive, and as a result, it is shut down by Taunt users, such as Krookodile and Gengar. Blissey is also used as a setup fodder by Steel-types such as Scizor and Cobalion, which are immune to Toxic, and bulky Substitute users, such as Suicune. In addition, a poor Defense stat means that Blissey is vulnerable to the most physical attackers in the tier, such as Mega Sharpedo and Terrakion. Overall, although Blissey is a reliable staple on Stall teams, it finds itself hard to fit onto playstyles other than stall and balance, and as a result, it is mostly restricted to them.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Defensive",
+            "stats": [
+                609,
+                50,
+                130,
+                186,
+                307,
+                146
+            ],
+            "type": [
+                "Normal"
+            ],
+            "usage": "Switch Blissey into special attackers, such as Hydreigon and Nidoking. However, it is recommended to scout for mixed sets, such as Superpower on Nidoking and Volcanion, that hit Blissey for physical damage to overpower it. If using Heal Bell, heal up teammates affected by lethal status ailments when an opportunity is provided. If using Stealth Rock, it is best to send out Blissey early-game to set it up. Prevent Blissey from getting worn down so it can repeatedly switch into special attackers, such as Mega Sceptile and Mega Manectric. A way to do that is to remove entry hazards as often as possible and use Soft-Boiled frequently so Blissey is not 2HKOed by any of the special attackers' moves. Avoid staying in with Blissey on setup sweepers that beat it, such as Togekiss, Scizor, and Cobalion, so they don't get extra free turns, and on physical attackers, because they can potentially overpower Blissey. Do not stay in on Taunt users, such as Krookodile and Gengar, that shut down Blissey and beat it. Be wary of bulky Substitute users such as Suicune and Kyurem. Although Blissey can take hits from them, they reliably stall Blissey out of PP.",
+            "moves": [
+                [
+                    "Seismic Toss"
+                ],
+                [
+                    "Toxic"
+                ],
+                [
+                    "Soft-Boiled"
+                ],
+                [
+                    "Heal Bell",
+                    "Stealth Rock"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Natural Cure"
+            ],
+            "nature": [
+                "Bold"
+            ],
+            "ev spread": [
+                252,
+                0,
+                252,
+                0,
+                4,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Fighting-types",
+        "Toxic-immune Pokemon",
+        "Strong Physical Attackers",
+        "Taunt",
+        "Pursuit"
+    ],
+    "credits": [
+        "Written by Amane Misa",
+        "Earlier versions by Manipulative",
+        "Quality checked by TSR, Hilomilo,  and Eyan",
+        "Grammar checked by The Dutch Plumberjack and A Cake Wearing A Hat"
+    ]
+}

@@ -1,1 +1,209 @@
-{"name": "Tyrantrum", "forms": {"Base": {"base stats": [82, 121, 119, 69, 59, 71], "types": ["Rock", "Dragon"], "abilities": ["Rock Head", "Strong Jaw"], "tier": ["RU"], "form": "Base"}}, "overview": "Tyrantrum's most defining trait is its access to Rock Head and STAB Head Smash, giving it an absurdly powerful attack with no immediate drawbacks that dents any Pokemon that does not resist it and lets it act as a powerful holepuncher or cleaner. Rock is a powerful offensive typing, granting Tyrantrum good coverage against a majority of the tier and making Head Smash quite spammable. Tyrantrum has good neutral coverage and a considerably wide movepool, although all it really needs are moves that take on the few Pokemon in the tier that can consistently withstand its Head Smashes. These qualities present Tyrantrum as one of the tier's most potent attackers and holepunchers. However, Tyrantrum's Speed is noticeably lacking, and as a Choice Scarf user, it suffers from being unable to outspeed +1 Feraligatr. Tyrantrum's low Special Defense combined with its awkward defensive typing and multitude of weaknesses often turns it into a defensive liability, making Tyrantrum function as a glass cannon. Tyrantrum is thus heavily reliant on its few physical resistances and 4x resistance to Fire to avoid getting 2HKOed by invested attacks.\n", "strategies' format": "RU", "strategies": [{"name": "Choice Scarf", "stats": [201, 341, 274, 156, 154, 265], "type": ["Rock", "Dragon"], "usage": "A Jolly nature is necessary for Choice Scarf Tyrantrum to outspeed the likes of Jolteon, Swellow, and Salazzle, and full Attack investment simply maximizes the power of Head Smash for it to effortlessly KO most offensive Pokemon that don't resist it.", "moves": [["Head Smash"], ["Outrage"], ["Earthquake"], ["Dragon Claw"]], "item": [" Choice Scarf"], "ability": ["Rock Head"], "nature": ["Jolly"], "ev spread": [4, 252, 0, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Choice Band", "stats": [201, 375, 274, 156, 154, 241], "type": ["Rock", "Dragon"], "usage": "An Adamant nature with a Choice Band maximizes Tyrantrum's damage output against bulky Pokemon. For example, Adamant Choice Band Tyrantrum can OHKO physically defensive Florges and specially defensive Umbreon with Head Smash and Superpower, respectively, after Stealth Rock damage, even if they use Protect to gain a turn of Leftovers recovery. A Jolly nature may be used to get the drop on neutral-natured Venusaur and Honchkrow as well as positive-natured Cloyster, but outspeeding such a small pool of Pokemon isn't usually worth giving up on reliable power against the bulkier Pokemon Tyrantrum is supposed to crush.", "moves": [["Head Smash"], ["Outrage"], ["Earthquake"], ["Superpower", "Crunch"]], "item": [" Choice Band"], "ability": ["Rock Head"], "nature": ["Adamant"], "ev spread": [4, 252, 0, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Rock Polish", "stats": [201, 341, 274, 156, 154, 265], "type": ["Rock", "Dragon"], "usage": "Rock Polish Tyrantrum is able to bluff a Choice Scarf set, being able to set up on frail, offensive Pokemon such as Aerodactyl, Ninetales, and Swellow that fear its Choice Scarf set while also having a decent matchup versus bulkier teams due to the one-time nuke that Dragonium Z provides. Due to Tyrantrum's decent defensive typing, it is able to find setup opportunities from switching into common offensive Pokemon like Salazzle and setting up as they're forced out. Tyrantrum also finds setup opportunities on Choice-locked Pokemon such as Escavalier locked into Pursuit, Bewear locked into Return, and Roserade locked into Sludge Bomb. Be wary of clicking Outrage when a Fairy-type such as Florges, Gardevoir, or Comfey is present on the opponent's field, since locking into it at the wrong time can be disastrous for Tyrantrum, since the Fairy-type would gain a free turn. Against bulkier teams, make sure to gauge when the time is right to use the Z-Move, since eliminating a Rock-resistant Pokemon early-game can be extremely beneficial for Tyrantrum and leave it far less prediction reliant. For example, if you successfully eliminate a Rhyperior early-game, Tyrantrum can more easily spam Head Smash with little consequence. Steel-types such as Bronzong should be eliminated before attempting a Tyrantrum sweep, since they aren't hit by Earthquake or Superpower hard enough and can stop a +2 Tyrantrum in its tracks.", "moves": [["Rock Polish"], ["Head Smash"], ["Outrage"], ["Earthquake"]], "item": [" Dragonium Z", " Rockium Z"], "ability": ["Rock Head"], "nature": ["Jolly"], "ev spread": [4, 252, 0, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Ground-types", "Steel-types", "Fighting-types", "Faster Attackers"], "credits": ["Written by Punchshroom and zizalith", "Quality checked by Phantom, EonX, Mr Aldo, roman,  and Teachable", "Grammar checked by CryoGyro, The Dutch Plumberjack,  and lotiasite"]}
+{
+    "name": "Tyrantrum",
+    "forms": {
+        "Base": {
+            "base stats": [
+                82,
+                121,
+                119,
+                69,
+                59,
+                71
+            ],
+            "types": [
+                "Rock",
+                "Dragon"
+            ],
+            "abilities": [
+                "Rock Head",
+                "Strong Jaw"
+            ],
+            "tier": [
+                "RU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Tyrantrum's most defining trait is its access to Rock Head and STAB Head Smash, giving it an absurdly powerful attack with no immediate drawbacks that dents any Pokemon that does not resist it and lets it act as a powerful holepuncher or cleaner. Rock is a powerful offensive typing, granting Tyrantrum good coverage against a majority of the tier and making Head Smash quite spammable. Tyrantrum has good neutral coverage and a considerably wide movepool, although all it really needs are moves that take on the few Pokemon in the tier that can consistently withstand its Head Smashes. These qualities present Tyrantrum as one of the tier's most potent attackers and holepunchers. However, Tyrantrum's Speed is noticeably lacking, and as a Choice Scarf user, it suffers from being unable to outspeed +1 Feraligatr. Tyrantrum's low Special Defense combined with its awkward defensive typing and multitude of weaknesses often turns it into a defensive liability, making Tyrantrum function as a glass cannon. Tyrantrum is thus heavily reliant on its few physical resistances and 4x resistance to Fire to avoid getting 2HKOed by invested attacks.\n",
+    "strategies' format": "RU",
+    "strategies": [
+        {
+            "name": "Choice Scarf",
+            "stats": [
+                201,
+                341,
+                274,
+                156,
+                154,
+                265
+            ],
+            "type": [
+                "Rock",
+                "Dragon"
+            ],
+            "usage": "A Jolly nature is necessary for Choice Scarf Tyrantrum to outspeed the likes of Jolteon, Swellow, and Salazzle, and full Attack investment simply maximizes the power of Head Smash for it to effortlessly KO most offensive Pokemon that don't resist it.",
+            "moves": [
+                [
+                    "Head Smash"
+                ],
+                [
+                    "Outrage"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Dragon Claw"
+                ]
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Rock Head"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                4,
+                252,
+                0,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Choice Band",
+            "stats": [
+                201,
+                375,
+                274,
+                156,
+                154,
+                241
+            ],
+            "type": [
+                "Rock",
+                "Dragon"
+            ],
+            "usage": "An Adamant nature with a Choice Band maximizes Tyrantrum's damage output against bulky Pokemon. For example, Adamant Choice Band Tyrantrum can OHKO physically defensive Florges and specially defensive Umbreon with Head Smash and Superpower, respectively, after Stealth Rock damage, even if they use Protect to gain a turn of Leftovers recovery. A Jolly nature may be used to get the drop on neutral-natured Venusaur and Honchkrow as well as positive-natured Cloyster, but outspeeding such a small pool of Pokemon isn't usually worth giving up on reliable power against the bulkier Pokemon Tyrantrum is supposed to crush.",
+            "moves": [
+                [
+                    "Head Smash"
+                ],
+                [
+                    "Outrage"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Superpower",
+                    "Crunch"
+                ]
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Rock Head"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                4,
+                252,
+                0,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Rock Polish",
+            "stats": [
+                201,
+                341,
+                274,
+                156,
+                154,
+                265
+            ],
+            "type": [
+                "Rock",
+                "Dragon"
+            ],
+            "usage": "Rock Polish Tyrantrum is able to bluff a Choice Scarf set, being able to set up on frail, offensive Pokemon such as Aerodactyl, Ninetales, and Swellow that fear its Choice Scarf set while also having a decent matchup versus bulkier teams due to the one-time nuke that Dragonium Z provides. Due to Tyrantrum's decent defensive typing, it is able to find setup opportunities from switching into common offensive Pokemon like Salazzle and setting up as they're forced out. Tyrantrum also finds setup opportunities on Choice-locked Pokemon such as Escavalier locked into Pursuit, Bewear locked into Return, and Roserade locked into Sludge Bomb. Be wary of clicking Outrage when a Fairy-type such as Florges, Gardevoir, or Comfey is present on the opponent's field, since locking into it at the wrong time can be disastrous for Tyrantrum, since the Fairy-type would gain a free turn. Against bulkier teams, make sure to gauge when the time is right to use the Z-Move, since eliminating a Rock-resistant Pokemon early-game can be extremely beneficial for Tyrantrum and leave it far less prediction reliant. For example, if you successfully eliminate a Rhyperior early-game, Tyrantrum can more easily spam Head Smash with little consequence. Steel-types such as Bronzong should be eliminated before attempting a Tyrantrum sweep, since they aren't hit by Earthquake or Superpower hard enough and can stop a +2 Tyrantrum in its tracks.",
+            "moves": [
+                [
+                    "Rock Polish"
+                ],
+                [
+                    "Head Smash"
+                ],
+                [
+                    "Outrage"
+                ],
+                [
+                    "Earthquake"
+                ]
+            ],
+            "item": [
+                " Dragonium Z",
+                " Rockium Z"
+            ],
+            "ability": [
+                "Rock Head"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                4,
+                252,
+                0,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Ground-types",
+        "Steel-types",
+        "Fighting-types",
+        "Faster Attackers"
+    ],
+    "credits": [
+        "Written by Punchshroom and zizalith",
+        "Quality checked by Phantom, EonX, Mr Aldo, roman,  and Teachable",
+        "Grammar checked by CryoGyro, The Dutch Plumberjack,  and lotiasite"
+    ]
+}

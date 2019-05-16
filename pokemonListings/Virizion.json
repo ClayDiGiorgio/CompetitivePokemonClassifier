@@ -1,1 +1,97 @@
-{"name": "Virizion", "forms": {"Base": {"base stats": [91, 90, 72, 90, 129, 108], "types": ["Grass", "Fighting"], "abilities": ["Justified"], "tier": ["RU"], "form": "Base"}}, "overview": "A great Speed stat allows Virizion to perform as a strong setup sweeper in the RU metagame, especially with Continental Crush giving it very good coverage. In addition to its offensive capabilities, Virizion's defensive typing, along with its incredible Special Defense stat, allows it to check threats in the RU metagame such as Donphan, Gigalith, Jolteon, Kingdra, and Galvantula. Despite this, however, Virizion is relatively weak without a boost and tends to rely on its Z-Move in order to inflict great damage, meaning it can get checked by bulky threats such as Cresselia, Necrozma, Dhelmise, and Acrobatics Gligar after using its Z-Move. It also has poor physical bulk that leaves it pressured by physical threats in the metagame such as Flygon. Finally, its Speed, while great, still allows Virizion to get revenge killed by the likes of Durant, Swellow, and Salazzle.\n", "strategies' format": "RU", "strategies": [{"name": "Swords Dance", "stats": [218, 279, 180, 194, 295, 346], "type": ["Grass", "Fighting"], "usage": "Virizion can use its decent defensive typing to switch directly on threats that it checks such as Rhyperior, Gigalith, Jolteon, and Galvantula. It can also come in to revenge kill a special attacker that it can handle due to its great Special Defense stat, such as Choice-locked Rotom-C, and gain momentum off of it by setting up with Swords Dance. Use Swords Dance when Virizion forces out a passive threat or a threat that it checks such as Rhyperior or Registeel. If you predict the opponent to send out a faster threat to Virizion such as Salazzle, Virizion may go for the proper coverage move, such as Stone Edge, on the switch to take it out. It is best to save Virizion's Z-Move for a threat that it cannot normally take out at +2, such as Cresselia with Bloom Doom.", "moves": [["Swords Dance"], ["Leaf Blade"], ["Close Combat"], ["Stone Edge"]], "item": [" Grassium Z"], "ability": ["Justified"], "nature": ["Jolly"], "ev spread": [0, 252, 0, 0, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Psychic-types", "Poison-types", "Fire-types", "Grass-types", "Flying-types and Coverage"], "credits": ["Written by Eclipse", "Quality checked by Mr Aldo, Avocado,  and Arifeen", "Grammar checked by P Squared and The Dutch Plumberjack"]}
+{
+    "name": "Virizion",
+    "forms": {
+        "Base": {
+            "base stats": [
+                91,
+                90,
+                72,
+                90,
+                129,
+                108
+            ],
+            "types": [
+                "Grass",
+                "Fighting"
+            ],
+            "abilities": [
+                "Justified"
+            ],
+            "tier": [
+                "RU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "A great Speed stat allows Virizion to perform as a strong setup sweeper in the RU metagame, especially with Continental Crush giving it very good coverage. In addition to its offensive capabilities, Virizion's defensive typing, along with its incredible Special Defense stat, allows it to check threats in the RU metagame such as Donphan, Gigalith, Jolteon, Kingdra, and Galvantula. Despite this, however, Virizion is relatively weak without a boost and tends to rely on its Z-Move in order to inflict great damage, meaning it can get checked by bulky threats such as Cresselia, Necrozma, Dhelmise, and Acrobatics Gligar after using its Z-Move. It also has poor physical bulk that leaves it pressured by physical threats in the metagame such as Flygon. Finally, its Speed, while great, still allows Virizion to get revenge killed by the likes of Durant, Swellow, and Salazzle.\n",
+    "strategies' format": "RU",
+    "strategies": [
+        {
+            "name": "Swords Dance",
+            "stats": [
+                218,
+                279,
+                180,
+                194,
+                295,
+                346
+            ],
+            "type": [
+                "Grass",
+                "Fighting"
+            ],
+            "usage": "Virizion can use its decent defensive typing to switch directly on threats that it checks such as Rhyperior, Gigalith, Jolteon, and Galvantula. It can also come in to revenge kill a special attacker that it can handle due to its great Special Defense stat, such as Choice-locked Rotom-C, and gain momentum off of it by setting up with Swords Dance. Use Swords Dance when Virizion forces out a passive threat or a threat that it checks such as Rhyperior or Registeel. If you predict the opponent to send out a faster threat to Virizion such as Salazzle, Virizion may go for the proper coverage move, such as Stone Edge, on the switch to take it out. It is best to save Virizion's Z-Move for a threat that it cannot normally take out at +2, such as Cresselia with Bloom Doom.",
+            "moves": [
+                [
+                    "Swords Dance"
+                ],
+                [
+                    "Leaf Blade"
+                ],
+                [
+                    "Close Combat"
+                ],
+                [
+                    "Stone Edge"
+                ]
+            ],
+            "item": [
+                " Grassium Z"
+            ],
+            "ability": [
+                "Justified"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                0,
+                0,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Psychic-types",
+        "Poison-types",
+        "Fire-types",
+        "Grass-types",
+        "Flying-types and Coverage"
+    ],
+    "credits": [
+        "Written by Eclipse",
+        "Quality checked by Mr Aldo, Avocado,  and Arifeen",
+        "Grammar checked by P Squared and The Dutch Plumberjack"
+    ]
+}

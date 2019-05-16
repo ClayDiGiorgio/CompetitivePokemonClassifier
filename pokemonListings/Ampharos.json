@@ -1,1 +1,117 @@
-{"name": "Ampharos", "forms": {"Base": {"base stats": [90, 75, 85, 115, 90, 55], "types": ["Electric"], "abilities": ["Plus", "Static"], "tier": ["Untiered"], "form": "Base"}, "Mega": {"base stats": [90, 95, 105, 165, 110, 45], "types": ["Electric", "Dragon"], "abilities": ["Mold Breaker"], "tier": ["RU"], "form": "Mega"}}, "overview": "Thanks to its Electric / Dragon typing, Mega Ampharos is able to check a unique set of Pokemon, such as Milotic, Noivern, Roserade without Sludge Bomb, and Raikou. An impressively high Special Attack stat and respectable bulk for an attacker allow Mega Ampharos to support its team by bringing in frailer Pokemon with a slow Volt Switch that packs a punch. Mold Breaker provides Mega Ampharos with quirky capabilities such as threatening to OHKO Rhyperior with Focus Blast and Volt Switching out of Pokemon with Volt Absorb such as Jolteon. However, Mega Ampharos is very slow for an attacker even after an Agility boost; if it is switching into an attack, it will have to be able to tank a second one should it wish to hit back. Mega Ampharos doesn't share a lot of traits with the other Electric-types in the tier, and as such, it doesn't face competition from them for a team slot; it sadly instead competes with both the other powerful Mega Evolutions in the tier, namely Mega Blastoise and Mega Abomasnow, and other slow bulky wallbreakers with similar resistances, such as Araquanid, Escavalier, and Dragalge. Even though Mega Ampharos sports an impressive number of resistances, it is weak to very common attacking types such as Ground and Ice, which means it fears STAB and coverage moves from the likes of Flygon, Zygarde-10%, Mega Blastoise, Nidoqueen, Mega Glalie, and Mega Abomasnow. Although Mega Ampharos gains considerable bulk post-Mega Evolution, having to spend a turn Mega Evolving is troublesome when, pre-Mega Evolution, it has very few resistances and significantly less bulk to come in on an attack.\n", "strategies' format": "RU", "strategies": [{"name": "Special Attacker", "stats": [217, 203, 246, 471, 256, 189], "type": ["Electric", "Dragon"], "usage": "Because Electric is not a great defensive typing, try to prioritize Mega Evolving Ampharos so that it can make use of its Dragon typing and its increased Special Attack. Mega Ampharos comes in relatively unscathed against bulkier Pokemon such as Forretress and Milotic and can threaten them out with Dragon Pulse or Discharge. Most of the time you should be clicking Volt Switch, as Mega Ampharos tends to force switches from the Pokemon it can come in on. Should your opponent have any Ground-type Pokemon, be mindful of this and attempt to predict your opponent switching in these Pokemon with a Dragon Pulse, Focus Blast, or hard switch.", "moves": [["Volt Switch"], ["Dragon Pulse"], ["Focus Blast"], ["Thunderbolt"]], "item": [" Ampharosite"], "ability": ["Static"], "nature": ["Modest"], "ev spread": [4, 0, 0, 252, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Ground-type Pokemon", "Ice-type Pokemon and Coverage", "Fairy-type Pokemon", "Specially Defensive Pokemon"], "credits": ["Written by teachable", "Quality checked by Avocado, Phantom,  and rakan", "Grammar checked by The Dutch Plumberjack and martha"]}
+{
+    "name": "Ampharos",
+    "forms": {
+        "Base": {
+            "base stats": [
+                90,
+                75,
+                85,
+                115,
+                90,
+                55
+            ],
+            "types": [
+                "Electric"
+            ],
+            "abilities": [
+                "Plus",
+                "Static"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        },
+        "Mega": {
+            "base stats": [
+                90,
+                95,
+                105,
+                165,
+                110,
+                45
+            ],
+            "types": [
+                "Electric",
+                "Dragon"
+            ],
+            "abilities": [
+                "Mold Breaker"
+            ],
+            "tier": [
+                "RU"
+            ],
+            "form": "Mega"
+        }
+    },
+    "overview": "Thanks to its Electric / Dragon typing, Mega Ampharos is able to check a unique set of Pokemon, such as Milotic, Noivern, Roserade without Sludge Bomb, and Raikou. An impressively high Special Attack stat and respectable bulk for an attacker allow Mega Ampharos to support its team by bringing in frailer Pokemon with a slow Volt Switch that packs a punch. Mold Breaker provides Mega Ampharos with quirky capabilities such as threatening to OHKO Rhyperior with Focus Blast and Volt Switching out of Pokemon with Volt Absorb such as Jolteon. However, Mega Ampharos is very slow for an attacker even after an Agility boost; if it is switching into an attack, it will have to be able to tank a second one should it wish to hit back. Mega Ampharos doesn't share a lot of traits with the other Electric-types in the tier, and as such, it doesn't face competition from them for a team slot; it sadly instead competes with both the other powerful Mega Evolutions in the tier, namely Mega Blastoise and Mega Abomasnow, and other slow bulky wallbreakers with similar resistances, such as Araquanid, Escavalier, and Dragalge. Even though Mega Ampharos sports an impressive number of resistances, it is weak to very common attacking types such as Ground and Ice, which means it fears STAB and coverage moves from the likes of Flygon, Zygarde-10%, Mega Blastoise, Nidoqueen, Mega Glalie, and Mega Abomasnow. Although Mega Ampharos gains considerable bulk post-Mega Evolution, having to spend a turn Mega Evolving is troublesome when, pre-Mega Evolution, it has very few resistances and significantly less bulk to come in on an attack.\n",
+    "strategies' format": "RU",
+    "strategies": [
+        {
+            "name": "Special Attacker",
+            "stats": [
+                217,
+                203,
+                246,
+                471,
+                256,
+                189
+            ],
+            "type": [
+                "Electric",
+                "Dragon"
+            ],
+            "usage": "Because Electric is not a great defensive typing, try to prioritize Mega Evolving Ampharos so that it can make use of its Dragon typing and its increased Special Attack. Mega Ampharos comes in relatively unscathed against bulkier Pokemon such as Forretress and Milotic and can threaten them out with Dragon Pulse or Discharge. Most of the time you should be clicking Volt Switch, as Mega Ampharos tends to force switches from the Pokemon it can come in on. Should your opponent have any Ground-type Pokemon, be mindful of this and attempt to predict your opponent switching in these Pokemon with a Dragon Pulse, Focus Blast, or hard switch.",
+            "moves": [
+                [
+                    "Volt Switch"
+                ],
+                [
+                    "Dragon Pulse"
+                ],
+                [
+                    "Focus Blast"
+                ],
+                [
+                    "Thunderbolt"
+                ]
+            ],
+            "item": [
+                " Ampharosite"
+            ],
+            "ability": [
+                "Static"
+            ],
+            "nature": [
+                "Modest"
+            ],
+            "ev spread": [
+                4,
+                0,
+                0,
+                252,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Ground-type Pokemon",
+        "Ice-type Pokemon and Coverage",
+        "Fairy-type Pokemon",
+        "Specially Defensive Pokemon"
+    ],
+    "credits": [
+        "Written by teachable",
+        "Quality checked by Avocado, Phantom,  and rakan",
+        "Grammar checked by The Dutch Plumberjack and martha"
+    ]
+}

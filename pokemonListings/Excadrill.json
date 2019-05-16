@@ -1,1 +1,154 @@
-{"name": "Excadrill", "forms": {"Base": {"base stats": [110, 135, 60, 50, 65, 88], "types": ["Ground", "Steel"], "abilities": ["Mold Breaker", "Sand Force", "Sand Rush"], "tier": ["OU"], "form": "Base"}}, "overview": "Excadrill's great defensive typing allows it to check a variety of Fairy- and Electric-types in the meta, primarily Tapu Koko, Magearna, and Tapu Lele, and access to Rapid Spin lets Excadrill support entry hazard-weak teammates like Volcarona. Sand Rush enables Excadrill to become a threatening sweeper, as it outspeeds the entire metagame in sand, and can boost its already great attack to even higher levels with Swords Dance. However, outside of sand Excadrill isn't very fast, which can leave it prone to breakers like Mega Medicham and Volcarona. Sand Rush Excadrill is almost always paired with Mega Tyranitar, a reliable sand setter, so this isn't too much of an issue. Alternatively, Mold Breaker can let Excadrill bypass Magic Bounce, letting it freely use Stealth Rock or Toxic on Mega Sableye. It's also useful for hitting Mimikyu through Disguise, and Pokemon with the Levitate ability, such as Mega Latios, Rotom-W, and Hydreigon. Unfortunately, without sand support, Excadrill's speed leaves a lot to be desired\u2014outside of the sand, Excadrill is outpaced by dangerous Pokemon such as Volcarona, Garchomp, and Mega Medicham. Excadrill additionally can struggle to break past common Flying-types like Celesteela, and Landorus-T.\n", "strategies' format": "OU", "strategies": [{"name": "Sand Rush Sweeper", "stats": [257, 369, 156, 122, 166, 302], "type": ["Ground", "Steel"], "usage": "Excadrill requires sand to successfully sweep or revenge kill, so try to keep your sand setter healthy as long as possible. Attempt to give Excadrill as many turns of sand as possible before you start a sweep, as you will have a better chance of sweeping successfully. Excadrill is capable of heavily weakening the opposing team early- to mid-game and open a path to sweep, but it still requires support. Before attempting a sweep with Excadrill, make sure that its offensive answers like Mega Alakazam and Ash-Greninja are eliminated and that its defensive stops like Celesteela and Landorus-T are weakened enough. Preserve the Z-Move for a bulky threat like Tangrowth or Gliscor to immediately KO them and successfully finish a sweep. You also can use the Z-Move to punch a hole for a teammate if needed. Try to not allow Excadrill to get chipped down, as chip damage can put Excadrill in the range of priority like Mega Mawile's Sucker Punch.", "moves": [["Swords Dance"], ["Earthquake"], ["Iron Head"], ["Rapid Spin"]], "item": [" Steelium Z"], "ability": ["Sand Rush"], "nature": ["Jolly"], "ev spread": [4, 252, 0, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Focus Sash", "stats": [256, 369, 157, 122, 166, 302], "type": ["Ground", "Steel"], "usage": "Unless the opponent has a faster Taunt user, such as Azelf, or a threatening Fake Out user like Mega Medicham, it is usually safe to lead with Excadrill and set up Stealth Rock. If the opponent also sets up entry hazards, spin them away with Rapid Spin. Use Toxic to hinder any Pokemon that attempt to set up on Excadrill or to wear down bulky Water-type switch-ins. Should the opponent have a hazard remover in the back not threatened by this variant of Excadrill, such as Skarmory or Tapu Fini, still set up hazards to pressure the opponent into removing them while you switch into your team's answer.", "moves": [["Stealth Rock"], ["Rapid Spin"], ["Earthquake"], ["Rock Tomb", "Toxic"]], "item": [" Focus Sash"], "ability": ["Mold Breaker"], "nature": ["Jolly"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Bulky Flying-types", "Bulky Grass-types", "Bulky Water-types", "Priority"], "credits": ["Written by GMars, Nuked,  and Egor", "Quality checked by p2, Gary,  and Subject 18", "Grammar checked by talkingtree and The Dutch Plumberjack"]}
+{
+    "name": "Excadrill",
+    "forms": {
+        "Base": {
+            "base stats": [
+                110,
+                135,
+                60,
+                50,
+                65,
+                88
+            ],
+            "types": [
+                "Ground",
+                "Steel"
+            ],
+            "abilities": [
+                "Mold Breaker",
+                "Sand Force",
+                "Sand Rush"
+            ],
+            "tier": [
+                "OU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Excadrill's great defensive typing allows it to check a variety of Fairy- and Electric-types in the meta, primarily Tapu Koko, Magearna, and Tapu Lele, and access to Rapid Spin lets Excadrill support entry hazard-weak teammates like Volcarona. Sand Rush enables Excadrill to become a threatening sweeper, as it outspeeds the entire metagame in sand, and can boost its already great attack to even higher levels with Swords Dance. However, outside of sand Excadrill isn't very fast, which can leave it prone to breakers like Mega Medicham and Volcarona. Sand Rush Excadrill is almost always paired with Mega Tyranitar, a reliable sand setter, so this isn't too much of an issue. Alternatively, Mold Breaker can let Excadrill bypass Magic Bounce, letting it freely use Stealth Rock or Toxic on Mega Sableye. It's also useful for hitting Mimikyu through Disguise, and Pokemon with the Levitate ability, such as Mega Latios, Rotom-W, and Hydreigon. Unfortunately, without sand support, Excadrill's speed leaves a lot to be desired\u2014outside of the sand, Excadrill is outpaced by dangerous Pokemon such as Volcarona, Garchomp, and Mega Medicham. Excadrill additionally can struggle to break past common Flying-types like Celesteela, and Landorus-T.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Sand Rush Sweeper",
+            "stats": [
+                257,
+                369,
+                156,
+                122,
+                166,
+                302
+            ],
+            "type": [
+                "Ground",
+                "Steel"
+            ],
+            "usage": "Excadrill requires sand to successfully sweep or revenge kill, so try to keep your sand setter healthy as long as possible. Attempt to give Excadrill as many turns of sand as possible before you start a sweep, as you will have a better chance of sweeping successfully. Excadrill is capable of heavily weakening the opposing team early- to mid-game and open a path to sweep, but it still requires support. Before attempting a sweep with Excadrill, make sure that its offensive answers like Mega Alakazam and Ash-Greninja are eliminated and that its defensive stops like Celesteela and Landorus-T are weakened enough. Preserve the Z-Move for a bulky threat like Tangrowth or Gliscor to immediately KO them and successfully finish a sweep. You also can use the Z-Move to punch a hole for a teammate if needed. Try to not allow Excadrill to get chipped down, as chip damage can put Excadrill in the range of priority like Mega Mawile's Sucker Punch.",
+            "moves": [
+                [
+                    "Swords Dance"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Iron Head"
+                ],
+                [
+                    "Rapid Spin"
+                ]
+            ],
+            "item": [
+                " Steelium Z"
+            ],
+            "ability": [
+                "Sand Rush"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                4,
+                252,
+                0,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Focus Sash",
+            "stats": [
+                256,
+                369,
+                157,
+                122,
+                166,
+                302
+            ],
+            "type": [
+                "Ground",
+                "Steel"
+            ],
+            "usage": "Unless the opponent has a faster Taunt user, such as Azelf, or a threatening Fake Out user like Mega Medicham, it is usually safe to lead with Excadrill and set up Stealth Rock. If the opponent also sets up entry hazards, spin them away with Rapid Spin. Use Toxic to hinder any Pokemon that attempt to set up on Excadrill or to wear down bulky Water-type switch-ins. Should the opponent have a hazard remover in the back not threatened by this variant of Excadrill, such as Skarmory or Tapu Fini, still set up hazards to pressure the opponent into removing them while you switch into your team's answer.",
+            "moves": [
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Rapid Spin"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Rock Tomb",
+                    "Toxic"
+                ]
+            ],
+            "item": [
+                " Focus Sash"
+            ],
+            "ability": [
+                "Mold Breaker"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Bulky Flying-types",
+        "Bulky Grass-types",
+        "Bulky Water-types",
+        "Priority"
+    ],
+    "credits": [
+        "Written by GMars, Nuked,  and Egor",
+        "Quality checked by p2, Gary,  and Subject 18",
+        "Grammar checked by talkingtree and The Dutch Plumberjack"
+    ]
+}

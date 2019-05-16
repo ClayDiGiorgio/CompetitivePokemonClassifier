@@ -1,1 +1,33 @@
-{"name": "Corsola", "forms": {"Base": {"base stats": [65, 55, 95, 65, 95, 35], "types": ["Water", "Rock"], "abilities": ["Hustle", "Natural Cure", "Regenerator"], "tier": ["Untiered"], "form": "Base"}}, "overview": "ExportStealth RockMove 1Stealth RockMove 2RecoverMove 3ScaldMove 4ToxicItem LeftoversAbilityRegeneratorNatureBoldEVs252 HP252 Def4 SpDThis set attempts to set up Stealth Rock and, if possible, status the opposing Pokemon it can check, such as Flying-types like Oricorio-G and Swanna, or switch out to take advantage of Regenerator. Unfortunately, Corsola doesn't really accomplish anything besides setting Stealth Rock and fainting. Omastar, Clefairy, and Regirock fulfill this role with a lot more success because of their better stats and, with the exception of Omastar, typing. Regirock is especially noteworthy because it fills the same role, checks very similar Pokemon, and generally has more to offer in a team slot.\n", "strategies' format": "PU", "strategies": [], "counters": [], "credits": []}
+{
+    "name": "Corsola",
+    "forms": {
+        "Base": {
+            "base stats": [
+                65,
+                55,
+                95,
+                65,
+                95,
+                35
+            ],
+            "types": [
+                "Water",
+                "Rock"
+            ],
+            "abilities": [
+                "Hustle",
+                "Natural Cure",
+                "Regenerator"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "ExportStealth RockMove 1Stealth RockMove 2RecoverMove 3ScaldMove 4ToxicItem LeftoversAbilityRegeneratorNatureBoldEVs252 HP252 Def4 SpDThis set attempts to set up Stealth Rock and, if possible, status the opposing Pokemon it can check, such as Flying-types like Oricorio-G and Swanna, or switch out to take advantage of Regenerator. Unfortunately, Corsola doesn't really accomplish anything besides setting Stealth Rock and fainting. Omastar, Clefairy, and Regirock fulfill this role with a lot more success because of their better stats and, with the exception of Omastar, typing. Regirock is especially noteworthy because it fills the same role, checks very similar Pokemon, and generally has more to offer in a team slot.\n",
+    "strategies' format": "PU",
+    "strategies": [],
+    "counters": [],
+    "credits": []
+}

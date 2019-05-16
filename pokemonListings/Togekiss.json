@@ -1,1 +1,272 @@
-{"name": "Togekiss", "forms": {"Base": {"base stats": [85, 50, 95, 120, 115, 80], "types": ["Fairy", "Flying"], "abilities": ["Hustle", "Serene Grace", "Super Luck"], "tier": ["UU"], "form": "Base"}}, "overview": "Togekiss finds itself a comfortable place among UU's top threats, as it has solidified its role as one of the premier stallbreakers in the tier. Togekiss's Fairy / Flying typing comes with useful tools such as an immunity to Ground, a resistance to Pursuit, and the ability to stop many common threats such as Hydreigon, Krookodile, and Hippowdon. Despite being primarily known for its ability to easily power through many defensive cores, Togekiss can bring a wide array of supportive options such as Heal Bell, Defog, and Thunder Wave to a team. Togekiss's ability Serene Grace boosts its Air Slash flinch rate to a whopping 60 percent, meaning just about any Pokemon slower than it is at risk of being broken through, leaving very little true defensive counterplay to Togekiss. In addition to Air Slash, Togekiss possesses powerful coverage moves such as Fire Blast, Dazzling Gleam, and Aura Sphere. Backed by its high base 120 Special Attack, it can bypass many of its conventional checks with the appropriate move. While Togekiss may seem extremely powerful, it has many weaknesses to common Pokemon that hold it back greatly; it is vulnerable to many top threats in the tier such as Mega Aerodactyl, Mega Beedrill, Mega Manectric, Scizor, Nidoking, and Cobalion. In addition, Togekiss only boasts a middling base 80 Speed, meaning many of UU's best sweepers and cleaners can easily outpace it. Togekiss also finds it difficult to make itself a quickly threatening offensive presence due to its lack of immediate power or high-powered STAB moves. Combined with a troublesome weakness to common sights such as Stealth Rock, Volt Switch, and Scizor's Bullet Punch, Togekiss is far from impossible to take down.\n", "strategies' format": "UU", "strategies": [{"name": "Nasty Plot", "stats": [269, 122, 226, 277, 266, 284], "type": ["Fairy", "Flying"], "usage": "While Togekiss sports a great typing and above average bulk, it should often avoid switching directly into heavy hitters like Heracross and Calm Mind Latias, as Togekiss gets most of its setup opportunities from passive Pokemon like Blissey, Alomomola, and Mandibuzz. In addition to breaking defensive cores, Togekiss's Heal Bell is often extremely useful support for many teams. Togekiss should also aim to have checks like Nihilego and Mega Manectric worn down or removed before it comes in to sweep. The option of Thunder Wave is often more threatening to offensive builds, as Togekiss can threaten to muscle past offensive checks like Cobalion and Mega Aerodactyl with the combination of Thunder Wave paralysis and Air Slash flinches.", "moves": [["Nasty Plot"], ["Heal Bell", "Thunder Wave"], ["Air Slash"], ["Roost"]], "item": [" Leftovers"], "ability": ["Serene Grace"], "nature": ["Timid"], "ev spread": [252, 0, 0, 4, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Offensive Nasty Plot", "stats": [206, 122, 227, 339, 266, 284], "type": ["Fairy", "Flying"], "usage": "Avoid setting up against passive Pokemon such as Blissey and Alomomola that may carry Toxic, as this set does not utilize Heal Bell and is therefore very susceptible to status ailments. However, if boosted, Togekiss can attempt to beat them down with the combination of Air Slash and Serene Grace. Take advantage of Togekiss's bulk and typing to check Dark-types, such as Hydreigon and Krookodile, and Grass-types, such as Mega Sceptile and Tsareena, and set up on a predicted switch. However, because this Togekiss set does not invest in bulk or have passive recovery, it should avoid switching directly into them if Stealth Rock was set on your side. If it is not up, Togekiss generally doesn't mind switching into them. If Babiri Berry is used, stay in on unsuspecting Steel-types such as Scizor and Mega Aggron to either KO or severely weaken them. It is advised to make sure Togekiss stays at a comfortable amount of HP because even with a Berry, Togekiss does not appreciate taking a Choice Band Scizor's Bullet Punch or a Choice Band Terrakion's Stone Edge. However, Togekiss cannot reliably survive attacks from these Pokemon after a Swords Dance from full health. All-Out Pummeling can be used as a general nuke that allows Togekiss to beat slower and bulkier Pokemon such as Blissey and Volcanion more easily. All-Out Pummeling also allows Togekiss to bypass bulky Flying-resistant Pokemon such as Mega Aggron, Empoleon, and Rhyperior. However, against those, use All-Out Pummeling only if boosted because Togekiss will fail to OHKO them otherwise. All-Out Pummeling could also be used to severely damage faster Flying-resistant Pokemon that Togekiss lures in such as Rotom-H and Mega Aerodactyl on the switch. If Charti Berry is used, stay in on Rock-types such as Mega Aerodactyl and Terrakion in order to cripple them with Thunder Wave. However, against Terrakion, it is advised to scout for Choice Band, as its Stone Edge KOes Togekiss after Stealth Rock damage if boosted by Choice Band. Avoid setting up with Togekiss if the opponent has a healthy check to it, such as Mega Manectric or Nihilego. Instead, take advantage of entry hazards and chip them on the switch with a damaging move.", "moves": [["Nasty Plot"], ["Air Slash"], ["Flamethrower", "Aura Sphere"], ["Roost"]], "item": [" Babiri Berry", " Fightinium Z"], "ability": ["Serene Grace"], "nature": ["Timid"], "ev spread": [0, 0, 4, 252, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Support", "stats": [269, 122, 292, 276, 266, 220], "type": ["Fairy", "Flying"], "usage": "Use Togekiss as a reliable switch-in to Hydreigon, Latias, and Krookodile. Be wary of switching Togekiss in repeatedly with Stealth Rock up, though, as it often hampers Togekiss's defensive capability; it is important to have Stealth Rock removed as often as possible. Togekiss also makes good use of Heal Bell, which can allow it to cure teammates when they are inflicted with troublesome status conditions. This Togekiss set is rather passive, so be sure to use double switches and proper prediction to prevent Flying-resistant foes such as Mega Aerodactyl and Mega Manectric from getting free turns.", "moves": [["Air Slash"], ["Heal Bell", "Thunder Wave"], ["Roost"], ["Defog", "Thunder Wave"]], "item": [" Leftovers"], "ability": ["Serene Grace"], "nature": ["Bold"], "ev spread": [252, 0, 160, 0, 0, 96], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Choice Specs", "stats": [206, 122, 227, 339, 266, 284], "type": ["Fairy", "Flying"], "usage": "Togekiss is easy to wear down when lacking Roost, so be cautious of switching it into strong attacks, especially with Stealth Rock on your side of the field. Choice Specs Togekiss often can deal a large amount of damage to its conventional checks due to its surprise factor, so aim Dazzling Gleam at checks like Zeraora and Mega Aerodactyl. Hitting its usual switch-ins requires moderately aggressive play, so some prediction is required. Also take into account that, while it's extremely strong, the lock-in can put Togekiss in a variety of unfavorable situations; be wary of allotting free turns to threats like Scizor, Nihilego, Rotom-H, Calm Mind Latias, and Mega Manectric.", "moves": [["Air Slash"], ["Dazzling Gleam"], ["Flamethrower", "Fire Blast"], ["Trick", "Aura Sphere"]], "item": [" Choice Specs"], "ability": ["Serene Grace"], "nature": ["Timid"], "ev spread": [0, 0, 4, 252, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Electric-types", "Rock-types", "Poison-types", "Steel-types", "Ice-types", "Status"], "credits": ["Written by TSR and Amane Misa", "Quality checked by Bouff, Amaroq, Pak, martha, A Cake Wearing A Hat,  and Nuked", "Grammar checked by The Dutch Plumberjack, martha,  and A Cake Wearing A Hat"]}
+{
+    "name": "Togekiss",
+    "forms": {
+        "Base": {
+            "base stats": [
+                85,
+                50,
+                95,
+                120,
+                115,
+                80
+            ],
+            "types": [
+                "Fairy",
+                "Flying"
+            ],
+            "abilities": [
+                "Hustle",
+                "Serene Grace",
+                "Super Luck"
+            ],
+            "tier": [
+                "UU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Togekiss finds itself a comfortable place among UU's top threats, as it has solidified its role as one of the premier stallbreakers in the tier. Togekiss's Fairy / Flying typing comes with useful tools such as an immunity to Ground, a resistance to Pursuit, and the ability to stop many common threats such as Hydreigon, Krookodile, and Hippowdon. Despite being primarily known for its ability to easily power through many defensive cores, Togekiss can bring a wide array of supportive options such as Heal Bell, Defog, and Thunder Wave to a team. Togekiss's ability Serene Grace boosts its Air Slash flinch rate to a whopping 60 percent, meaning just about any Pokemon slower than it is at risk of being broken through, leaving very little true defensive counterplay to Togekiss. In addition to Air Slash, Togekiss possesses powerful coverage moves such as Fire Blast, Dazzling Gleam, and Aura Sphere. Backed by its high base 120 Special Attack, it can bypass many of its conventional checks with the appropriate move. While Togekiss may seem extremely powerful, it has many weaknesses to common Pokemon that hold it back greatly; it is vulnerable to many top threats in the tier such as Mega Aerodactyl, Mega Beedrill, Mega Manectric, Scizor, Nidoking, and Cobalion. In addition, Togekiss only boasts a middling base 80 Speed, meaning many of UU's best sweepers and cleaners can easily outpace it. Togekiss also finds it difficult to make itself a quickly threatening offensive presence due to its lack of immediate power or high-powered STAB moves. Combined with a troublesome weakness to common sights such as Stealth Rock, Volt Switch, and Scizor's Bullet Punch, Togekiss is far from impossible to take down.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Nasty Plot",
+            "stats": [
+                269,
+                122,
+                226,
+                277,
+                266,
+                284
+            ],
+            "type": [
+                "Fairy",
+                "Flying"
+            ],
+            "usage": "While Togekiss sports a great typing and above average bulk, it should often avoid switching directly into heavy hitters like Heracross and Calm Mind Latias, as Togekiss gets most of its setup opportunities from passive Pokemon like Blissey, Alomomola, and Mandibuzz. In addition to breaking defensive cores, Togekiss's Heal Bell is often extremely useful support for many teams. Togekiss should also aim to have checks like Nihilego and Mega Manectric worn down or removed before it comes in to sweep. The option of Thunder Wave is often more threatening to offensive builds, as Togekiss can threaten to muscle past offensive checks like Cobalion and Mega Aerodactyl with the combination of Thunder Wave paralysis and Air Slash flinches.",
+            "moves": [
+                [
+                    "Nasty Plot"
+                ],
+                [
+                    "Heal Bell",
+                    "Thunder Wave"
+                ],
+                [
+                    "Air Slash"
+                ],
+                [
+                    "Roost"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Serene Grace"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                252,
+                0,
+                0,
+                4,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Offensive Nasty Plot",
+            "stats": [
+                206,
+                122,
+                227,
+                339,
+                266,
+                284
+            ],
+            "type": [
+                "Fairy",
+                "Flying"
+            ],
+            "usage": "Avoid setting up against passive Pokemon such as Blissey and Alomomola that may carry Toxic, as this set does not utilize Heal Bell and is therefore very susceptible to status ailments. However, if boosted, Togekiss can attempt to beat them down with the combination of Air Slash and Serene Grace. Take advantage of Togekiss's bulk and typing to check Dark-types, such as Hydreigon and Krookodile, and Grass-types, such as Mega Sceptile and Tsareena, and set up on a predicted switch. However, because this Togekiss set does not invest in bulk or have passive recovery, it should avoid switching directly into them if Stealth Rock was set on your side. If it is not up, Togekiss generally doesn't mind switching into them. If Babiri Berry is used, stay in on unsuspecting Steel-types such as Scizor and Mega Aggron to either KO or severely weaken them. It is advised to make sure Togekiss stays at a comfortable amount of HP because even with a Berry, Togekiss does not appreciate taking a Choice Band Scizor's Bullet Punch or a Choice Band Terrakion's Stone Edge. However, Togekiss cannot reliably survive attacks from these Pokemon after a Swords Dance from full health. All-Out Pummeling can be used as a general nuke that allows Togekiss to beat slower and bulkier Pokemon such as Blissey and Volcanion more easily. All-Out Pummeling also allows Togekiss to bypass bulky Flying-resistant Pokemon such as Mega Aggron, Empoleon, and Rhyperior. However, against those, use All-Out Pummeling only if boosted because Togekiss will fail to OHKO them otherwise. All-Out Pummeling could also be used to severely damage faster Flying-resistant Pokemon that Togekiss lures in such as Rotom-H and Mega Aerodactyl on the switch. If Charti Berry is used, stay in on Rock-types such as Mega Aerodactyl and Terrakion in order to cripple them with Thunder Wave. However, against Terrakion, it is advised to scout for Choice Band, as its Stone Edge KOes Togekiss after Stealth Rock damage if boosted by Choice Band. Avoid setting up with Togekiss if the opponent has a healthy check to it, such as Mega Manectric or Nihilego. Instead, take advantage of entry hazards and chip them on the switch with a damaging move.",
+            "moves": [
+                [
+                    "Nasty Plot"
+                ],
+                [
+                    "Air Slash"
+                ],
+                [
+                    "Flamethrower",
+                    "Aura Sphere"
+                ],
+                [
+                    "Roost"
+                ]
+            ],
+            "item": [
+                " Babiri Berry",
+                " Fightinium Z"
+            ],
+            "ability": [
+                "Serene Grace"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                4,
+                252,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Support",
+            "stats": [
+                269,
+                122,
+                292,
+                276,
+                266,
+                220
+            ],
+            "type": [
+                "Fairy",
+                "Flying"
+            ],
+            "usage": "Use Togekiss as a reliable switch-in to Hydreigon, Latias, and Krookodile. Be wary of switching Togekiss in repeatedly with Stealth Rock up, though, as it often hampers Togekiss's defensive capability; it is important to have Stealth Rock removed as often as possible. Togekiss also makes good use of Heal Bell, which can allow it to cure teammates when they are inflicted with troublesome status conditions. This Togekiss set is rather passive, so be sure to use double switches and proper prediction to prevent Flying-resistant foes such as Mega Aerodactyl and Mega Manectric from getting free turns.",
+            "moves": [
+                [
+                    "Air Slash"
+                ],
+                [
+                    "Heal Bell",
+                    "Thunder Wave"
+                ],
+                [
+                    "Roost"
+                ],
+                [
+                    "Defog",
+                    "Thunder Wave"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Serene Grace"
+            ],
+            "nature": [
+                "Bold"
+            ],
+            "ev spread": [
+                252,
+                0,
+                160,
+                0,
+                0,
+                96
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Choice Specs",
+            "stats": [
+                206,
+                122,
+                227,
+                339,
+                266,
+                284
+            ],
+            "type": [
+                "Fairy",
+                "Flying"
+            ],
+            "usage": "Togekiss is easy to wear down when lacking Roost, so be cautious of switching it into strong attacks, especially with Stealth Rock on your side of the field. Choice Specs Togekiss often can deal a large amount of damage to its conventional checks due to its surprise factor, so aim Dazzling Gleam at checks like Zeraora and Mega Aerodactyl. Hitting its usual switch-ins requires moderately aggressive play, so some prediction is required. Also take into account that, while it's extremely strong, the lock-in can put Togekiss in a variety of unfavorable situations; be wary of allotting free turns to threats like Scizor, Nihilego, Rotom-H, Calm Mind Latias, and Mega Manectric.",
+            "moves": [
+                [
+                    "Air Slash"
+                ],
+                [
+                    "Dazzling Gleam"
+                ],
+                [
+                    "Flamethrower",
+                    "Fire Blast"
+                ],
+                [
+                    "Trick",
+                    "Aura Sphere"
+                ]
+            ],
+            "item": [
+                " Choice Specs"
+            ],
+            "ability": [
+                "Serene Grace"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                4,
+                252,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Electric-types",
+        "Rock-types",
+        "Poison-types",
+        "Steel-types",
+        "Ice-types",
+        "Status"
+    ],
+    "credits": [
+        "Written by TSR and Amane Misa",
+        "Quality checked by Bouff, Amaroq, Pak, martha, A Cake Wearing A Hat,  and Nuked",
+        "Grammar checked by The Dutch Plumberjack, martha,  and A Cake Wearing A Hat"
+    ]
+}

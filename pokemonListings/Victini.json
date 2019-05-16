@@ -1,1 +1,209 @@
-{"name": "Victini", "forms": {"Base": {"base stats": [100, 100, 100, 100, 100, 100], "types": ["Psychic", "Fire"], "abilities": ["Victory Star"], "tier": ["OU"], "form": "Base"}}, "overview": "Thanks to an insanely high Base Power STAB attack in V-create, a great coverage option in Bolt Strike, and utility in U-turn and Trick, Victini can operate effectively in OU as either a Choice Scarf or Choice Band user. Victini's unique typing and good bulk gives it many opportunities to switch in against common threats in the OU tier and wreak havoc. Alternatively, Victini can use a Z-Celebrate set to boost all its stats once per match, becoming a terrifying late-game sweeper that can be difficult to revenge kill. Stored Power is very strong after a boost, and with a useful coverage option in Focus Blast, Victini has the ability to shred through common defensive cores as well as offensive teams. Its good bulk and somewhat useful resistances give Victini plenty of chances to setup. Unfortunately, Victini's average attacking stats forces it to heavily rely on Z-Celebrate's boosts in order to pose much of a threat when running this set. Furthermore, Victini's typing causes it to be weak to every form of entry hazard as well as common priority, such as Sucker Punch and Water Shuriken.\n", "strategies' format": "OU", "strategies": [{"name": "Choice Band", "stats": [236, 299, 236, 212, 237, 328], "type": ["Psychic", "Fire"], "usage": "Tapu Koko is an excellent partner, using Volt Switch or U-turn to bring in Victini against bulky Grass-types to fire off strong V-creates. It also sets Electric Terrain, helping Victini muscle through Heatran. Defog support is paramount; Stealth Rock and Spikes wear down Victini incredibly quickly, preventing it from checking Tapu Lele and Tapu Bulu effectively. Toxic Spikes are a nuisance for Victini, too, putting it on a timer. Good options for Defoggers include Zapdos and Mega Latios, the latter of which checks Heatran and baits in Ferrothorn, Celesteela, and Scizor for Victini. Good Ash-Greninja checks are also important partners; while any of Victini's moves will OHKO it, Ash-Greninja is very effective at coming in after a KO or on a double switch and applying pressure with strong STAB attacks, so Ferrothorn, Tangrowth, and Magearna are good partners.", "moves": [["V-create"], ["Bolt Strike"], ["U-turn"], ["Zen Headbutt", "Brick Break"]], "item": [" Choice Band"], "ability": ["Victory Star"], "nature": ["Jolly"], "ev spread": [0, 252, 0, 0, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Choice Scarf", "stats": [236, 299, 236, 212, 237, 328], "type": ["Psychic", "Fire"], "usage": "An entry hazard remover is essential due to Victini's susceptibility to every entry hazard. Landorus-T and Zapdos are both good options, as they can pressure common Victini switch-ins such as Tyranitar and Toxapex. However, Zapdos must be wary of Toxic, as being poisoned will severely hinder its performance. Mega Latios serves a similar role, but it is susceptible to being trapped by Tyranitar and poisoned by Toxapex as well. Volt Switch from Tapu Koko or U-turn from Mega Scizor is extremely helpful to bring Victini in with ease against the Grass- and Steel-types that like to come in on these two Pokemon. Tapu Bulu is a fantastic partner, as it provides Grassy Terrain support and serves as an answer to Water- and Ground-types that can pressure Victini, such as Ash-Greninja and Landorus-T. In return, Victini can take advantage of Scizor, Ferrothorn, and Celesteela, which Tapu Bulu lures in. Setup sweepers that can take advantage of Pursuit trappers make for good partners. Kartana deserves a special mention, as it has the physical bulk to take advantage of Choice-locked Tyranitar and can threaten opposing Water- and Ground-types for Victini.", "moves": [["V-create"], ["Bolt Strike"], ["U-turn"], ["Trick", "Final Gambit"]], "item": [" Choice Scarf"], "ability": ["Victory Star"], "nature": ["Jolly"], "ev spread": [0, 252, 0, 0, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Z-Celebrate", "stats": [236, 212, 236, 299, 237, 328], "type": ["Psychic", "Fire"], "usage": "Victini is weak to Stealth Rock and doesn't like being poisoned by Toxic Spikes, so Defog users like Mew, Mantine, and Mega Scizor make for good teammates for an easier time sweeping. Bulky Water-types such as Mantine and Gastrodon need to be weakened for Victini to clean up more effectively, so teammates like Ash-Greninja and Heatran that can pressure them early-game are appreciated. Ash-Greninja can also set up Spikes for it. Spikes users like Ferrothorn and Greninja help Victini muscle through bulkier foes such as Mew thanks to the additional chip damage. Victini can't threaten Chansey even after a boost due to its sky-high Special Defense, which gives it a bad stall matchup as long as Chansey is alive. Therefore, teammates that can lure in or pressure Chansey like Tapu Koko and Tapu Lele can help Victini in this regard. Pursuit users like Tyranitar and Weavile can remove Mega Latias for Victini, which can be a pain to break through. They can also force mind games against Chansey and weaken it for Victini. Smeargle is an interesting partner, as it sets up Sticky Web for Victini, thus making it impossible to revenge kill after the Z-Celebrate boost.", "moves": [["Celebrate"], ["Searing Shot"], ["Stored Power"], ["Focus Blast"]], "item": [" Normalium Z"], "ability": ["Victory Star"], "nature": ["Timid"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Dragon-types", "Bulky Water-types", "Ground-types", "Pursuit", "Faster Pokemon"], "credits": ["Written by Indigo Plateau, Leo,  and Hilomilo", "Quality checked by Subject 18, PK Gaming,  and Gary", "Grammar checked by lotiasite and The Dutch Plumberjack"]}
+{
+    "name": "Victini",
+    "forms": {
+        "Base": {
+            "base stats": [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ],
+            "types": [
+                "Psychic",
+                "Fire"
+            ],
+            "abilities": [
+                "Victory Star"
+            ],
+            "tier": [
+                "OU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Thanks to an insanely high Base Power STAB attack in V-create, a great coverage option in Bolt Strike, and utility in U-turn and Trick, Victini can operate effectively in OU as either a Choice Scarf or Choice Band user. Victini's unique typing and good bulk gives it many opportunities to switch in against common threats in the OU tier and wreak havoc. Alternatively, Victini can use a Z-Celebrate set to boost all its stats once per match, becoming a terrifying late-game sweeper that can be difficult to revenge kill. Stored Power is very strong after a boost, and with a useful coverage option in Focus Blast, Victini has the ability to shred through common defensive cores as well as offensive teams. Its good bulk and somewhat useful resistances give Victini plenty of chances to setup. Unfortunately, Victini's average attacking stats forces it to heavily rely on Z-Celebrate's boosts in order to pose much of a threat when running this set. Furthermore, Victini's typing causes it to be weak to every form of entry hazard as well as common priority, such as Sucker Punch and Water Shuriken.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Choice Band",
+            "stats": [
+                236,
+                299,
+                236,
+                212,
+                237,
+                328
+            ],
+            "type": [
+                "Psychic",
+                "Fire"
+            ],
+            "usage": "Tapu Koko is an excellent partner, using Volt Switch or U-turn to bring in Victini against bulky Grass-types to fire off strong V-creates. It also sets Electric Terrain, helping Victini muscle through Heatran. Defog support is paramount; Stealth Rock and Spikes wear down Victini incredibly quickly, preventing it from checking Tapu Lele and Tapu Bulu effectively. Toxic Spikes are a nuisance for Victini, too, putting it on a timer. Good options for Defoggers include Zapdos and Mega Latios, the latter of which checks Heatran and baits in Ferrothorn, Celesteela, and Scizor for Victini. Good Ash-Greninja checks are also important partners; while any of Victini's moves will OHKO it, Ash-Greninja is very effective at coming in after a KO or on a double switch and applying pressure with strong STAB attacks, so Ferrothorn, Tangrowth, and Magearna are good partners.",
+            "moves": [
+                [
+                    "V-create"
+                ],
+                [
+                    "Bolt Strike"
+                ],
+                [
+                    "U-turn"
+                ],
+                [
+                    "Zen Headbutt",
+                    "Brick Break"
+                ]
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Victory Star"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                0,
+                0,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Choice Scarf",
+            "stats": [
+                236,
+                299,
+                236,
+                212,
+                237,
+                328
+            ],
+            "type": [
+                "Psychic",
+                "Fire"
+            ],
+            "usage": "An entry hazard remover is essential due to Victini's susceptibility to every entry hazard. Landorus-T and Zapdos are both good options, as they can pressure common Victini switch-ins such as Tyranitar and Toxapex. However, Zapdos must be wary of Toxic, as being poisoned will severely hinder its performance. Mega Latios serves a similar role, but it is susceptible to being trapped by Tyranitar and poisoned by Toxapex as well. Volt Switch from Tapu Koko or U-turn from Mega Scizor is extremely helpful to bring Victini in with ease against the Grass- and Steel-types that like to come in on these two Pokemon. Tapu Bulu is a fantastic partner, as it provides Grassy Terrain support and serves as an answer to Water- and Ground-types that can pressure Victini, such as Ash-Greninja and Landorus-T. In return, Victini can take advantage of Scizor, Ferrothorn, and Celesteela, which Tapu Bulu lures in. Setup sweepers that can take advantage of Pursuit trappers make for good partners. Kartana deserves a special mention, as it has the physical bulk to take advantage of Choice-locked Tyranitar and can threaten opposing Water- and Ground-types for Victini.",
+            "moves": [
+                [
+                    "V-create"
+                ],
+                [
+                    "Bolt Strike"
+                ],
+                [
+                    "U-turn"
+                ],
+                [
+                    "Trick",
+                    "Final Gambit"
+                ]
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Victory Star"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                0,
+                0,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Z-Celebrate",
+            "stats": [
+                236,
+                212,
+                236,
+                299,
+                237,
+                328
+            ],
+            "type": [
+                "Psychic",
+                "Fire"
+            ],
+            "usage": "Victini is weak to Stealth Rock and doesn't like being poisoned by Toxic Spikes, so Defog users like Mew, Mantine, and Mega Scizor make for good teammates for an easier time sweeping. Bulky Water-types such as Mantine and Gastrodon need to be weakened for Victini to clean up more effectively, so teammates like Ash-Greninja and Heatran that can pressure them early-game are appreciated. Ash-Greninja can also set up Spikes for it. Spikes users like Ferrothorn and Greninja help Victini muscle through bulkier foes such as Mew thanks to the additional chip damage. Victini can't threaten Chansey even after a boost due to its sky-high Special Defense, which gives it a bad stall matchup as long as Chansey is alive. Therefore, teammates that can lure in or pressure Chansey like Tapu Koko and Tapu Lele can help Victini in this regard. Pursuit users like Tyranitar and Weavile can remove Mega Latias for Victini, which can be a pain to break through. They can also force mind games against Chansey and weaken it for Victini. Smeargle is an interesting partner, as it sets up Sticky Web for Victini, thus making it impossible to revenge kill after the Z-Celebrate boost.",
+            "moves": [
+                [
+                    "Celebrate"
+                ],
+                [
+                    "Searing Shot"
+                ],
+                [
+                    "Stored Power"
+                ],
+                [
+                    "Focus Blast"
+                ]
+            ],
+            "item": [
+                " Normalium Z"
+            ],
+            "ability": [
+                "Victory Star"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Dragon-types",
+        "Bulky Water-types",
+        "Ground-types",
+        "Pursuit",
+        "Faster Pokemon"
+    ],
+    "credits": [
+        "Written by Indigo Plateau, Leo,  and Hilomilo",
+        "Quality checked by Subject 18, PK Gaming,  and Gary",
+        "Grammar checked by lotiasite and The Dutch Plumberjack"
+    ]
+}

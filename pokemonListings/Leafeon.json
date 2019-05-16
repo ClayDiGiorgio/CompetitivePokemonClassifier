@@ -1,1 +1,97 @@
-{"name": "Leafeon", "forms": {"Base": {"base stats": [65, 110, 130, 60, 65, 95], "types": ["Grass"], "abilities": ["Chlorophyll", "Leaf Guard"], "tier": ["Untiered"], "form": "Base"}}, "overview": "Leafeon can serve as a decent sweeper and wallbreaker thanks to its overall decent stats and access to a setup move in the form of Swords Dance. It also has a nice ability in Chlorophyll, which allows it to serve as a good sweeper on sun teams. However, its offensive movepool is somewhat shallow, and it has a mediocre offensive typing in pure Grass, often leaving Leafeon dependent on neutral coverage to pick up KOs. This leads to Leafeon struggling to break through certain bulky Pokemon, such as Oricorio-E and Tangela. Furthermore, while it can break through Pokemon such as Tangela with its Z-Move, this means it also takes up the team's dedicated Z-Move slot. It can also be relatively easily worn down through means such as Double-Edge's recoil. While its Speed is decent, it is not the best when the sun is not up, so Leafeon can still be relatively easily outsped and revenge killed by Pokemon such as Swanna and Froslass, especially with its poor HP, lacking Special Defense, and bad defensive typing. Leafeon receives a good amount of competition from other Grass-types both inside and out of sun, such as Victreebel and Shiftry. Both have secondary STAB moves and more coverage options, and Shiftry also has access to Sucker Punch and a good support movepool with moves such as Defog. However, Leafeon remains an overall decent choice thanks to its higher physical bulk and Attack and a typing that does not leave it weak to moves such as Mach Punch.\n", "strategies' format": "PU", "strategies": [{"name": "Swords Dance", "stats": [166, 319, 297, 140, 166, 317], "type": ["Grass"], "usage": "Leafeon's main role is as a sweeper, ideally after bulkier threats such as Tangela and Lurantis have been KOed or at least weakened to the point where Leafeon can pick them off. This also qualifies for faster threats such as Froslass and Choice Scarf Primeape, which Leafeon prefers having KOed or potentially crippled with paralysis so it can outspeed them. Leafeon can also serve as a wallbreaker for its teammates, utilizing Swords Dance to more easily break through walls such as Clefairy and Audino, although it should stay wary of Toxic and Thunder Wave. Leafeon can generally set up for free against Pokemon such as Gastrodon and Lanturn, which will usually switch out against it. It can also utilize its good Defense and resistances to set up against Pokemon such as Regirock and Mudsdale. However, Leafeon dislikes taking a Toxic from all these Pokemon, Thunder Wave from Regirock, and potential coverage such as Lanturn's Ice Beam. When sweeping, stay wary that the opponent may switch out in attempt to lure out Leafeon's Z-Move, as without its Z-Move, Leafeon has a much more difficult time breaking through Pokemon such as Tangela. When Leafeon is run on a sun team, the opponent may also constantly switch in attempt to stall out the sun. Leafeon can take advantage of these switches, however, as it can use the turn as an opportunity to set up Swords Dance.", "moves": [["Swords Dance"], ["Leaf Blade"], ["Double-Edge"], ["Knock Off"]], "item": [" Normalium Z"], "ability": ["Chlorophyll"], "nature": ["Jolly", "Adamant"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Faster Pokemon", "Steel-types", "Physical Walls", "Flying-types", "Snow Warning"], "credits": ["Written by UberSkitty", "Quality checked by yogi, Megazard,  and Twix", "Grammar checked by The Dutch Plumberjack and lotiasite"]}
+{
+    "name": "Leafeon",
+    "forms": {
+        "Base": {
+            "base stats": [
+                65,
+                110,
+                130,
+                60,
+                65,
+                95
+            ],
+            "types": [
+                "Grass"
+            ],
+            "abilities": [
+                "Chlorophyll",
+                "Leaf Guard"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Leafeon can serve as a decent sweeper and wallbreaker thanks to its overall decent stats and access to a setup move in the form of Swords Dance. It also has a nice ability in Chlorophyll, which allows it to serve as a good sweeper on sun teams. However, its offensive movepool is somewhat shallow, and it has a mediocre offensive typing in pure Grass, often leaving Leafeon dependent on neutral coverage to pick up KOs. This leads to Leafeon struggling to break through certain bulky Pokemon, such as Oricorio-E and Tangela. Furthermore, while it can break through Pokemon such as Tangela with its Z-Move, this means it also takes up the team's dedicated Z-Move slot. It can also be relatively easily worn down through means such as Double-Edge's recoil. While its Speed is decent, it is not the best when the sun is not up, so Leafeon can still be relatively easily outsped and revenge killed by Pokemon such as Swanna and Froslass, especially with its poor HP, lacking Special Defense, and bad defensive typing. Leafeon receives a good amount of competition from other Grass-types both inside and out of sun, such as Victreebel and Shiftry. Both have secondary STAB moves and more coverage options, and Shiftry also has access to Sucker Punch and a good support movepool with moves such as Defog. However, Leafeon remains an overall decent choice thanks to its higher physical bulk and Attack and a typing that does not leave it weak to moves such as Mach Punch.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Swords Dance",
+            "stats": [
+                166,
+                319,
+                297,
+                140,
+                166,
+                317
+            ],
+            "type": [
+                "Grass"
+            ],
+            "usage": "Leafeon's main role is as a sweeper, ideally after bulkier threats such as Tangela and Lurantis have been KOed or at least weakened to the point where Leafeon can pick them off. This also qualifies for faster threats such as Froslass and Choice Scarf Primeape, which Leafeon prefers having KOed or potentially crippled with paralysis so it can outspeed them. Leafeon can also serve as a wallbreaker for its teammates, utilizing Swords Dance to more easily break through walls such as Clefairy and Audino, although it should stay wary of Toxic and Thunder Wave. Leafeon can generally set up for free against Pokemon such as Gastrodon and Lanturn, which will usually switch out against it. It can also utilize its good Defense and resistances to set up against Pokemon such as Regirock and Mudsdale. However, Leafeon dislikes taking a Toxic from all these Pokemon, Thunder Wave from Regirock, and potential coverage such as Lanturn's Ice Beam. When sweeping, stay wary that the opponent may switch out in attempt to lure out Leafeon's Z-Move, as without its Z-Move, Leafeon has a much more difficult time breaking through Pokemon such as Tangela. When Leafeon is run on a sun team, the opponent may also constantly switch in attempt to stall out the sun. Leafeon can take advantage of these switches, however, as it can use the turn as an opportunity to set up Swords Dance.",
+            "moves": [
+                [
+                    "Swords Dance"
+                ],
+                [
+                    "Leaf Blade"
+                ],
+                [
+                    "Double-Edge"
+                ],
+                [
+                    "Knock Off"
+                ]
+            ],
+            "item": [
+                " Normalium Z"
+            ],
+            "ability": [
+                "Chlorophyll"
+            ],
+            "nature": [
+                "Jolly",
+                "Adamant"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Faster Pokemon",
+        "Steel-types",
+        "Physical Walls",
+        "Flying-types",
+        "Snow Warning"
+    ],
+    "credits": [
+        "Written by UberSkitty",
+        "Quality checked by yogi, Megazard,  and Twix",
+        "Grammar checked by The Dutch Plumberjack and lotiasite"
+    ]
+}

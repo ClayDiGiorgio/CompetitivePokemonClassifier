@@ -1,1 +1,214 @@
-{"name": "Chandelure", "forms": {"Base": {"base stats": [60, 55, 90, 145, 90, 80], "types": ["Ghost", "Fire"], "abilities": ["Flame Body", "Flash Fire", "Infiltrator"], "tier": ["UU"], "form": "Base"}}, "overview": "Chandelure's massive Special Attack stat along with a great STAB combination in Fire and Ghost makes it a notable threat in the UU metagame. Its typing also allows it to be an offensive check to the likes of Cobalion, non-Knock Off Scizor, and non-Stone Edge Infernape. Furthermore, an immunity to Seismic Toss from Blissey and the ability to cripple bulky walls with Trick or avoid status with Substitute also defines its role as a stallbreaker, allowing it to take advantage of numerous bulky Pokemon in the tier; in general, it matches up outstandingly against bulkier teams, carving through them without much effort. Unfortunately, its poor bulk and lackluster Speed tier mean that even Choice Scarf variants are outsped and KOed by most of the tier's Choice Scarf users, such as Krookodile, Hydreigon, and Terrakion, and by very fast Mega Evolutions such as Mega Beedrill, Mega Sceptile, and Mega Aerodactyl. Non-Choice Scarf variants have to worry even more about being outrun, as even the likes of Heracross, Nidoking, and Entei are faster. Additionally, a vulnerability to all entry hazards, but most notably Stealth Rock, compromises Chandelure's ability to pivot into the few Pokemon it checks and gives it fewer opportunities to wallbreak.\n", "strategies' format": "UU", "strategies": [{"name": "Substitute + Calm Mind", "stats": [156, 131, 216, 389, 217, 284], "type": ["Ghost", "Fire"], "usage": "When forcing switches, especially in situations where the opponent can pivot into both of Chandelure's moves by having a Mega Absol and a Primarina, for example, Chandelure should use Substitute to avoid mind games. Against Pokemon that can't really touch Chandelure outside of status moves, such as Blissey, Vileplume, and the odd Toxic Florges, Chandelure should use Substitute as well to avoid Toxic and proceed to dent any incoming Pokemon or use Calm Mind to make it even more of a threat. A risky but possible situation is to bluff a Choice Scarf by sending Chandelure into Cobalion and proceed to set up a Substitute or a Calm Mind from there. Overall, if you're facing stall or balance, Chandelure's HP should be preserved for it to really wallbreak and stallbreak the opposing team; it's also worth preserving its Z-Move for Unaware and Haze users such as Quagsire and Tentacruel. Against more offensive teams, Chandelure should use its Z-Move if behind a Substitute and facing something that none of its other attacks can KO, such as Mega Aerodactyl and Mega Altaria after Stealth Rock damage.", "moves": [["Fire Blast", "Flamethrower"], ["Shadow Ball"], ["Calm Mind"], ["Substitute"]], "item": [" Ghostium Z", " Leftovers"], "ability": ["Flame Body"], "nature": ["Timid"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Choice Scarf", "stats": [156, 131, 216, 389, 217, 284], "type": ["Ghost", "Fire"], "usage": "Chandelure can switch into Cobalion and Infernape pretty safely. Other methods of bringing it in include double switching or doing so after a teammate is KOed. You should save Chandelure for revenge killing troublesome Pokemon, such as the likes of Cobalion, Infernape, and Scizor; however, keep in mind that faster Mega Evolutions such as Aerodactyl, Sceptile, and Beedrill still get the jump on it. Similarly, once Chandelure has fulfilled its role, you may want to use Memento on Pokemon that it can't KO and use them as setup bait for another teammate; the likes of Hydreigon, Krookodile, and Swampert are notable targets. If Chandelure is still useful to the team, however, avoid switching it into entry hazards, as Chandelure would get weakened and fail to accomplish its role. If Chandelure is facing a stall or balance team and doesn't need its Choice Scarf, feel free to use Trick, as the likes of Blissey, Porygon2 and Umbreon switch in; do keep in mind that this does require some prediction, as by looking at your team archetype, an opponent might identify Chandelure as a Choice Scarf user and pivot into something else to scout for Trick. Overall, due to it holding Choice Scarf, Chandelure is a little prediction reliant; for example, by sending Chandelure in to revenge kill a Cobalion, you might want to use Shadow Ball instead of Fire Blast to 2HKO a weakened Mantine that could try to switch in. Considering Chandelure's passable Speed tier with Choice Scarf, keep in mind Shadow Ball can clean up most weakened teams that lack a Ghost-resistant Pokemon or have had their Ghost-resistant Pokemon KOed or weakened already, so in these scenarios, it's important to preserve Chandelure.", "moves": [["Fire Blast"], ["Shadow Ball"], ["Trick"], ["Flamethrower", "Memento", "Energy Ball"]], "item": [" Choice Scarf"], "ability": ["Flame Body"], "nature": ["Timid"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Choice Specs", "stats": [156, 131, 216, 389, 217, 284], "type": ["Ghost", "Fire"], "usage": "Chandelure can plow through balance teams, so it's important to keep it healthy in matchups against those; however, against more offensive teams where its wallbreaking capabilities aren't as appreciated, Chandelure should be used as a pivot to the likes of Cobalion, Infernape, and Scizor, but it can also be brought in via U-turn or Volt Switch, through doubles switches, or after a teammate is KOed. Be sure to keep your prediction game at its best when using Chandelure, as Choice Specs variants do require some prediction to work to its fullest potential. On a team with Mandibuzz, Latias, Crawdaunt, and Porygon2, for example, it might be difficult to decide which move to pick to still keep the momentum.", "moves": [["Fire Blast"], ["Shadow Ball"], ["Memento", "Energy Ball"], ["Trick"]], "item": [" Choice Specs"], "ability": ["Flame Body"], "nature": ["Timid"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Hydreigon", "Revenge Killers", "Pursuit Trappers", "Entry Hazards", "Walls"], "credits": ["Written by lyd", "Quality checked by Cynde, dodmen,  and Eyan", "Grammar checked by Eyan and The Dutch Plumberjack"]}
+{
+    "name": "Chandelure",
+    "forms": {
+        "Base": {
+            "base stats": [
+                60,
+                55,
+                90,
+                145,
+                90,
+                80
+            ],
+            "types": [
+                "Ghost",
+                "Fire"
+            ],
+            "abilities": [
+                "Flame Body",
+                "Flash Fire",
+                "Infiltrator"
+            ],
+            "tier": [
+                "UU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Chandelure's massive Special Attack stat along with a great STAB combination in Fire and Ghost makes it a notable threat in the UU metagame. Its typing also allows it to be an offensive check to the likes of Cobalion, non-Knock Off Scizor, and non-Stone Edge Infernape. Furthermore, an immunity to Seismic Toss from Blissey and the ability to cripple bulky walls with Trick or avoid status with Substitute also defines its role as a stallbreaker, allowing it to take advantage of numerous bulky Pokemon in the tier; in general, it matches up outstandingly against bulkier teams, carving through them without much effort. Unfortunately, its poor bulk and lackluster Speed tier mean that even Choice Scarf variants are outsped and KOed by most of the tier's Choice Scarf users, such as Krookodile, Hydreigon, and Terrakion, and by very fast Mega Evolutions such as Mega Beedrill, Mega Sceptile, and Mega Aerodactyl. Non-Choice Scarf variants have to worry even more about being outrun, as even the likes of Heracross, Nidoking, and Entei are faster. Additionally, a vulnerability to all entry hazards, but most notably Stealth Rock, compromises Chandelure's ability to pivot into the few Pokemon it checks and gives it fewer opportunities to wallbreak.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Substitute + Calm Mind",
+            "stats": [
+                156,
+                131,
+                216,
+                389,
+                217,
+                284
+            ],
+            "type": [
+                "Ghost",
+                "Fire"
+            ],
+            "usage": "When forcing switches, especially in situations where the opponent can pivot into both of Chandelure's moves by having a Mega Absol and a Primarina, for example, Chandelure should use Substitute to avoid mind games. Against Pokemon that can't really touch Chandelure outside of status moves, such as Blissey, Vileplume, and the odd Toxic Florges, Chandelure should use Substitute as well to avoid Toxic and proceed to dent any incoming Pokemon or use Calm Mind to make it even more of a threat. A risky but possible situation is to bluff a Choice Scarf by sending Chandelure into Cobalion and proceed to set up a Substitute or a Calm Mind from there. Overall, if you're facing stall or balance, Chandelure's HP should be preserved for it to really wallbreak and stallbreak the opposing team; it's also worth preserving its Z-Move for Unaware and Haze users such as Quagsire and Tentacruel. Against more offensive teams, Chandelure should use its Z-Move if behind a Substitute and facing something that none of its other attacks can KO, such as Mega Aerodactyl and Mega Altaria after Stealth Rock damage.",
+            "moves": [
+                [
+                    "Fire Blast",
+                    "Flamethrower"
+                ],
+                [
+                    "Shadow Ball"
+                ],
+                [
+                    "Calm Mind"
+                ],
+                [
+                    "Substitute"
+                ]
+            ],
+            "item": [
+                " Ghostium Z",
+                " Leftovers"
+            ],
+            "ability": [
+                "Flame Body"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Choice Scarf",
+            "stats": [
+                156,
+                131,
+                216,
+                389,
+                217,
+                284
+            ],
+            "type": [
+                "Ghost",
+                "Fire"
+            ],
+            "usage": "Chandelure can switch into Cobalion and Infernape pretty safely. Other methods of bringing it in include double switching or doing so after a teammate is KOed. You should save Chandelure for revenge killing troublesome Pokemon, such as the likes of Cobalion, Infernape, and Scizor; however, keep in mind that faster Mega Evolutions such as Aerodactyl, Sceptile, and Beedrill still get the jump on it. Similarly, once Chandelure has fulfilled its role, you may want to use Memento on Pokemon that it can't KO and use them as setup bait for another teammate; the likes of Hydreigon, Krookodile, and Swampert are notable targets. If Chandelure is still useful to the team, however, avoid switching it into entry hazards, as Chandelure would get weakened and fail to accomplish its role. If Chandelure is facing a stall or balance team and doesn't need its Choice Scarf, feel free to use Trick, as the likes of Blissey, Porygon2 and Umbreon switch in; do keep in mind that this does require some prediction, as by looking at your team archetype, an opponent might identify Chandelure as a Choice Scarf user and pivot into something else to scout for Trick. Overall, due to it holding Choice Scarf, Chandelure is a little prediction reliant; for example, by sending Chandelure in to revenge kill a Cobalion, you might want to use Shadow Ball instead of Fire Blast to 2HKO a weakened Mantine that could try to switch in. Considering Chandelure's passable Speed tier with Choice Scarf, keep in mind Shadow Ball can clean up most weakened teams that lack a Ghost-resistant Pokemon or have had their Ghost-resistant Pokemon KOed or weakened already, so in these scenarios, it's important to preserve Chandelure.",
+            "moves": [
+                [
+                    "Fire Blast"
+                ],
+                [
+                    "Shadow Ball"
+                ],
+                [
+                    "Trick"
+                ],
+                [
+                    "Flamethrower",
+                    "Memento",
+                    "Energy Ball"
+                ]
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Flame Body"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Choice Specs",
+            "stats": [
+                156,
+                131,
+                216,
+                389,
+                217,
+                284
+            ],
+            "type": [
+                "Ghost",
+                "Fire"
+            ],
+            "usage": "Chandelure can plow through balance teams, so it's important to keep it healthy in matchups against those; however, against more offensive teams where its wallbreaking capabilities aren't as appreciated, Chandelure should be used as a pivot to the likes of Cobalion, Infernape, and Scizor, but it can also be brought in via U-turn or Volt Switch, through doubles switches, or after a teammate is KOed. Be sure to keep your prediction game at its best when using Chandelure, as Choice Specs variants do require some prediction to work to its fullest potential. On a team with Mandibuzz, Latias, Crawdaunt, and Porygon2, for example, it might be difficult to decide which move to pick to still keep the momentum.",
+            "moves": [
+                [
+                    "Fire Blast"
+                ],
+                [
+                    "Shadow Ball"
+                ],
+                [
+                    "Memento",
+                    "Energy Ball"
+                ],
+                [
+                    "Trick"
+                ]
+            ],
+            "item": [
+                " Choice Specs"
+            ],
+            "ability": [
+                "Flame Body"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Hydreigon",
+        "Revenge Killers",
+        "Pursuit Trappers",
+        "Entry Hazards",
+        "Walls"
+    ],
+    "credits": [
+        "Written by lyd",
+        "Quality checked by Cynde, dodmen,  and Eyan",
+        "Grammar checked by Eyan and The Dutch Plumberjack"
+    ]
+}

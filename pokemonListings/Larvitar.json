@@ -1,1 +1,100 @@
-{"name": "Larvitar", "forms": {"Base": {"base stats": [50, 64, 50, 45, 50, 41], "types": ["Rock", "Ground"], "abilities": ["Guts", "Sand Veil"], "tier": ["LC"], "form": "Base"}}, "overview": "Larvitar has a great offensive STAB combination that hits almost the entire tier for neutral damage, as well as access to a great setup option in Dragon Dance, which allows it to pose a threat as a decent late-game sweeper. Larvitar's Guts ability further bolsters its offensive presence and allows it to absorb status fairly well and set up without worrying about burns. In addition to its unresisted STAB attacks, Larvitar also has access to powerful coverage options like Superpower and Crunch to hit specific targets harder. However, despite its typing's excellent offensive STAB coverage, it also leaves Larvitar 4x weak to the tier's common Grass- and Water-type attacks and weak to the ever so prevalent Fighting-types. Larvitar is also quite slow before a boost and very frail, meaning that it will struggle to take a hit before setting up, and even after a boost, Larvitar's low Speed and weaknesses to common priority attacks like Aqua Jet and Vacuum Wave leave it easily revenge killed. Furthermore, Larvitar is still quite slow and weak after a boost, meaning that it will be easily revenge killed by most moderately bulky foes. Lastly, Larvitar faces competition from a similar sweeper in Tyrunt, which has a better typing and ability for setting up and a higher Attack stat, and from Shell Smash users like Shellder and Tirtouga.\n", "strategies' format": "LC", "strategies": [{"name": "Dragon Dance", "stats": [136, 225, 145, 113, 145, 181], "type": ["Rock", "Ground"], "usage": "Larvitar is best used as a late-game sweeper once its checks and counters have been removed. It can, however, be put to use early-game to punch some holes in the opponent's team for another teammate to sweep late-game. It is best that bulky Water-types like Slowpoke and Staryu and Grass-types such as Foongus and Cottonee are removed before Larvitar attempts to sweep, as they will usually be able to take a hit and OHKO Larvitar with super effective STAB attacks. Fighting-types like Mienfoo and Timburr are also important to remove from play before Larvitar tries sweeping for similar reasons. Larvitar often struggles to find setup opportunities and should thus capitalize on switches it forces to use Dragon Dance. As such, reliable setup targets include Larvesta, defensive Ponyta, and Alolan Grimer. Finally, Larvitar's general frailty means that it often won't be able to switch into attacks very reliably, meaning it is best brought out via pivot support from Pokemon like Magnemite and Vullaby or after a teammate has fainted.", "moves": [["Dragon Dance"], ["Earthquake"], ["Rock Slide", "Stone Edge"], ["Superpower"]], "item": [" Eviolite"], "ability": ["Guts"], "nature": ["Jolly"], "ev spread": [0, 244, 36, 0, 36, 188], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Water-types", "Grass-types", "Bulky Ground-types", "Fighting-types", "Fairy-types", "Choice Scarf Users"], "credits": ["Written by Hilomilo", "Quality checked by tahu, Xayah,  and Corporal Levi", "Grammar checked by Xayah and P Squared"]}
+{
+    "name": "Larvitar",
+    "forms": {
+        "Base": {
+            "base stats": [
+                50,
+                64,
+                50,
+                45,
+                50,
+                41
+            ],
+            "types": [
+                "Rock",
+                "Ground"
+            ],
+            "abilities": [
+                "Guts",
+                "Sand Veil"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Larvitar has a great offensive STAB combination that hits almost the entire tier for neutral damage, as well as access to a great setup option in Dragon Dance, which allows it to pose a threat as a decent late-game sweeper. Larvitar's Guts ability further bolsters its offensive presence and allows it to absorb status fairly well and set up without worrying about burns. In addition to its unresisted STAB attacks, Larvitar also has access to powerful coverage options like Superpower and Crunch to hit specific targets harder. However, despite its typing's excellent offensive STAB coverage, it also leaves Larvitar 4x weak to the tier's common Grass- and Water-type attacks and weak to the ever so prevalent Fighting-types. Larvitar is also quite slow before a boost and very frail, meaning that it will struggle to take a hit before setting up, and even after a boost, Larvitar's low Speed and weaknesses to common priority attacks like Aqua Jet and Vacuum Wave leave it easily revenge killed. Furthermore, Larvitar is still quite slow and weak after a boost, meaning that it will be easily revenge killed by most moderately bulky foes. Lastly, Larvitar faces competition from a similar sweeper in Tyrunt, which has a better typing and ability for setting up and a higher Attack stat, and from Shell Smash users like Shellder and Tirtouga.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Dragon Dance",
+            "stats": [
+                136,
+                225,
+                145,
+                113,
+                145,
+                181
+            ],
+            "type": [
+                "Rock",
+                "Ground"
+            ],
+            "usage": "Larvitar is best used as a late-game sweeper once its checks and counters have been removed. It can, however, be put to use early-game to punch some holes in the opponent's team for another teammate to sweep late-game. It is best that bulky Water-types like Slowpoke and Staryu and Grass-types such as Foongus and Cottonee are removed before Larvitar attempts to sweep, as they will usually be able to take a hit and OHKO Larvitar with super effective STAB attacks. Fighting-types like Mienfoo and Timburr are also important to remove from play before Larvitar tries sweeping for similar reasons. Larvitar often struggles to find setup opportunities and should thus capitalize on switches it forces to use Dragon Dance. As such, reliable setup targets include Larvesta, defensive Ponyta, and Alolan Grimer. Finally, Larvitar's general frailty means that it often won't be able to switch into attacks very reliably, meaning it is best brought out via pivot support from Pokemon like Magnemite and Vullaby or after a teammate has fainted.",
+            "moves": [
+                [
+                    "Dragon Dance"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Rock Slide",
+                    "Stone Edge"
+                ],
+                [
+                    "Superpower"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Guts"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                244,
+                36,
+                0,
+                36,
+                188
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Water-types",
+        "Grass-types",
+        "Bulky Ground-types",
+        "Fighting-types",
+        "Fairy-types",
+        "Choice Scarf Users"
+    ],
+    "credits": [
+        "Written by Hilomilo",
+        "Quality checked by tahu, Xayah,  and Corporal Levi",
+        "Grammar checked by Xayah and P Squared"
+    ]
+}

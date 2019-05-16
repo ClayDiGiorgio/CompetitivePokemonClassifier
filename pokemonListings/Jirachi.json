@@ -1,1 +1,209 @@
-{"name": "Jirachi", "forms": {"Base": {"base stats": [100, 100, 100, 100, 100, 100], "types": ["Steel", "Psychic"], "abilities": ["Serene Grace"], "tier": ["OU"], "form": "Base"}}, "overview": "Jirachi's above average bulk and great defensive typing give it a place in OU as one of the metagame's most consistent and reliable checks to Magearna, Tapu Lele, and Mega Alakazam while still packing plenty of Speed with Choice Scarf sets. Healing Wish is also an extremely valuable tool for bulky offense archetypes, giving the likes of Mega Charizard X and Volcarona a second shot a sweeping. Jirachi is no slouch offensively either, as courtesy of Serene Grace and Choice Scarf, Iron Head can pose a threat to several weakened or unprepared teams. Defensive sets can also be good picks on a handful of teams, notably providing Wish support and a near impenetrable counter to Tapu Lele, Mega Alakazam, and Magearna. Unfortunately, despite Jirachi's good typing, it is vulnerable to the tier's ever-present Ground-types in Landorus-T, Garchomp, and Gliscor and Fire-types like Heatran and Volcarona, as well as having a fearful weakness to Knock Off. Choice Scarf Jirachi can also struggle at times due to its rather average Speed and power and being pressured to U-turn not to lose momentum, which the opponent can and will take advantage of, whereas defensive sets also lose plenty of momentum naturally.\n", "strategies' format": "OU", "strategies": [{"name": "Choice Scarf", "stats": [236, 299, 236, 212, 237, 328], "type": ["Steel", "Psychic"], "usage": "Jirachi should be switched into predicted resisted attacks such as Psychic from Mega Alakazam and Tapu Lele and Moonblast from Mega Diancie. However, be wary of coverage moves such as Mega Alakazam's Shadow Ball, Choice Specs Tapu Lele's Hidden Power Fire, and Mega Diancie's Earth Power, as they leave Jirachi severely weakened and unable to switch in afterwards. Jirachi can use U-turn as it forces these Pokemon out to gain momentum; however, there are some late-game situations where it's better to spam Iron Head or weaken a predicted switch-in with a coverage move. Healing Wish should be used when Jirachi's boosted Speed is no longer needed and a weakened teammate can attempt to set up and sweep once fully healed. It should also be used to heal a teammate that's necessary in checking an offensive threat. Fire Punch should only be used against Steel-types if necessary, as this move is otherwise weak and can lose momentum by letting in threatening foes such as Ash-Greninja, Heatran, and Garchomp. For these reasons, it's often preferred to pivot with U-turn into a wallbreaker that fares better against Steel-types. Trick should be used to cripple defensive switch-ins by hindering their ability to check other offensive threats, but it should only be used once Jirachi's increased Speed is no longer needed. Using Healing Wish immediately after Trick can be a smart way to bring a teammate in safely.", "moves": [["Iron Head"], ["U-turn"], ["Healing Wish"], ["Fire Punch"]], "item": [" Choice Scarf"], "ability": ["Serene Grace"], "nature": ["Jolly"], "ev spread": [0, 252, 0, 0, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Wish", "stats": [298, 236, 236, 212, 311, 254], "type": ["Steel", "Psychic"], "usage": "Use Wish regularly to ensure Jirachi is as healthy as is reasonably possible to ensure that it can repeatedly check Pokemon like Kyurem-B consistently throughout the match. If Jirachi carries Body Slam, it is usually better to use that early-game instead of Iron Head in order to cripple common switch-ins like Heatran and Landorus-T; this is because Iron Head's targets, such as Tapu Lele and Kyurem-B, typically switch out of Jirachi and attempt to take advantage of its passivity. The same applies if Jirachi carries U-turn, except that it is used more to grab momentum rather than to punish the opponent's attempt to create an unfavorable scenario for the Jirachi player. While it is usually advised to use Protect when healing Jirachi with its own Wish, be mindful that always using Protect when healing with Wish can be easily punished by your opponent, who can use it to set up entry hazards, boost their Pokemon's stats, or generate a free switch into a weakened Pokemon that can't otherwise get onto the field safely; thus, it is important to try and mix this up if you can by either attacking or doubling on an expected switch or by taking advantage of paraflinching to generate free turns. Speaking of Protect, don't be afraid to use it if it is unlikely that Jirachi will survive the next hit without recovery from Leftovers or Grassy Terrain, but once again make sure to always weigh up the risks of using it when you are in a poor position, as it can create free opportunities for a wary opponent just as much as it can save Jirachi's skin; don't forget that it has a wide range of utilities beyond Wish and turn-by-turn recovery, notably including stalling for poison damage and scouting for both coverage and Z-Moves.", "moves": [["Wish"], ["Protect"], ["Iron Head"], ["U-turn", "Body Slam"]], "item": [" Leftovers"], "ability": ["Serene Grace"], "nature": ["Careful"], "ev spread": [248, 0, 0, 0, 188, 72], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Stealth Rock", "stats": [298, 236, 236, 212, 311, 254], "type": ["Steel", "Psychic"], "usage": "This set's main function is to support teammates that appreciate either Healing Wish or Stealth Rock support. Due to the nature of this set, Jirachi should almost always aim to set up Stealth Rock when sent out. Clefable, Tapu Lele, and Magearna are all good examples of Pokemon Jirachi checks; thus, it should try to switch into and set up Stealth Rock against them. Jirachi's slow U-turn is one of this set's biggest perks, and it can be used to generate momentum on predicted switches into threats that check Jirachi, such as Landorus-T and Alolan Marowak, or when Jirachi wishes to tank a hit and bring in a frailer teammate afterward. Because Healing Wish KOes Jirachi, the move shouldn't be used prematurely and should only be used once Jirachi is low on HP, as using Healing Wish right away would be a bit of a waste of a rather tanky Pokemon. Healing Wish allows a teammate of Jirachi that can sweep late-game, such as Mega Charizard X or Mega Pinsir, punch holes early-game and proceed to clean up later once its health has been restored. Iron Head should mainly be used against threats that take heavy damage from the move that could potentially pose a threat to the rest of Jirachi's team, such as Tyranitar, Tapu Bulu, and Mamoswine.", "moves": [["Stealth Rock"], ["Iron Head"], ["U-turn"], ["Healing Wish"]], "item": [" Leftovers"], "ability": ["Serene Grace"], "nature": ["Careful"], "ev spread": [248, 0, 0, 0, 188, 72], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Heatran", "Water-types", "Ground-types", "Dark-types", "Fire-types", "Residual Damage"], "credits": ["Written by DKM, Hilomilo,  and Martin", "Quality checked by Gary, dk, Subject 18, ABR, Finchinator, Leo, Lyd, LL,  and Talah", "Grammar checked by The Dutch Plumberjack, frenzyplant, lotiasite, martha,  and talkingtree"]}
+{
+    "name": "Jirachi",
+    "forms": {
+        "Base": {
+            "base stats": [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ],
+            "types": [
+                "Steel",
+                "Psychic"
+            ],
+            "abilities": [
+                "Serene Grace"
+            ],
+            "tier": [
+                "OU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Jirachi's above average bulk and great defensive typing give it a place in OU as one of the metagame's most consistent and reliable checks to Magearna, Tapu Lele, and Mega Alakazam while still packing plenty of Speed with Choice Scarf sets. Healing Wish is also an extremely valuable tool for bulky offense archetypes, giving the likes of Mega Charizard X and Volcarona a second shot a sweeping. Jirachi is no slouch offensively either, as courtesy of Serene Grace and Choice Scarf, Iron Head can pose a threat to several weakened or unprepared teams. Defensive sets can also be good picks on a handful of teams, notably providing Wish support and a near impenetrable counter to Tapu Lele, Mega Alakazam, and Magearna. Unfortunately, despite Jirachi's good typing, it is vulnerable to the tier's ever-present Ground-types in Landorus-T, Garchomp, and Gliscor and Fire-types like Heatran and Volcarona, as well as having a fearful weakness to Knock Off. Choice Scarf Jirachi can also struggle at times due to its rather average Speed and power and being pressured to U-turn not to lose momentum, which the opponent can and will take advantage of, whereas defensive sets also lose plenty of momentum naturally.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Choice Scarf",
+            "stats": [
+                236,
+                299,
+                236,
+                212,
+                237,
+                328
+            ],
+            "type": [
+                "Steel",
+                "Psychic"
+            ],
+            "usage": "Jirachi should be switched into predicted resisted attacks such as Psychic from Mega Alakazam and Tapu Lele and Moonblast from Mega Diancie. However, be wary of coverage moves such as Mega Alakazam's Shadow Ball, Choice Specs Tapu Lele's Hidden Power Fire, and Mega Diancie's Earth Power, as they leave Jirachi severely weakened and unable to switch in afterwards. Jirachi can use U-turn as it forces these Pokemon out to gain momentum; however, there are some late-game situations where it's better to spam Iron Head or weaken a predicted switch-in with a coverage move. Healing Wish should be used when Jirachi's boosted Speed is no longer needed and a weakened teammate can attempt to set up and sweep once fully healed. It should also be used to heal a teammate that's necessary in checking an offensive threat. Fire Punch should only be used against Steel-types if necessary, as this move is otherwise weak and can lose momentum by letting in threatening foes such as Ash-Greninja, Heatran, and Garchomp. For these reasons, it's often preferred to pivot with U-turn into a wallbreaker that fares better against Steel-types. Trick should be used to cripple defensive switch-ins by hindering their ability to check other offensive threats, but it should only be used once Jirachi's increased Speed is no longer needed. Using Healing Wish immediately after Trick can be a smart way to bring a teammate in safely.",
+            "moves": [
+                [
+                    "Iron Head"
+                ],
+                [
+                    "U-turn"
+                ],
+                [
+                    "Healing Wish"
+                ],
+                [
+                    "Fire Punch"
+                ]
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Serene Grace"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                0,
+                0,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Wish",
+            "stats": [
+                298,
+                236,
+                236,
+                212,
+                311,
+                254
+            ],
+            "type": [
+                "Steel",
+                "Psychic"
+            ],
+            "usage": "Use Wish regularly to ensure Jirachi is as healthy as is reasonably possible to ensure that it can repeatedly check Pokemon like Kyurem-B consistently throughout the match. If Jirachi carries Body Slam, it is usually better to use that early-game instead of Iron Head in order to cripple common switch-ins like Heatran and Landorus-T; this is because Iron Head's targets, such as Tapu Lele and Kyurem-B, typically switch out of Jirachi and attempt to take advantage of its passivity. The same applies if Jirachi carries U-turn, except that it is used more to grab momentum rather than to punish the opponent's attempt to create an unfavorable scenario for the Jirachi player. While it is usually advised to use Protect when healing Jirachi with its own Wish, be mindful that always using Protect when healing with Wish can be easily punished by your opponent, who can use it to set up entry hazards, boost their Pokemon's stats, or generate a free switch into a weakened Pokemon that can't otherwise get onto the field safely; thus, it is important to try and mix this up if you can by either attacking or doubling on an expected switch or by taking advantage of paraflinching to generate free turns. Speaking of Protect, don't be afraid to use it if it is unlikely that Jirachi will survive the next hit without recovery from Leftovers or Grassy Terrain, but once again make sure to always weigh up the risks of using it when you are in a poor position, as it can create free opportunities for a wary opponent just as much as it can save Jirachi's skin; don't forget that it has a wide range of utilities beyond Wish and turn-by-turn recovery, notably including stalling for poison damage and scouting for both coverage and Z-Moves.",
+            "moves": [
+                [
+                    "Wish"
+                ],
+                [
+                    "Protect"
+                ],
+                [
+                    "Iron Head"
+                ],
+                [
+                    "U-turn",
+                    "Body Slam"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Serene Grace"
+            ],
+            "nature": [
+                "Careful"
+            ],
+            "ev spread": [
+                248,
+                0,
+                0,
+                0,
+                188,
+                72
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Stealth Rock",
+            "stats": [
+                298,
+                236,
+                236,
+                212,
+                311,
+                254
+            ],
+            "type": [
+                "Steel",
+                "Psychic"
+            ],
+            "usage": "This set's main function is to support teammates that appreciate either Healing Wish or Stealth Rock support. Due to the nature of this set, Jirachi should almost always aim to set up Stealth Rock when sent out. Clefable, Tapu Lele, and Magearna are all good examples of Pokemon Jirachi checks; thus, it should try to switch into and set up Stealth Rock against them. Jirachi's slow U-turn is one of this set's biggest perks, and it can be used to generate momentum on predicted switches into threats that check Jirachi, such as Landorus-T and Alolan Marowak, or when Jirachi wishes to tank a hit and bring in a frailer teammate afterward. Because Healing Wish KOes Jirachi, the move shouldn't be used prematurely and should only be used once Jirachi is low on HP, as using Healing Wish right away would be a bit of a waste of a rather tanky Pokemon. Healing Wish allows a teammate of Jirachi that can sweep late-game, such as Mega Charizard X or Mega Pinsir, punch holes early-game and proceed to clean up later once its health has been restored. Iron Head should mainly be used against threats that take heavy damage from the move that could potentially pose a threat to the rest of Jirachi's team, such as Tyranitar, Tapu Bulu, and Mamoswine.",
+            "moves": [
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Iron Head"
+                ],
+                [
+                    "U-turn"
+                ],
+                [
+                    "Healing Wish"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Serene Grace"
+            ],
+            "nature": [
+                "Careful"
+            ],
+            "ev spread": [
+                248,
+                0,
+                0,
+                0,
+                188,
+                72
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Heatran",
+        "Water-types",
+        "Ground-types",
+        "Dark-types",
+        "Fire-types",
+        "Residual Damage"
+    ],
+    "credits": [
+        "Written by DKM, Hilomilo,  and Martin",
+        "Quality checked by Gary, dk, Subject 18, ABR, Finchinator, Leo, Lyd, LL,  and Talah",
+        "Grammar checked by The Dutch Plumberjack, frenzyplant, lotiasite, martha,  and talkingtree"
+    ]
+}

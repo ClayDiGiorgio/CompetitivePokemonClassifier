@@ -1,1 +1,100 @@
-{"name": "Shellos", "forms": {"Base": {"base stats": [76, 48, 48, 57, 62, 34], "types": ["Water"], "abilities": ["Sand Force", "Sticky Hold", "Storm Drain"], "tier": ["LC"], "form": "Base"}}, "overview": "Shellos holds a unique niche over common bulky Water-types thanks to Sticky Hold, which allows it to permanently hold on to its Eviolite. It has a decent movepool that grants it access to Scald, Earth Power, Yawn, Clear Smog, and, most importantly, Recover. Shellos also has a solid defensive Water typing. However, said typing also means that Shellos will be vulnerable to common Electric- and Grass-types such as Chinchou, Magnemite, and Foongus. All of Shellos's base stats bar HP are relatively mediocre, meaning it has middling bulk, which allows powerful wallbreakers such as Abra, Snivy, and Rufflet to significantly weaken it, and Shellos's low offensive stats cause it to drain momentum while potentially being used as setup bait.\n", "strategies' format": "LC", "strategies": [{"name": "Defensive", "stats": [245, 118, 181, 150, 185, 105], "type": ["Water"], "usage": "Shellos should be used as a defensive pivot due to its great defensive typing, Eviolite, and decent natural bulk. Switch Shellos in on an anticipated Knock Off from Pokemon such as Mienfoo and Pawniard. Thanks to its bulk, Shellos can also be switched into weak neutral and resisted attacks from Pokemon such as Ponyta, Hippopotas, and Kabuto. Scald is often Shellos's move of choice, since it can cripple many Pokemon, especially physical attackers, with a burn. Keep in mind that using Toxic or Recover may be better at certain times, such as when you anticipate your opponent switching into a bulkier Pokemon such as Slowpoke or Spritzee. Shellos must be kept healthy if it is used to check a specific Pokemon such as Ponyta or Drilbur. Due to Shellos's low Speed, it must be able to take one or two hits before being able to recover. Shellos is easily crippled by status conditions, so you should be careful of switching Shellos into status-inducing moves such as Scald from Water-types like Mareanie, Tirtouga, and Frillish as well as Poison Touch Knock Off from Alolan Grimer.", "moves": [["Scald"], ["Recover"], ["Earth Power", "Ice Beam"], ["Clear Smog", "Toxic"]], "item": [" Eviolite"], "ability": ["Sticky Hold"], "nature": ["Bold"], "ev spread": [228, 0, 132, 0, 100, 4], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Electric-types", "Grass-types", "Setup Sweepers", "Status Conditions", "Taunt", "Wallbreakers"], "credits": ["Written by HotFuzzBall", "Quality checked by Hilomilo, Xayah,  and tahu", "Grammar checked by Fireflame479 and CryoGyro"]}
+{
+    "name": "Shellos",
+    "forms": {
+        "Base": {
+            "base stats": [
+                76,
+                48,
+                48,
+                57,
+                62,
+                34
+            ],
+            "types": [
+                "Water"
+            ],
+            "abilities": [
+                "Sand Force",
+                "Sticky Hold",
+                "Storm Drain"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Shellos holds a unique niche over common bulky Water-types thanks to Sticky Hold, which allows it to permanently hold on to its Eviolite. It has a decent movepool that grants it access to Scald, Earth Power, Yawn, Clear Smog, and, most importantly, Recover. Shellos also has a solid defensive Water typing. However, said typing also means that Shellos will be vulnerable to common Electric- and Grass-types such as Chinchou, Magnemite, and Foongus. All of Shellos's base stats bar HP are relatively mediocre, meaning it has middling bulk, which allows powerful wallbreakers such as Abra, Snivy, and Rufflet to significantly weaken it, and Shellos's low offensive stats cause it to drain momentum while potentially being used as setup bait.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Defensive",
+            "stats": [
+                245,
+                118,
+                181,
+                150,
+                185,
+                105
+            ],
+            "type": [
+                "Water"
+            ],
+            "usage": "Shellos should be used as a defensive pivot due to its great defensive typing, Eviolite, and decent natural bulk. Switch Shellos in on an anticipated Knock Off from Pokemon such as Mienfoo and Pawniard. Thanks to its bulk, Shellos can also be switched into weak neutral and resisted attacks from Pokemon such as Ponyta, Hippopotas, and Kabuto. Scald is often Shellos's move of choice, since it can cripple many Pokemon, especially physical attackers, with a burn. Keep in mind that using Toxic or Recover may be better at certain times, such as when you anticipate your opponent switching into a bulkier Pokemon such as Slowpoke or Spritzee. Shellos must be kept healthy if it is used to check a specific Pokemon such as Ponyta or Drilbur. Due to Shellos's low Speed, it must be able to take one or two hits before being able to recover. Shellos is easily crippled by status conditions, so you should be careful of switching Shellos into status-inducing moves such as Scald from Water-types like Mareanie, Tirtouga, and Frillish as well as Poison Touch Knock Off from Alolan Grimer.",
+            "moves": [
+                [
+                    "Scald"
+                ],
+                [
+                    "Recover"
+                ],
+                [
+                    "Earth Power",
+                    "Ice Beam"
+                ],
+                [
+                    "Clear Smog",
+                    "Toxic"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Sticky Hold"
+            ],
+            "nature": [
+                "Bold"
+            ],
+            "ev spread": [
+                228,
+                0,
+                132,
+                0,
+                100,
+                4
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Electric-types",
+        "Grass-types",
+        "Setup Sweepers",
+        "Status Conditions",
+        "Taunt",
+        "Wallbreakers"
+    ],
+    "credits": [
+        "Written by HotFuzzBall",
+        "Quality checked by Hilomilo, Xayah,  and tahu",
+        "Grammar checked by Fireflame479 and CryoGyro"
+    ]
+}

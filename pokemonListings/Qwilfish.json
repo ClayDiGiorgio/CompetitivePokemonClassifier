@@ -1,1 +1,161 @@
-{"name": "Qwilfish", "forms": {"Base": {"base stats": [65, 95, 85, 55, 55, 85], "types": ["Water", "Poison"], "abilities": ["Intimidate", "Poison Point", "Swift Swim"], "tier": ["PU"], "form": "Base"}}, "overview": "Qwilfish is one of the best Spikes and Toxic Spikes setters in the tier thanks to its decent physical bulk, great defensive typing, and ability Intimidate letting it set entry hazards more easily and blanket check common attackers such as Hitmonchan and Skuntank. It also has access to several other utility options such as Taunt, Destiny Bond, and Thunder Wave, giving it versatility outside of being an entry hazard setter. Qwilfish can also function as a sweeper on rain teams thanks to Swords Dance, a STAB combination only resisted by Jellicent, Gastrodon, and other Qwilfish, and the ability to absorb Toxic Spikes, a great annoyance to rain builds. However, it lacks reliable recovery, leaving it susceptible to chip damage from hazards and from repeatedly switching into Pokemon it has to check, such as Kangaskhan. Qwilfish's special bulk is rather awful, leaving it vulnerable to special attackers such as Swanna and Eelektross. Even with a near-unresisted STAB combination, Qwilfish can be passive at times, as Scald is rather weak coming off of its feeble Special Attack, and even its physical moves don't hit too hard without investment. On its Swords Dance set, it lacks immediate power compared to other sweepers such as Kabutops and usually relies on rain or a boost to break through walls such as Mesprit. Regardless, Qwilfish's immense utility, decent Speed, and offensive presence under rain make it a top pick for many teams.\n", "strategies' format": "PU", "strategies": [{"name": "Utility", "stats": [229, 203, 207, 146, 146, 295], "type": ["Water", "Poison"], "usage": "Qwilfish should be pivoted into physical attackers early- to mid-game and use the weakened enemy as an opportunity to lay Spikes and Toxic Spikes to spread damage throughout the opposing team. Setting hazards should be its main focus early on. Qwilfish can also switch into more passive foes such as Clefairy, shut them down with Taunt, and use the forced switch as a chance to put down its hazards. Taunt should also be used when predicting slower hazard removers such as Skuntank to use Defog. In addition to setting hazards, Qwilfish can also choose to spread status or chip damage with its attacks. Thunder Wave should be used to catch potential switch-ins such as Oricorio-G off guard. Poison Jab can be used in a similar manner as well to surprise Pokemon that resist Water, such as Lanturn and Abomasnow. However, if using Scald, double switching to keep up momentum under certain situations is smart, as it's a very weak move, often inviting Pokemon such as Oricorio-E and Mesprit in for free. Double switching should be reserved for when said foe can wreak havoc on Qwilfish's team, either by sweeping with setup moves such as Calm Mind or by breaking through walls with strong attacks. Be wary of opposing Primeape, as Qwilfish's Intimidate activates its Defiant, giving it potential to tear apart your team. Qwilfish should also be careful around physical setup sweepers such as Lycanroc, as they can KO Qwilfish if they set up as Qwilfish switches in. Since Qwilfish is often tasked with checking a multitude of threats, make sure to keep an eye on its health, sacrificing teammates to get it in if necessary. Double switching into wallbreakers as they come in saves Qwilfish valuable HP in the long run. If Qwilfish has been severely weakened, sacrificing it by switching it into physical attackers is acceptable, as it drops their Attack with Intimidate and possibly racks up Rocky Helmet damage, allowing a teammate to revenge kill or set up on the weakened foe. Qwilfish can also be sent out on a free switch to use Destiny Bond or Explosion. The former can be especially surprising and effective if it has not yet been revealed and is used against a slower foe. Explosion can also be used to block Defog and Rapid Spin from slower foes such as Skuntank while damaging them at the same time. Both can even be used when Qwilfish is still healthy if a foe is particularly dangerous to its team, but doing so effectively throws all of Qwilfish's utility out the window, making it a play only rarely worth considering.", "moves": [["Spikes"], ["Scald", "Waterfall"], ["Taunt"], ["Toxic Spikes", "Destiny Bond", "Poison Jab"]], "item": [" Rocky Helmet", " Black Sludge"], "ability": ["Intimidate"], "nature": ["Timid", "Jolly"], "ev spread": [252, 0, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Rain Sweeper", "stats": [166, 317, 207, 131, 146, 269], "type": ["Water", "Poison"], "usage": "It is highly preferred that Qwilfish be brought in while rain is up, as it boosts both its Speed thanks to Swift Swim and the power of Waterfall, making it far more threatening than it would be otherwise. Qwilfish should be brought in via a slow U-turn from a Pokemon such as Volbeat or after a teammate has been KOed, as Qwilfish's bulk is unremarkable without Intimidate or any sort of defensive investment. Qwilfish can also switch in on weaker attacks, such as a predicted Mach Punch from Hitmonchan. Thanks to Qwilfish's Poison typing, it can be switched in to absorb Toxic Spikes, so if they are up, switching Qwilfish in once given the opportunity can stop them from getting out of hand. Early-game, Qwilfish can be used as a wallbreaker to pave the road for a late-game sweep for a teammate. Alternatively, if the opponent has defensive answers such as Mesprit or their own Qwilfish, partners such as Ludicolo can be brought out first to weaken the team for Qwilfish later on. Swords Dance should be set up either on passive foes such as Clefairy or on forced switches against Pokemon such as Primeape. However, a Swords Dance boost may not always be necessary, as Qwilfish's STAB attacks hit almost the entire tier for neutral damage, and it hits hard with its decent Attack stat and rain-boosted Waterfalls. This is especially true for offensive teams, which usually possess little bulk. Using Explosion versus bulkier foes such as Lanturn when Qwilfish's health is getting low, or any foe for that matter, nets massive damage and restores the momentum in your favor, giving you the opportunity to get another sweeper such as Ludicolo onto the field for free. As Qwilfish is the fastest relevant rain sweeper, it makes for a good revenge killer against faster threats such as Choice Scarf Manectric once it gets a free switch in.", "moves": [["Swords Dance"], ["Waterfall", "Liquidation"], ["Poison Jab"], ["Explosion"]], "item": [" Life Orb", " Waterium Z"], "ability": ["Swift Swim"], "nature": ["Adamant"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Electric-types", "Psychic-types", "Special Attackers", "Entry Hazard Removal", "Taunt"], "credits": ["Written by Darkinium", "Quality checked by allstarapology, jklioe,  and UberSkitty", "Grammar checked by The Dutch Plumberjack and A Cake Wearing A Hat"]}
+{
+    "name": "Qwilfish",
+    "forms": {
+        "Base": {
+            "base stats": [
+                65,
+                95,
+                85,
+                55,
+                55,
+                85
+            ],
+            "types": [
+                "Water",
+                "Poison"
+            ],
+            "abilities": [
+                "Intimidate",
+                "Poison Point",
+                "Swift Swim"
+            ],
+            "tier": [
+                "PU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Qwilfish is one of the best Spikes and Toxic Spikes setters in the tier thanks to its decent physical bulk, great defensive typing, and ability Intimidate letting it set entry hazards more easily and blanket check common attackers such as Hitmonchan and Skuntank. It also has access to several other utility options such as Taunt, Destiny Bond, and Thunder Wave, giving it versatility outside of being an entry hazard setter. Qwilfish can also function as a sweeper on rain teams thanks to Swords Dance, a STAB combination only resisted by Jellicent, Gastrodon, and other Qwilfish, and the ability to absorb Toxic Spikes, a great annoyance to rain builds. However, it lacks reliable recovery, leaving it susceptible to chip damage from hazards and from repeatedly switching into Pokemon it has to check, such as Kangaskhan. Qwilfish's special bulk is rather awful, leaving it vulnerable to special attackers such as Swanna and Eelektross. Even with a near-unresisted STAB combination, Qwilfish can be passive at times, as Scald is rather weak coming off of its feeble Special Attack, and even its physical moves don't hit too hard without investment. On its Swords Dance set, it lacks immediate power compared to other sweepers such as Kabutops and usually relies on rain or a boost to break through walls such as Mesprit. Regardless, Qwilfish's immense utility, decent Speed, and offensive presence under rain make it a top pick for many teams.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Utility",
+            "stats": [
+                229,
+                203,
+                207,
+                146,
+                146,
+                295
+            ],
+            "type": [
+                "Water",
+                "Poison"
+            ],
+            "usage": "Qwilfish should be pivoted into physical attackers early- to mid-game and use the weakened enemy as an opportunity to lay Spikes and Toxic Spikes to spread damage throughout the opposing team. Setting hazards should be its main focus early on. Qwilfish can also switch into more passive foes such as Clefairy, shut them down with Taunt, and use the forced switch as a chance to put down its hazards. Taunt should also be used when predicting slower hazard removers such as Skuntank to use Defog. In addition to setting hazards, Qwilfish can also choose to spread status or chip damage with its attacks. Thunder Wave should be used to catch potential switch-ins such as Oricorio-G off guard. Poison Jab can be used in a similar manner as well to surprise Pokemon that resist Water, such as Lanturn and Abomasnow. However, if using Scald, double switching to keep up momentum under certain situations is smart, as it's a very weak move, often inviting Pokemon such as Oricorio-E and Mesprit in for free. Double switching should be reserved for when said foe can wreak havoc on Qwilfish's team, either by sweeping with setup moves such as Calm Mind or by breaking through walls with strong attacks. Be wary of opposing Primeape, as Qwilfish's Intimidate activates its Defiant, giving it potential to tear apart your team. Qwilfish should also be careful around physical setup sweepers such as Lycanroc, as they can KO Qwilfish if they set up as Qwilfish switches in. Since Qwilfish is often tasked with checking a multitude of threats, make sure to keep an eye on its health, sacrificing teammates to get it in if necessary. Double switching into wallbreakers as they come in saves Qwilfish valuable HP in the long run. If Qwilfish has been severely weakened, sacrificing it by switching it into physical attackers is acceptable, as it drops their Attack with Intimidate and possibly racks up Rocky Helmet damage, allowing a teammate to revenge kill or set up on the weakened foe. Qwilfish can also be sent out on a free switch to use Destiny Bond or Explosion. The former can be especially surprising and effective if it has not yet been revealed and is used against a slower foe. Explosion can also be used to block Defog and Rapid Spin from slower foes such as Skuntank while damaging them at the same time. Both can even be used when Qwilfish is still healthy if a foe is particularly dangerous to its team, but doing so effectively throws all of Qwilfish's utility out the window, making it a play only rarely worth considering.",
+            "moves": [
+                [
+                    "Spikes"
+                ],
+                [
+                    "Scald",
+                    "Waterfall"
+                ],
+                [
+                    "Taunt"
+                ],
+                [
+                    "Toxic Spikes",
+                    "Destiny Bond",
+                    "Poison Jab"
+                ]
+            ],
+            "item": [
+                " Rocky Helmet",
+                " Black Sludge"
+            ],
+            "ability": [
+                "Intimidate"
+            ],
+            "nature": [
+                "Timid",
+                "Jolly"
+            ],
+            "ev spread": [
+                252,
+                0,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Rain Sweeper",
+            "stats": [
+                166,
+                317,
+                207,
+                131,
+                146,
+                269
+            ],
+            "type": [
+                "Water",
+                "Poison"
+            ],
+            "usage": "It is highly preferred that Qwilfish be brought in while rain is up, as it boosts both its Speed thanks to Swift Swim and the power of Waterfall, making it far more threatening than it would be otherwise. Qwilfish should be brought in via a slow U-turn from a Pokemon such as Volbeat or after a teammate has been KOed, as Qwilfish's bulk is unremarkable without Intimidate or any sort of defensive investment. Qwilfish can also switch in on weaker attacks, such as a predicted Mach Punch from Hitmonchan. Thanks to Qwilfish's Poison typing, it can be switched in to absorb Toxic Spikes, so if they are up, switching Qwilfish in once given the opportunity can stop them from getting out of hand. Early-game, Qwilfish can be used as a wallbreaker to pave the road for a late-game sweep for a teammate. Alternatively, if the opponent has defensive answers such as Mesprit or their own Qwilfish, partners such as Ludicolo can be brought out first to weaken the team for Qwilfish later on. Swords Dance should be set up either on passive foes such as Clefairy or on forced switches against Pokemon such as Primeape. However, a Swords Dance boost may not always be necessary, as Qwilfish's STAB attacks hit almost the entire tier for neutral damage, and it hits hard with its decent Attack stat and rain-boosted Waterfalls. This is especially true for offensive teams, which usually possess little bulk. Using Explosion versus bulkier foes such as Lanturn when Qwilfish's health is getting low, or any foe for that matter, nets massive damage and restores the momentum in your favor, giving you the opportunity to get another sweeper such as Ludicolo onto the field for free. As Qwilfish is the fastest relevant rain sweeper, it makes for a good revenge killer against faster threats such as Choice Scarf Manectric once it gets a free switch in.",
+            "moves": [
+                [
+                    "Swords Dance"
+                ],
+                [
+                    "Waterfall",
+                    "Liquidation"
+                ],
+                [
+                    "Poison Jab"
+                ],
+                [
+                    "Explosion"
+                ]
+            ],
+            "item": [
+                " Life Orb",
+                " Waterium Z"
+            ],
+            "ability": [
+                "Swift Swim"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Electric-types",
+        "Psychic-types",
+        "Special Attackers",
+        "Entry Hazard Removal",
+        "Taunt"
+    ],
+    "credits": [
+        "Written by Darkinium",
+        "Quality checked by allstarapology, jklioe,  and UberSkitty",
+        "Grammar checked by The Dutch Plumberjack and A Cake Wearing A Hat"
+    ]
+}

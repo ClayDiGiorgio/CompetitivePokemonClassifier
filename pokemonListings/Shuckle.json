@@ -1,1 +1,100 @@
-{"name": "Shuckle", "forms": {"Base": {"base stats": [20, 10, 230, 10, 230, 5], "types": ["Bug", "Rock"], "abilities": ["Contrary", "Gluttony", "Sturdy"], "tier": ["Untiered"], "form": "Base"}}, "overview": "Shuckle's great bulk and access to Stealth Rock give it a niche over other Sticky Web setters. The rest of its movepool furthers this, with good support moves such as Encore, Knock Off, and Infestation. Shuckle's amazing base 230 defenses and tolerable Bug / Rock typing give it a good amount of longevity, allowing it to more easily set up entry hazards and not always serve simply as a suicide lead. It also lets Shuckle perform well on both hyper and bulky offensive teams. However, the rest of its stats are utterly atrocious, with absolutely no offensive presence, the lowest base Speed in the game, and a low HP stat that its defenses do not appreciate. Furthermore, it faces a good amount of competition from other Sticky Web setters, such as Smeargle and Leavanny. On top of their much higher Speed stats, Smeargle has a better support movepool with access to moves such as Spore and Taunt to give it an easier matchup against slower foes and Nuzzle to cripple faster foes. Leavanny provides an offensive presence that threatens entry hazard removers such as Skuntank and has support moves of its own such as Magic Coat, which helps against opposing leads and Taunt users. Despite this, Shuckle maintains its niche with its much better bulk, which allows it to set both hazards more reliably than Smeargle, and its access to Stealth Rock, unlike Leavanny, which allows it to also pressure bulkier teams that do not mind Sticky Web. Shuckle's bulk and access to Sturdy also allow it to hold a Mental Herb, although the item can only be used once. However, this makes it less reliant on predictions through moves such as Spore and Magic Coat to get up hazards against Taunt users like Pyroar and Alolan Persian.\n", "strategies' format": "PU", "strategies": [{"name": "Sticky Web Setter", "stats": [138, 50, 498, 56, 614, 46], "type": ["Bug", "Rock"], "usage": "Shuckle is a dedicated lead, so it should be sent out first to get up its entry hazards as soon as possible. Against opposing balance and offense, its primary goal should be to set up Sticky Web before Stealth Rock, as its teammates will often benefit from the foes' Speed drops. However, if facing a more defensive team, Stealth Rock should be your priority, as bulky Pokemon care little about Sticky Web's Speed decrease. Shuckle can be used as an outright suicide lead if you do not fear the opponent's hazard removal. In this case, if it manages to set up both hazards, it should use its remaining turns to utilize its support moves like Toxic and Knock Off to cripple the opposing team as much as it can. On bulky offense teams, after setting up hazards, Shuckle can be withdrawn and saved for later to reset the hazards if need be, utilize its support moves, check certain threats, or simply be used as death fodder. A similar strategy can be used if Shuckle is matched up against a Pokemon such as Kingler, as due to the predictability of leading Shuckle, the opponent may try to lead with a Pokemon that has a good matchup against it. Another option in such situations is to not lead with Shuckle but instead lead with a Pokemon that has a better matchup while saving Shuckle for a later opportunity to switch in and set up the hazards. If the opponent leads with a Pokemon that can potentially set up, like Calm Mind or Stealth Rock Clefairy or Shell Smash Carracosta, Encore is an option to go for first turn. Shuckle can use the locked foe as a chance to set up its hazards, or even disable them from switching with Infestation. This can also be used as an opportunity for Shuckle to switch into a more offensive teammate. However, be wary that the opponent may just switch out for a better matchup, making Encore fail altogether. Finally, Shuckle can help against Trick Room and weather teams, as it can utilize its low Speed to Encore the opposing lead into moves like Rain Dance and Stealth Rock, and even trap them with Infestation to waste turns. Weather teams also do not appreciate Sticky Web.", "moves": [["Sticky Web"], ["Stealth Rock"], ["Encore"], ["Toxic", "Knock Off", "Infestation"]], "item": [" Mental Herb"], "ability": ["Sturdy"], "nature": ["Calm"], "ev spread": [248, 0, 8, 0, 252, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Taunt Users", "Entry Hazard Removers", "Z-Move Setup Sweepers", "Strong Attackers"], "credits": ["Written by UberSkitty", "Quality checked by yogi, Megazard,  and jklioe", "Grammar checked by A Cake Wearing A Hat and The Dutch Plumberjack"]}
+{
+    "name": "Shuckle",
+    "forms": {
+        "Base": {
+            "base stats": [
+                20,
+                10,
+                230,
+                10,
+                230,
+                5
+            ],
+            "types": [
+                "Bug",
+                "Rock"
+            ],
+            "abilities": [
+                "Contrary",
+                "Gluttony",
+                "Sturdy"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Shuckle's great bulk and access to Stealth Rock give it a niche over other Sticky Web setters. The rest of its movepool furthers this, with good support moves such as Encore, Knock Off, and Infestation. Shuckle's amazing base 230 defenses and tolerable Bug / Rock typing give it a good amount of longevity, allowing it to more easily set up entry hazards and not always serve simply as a suicide lead. It also lets Shuckle perform well on both hyper and bulky offensive teams. However, the rest of its stats are utterly atrocious, with absolutely no offensive presence, the lowest base Speed in the game, and a low HP stat that its defenses do not appreciate. Furthermore, it faces a good amount of competition from other Sticky Web setters, such as Smeargle and Leavanny. On top of their much higher Speed stats, Smeargle has a better support movepool with access to moves such as Spore and Taunt to give it an easier matchup against slower foes and Nuzzle to cripple faster foes. Leavanny provides an offensive presence that threatens entry hazard removers such as Skuntank and has support moves of its own such as Magic Coat, which helps against opposing leads and Taunt users. Despite this, Shuckle maintains its niche with its much better bulk, which allows it to set both hazards more reliably than Smeargle, and its access to Stealth Rock, unlike Leavanny, which allows it to also pressure bulkier teams that do not mind Sticky Web. Shuckle's bulk and access to Sturdy also allow it to hold a Mental Herb, although the item can only be used once. However, this makes it less reliant on predictions through moves such as Spore and Magic Coat to get up hazards against Taunt users like Pyroar and Alolan Persian.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Sticky Web Setter",
+            "stats": [
+                138,
+                50,
+                498,
+                56,
+                614,
+                46
+            ],
+            "type": [
+                "Bug",
+                "Rock"
+            ],
+            "usage": "Shuckle is a dedicated lead, so it should be sent out first to get up its entry hazards as soon as possible. Against opposing balance and offense, its primary goal should be to set up Sticky Web before Stealth Rock, as its teammates will often benefit from the foes' Speed drops. However, if facing a more defensive team, Stealth Rock should be your priority, as bulky Pokemon care little about Sticky Web's Speed decrease. Shuckle can be used as an outright suicide lead if you do not fear the opponent's hazard removal. In this case, if it manages to set up both hazards, it should use its remaining turns to utilize its support moves like Toxic and Knock Off to cripple the opposing team as much as it can. On bulky offense teams, after setting up hazards, Shuckle can be withdrawn and saved for later to reset the hazards if need be, utilize its support moves, check certain threats, or simply be used as death fodder. A similar strategy can be used if Shuckle is matched up against a Pokemon such as Kingler, as due to the predictability of leading Shuckle, the opponent may try to lead with a Pokemon that has a good matchup against it. Another option in such situations is to not lead with Shuckle but instead lead with a Pokemon that has a better matchup while saving Shuckle for a later opportunity to switch in and set up the hazards. If the opponent leads with a Pokemon that can potentially set up, like Calm Mind or Stealth Rock Clefairy or Shell Smash Carracosta, Encore is an option to go for first turn. Shuckle can use the locked foe as a chance to set up its hazards, or even disable them from switching with Infestation. This can also be used as an opportunity for Shuckle to switch into a more offensive teammate. However, be wary that the opponent may just switch out for a better matchup, making Encore fail altogether. Finally, Shuckle can help against Trick Room and weather teams, as it can utilize its low Speed to Encore the opposing lead into moves like Rain Dance and Stealth Rock, and even trap them with Infestation to waste turns. Weather teams also do not appreciate Sticky Web.",
+            "moves": [
+                [
+                    "Sticky Web"
+                ],
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Encore"
+                ],
+                [
+                    "Toxic",
+                    "Knock Off",
+                    "Infestation"
+                ]
+            ],
+            "item": [
+                " Mental Herb"
+            ],
+            "ability": [
+                "Sturdy"
+            ],
+            "nature": [
+                "Calm"
+            ],
+            "ev spread": [
+                248,
+                0,
+                8,
+                0,
+                252,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Taunt Users",
+        "Entry Hazard Removers",
+        "Z-Move Setup Sweepers",
+        "Strong Attackers"
+    ],
+    "credits": [
+        "Written by UberSkitty",
+        "Quality checked by yogi, Megazard,  and jklioe",
+        "Grammar checked by A Cake Wearing A Hat and The Dutch Plumberjack"
+    ]
+}

@@ -1,1 +1,97 @@
-{"name": "Togepi", "forms": {"Base": {"base stats": [35, 20, 65, 40, 65, 20], "types": ["Fairy"], "abilities": ["Hustle", "Serene Grace", "Super Luck"], "tier": ["LC"], "form": "Base"}}, "overview": "Togepi has a small yet useful niche in LC as one of the tier's bulkiest Pokemon with access to Nasty Plot and Baton Pass. This allows Togepi to easily support teammates by supplying them with large boosts in Special Attack. A great defensive typing in pure Fairy allows Togepi to further secure its niche, providing it with key resistances to common attack types in Dark, Fighting, and Bug. Togepi can also pose a decent offensive threat once boosted, thanks to its workable Special Attack and diverse special movepool. Unfortunately, it faces severe competition as a defensive Fairy-type from the likes of Spritzee and Snubbull, which have better bulk, offensive presences, and overall utility. This severely limits Togepi's ability to fit on a very wide variety of teams and also makes it very predictable.\n", "strategies' format": "LC", "strategies": [{"name": "NastyPass", "stats": [165, 68, 225, 116, 185, 85], "type": ["Fairy"], "usage": "Thanks to Togepi's good bulk, it can be switched into Fighting-types without Poison-type coverage fairly easily. From there, Togepi should begin setting up with Nasty Plot, and if possible, it can attempt wearing the opposing team down with Dazzling Gleam and Fire Blast before passing its boosts to a teammate. Togepi should look to use Baton Pass on the same turn in which it will likely tank an attack from a foe, as afterward it will be too low on health and slow to pass any boosts, and this also means that a teammate won't take any damage in having boosts passed to them. It should also try passing its boosts upon predicting switches to Steel- and Poison-types, as it will otherwise be forced out and thus waste its boosts. Togepi's Baton Pass is mainly utilized to pass Nasty Plot boosts, but also comes with the additional benefit of bringing teammates in safely due to Togepi's low Speed, which minimizes their chances of being hit with powerful attacks.", "moves": [["Nasty Plot"], ["Baton Pass"], ["Dazzling Gleam"], ["Fire Blast"]], "item": [" Eviolite", " Berry Juice"], "ability": ["Serene Grace"], "nature": ["Bold"], "ev spread": [236, 0, 156, 0, 76, 36], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Poison-types", "Steel-types", "Taunt", "Phazers"], "credits": ["Written by Hilomilo", "Quality checked by Berks, Xayah,  and Nineage", "Grammar checked by The Dutch Plumberjack and martha"]}
+{
+    "name": "Togepi",
+    "forms": {
+        "Base": {
+            "base stats": [
+                35,
+                20,
+                65,
+                40,
+                65,
+                20
+            ],
+            "types": [
+                "Fairy"
+            ],
+            "abilities": [
+                "Hustle",
+                "Serene Grace",
+                "Super Luck"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Togepi has a small yet useful niche in LC as one of the tier's bulkiest Pokemon with access to Nasty Plot and Baton Pass. This allows Togepi to easily support teammates by supplying them with large boosts in Special Attack. A great defensive typing in pure Fairy allows Togepi to further secure its niche, providing it with key resistances to common attack types in Dark, Fighting, and Bug. Togepi can also pose a decent offensive threat once boosted, thanks to its workable Special Attack and diverse special movepool. Unfortunately, it faces severe competition as a defensive Fairy-type from the likes of Spritzee and Snubbull, which have better bulk, offensive presences, and overall utility. This severely limits Togepi's ability to fit on a very wide variety of teams and also makes it very predictable.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "NastyPass",
+            "stats": [
+                165,
+                68,
+                225,
+                116,
+                185,
+                85
+            ],
+            "type": [
+                "Fairy"
+            ],
+            "usage": "Thanks to Togepi's good bulk, it can be switched into Fighting-types without Poison-type coverage fairly easily. From there, Togepi should begin setting up with Nasty Plot, and if possible, it can attempt wearing the opposing team down with Dazzling Gleam and Fire Blast before passing its boosts to a teammate. Togepi should look to use Baton Pass on the same turn in which it will likely tank an attack from a foe, as afterward it will be too low on health and slow to pass any boosts, and this also means that a teammate won't take any damage in having boosts passed to them. It should also try passing its boosts upon predicting switches to Steel- and Poison-types, as it will otherwise be forced out and thus waste its boosts. Togepi's Baton Pass is mainly utilized to pass Nasty Plot boosts, but also comes with the additional benefit of bringing teammates in safely due to Togepi's low Speed, which minimizes their chances of being hit with powerful attacks.",
+            "moves": [
+                [
+                    "Nasty Plot"
+                ],
+                [
+                    "Baton Pass"
+                ],
+                [
+                    "Dazzling Gleam"
+                ],
+                [
+                    "Fire Blast"
+                ]
+            ],
+            "item": [
+                " Eviolite",
+                " Berry Juice"
+            ],
+            "ability": [
+                "Serene Grace"
+            ],
+            "nature": [
+                "Bold"
+            ],
+            "ev spread": [
+                236,
+                0,
+                156,
+                0,
+                76,
+                36
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Poison-types",
+        "Steel-types",
+        "Taunt",
+        "Phazers"
+    ],
+    "credits": [
+        "Written by Hilomilo",
+        "Quality checked by Berks, Xayah,  and Nineage",
+        "Grammar checked by The Dutch Plumberjack and martha"
+    ]
+}

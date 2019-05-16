@@ -1,1 +1,150 @@
-{"name": "Magby", "forms": {"Base": {"base stats": [45, 75, 37, 70, 55, 83], "types": ["Fire"], "abilities": ["Flame Body", "Vital Spirit"], "tier": ["LC"], "form": "Base"}}, "overview": "Magby is a great offensive threat due to many good traits. Thanks to Magby's excellent Speed tier, it outspeeds threats such as Gastly and Doduo. Magby's great attacking stats let it hit most of the metagame hard. It also has a decent movepool, with priority in the form of Mach Punch, reliable STAB attacks such as Fire Punch, and Belly Drum to help it sweep. Thanks to Vital Spirit, it is immune to sleep-inducing moves such as Foongus's Spore. Unfortunately, Magby is super frail and weak to Stealth Rock, causing it to get worn down quickly. It also faces competition from several offensive Fire-types, such as Ponyta, Houndour, and Larvesta, and it also has trouble setting up due to its frailty.\n", "strategies' format": "LC", "strategies": [{"name": "Belly Drum", "stats": [124, 245, 110, 158, 146, 291], "type": ["Fire"], "usage": "Never switch Magby in on attacks, as Magby will usually faint, or come close to fainting and use its Berry Juice early. It should be brought in through the use of a slow U-turn or Volt Switch against Pokemon that can't threaten it, such as Spritzee or Foongus. This gives Magby setup opportunities. It is best to wear down all Pokemon before setting up. Use Belly Drum when opposing Magby counters such as Chinchou or Onix are weakened or defeated, which will let Magby have an easier time sweeping.", "moves": [["Belly Drum"], ["Fire Punch"], ["Mach Punch"], ["Return", "Thunder Punch"]], "item": [" Berry Juice"], "ability": ["Vital Spirit"], "nature": ["Jolly"], "ev spread": [0, 236, 0, 0, 0, 252], "iv spread": [29, 31, 31, 31, 31, 31]}, {"name": "Life Orb", "stats": [95, 245, 110, 158, 146, 291], "type": ["Fire"], "usage": "Magby will usually be spamming Flare Blitz, as it is by far Magby's most powerful attack. Be careful, though, as the recoil plus Life Orb damage wears Magby down very quickly. Don't switch Magby in on attacks, as it will usually take a large amount of damage. It should be brought in through the use of a slow U-turn or Volt Switch against Pokemon that can't do much to it, such as Spritzee. You should try to predict Magby's switch-ins and target them with super effective coverage moves.", "moves": [["Flare Blitz"], ["Cross Chop"], ["Mach Punch"], ["Return", "Thunder Punch"]], "item": [" Life Orb"], "ability": ["Vital Spirit"], "nature": ["Jolly"], "ev spread": [0, 236, 0, 0, 0, 252], "iv spread": [0, 31, 31, 31, 31, 31]}], "counters": ["Sturdy Users", "Water-type Pokemon", "Faster Pokemon"], "credits": ["Written by woofmasterarf", "Quality checked by Fiend, Nineage,  and Hilomilo", "Grammar checked by Fireflame479 and GatoDelFuego"]}
+{
+    "name": "Magby",
+    "forms": {
+        "Base": {
+            "base stats": [
+                45,
+                75,
+                37,
+                70,
+                55,
+                83
+            ],
+            "types": [
+                "Fire"
+            ],
+            "abilities": [
+                "Flame Body",
+                "Vital Spirit"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Magby is a great offensive threat due to many good traits. Thanks to Magby's excellent Speed tier, it outspeeds threats such as Gastly and Doduo. Magby's great attacking stats let it hit most of the metagame hard. It also has a decent movepool, with priority in the form of Mach Punch, reliable STAB attacks such as Fire Punch, and Belly Drum to help it sweep. Thanks to Vital Spirit, it is immune to sleep-inducing moves such as Foongus's Spore. Unfortunately, Magby is super frail and weak to Stealth Rock, causing it to get worn down quickly. It also faces competition from several offensive Fire-types, such as Ponyta, Houndour, and Larvesta, and it also has trouble setting up due to its frailty.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Belly Drum",
+            "stats": [
+                124,
+                245,
+                110,
+                158,
+                146,
+                291
+            ],
+            "type": [
+                "Fire"
+            ],
+            "usage": "Never switch Magby in on attacks, as Magby will usually faint, or come close to fainting and use its Berry Juice early. It should be brought in through the use of a slow U-turn or Volt Switch against Pokemon that can't threaten it, such as Spritzee or Foongus. This gives Magby setup opportunities. It is best to wear down all Pokemon before setting up. Use Belly Drum when opposing Magby counters such as Chinchou or Onix are weakened or defeated, which will let Magby have an easier time sweeping.",
+            "moves": [
+                [
+                    "Belly Drum"
+                ],
+                [
+                    "Fire Punch"
+                ],
+                [
+                    "Mach Punch"
+                ],
+                [
+                    "Return",
+                    "Thunder Punch"
+                ]
+            ],
+            "item": [
+                " Berry Juice"
+            ],
+            "ability": [
+                "Vital Spirit"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                236,
+                0,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                29,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Life Orb",
+            "stats": [
+                95,
+                245,
+                110,
+                158,
+                146,
+                291
+            ],
+            "type": [
+                "Fire"
+            ],
+            "usage": "Magby will usually be spamming Flare Blitz, as it is by far Magby's most powerful attack. Be careful, though, as the recoil plus Life Orb damage wears Magby down very quickly. Don't switch Magby in on attacks, as it will usually take a large amount of damage. It should be brought in through the use of a slow U-turn or Volt Switch against Pokemon that can't do much to it, such as Spritzee. You should try to predict Magby's switch-ins and target them with super effective coverage moves.",
+            "moves": [
+                [
+                    "Flare Blitz"
+                ],
+                [
+                    "Cross Chop"
+                ],
+                [
+                    "Mach Punch"
+                ],
+                [
+                    "Return",
+                    "Thunder Punch"
+                ]
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Vital Spirit"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                236,
+                0,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                0,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Sturdy Users",
+        "Water-type Pokemon",
+        "Faster Pokemon"
+    ],
+    "credits": [
+        "Written by woofmasterarf",
+        "Quality checked by Fiend, Nineage,  and Hilomilo",
+        "Grammar checked by Fireflame479 and GatoDelFuego"
+    ]
+}

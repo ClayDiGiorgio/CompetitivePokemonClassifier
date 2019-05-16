@@ -1,1 +1,95 @@
-{"name": "Avalugg", "forms": {"Base": {"base stats": [95, 117, 184, 44, 46, 28], "types": ["Ice"], "abilities": ["Ice Body", "Own Tempo", "Sturdy"], "tier": ["Untiered"], "form": "Base"}}, "overview": "Avalugg is a niche pick as a physical wall for bulkier archetypes such as stall. Its massive physical bulk allows it to stomach hits from pretty much any physical attacker that lacks super effective coverage to hit it, including physically oriented Gliscor, Mega Pinsir, and Mega Mawile lacking Iron Head. Rapid Spin also enables it to be a situational entry hazard remover, as it can switch into setters such as Landorus-T and Mega Swampert and spin their Stealth Rock away while they're forced out. Furthermore, Sturdy allows it to act as a last resort if Avalugg is at full health and a certain wallbreaker runs out of control, enabling it to tank a hit and fire back with a decently powerful Avalanche. Nonetheless, its defensive typing is possibly one of the worst in the game, allowing many physical attackers, such as Swords Dance Kartana, Swords Dance Mega Scizor, Tyranitar, and Mega Medicham, to overcome Avalugg without much struggle. Said typing also leaves it prone to being worn down by hazards, mostly Stealth Rock and Toxic Spikes. Avalugg's Special Defense is also very lackluster, leaving pretty much any special attacker able to break through it.\n", "strategies' format": "OU", "strategies": [{"name": "Physical Wall", "stats": [289, 292, 490, 111, 128, 92], "type": ["Ice"], "usage": "Avalugg acts as a switch-in for some physical attackers such as Gliscor, Mega Pinsir, and certain Mega Mawile sets. However, watch out for entry hazards when switching it in, as the likes of Stealth Rock and Toxic Spikes can wear it down quickly. Avalugg should also be switched into Stealth Rock setters it can beat, such as Landorus-T and Mega Swampert, removing their hazards while not getting damaged by them. If a wallbreaker is a threat to Avalugg's team and it can be taken down by a 120-Base Power-Avalanche, it might be smart to keep Avalugg at full HP for it to be able to make use of its Sturdy ability and act as a last-resort-countermeasure against said wallbreaker. The likes of Tapu Lele, Hoopa-U, and Kartana take a considerable amount of damage from Avalanche and thus can be taken down by the aforementioned method after some slight prior damage.", "moves": [["Avalanche"], ["Recover"], ["Rapid Spin"], ["Earthquake"]], "item": [" Rocky Helmet"], "ability": ["Sturdy"], "nature": ["Impish"], "ev spread": [252, 88, 168, 0, 0, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Special Attackers", "Super Effective Coverage", "Residual Damage"], "credits": ["Written by lyd", "Quality checked by ABR, Leo,  and GMars", "Grammar checked by The Dutch Plumberjack and Fireflame479"]}
+{
+    "name": "Avalugg",
+    "forms": {
+        "Base": {
+            "base stats": [
+                95,
+                117,
+                184,
+                44,
+                46,
+                28
+            ],
+            "types": [
+                "Ice"
+            ],
+            "abilities": [
+                "Ice Body",
+                "Own Tempo",
+                "Sturdy"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Avalugg is a niche pick as a physical wall for bulkier archetypes such as stall. Its massive physical bulk allows it to stomach hits from pretty much any physical attacker that lacks super effective coverage to hit it, including physically oriented Gliscor, Mega Pinsir, and Mega Mawile lacking Iron Head. Rapid Spin also enables it to be a situational entry hazard remover, as it can switch into setters such as Landorus-T and Mega Swampert and spin their Stealth Rock away while they're forced out. Furthermore, Sturdy allows it to act as a last resort if Avalugg is at full health and a certain wallbreaker runs out of control, enabling it to tank a hit and fire back with a decently powerful Avalanche. Nonetheless, its defensive typing is possibly one of the worst in the game, allowing many physical attackers, such as Swords Dance Kartana, Swords Dance Mega Scizor, Tyranitar, and Mega Medicham, to overcome Avalugg without much struggle. Said typing also leaves it prone to being worn down by hazards, mostly Stealth Rock and Toxic Spikes. Avalugg's Special Defense is also very lackluster, leaving pretty much any special attacker able to break through it.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Physical Wall",
+            "stats": [
+                289,
+                292,
+                490,
+                111,
+                128,
+                92
+            ],
+            "type": [
+                "Ice"
+            ],
+            "usage": "Avalugg acts as a switch-in for some physical attackers such as Gliscor, Mega Pinsir, and certain Mega Mawile sets. However, watch out for entry hazards when switching it in, as the likes of Stealth Rock and Toxic Spikes can wear it down quickly. Avalugg should also be switched into Stealth Rock setters it can beat, such as Landorus-T and Mega Swampert, removing their hazards while not getting damaged by them. If a wallbreaker is a threat to Avalugg's team and it can be taken down by a 120-Base Power-Avalanche, it might be smart to keep Avalugg at full HP for it to be able to make use of its Sturdy ability and act as a last-resort-countermeasure against said wallbreaker. The likes of Tapu Lele, Hoopa-U, and Kartana take a considerable amount of damage from Avalanche and thus can be taken down by the aforementioned method after some slight prior damage.",
+            "moves": [
+                [
+                    "Avalanche"
+                ],
+                [
+                    "Recover"
+                ],
+                [
+                    "Rapid Spin"
+                ],
+                [
+                    "Earthquake"
+                ]
+            ],
+            "item": [
+                " Rocky Helmet"
+            ],
+            "ability": [
+                "Sturdy"
+            ],
+            "nature": [
+                "Impish"
+            ],
+            "ev spread": [
+                252,
+                88,
+                168,
+                0,
+                0,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Special Attackers",
+        "Super Effective Coverage",
+        "Residual Damage"
+    ],
+    "credits": [
+        "Written by lyd",
+        "Quality checked by ABR, Leo,  and GMars",
+        "Grammar checked by The Dutch Plumberjack and Fireflame479"
+    ]
+}

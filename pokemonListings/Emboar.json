@@ -1,1 +1,98 @@
-{"name": "Emboar", "forms": {"Base": {"base stats": [110, 123, 65, 100, 65, 65], "types": ["Fire", "Fighting"], "abilities": ["Blaze", "Reckless"], "tier": ["RU"], "form": "Base"}}, "overview": "Despite Emboar's access to Reckless and high Attack stat, it finds itself outclassed by numerous other Fighting- and Fire-type wallbreakers in RU, such as Bewear, Toxicroak, Medicham, and Entei. Emboar's base 65 Speed stat and decent STAB combination mean it is able to outspeed and beat common Fighting- and Fire-type checks such as Cresselia, Florges, Mega Ampharos, Adamant Tyrantrum, Rhyperior, and Milotic. It still falls short of prominent Pokemon such as Jolly Barbaracle, Jolly Tyrantrum, and Gardevoir, though. While Reckless is a great offensive ability, it comes with the downside of wearing down Emboar extremely quickly. Coupled with its relatively low Speed, lackluster bulk, and vulnerability to entry hazards, this often means Emboar won't last long in drawn-out battles against bulkier teams, unlike other wallbreakers with recovery and better defensive presences like Bewear and Toxicroak. Emboar's secondary STAB attack in Superpower also has a drawback in lowering its Attack and Defense stats; the opponent can take advantage of this to force Emboar out or set up on it, which further compounds its vulnerability to entry hazards. Its decent defensive typing allows it to check Pokemon like Escavalier and Honchkrow, although it offers very little defensive presence compared to Bewear, Toxicroak, or Arcanine. While it does have access to priority, Sucker Punch is not very reliable due to how punishable a misplay with it can be. This is further augmented if Emboar is running a Choice Band set.\n", "strategies' format": "RU", "strategies": [{"name": "Wallbreaker", "stats": [256, 345, 167, 212, 166, 251], "type": ["Fire", "Fighting"], "usage": "Flare Blitz is the move Emboar should use most often due to its tremendous power. However, if the opponent has several Fire-resistant Pokemon such as Milotic and Tyrantrum, try to predict the opponent switching into them by hitting them with the appropriate coverage move. Emboar's decent defensive typing lets it check several Pokemon such as Escavalier, Mega Abomasnow, and Sneasel in a pinch. However, due to its lackluster bulk and its tendency to quickly accumulate recoil damage, it is a shaky check to them in the long run. Likewise, due to its dependency on its item to wallbreak, it isn't the greatest Knock Off switch-in despite its resistance to Dark. This can make building with Emboar somewhat awkward. Only use Sucker Punch sparingly, and only use it when you're certain the target will attack; opponents can easily take advantage of an Emboar that is locked into Sucker Punch.", "moves": [["Flare Blitz"], ["Superpower"], ["Wild Charge"], ["Earthquake", "Sucker Punch"]], "item": [" Choice Band"], "ability": ["Reckless"], "nature": ["Jolly"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Offensive Pressure", "Residual Damage", "Bulky Fire-resistant Pokemon", "Faster Attackers"], "credits": ["Written by zizalith", "Quality checked by phantom, MrAldo,  and teachable", "Grammar checked by A Cake Wearing A Hat and The Dutch Plumberjack"]}
+{
+    "name": "Emboar",
+    "forms": {
+        "Base": {
+            "base stats": [
+                110,
+                123,
+                65,
+                100,
+                65,
+                65
+            ],
+            "types": [
+                "Fire",
+                "Fighting"
+            ],
+            "abilities": [
+                "Blaze",
+                "Reckless"
+            ],
+            "tier": [
+                "RU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Despite Emboar's access to Reckless and high Attack stat, it finds itself outclassed by numerous other Fighting- and Fire-type wallbreakers in RU, such as Bewear, Toxicroak, Medicham, and Entei. Emboar's base 65 Speed stat and decent STAB combination mean it is able to outspeed and beat common Fighting- and Fire-type checks such as Cresselia, Florges, Mega Ampharos, Adamant Tyrantrum, Rhyperior, and Milotic. It still falls short of prominent Pokemon such as Jolly Barbaracle, Jolly Tyrantrum, and Gardevoir, though. While Reckless is a great offensive ability, it comes with the downside of wearing down Emboar extremely quickly. Coupled with its relatively low Speed, lackluster bulk, and vulnerability to entry hazards, this often means Emboar won't last long in drawn-out battles against bulkier teams, unlike other wallbreakers with recovery and better defensive presences like Bewear and Toxicroak. Emboar's secondary STAB attack in Superpower also has a drawback in lowering its Attack and Defense stats; the opponent can take advantage of this to force Emboar out or set up on it, which further compounds its vulnerability to entry hazards. Its decent defensive typing allows it to check Pokemon like Escavalier and Honchkrow, although it offers very little defensive presence compared to Bewear, Toxicroak, or Arcanine. While it does have access to priority, Sucker Punch is not very reliable due to how punishable a misplay with it can be. This is further augmented if Emboar is running a Choice Band set.\n",
+    "strategies' format": "RU",
+    "strategies": [
+        {
+            "name": "Wallbreaker",
+            "stats": [
+                256,
+                345,
+                167,
+                212,
+                166,
+                251
+            ],
+            "type": [
+                "Fire",
+                "Fighting"
+            ],
+            "usage": "Flare Blitz is the move Emboar should use most often due to its tremendous power. However, if the opponent has several Fire-resistant Pokemon such as Milotic and Tyrantrum, try to predict the opponent switching into them by hitting them with the appropriate coverage move. Emboar's decent defensive typing lets it check several Pokemon such as Escavalier, Mega Abomasnow, and Sneasel in a pinch. However, due to its lackluster bulk and its tendency to quickly accumulate recoil damage, it is a shaky check to them in the long run. Likewise, due to its dependency on its item to wallbreak, it isn't the greatest Knock Off switch-in despite its resistance to Dark. This can make building with Emboar somewhat awkward. Only use Sucker Punch sparingly, and only use it when you're certain the target will attack; opponents can easily take advantage of an Emboar that is locked into Sucker Punch.",
+            "moves": [
+                [
+                    "Flare Blitz"
+                ],
+                [
+                    "Superpower"
+                ],
+                [
+                    "Wild Charge"
+                ],
+                [
+                    "Earthquake",
+                    "Sucker Punch"
+                ]
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Reckless"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Offensive Pressure",
+        "Residual Damage",
+        "Bulky Fire-resistant Pokemon",
+        "Faster Attackers"
+    ],
+    "credits": [
+        "Written by zizalith",
+        "Quality checked by phantom, MrAldo,  and teachable",
+        "Grammar checked by A Cake Wearing A Hat and The Dutch Plumberjack"
+    ]
+}

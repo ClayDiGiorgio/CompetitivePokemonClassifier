@@ -1,1 +1,32 @@
-{"name": "Kingler", "forms": {"Base": {"base stats": [55, 130, 115, 50, 50, 75], "types": ["Water"], "abilities": ["Hyper Cutter", "Sheer Force", "Shell Armor"], "tier": ["PUBL"], "form": "Base"}}, "overview": "", "strategies' format": "NU", "strategies": [], "counters": [], "credits": []}
+{
+    "name": "Kingler",
+    "forms": {
+        "Base": {
+            "base stats": [
+                55,
+                130,
+                115,
+                50,
+                50,
+                75
+            ],
+            "types": [
+                "Water"
+            ],
+            "abilities": [
+                "Hyper Cutter",
+                "Sheer Force",
+                "Shell Armor"
+            ],
+            "tier": [
+                "PUBL"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "",
+    "strategies' format": "NU",
+    "strategies": [],
+    "counters": [],
+    "credits": []
+}

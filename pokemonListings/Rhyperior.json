@@ -1,1 +1,100 @@
-{"name": "Rhyperior", "forms": {"Base": {"base stats": [115, 140, 130, 55, 55, 40], "types": ["Ground", "Rock"], "abilities": ["Lightning Rod", "Reckless", "Solid Rock"], "tier": ["RU"], "form": "Base"}}, "overview": "Rhyperior possesses a unique niche in the UU metagame, most notably for its ability to reliably set Stealth Rock and check key threats such as Mega Manectric, Rotom-H, and Moltres. Between its ability Solid Rock and ridiculous physical bulk, Rhyperior provides teams with a fantastic tank. One of Rhyperior's primary advantages over other Stealth Rock users is its huge base 140 Attack stat and fantastic coverage between its STAB moves, giving it nice offensive presence to complement its defensive prowess. However, its monstrous physical bulk is offset by its horrible base Special Defense, which requires most of Rhyperior's EV investment in order to shore up. Ground / Rock is also a poor defensive typing, leaving Rhyperior with numerous weaknesses and often forcing it to rely on Solid Rock to stomach the many common super effective hits such as Alomomola's Scald. Rhyperior is vulnerable to Spikes and Toxic Spikes, as they wear it down over time and hinder its longevity. Lastly, Rhyperior faces huge competition from other Ground-type Stealth Rock users like Gligar and Hippowdon, only possessing greater offensive presence and the ability to check opposing Flying-types over those two.\n", "strategies' format": "UU", "strategies": [{"name": "Tank", "stats": [329, 352, 296, 131, 206, 116], "type": ["Ground", "Rock"], "usage": "Switch Rhyperior into on Pokemon it is meant to check such as Mega Manectric and Moltres. Once on the field in a safe position, use Rhyperior to set up Stealth Rock or spread Toxic poison on the opposing team. While Rhyperior can stomach many super effective hits due to Solid Rock, gauge how important its health will be for the remainder of the game and play accordingly. Scout for possible 4x effective coverage moves such as Mega Aerodactyl's Aqua Tail and Nihilego's Grass Knot. Rhyperior is worn down over time by Spikes and Toxic Spikes; clear them with a teammate if given the opportunity.", "moves": [["Stealth Rock"], ["Earthquake"], ["Stone Edge"], ["Toxic"]], "item": [" Leftovers"], "ability": ["Solid Rock"], "nature": ["Adamant"], "ev spread": [252, 16, 0, 0, 240, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Water-types", "Grass-types", "Status", "Bulky Pokemon", "Fighting-types", "Ground-types"], "credits": ["Written by Pak", "Quality checked by Kink, Cynde,  and Eyan", "Grammar checked by A Cake Wearing A Hat and martha"]}
+{
+    "name": "Rhyperior",
+    "forms": {
+        "Base": {
+            "base stats": [
+                115,
+                140,
+                130,
+                55,
+                55,
+                40
+            ],
+            "types": [
+                "Ground",
+                "Rock"
+            ],
+            "abilities": [
+                "Lightning Rod",
+                "Reckless",
+                "Solid Rock"
+            ],
+            "tier": [
+                "RU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Rhyperior possesses a unique niche in the UU metagame, most notably for its ability to reliably set Stealth Rock and check key threats such as Mega Manectric, Rotom-H, and Moltres. Between its ability Solid Rock and ridiculous physical bulk, Rhyperior provides teams with a fantastic tank. One of Rhyperior's primary advantages over other Stealth Rock users is its huge base 140 Attack stat and fantastic coverage between its STAB moves, giving it nice offensive presence to complement its defensive prowess. However, its monstrous physical bulk is offset by its horrible base Special Defense, which requires most of Rhyperior's EV investment in order to shore up. Ground / Rock is also a poor defensive typing, leaving Rhyperior with numerous weaknesses and often forcing it to rely on Solid Rock to stomach the many common super effective hits such as Alomomola's Scald. Rhyperior is vulnerable to Spikes and Toxic Spikes, as they wear it down over time and hinder its longevity. Lastly, Rhyperior faces huge competition from other Ground-type Stealth Rock users like Gligar and Hippowdon, only possessing greater offensive presence and the ability to check opposing Flying-types over those two.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Tank",
+            "stats": [
+                329,
+                352,
+                296,
+                131,
+                206,
+                116
+            ],
+            "type": [
+                "Ground",
+                "Rock"
+            ],
+            "usage": "Switch Rhyperior into on Pokemon it is meant to check such as Mega Manectric and Moltres. Once on the field in a safe position, use Rhyperior to set up Stealth Rock or spread Toxic poison on the opposing team. While Rhyperior can stomach many super effective hits due to Solid Rock, gauge how important its health will be for the remainder of the game and play accordingly. Scout for possible 4x effective coverage moves such as Mega Aerodactyl's Aqua Tail and Nihilego's Grass Knot. Rhyperior is worn down over time by Spikes and Toxic Spikes; clear them with a teammate if given the opportunity.",
+            "moves": [
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Stone Edge"
+                ],
+                [
+                    "Toxic"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Solid Rock"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                252,
+                16,
+                0,
+                0,
+                240,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Water-types",
+        "Grass-types",
+        "Status",
+        "Bulky Pokemon",
+        "Fighting-types",
+        "Ground-types"
+    ],
+    "credits": [
+        "Written by Pak",
+        "Quality checked by Kink, Cynde,  and Eyan",
+        "Grammar checked by A Cake Wearing A Hat and martha"
+    ]
+}

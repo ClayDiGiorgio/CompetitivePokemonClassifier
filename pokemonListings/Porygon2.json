@@ -1,1 +1,99 @@
-{"name": "Porygon2", "forms": {"Base": {"base stats": [85, 80, 90, 105, 95, 60], "types": ["Normal"], "abilities": ["Analytic", "Download", "Trace"], "tier": ["RU"], "form": "Base"}}, "overview": "Porygon2 has a solid niche on bulky offense teams, as it can spread paralysis with Thunder Wave and check a group of anti-offense Pokemon that no other Pokemon can, including Sharpedo, Swellow, Speed Boost Yanmega, and various Dragon Dance users such as Flygon and Feraligatr. It is one of the bulkiest walls thanks to its defensive stats alongside Eviolite and a solid Normal typing, which also lets it decently check many wallbreakers, such as Gardevoir, Roserade, and Mega Glalie. Porygon2 also has access to many good moves to help it at its job such as Thunder Wave, Foul Play, and the BoltBeam combination. Its ability Trace, which has decent utility in general, allows Porygon2 to copy abilities, such as Slowbro and Slowking's Regenerator, Mantine's Water Absorb, Alolan Persian's Fur Coat, and Kommo-o's Bulletproof. Despite these perks, Porygon2 can be handled due to its reliance on Eviolite, which makes it weak to Knock Off, and its inability to use Leftovers, which makes it easily worn down by entry hazards and other form of residual damage. It's also weak to Fighting-types, namely Heracross, Pangoro, Virizion, and Kommo-o, which are very common and can easily beat Porygon2.\n", "strategies' format": "RU", "strategies": [{"name": "Defensive Tank", "stats": [269, 176, 242, 246, 290, 156], "type": ["Normal"], "usage": "Porygon2 should avoid Knock Off and Trick at all costs, as it becomes far less useful without its Eviolite. Porygon2 can use its bulk to tank a hit from strong attackers such as Feraligatr and Gardevoir and cripple it with Toxic or Thunder Wave. Pivot Porygon2 into special attackers such as Dragalge and Swellow; however, make sure you keep it healthy to ensure its ability to check threats and pivot. Use Trace to take advantage of the foe's ability, such as by switching into Kommo-o's Focus Blast and taking no damage by copying Kommo-o's Bulletproof; switching into Shaymin and recovering from status with Natural Cure; and switching into Slowbro and recovering HP with Regenerator. Keep Porygon2 away from status ailments, as Toxic reduces its staying power and wears it down, and paralysis can make it lose a turn of recovery and prevent it from outspeeding Pokemon such as Rhyperior. As Porygon2 lacks passive recovery, it should avoid switching in when there are entry hazards on its side of the field.", "moves": [["Recover"], ["Thunder Wave", "Toxic"], ["Ice Beam"], ["Foul Play", "Thunderbolt"]], "item": [" Eviolite"], "ability": ["Trace"], "nature": ["Calm"], "ev spread": [252, 0, 104, 0, 152, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Knock Off Users", "Fighting-types", "Wallbreakers", "Bulky Steel-types", "Setup Sweepers"], "credits": ["Written by MiyoKa", "Quality checked by phantom, avocado,  and EonX", "Grammar checked by Fireflame479 and Eyan"]}
+{
+    "name": "Porygon2",
+    "forms": {
+        "Base": {
+            "base stats": [
+                85,
+                80,
+                90,
+                105,
+                95,
+                60
+            ],
+            "types": [
+                "Normal"
+            ],
+            "abilities": [
+                "Analytic",
+                "Download",
+                "Trace"
+            ],
+            "tier": [
+                "RU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Porygon2 has a solid niche on bulky offense teams, as it can spread paralysis with Thunder Wave and check a group of anti-offense Pokemon that no other Pokemon can, including Sharpedo, Swellow, Speed Boost Yanmega, and various Dragon Dance users such as Flygon and Feraligatr. It is one of the bulkiest walls thanks to its defensive stats alongside Eviolite and a solid Normal typing, which also lets it decently check many wallbreakers, such as Gardevoir, Roserade, and Mega Glalie. Porygon2 also has access to many good moves to help it at its job such as Thunder Wave, Foul Play, and the BoltBeam combination. Its ability Trace, which has decent utility in general, allows Porygon2 to copy abilities, such as Slowbro and Slowking's Regenerator, Mantine's Water Absorb, Alolan Persian's Fur Coat, and Kommo-o's Bulletproof. Despite these perks, Porygon2 can be handled due to its reliance on Eviolite, which makes it weak to Knock Off, and its inability to use Leftovers, which makes it easily worn down by entry hazards and other form of residual damage. It's also weak to Fighting-types, namely Heracross, Pangoro, Virizion, and Kommo-o, which are very common and can easily beat Porygon2.\n",
+    "strategies' format": "RU",
+    "strategies": [
+        {
+            "name": "Defensive Tank",
+            "stats": [
+                269,
+                176,
+                242,
+                246,
+                290,
+                156
+            ],
+            "type": [
+                "Normal"
+            ],
+            "usage": "Porygon2 should avoid Knock Off and Trick at all costs, as it becomes far less useful without its Eviolite. Porygon2 can use its bulk to tank a hit from strong attackers such as Feraligatr and Gardevoir and cripple it with Toxic or Thunder Wave. Pivot Porygon2 into special attackers such as Dragalge and Swellow; however, make sure you keep it healthy to ensure its ability to check threats and pivot. Use Trace to take advantage of the foe's ability, such as by switching into Kommo-o's Focus Blast and taking no damage by copying Kommo-o's Bulletproof; switching into Shaymin and recovering from status with Natural Cure; and switching into Slowbro and recovering HP with Regenerator. Keep Porygon2 away from status ailments, as Toxic reduces its staying power and wears it down, and paralysis can make it lose a turn of recovery and prevent it from outspeeding Pokemon such as Rhyperior. As Porygon2 lacks passive recovery, it should avoid switching in when there are entry hazards on its side of the field.",
+            "moves": [
+                [
+                    "Recover"
+                ],
+                [
+                    "Thunder Wave",
+                    "Toxic"
+                ],
+                [
+                    "Ice Beam"
+                ],
+                [
+                    "Foul Play",
+                    "Thunderbolt"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Trace"
+            ],
+            "nature": [
+                "Calm"
+            ],
+            "ev spread": [
+                252,
+                0,
+                104,
+                0,
+                152,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Knock Off Users",
+        "Fighting-types",
+        "Wallbreakers",
+        "Bulky Steel-types",
+        "Setup Sweepers"
+    ],
+    "credits": [
+        "Written by MiyoKa",
+        "Quality checked by phantom, avocado,  and EonX",
+        "Grammar checked by Fireflame479 and Eyan"
+    ]
+}

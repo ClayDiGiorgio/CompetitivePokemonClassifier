@@ -1,1 +1,266 @@
-{"name": "Magearna", "forms": {"Base": {"base stats": [80, 95, 115, 130, 115, 65], "types": ["Steel", "Fairy"], "abilities": ["Soul-Heart"], "tier": ["OU"], "form": "Base"}}, "overview": "Thanks to its ability Soul-Heart, Magearna has the ability to snowball with Shift Gear sets, meaning that it is very hard to check late-game. It also has a great typing, which gives it resistances to common types like Fairy, Psychic, and Dark. This gives it good setup opportunities and allows it to function as a defensive check to Pokemon such as Clefable, Tapu Lele, Mega Alakazam, and Ash-Greninja. Magearna possesses over a high base 130 Special Attack with an excellent movepool consisting of good moves like Fleur Cannon, Focus Blast, Calm Mind, Shift Gear, and Thunderbolt. Essentially, Magearna can pick its check and counters due to the variety of Z-Crystals it can viably run on offensive sets, such as Fairium Z, Steelium Z, and Electrium Z, which hit a wide variety of Pokemon. Additionally, Magearna has access to Volt Switch, which allows it to act as a defensive pivot and gain momentum. Unfortunately, Magearna lacks any sort of reliable recovery whatsoever, meaning it can be worn down with ease. This means that most Magearna sets, Assault Vest sets especially, are prone to Spikes, because they will have a hard time switching into Pokemon such as Ash-Greninja and Tapu Lele multiple times throughout the match. Mediocre Speed prior to setup also means Magearna is susceptible to common Pokemon such as Heatran, Landorus-T, and Garchomp.\n", "strategies' format": "OU", "strategies": [{"name": "Shift Gear", "stats": [196, 203, 266, 359, 267, 251], "type": ["Steel", "Fairy"], "usage": "Magearna function best as a late-game sweeper once the opposition is weakened. However, Magearna can also be used as a mid-game breaker, where it can be used more aggresively. A boosted Twinkle Tackle is extremely hard to switch into, which makes it quite easy for Magearna to pave the way for one of its teammates to clean up late-game. If you intend to sweep with Magearna late-game, it is important to keep Magearna healthy throughout the match, as it may need to get multiple boosts to win. In addition, keeping Magearna healthy also prevents it from being revenge killed by priority moves such as Water Shuriken and Bullet Punch. You should gauge whether it is beneficial to use Calm Mind or Shift Gear. For example, if Magearna is facing slower Pokemon such as Ferrothorn, Clefable, and Tangrowth, it's better to use Calm Mind to break past these Pokemon. If Magearna is facing offensive teams with faster Pokemon such as Ash-Greninja, Tapu Koko, and Choice Scarf Landorus-T, it will be beneficial to use Shift Gear first to outspeed these Pokemon. Additionally, Magearna should time its Z-Moves optimally. Steelium Z sets really want Toxapex weakened before attempting to sweep and also want a bit of chip damage on Pokemon like Mega Venusaur and Amoonguss to KO them. If run, Electrium Z sets should attempt to weaken Toxapex before using Gigavolt Havoc because Toxapex can take an unboosted Gigavolt Havoc from full HP. Fightinium Z sets can afford to set up early if Steel-types such as Heatran and Ferrothorn are still healthy, because it can usually overwhelm them, but the set really needs Toxapex weakened.", "moves": [["Shift Gear"], ["Calm Mind", "Thunderbolt"], ["Fleur Cannon", "Flash Cannon"], ["Focus Blast"]], "item": [" Fairium Z", " Steelium Z"], "ability": ["Soul-Heart"], "nature": ["Timid"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Assault Vest", "stats": [258, 226, 266, 296, 354, 157], "type": ["Steel", "Fairy"], "usage": "Magearna can switch into most special attackers, but it is prone to being worn down, so you should not overly rely on Magearna to blanket check every specially offensive threat. Generally, try not to switch Magearna in when Spikes are on the field, because they tend to chip it down quite easily. However, if a Ground-type is anticipated to switch in to block Volt Switch, Magearna can use Fleur Cannon or Ice Beam instead to get rid of them. If a Greninja is confirmed to be Protean, consider the risk of using Volt Switch on it because Greninja can use Spikes to block Volt Switch.", "moves": [["Volt Switch"], ["Fleur Cannon"], ["Focus Blast", "Hidden Power Fire"], ["Iron Head"]], "item": [" Assault Vest"], "ability": ["Soul-Heart"], "nature": ["Sassy"], "ev spread": [248, 0, 0, 0, 224, 36], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Heart Swap", "stats": [258, 203, 273, 296, 356, 141], "type": ["Steel", "Fairy"], "usage": "Magearna should be used to defensively check the likes of Mega Alakazam, Mega Latias, Tapu Lele, and opposing Magearna. Once these Pokemon are inevitably forced out, Magearna can create momentum by pivoting out with Volt Switch. Be sure to use Pain Split whenever Magearna is weakened so it can continue to keep the aforementioned Pokemon in check. However, this is not a blanket statement\u2014due to Pain Split's nature, you must be cautious when using it. For example, if one of the opponent's Pokemon is also on low HP, you should anticipate them potentially attempting to bring it in on a suspected Pain Split to nullify the effects. Similarly, if the opponent has a Ground-type, it is likely that at some point they will try to block Volt Switch with it, especially if that Ground-type is Gliscor or Excadrill. Again, you should try to predict this and catch them by double switching out or using Pain Split if applicable. Ground-types like Landorus-T and Garchomp can also be punished with Flash Cannon. Spikes can put Magearna in range of attacks it wouldn't otherwise be, so you should attempt to remove them when possible before bringing Magearna in.", "moves": [["Heart Swap"], ["Pain Split"], ["Volt Switch"], ["Flash Cannon"]], "item": [" Leftovers"], "ability": ["Soul-Heart"], "nature": ["Calm"], "ev spread": [248, 0, 28, 0, 232, 0], "iv spread": [31, 31, 31, 31, 31, 6]}, {"name": "Calm Mind + Pain Split", "stats": [258, 203, 273, 387, 268, 166], "type": ["Steel", "Fairy"], "usage": "This Magearna set works really well against defensive teams, as it can break through typical checks such as Chansey, Toxapex, and Gastrodon when boosted and can easily get multiple opportunities in a game to wallbreak thanks to Magearna's typing and the longevity Pain Split gives it. Magearna will usually find it impossible to sweep early- or mid-game against offensive teams, so in this matchup, it's usually best to use Magearna's fantastic defensive typing to sponge hits from threats like Mega Alakazam, Tapu Bulu, and Tornadus-T. Also, Twinkle Tackle hits incredibly hard even unboosted, which can allow Magearna to heavily damage or KO common switch-ins like Landorus-T, Gliscor, and Excadrill. Be careful of using Calm Mind when the opponent has a threat that can outspeed and heavily damage or OHKO Magearna. These threats include Landorus-T, Garchomp, Volcarona, and Heatran, among others. Volcarona can even use Magearna as setup fodder. Pain Split is best used to keep Magearna healthy, and with consistent use you can usually keep it at fairly high HP throughout a game. Magearna can damage typical switch-ins like Chansey and Heatran and recover health against them if played smartly. When low on health, Magearna can usually find a way to gain some health back to put it in range of surviving an attack.", "moves": [["Calm Mind"], ["Pain Split"], ["Fleur Cannon"], ["Thunderbolt"]], "item": [" Fairium Z"], "ability": ["Soul-Heart"], "nature": ["Modest"], "ev spread": [248, 0, 28, 224, 8, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Specially Defensive Pokemon", "Fire-types", "Steel-types", "Ground-types"], "credits": ["Written by Anish, Jordy, Mellow,  and Nuked", "Earlier versions by Vertex, Leo, Subject 18,  and Ash Borer", "Quality checked by lyd, Jordy, LL, Leo, Talah,  and DKM", "Grammar checked by martha, The Dutch Plumberjack, Estronic,  and A Cake Wearing A Hat"]}
+{
+    "name": "Magearna",
+    "forms": {
+        "Base": {
+            "base stats": [
+                80,
+                95,
+                115,
+                130,
+                115,
+                65
+            ],
+            "types": [
+                "Steel",
+                "Fairy"
+            ],
+            "abilities": [
+                "Soul-Heart"
+            ],
+            "tier": [
+                "OU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Thanks to its ability Soul-Heart, Magearna has the ability to snowball with Shift Gear sets, meaning that it is very hard to check late-game. It also has a great typing, which gives it resistances to common types like Fairy, Psychic, and Dark. This gives it good setup opportunities and allows it to function as a defensive check to Pokemon such as Clefable, Tapu Lele, Mega Alakazam, and Ash-Greninja. Magearna possesses over a high base 130 Special Attack with an excellent movepool consisting of good moves like Fleur Cannon, Focus Blast, Calm Mind, Shift Gear, and Thunderbolt. Essentially, Magearna can pick its check and counters due to the variety of Z-Crystals it can viably run on offensive sets, such as Fairium Z, Steelium Z, and Electrium Z, which hit a wide variety of Pokemon. Additionally, Magearna has access to Volt Switch, which allows it to act as a defensive pivot and gain momentum. Unfortunately, Magearna lacks any sort of reliable recovery whatsoever, meaning it can be worn down with ease. This means that most Magearna sets, Assault Vest sets especially, are prone to Spikes, because they will have a hard time switching into Pokemon such as Ash-Greninja and Tapu Lele multiple times throughout the match. Mediocre Speed prior to setup also means Magearna is susceptible to common Pokemon such as Heatran, Landorus-T, and Garchomp.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Shift Gear",
+            "stats": [
+                196,
+                203,
+                266,
+                359,
+                267,
+                251
+            ],
+            "type": [
+                "Steel",
+                "Fairy"
+            ],
+            "usage": "Magearna function best as a late-game sweeper once the opposition is weakened. However, Magearna can also be used as a mid-game breaker, where it can be used more aggresively. A boosted Twinkle Tackle is extremely hard to switch into, which makes it quite easy for Magearna to pave the way for one of its teammates to clean up late-game. If you intend to sweep with Magearna late-game, it is important to keep Magearna healthy throughout the match, as it may need to get multiple boosts to win. In addition, keeping Magearna healthy also prevents it from being revenge killed by priority moves such as Water Shuriken and Bullet Punch. You should gauge whether it is beneficial to use Calm Mind or Shift Gear. For example, if Magearna is facing slower Pokemon such as Ferrothorn, Clefable, and Tangrowth, it's better to use Calm Mind to break past these Pokemon. If Magearna is facing offensive teams with faster Pokemon such as Ash-Greninja, Tapu Koko, and Choice Scarf Landorus-T, it will be beneficial to use Shift Gear first to outspeed these Pokemon. Additionally, Magearna should time its Z-Moves optimally. Steelium Z sets really want Toxapex weakened before attempting to sweep and also want a bit of chip damage on Pokemon like Mega Venusaur and Amoonguss to KO them. If run, Electrium Z sets should attempt to weaken Toxapex before using Gigavolt Havoc because Toxapex can take an unboosted Gigavolt Havoc from full HP. Fightinium Z sets can afford to set up early if Steel-types such as Heatran and Ferrothorn are still healthy, because it can usually overwhelm them, but the set really needs Toxapex weakened.",
+            "moves": [
+                [
+                    "Shift Gear"
+                ],
+                [
+                    "Calm Mind",
+                    "Thunderbolt"
+                ],
+                [
+                    "Fleur Cannon",
+                    "Flash Cannon"
+                ],
+                [
+                    "Focus Blast"
+                ]
+            ],
+            "item": [
+                " Fairium Z",
+                " Steelium Z"
+            ],
+            "ability": [
+                "Soul-Heart"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Assault Vest",
+            "stats": [
+                258,
+                226,
+                266,
+                296,
+                354,
+                157
+            ],
+            "type": [
+                "Steel",
+                "Fairy"
+            ],
+            "usage": "Magearna can switch into most special attackers, but it is prone to being worn down, so you should not overly rely on Magearna to blanket check every specially offensive threat. Generally, try not to switch Magearna in when Spikes are on the field, because they tend to chip it down quite easily. However, if a Ground-type is anticipated to switch in to block Volt Switch, Magearna can use Fleur Cannon or Ice Beam instead to get rid of them. If a Greninja is confirmed to be Protean, consider the risk of using Volt Switch on it because Greninja can use Spikes to block Volt Switch.",
+            "moves": [
+                [
+                    "Volt Switch"
+                ],
+                [
+                    "Fleur Cannon"
+                ],
+                [
+                    "Focus Blast",
+                    "Hidden Power Fire"
+                ],
+                [
+                    "Iron Head"
+                ]
+            ],
+            "item": [
+                " Assault Vest"
+            ],
+            "ability": [
+                "Soul-Heart"
+            ],
+            "nature": [
+                "Sassy"
+            ],
+            "ev spread": [
+                248,
+                0,
+                0,
+                0,
+                224,
+                36
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Heart Swap",
+            "stats": [
+                258,
+                203,
+                273,
+                296,
+                356,
+                141
+            ],
+            "type": [
+                "Steel",
+                "Fairy"
+            ],
+            "usage": "Magearna should be used to defensively check the likes of Mega Alakazam, Mega Latias, Tapu Lele, and opposing Magearna. Once these Pokemon are inevitably forced out, Magearna can create momentum by pivoting out with Volt Switch. Be sure to use Pain Split whenever Magearna is weakened so it can continue to keep the aforementioned Pokemon in check. However, this is not a blanket statement\u2014due to Pain Split's nature, you must be cautious when using it. For example, if one of the opponent's Pokemon is also on low HP, you should anticipate them potentially attempting to bring it in on a suspected Pain Split to nullify the effects. Similarly, if the opponent has a Ground-type, it is likely that at some point they will try to block Volt Switch with it, especially if that Ground-type is Gliscor or Excadrill. Again, you should try to predict this and catch them by double switching out or using Pain Split if applicable. Ground-types like Landorus-T and Garchomp can also be punished with Flash Cannon. Spikes can put Magearna in range of attacks it wouldn't otherwise be, so you should attempt to remove them when possible before bringing Magearna in.",
+            "moves": [
+                [
+                    "Heart Swap"
+                ],
+                [
+                    "Pain Split"
+                ],
+                [
+                    "Volt Switch"
+                ],
+                [
+                    "Flash Cannon"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Soul-Heart"
+            ],
+            "nature": [
+                "Calm"
+            ],
+            "ev spread": [
+                248,
+                0,
+                28,
+                0,
+                232,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                6
+            ]
+        },
+        {
+            "name": "Calm Mind + Pain Split",
+            "stats": [
+                258,
+                203,
+                273,
+                387,
+                268,
+                166
+            ],
+            "type": [
+                "Steel",
+                "Fairy"
+            ],
+            "usage": "This Magearna set works really well against defensive teams, as it can break through typical checks such as Chansey, Toxapex, and Gastrodon when boosted and can easily get multiple opportunities in a game to wallbreak thanks to Magearna's typing and the longevity Pain Split gives it. Magearna will usually find it impossible to sweep early- or mid-game against offensive teams, so in this matchup, it's usually best to use Magearna's fantastic defensive typing to sponge hits from threats like Mega Alakazam, Tapu Bulu, and Tornadus-T. Also, Twinkle Tackle hits incredibly hard even unboosted, which can allow Magearna to heavily damage or KO common switch-ins like Landorus-T, Gliscor, and Excadrill. Be careful of using Calm Mind when the opponent has a threat that can outspeed and heavily damage or OHKO Magearna. These threats include Landorus-T, Garchomp, Volcarona, and Heatran, among others. Volcarona can even use Magearna as setup fodder. Pain Split is best used to keep Magearna healthy, and with consistent use you can usually keep it at fairly high HP throughout a game. Magearna can damage typical switch-ins like Chansey and Heatran and recover health against them if played smartly. When low on health, Magearna can usually find a way to gain some health back to put it in range of surviving an attack.",
+            "moves": [
+                [
+                    "Calm Mind"
+                ],
+                [
+                    "Pain Split"
+                ],
+                [
+                    "Fleur Cannon"
+                ],
+                [
+                    "Thunderbolt"
+                ]
+            ],
+            "item": [
+                " Fairium Z"
+            ],
+            "ability": [
+                "Soul-Heart"
+            ],
+            "nature": [
+                "Modest"
+            ],
+            "ev spread": [
+                248,
+                0,
+                28,
+                224,
+                8,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Specially Defensive Pokemon",
+        "Fire-types",
+        "Steel-types",
+        "Ground-types"
+    ],
+    "credits": [
+        "Written by Anish, Jordy, Mellow,  and Nuked",
+        "Earlier versions by Vertex, Leo, Subject 18,  and Ash Borer",
+        "Quality checked by lyd, Jordy, LL, Leo, Talah,  and DKM",
+        "Grammar checked by martha, The Dutch Plumberjack, Estronic,  and A Cake Wearing A Hat"
+    ]
+}

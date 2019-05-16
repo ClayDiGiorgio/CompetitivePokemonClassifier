@@ -1,1 +1,213 @@
-{"name": "Scyther", "forms": {"Base": {"base stats": [70, 110, 80, 55, 80, 105], "types": ["Bug", "Flying"], "abilities": ["Steadfast", "Swarm", "Technician"], "tier": ["PU"], "form": "Base"}}, "overview": "Scyther has a potent combination of great offensive presence and substantial defensive utility with usable bulk and access to Roost. Its Bug / Flying typing lets it heavily pressure relevant threats like Mesprit, Gurdurr, and Victreebel as well as take on powerful Fighting- and Grass-type attacks from Pokemon like Primeape and Shiftry. Scyther is also quite flexible with items; it can run Eviolite to augment its bulk and function as a potent bulky setup sweeper, Choice Scarf to act as a great revenge killer that can punish premier weather threats like Ludicolo, Alolan Sandslash, and Victreebel, and Choice Band to function as a powerful wallbreaker that is efficient at pressuring certain switch-ins like Alolan Sandslash and Oricorio-E. Scyther's great Speed and excellent offensive presence make it a top-notch way to generate momentum for offensive teams with its strong and quick U-turn. However, despite Scyther's strong typing, it is plagued by a severe Stealth Rock weakness that limits its ability in play, although bulky Swords Dance sets with Roost can slightly mitigate this. This same 4x weakness causes it to have difficulty dealing with the prominent Rock-types in the tier, including Regirock, Aggron, and Lycanroc. It also renders Scyther inconsistent in checking many of those same Fighting-type Pokemon it regularly pressures. Scyther's other weaknesses include Ice and Electric, leaving it vulnerable to faster Pokemon like Froslass and Choice Scarf Manectric. Despite its offensive prowess, Scyther's inability to blast through Pokemon in the way that Aggron and Aurorus can often leaves it reliant on support to deal with physical walls like the aforementioned Regirock, Sableye, Quagsire, and Mudsdale. Regardless, Scyther's offensive and defensive capabilities combined with its good item flexibility give it all the tools it needs to be a potent team player in the PU metagame.\n", "strategies' format": "PU", "strategies": [{"name": "Swords Dance", "stats": [238, 258, 196, 131, 196, 339], "type": ["Bug", "Flying"], "usage": "This set uses its bulk to switch into Pokemon that struggle to threaten it like Clefairy, Tangela, and defensive Mesprit and either sets up or pivots out appropriately. Scyther can act as a Fighting-type check that can pivot into and either heal up against or threaten Hitmonchan, Gurdurr, and Primeape, but it must be wary of coverage moves like Stone Edge that can often take it out with prediction. Otherwise, Scyther should dedicate its early- to mid-game presence to weakening checks like Regirock, Mudsdale and Aggron with U-turn and keeping up momentum for its team before attempting a sweep. Setting up Swords Dance does not have to be purely for sweeping, as weakening checks early-game can work if they aren't brought in initially, but this is often situational. It is also useful for breaking through bulky Pokemon such as Altaria. Scyther can use its Speed to pick off weakened Pokemon like Haunter, Kangaskhan, and Jynx. Scyther should avoid switching into Stealth Rock, as the 50% damage can often force situations where it must use Roost initially as opposed to setting up, which could cost momentum. Preserving Scyther's health with Roost is always key for always keeping it above the range of Stealth Rock damage and staying healthy. This also gives it longevity for checking Grass- and Fighting-type Pokemon, sheds its Flying typing to scout for moves like Lanturn's Volt Switch and Hitmonchan's Thunder Punch, dodges Sucker Punch from users like Absol, and takes advantage of Pokemon that can't do any significant damage such as Lurantis and Skuntank. Scyther should avoid status ailments whenever possible, and thus it must be wary when being used to take advantage of Pokemon like Poliwrath and Tangela, as they often have options for crippling it in a way that severely hinders its effectiveness throughout the match.", "moves": [["Swords Dance"], ["Roost"], ["U-turn"], ["Aerial Ace"]], "item": [" Eviolite"], "ability": ["Technician"], "nature": ["Jolly"], "ev spread": [248, 8, 0, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Choice Scarf", "stats": [176, 319, 197, 131, 196, 339], "type": ["Bug", "Flying"], "usage": "Scyther should mostly pivot with U-turn early-game to gain momentum, chip away at its switch-ins, and safely bring in teammates that can threaten them. Knock Off and Toxic can be good for crippling defensive checks early-game; one must be cautious about locking into Toxic, however, as it can be a major momentum drain if the opponent switches to Alolan Sandslash, Qwilfish, or Aggron. Although Scyther can pivot into resisted hits from foes like Bellossom and Hitmonchan, it lacks the bulk required to take repeated or neutral hits, meaning that it should only do so if necessary. As a Choice Scarf user, Scyther outspeeds the vast majority of the metagame, including weather threats like Alolan Sandslash, Ludicolo, and Victreebel, and it can be dependable in revenge killing virtually any weakened offensive Pokemon. Be careful about using Aerial Ace and Bug Bite with healthy defensive checks on the field, as the loss in momentum can be disadvantageous. Once they're weakened or removed, Scyther will be able to use these moves more liberally to pressure the opposing team.", "moves": [["U-turn"], ["Aerial Ace"], ["Brick Break"], ["Knock Off", "Bug Bite", "Toxic"]], "item": [" Choice Scarf"], "ability": ["Technician"], "nature": ["Jolly"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Choice Band", "stats": [176, 319, 197, 131, 196, 339], "type": ["Bug", "Flying"], "usage": "Scyther should prioritize a hit-and-run strategy with powerful U-turns to weaken checks like Sableye and Qwilfish early- to mid-game. While Scyther shouldn't be too aggressive when switching into what it checks due to its lacking longevity, it is decent for pivoting into the resisted hits from offensive threats like Gurdurr, Bellossom, and Primeape. It can also pivot into defensive threats like Mesprit and Clefairy but must be wary of Thunder Wave. Scyther can and should make use of its high Speed to revenge kill threats like Swanna and Aurorus. Scyther can use Pursuit when predicting a switch and when the Pokemon is threatened by Scyther such as non-Choice Scarf Haunter and Jynx. Choice Band Scyther can be especially potent in situations where its set is not yet revealed. Given that Steel-types are common initial switch-ins to Scyther, predicting targets like Aggron and Alolan Sandslash to switch in and breaking through them with Brick Break can be great for enabling Scyther to wallbreak or sweep with Aerial Ace later. Do note, however, that the damage output of this set can reveal Scyther's set earlier than intended.", "moves": [["U-turn"], ["Aerial Ace"], ["Brick Break"], ["Knock Off", "Pursuit"]], "item": [" Choice Band"], "ability": ["Technician"], "nature": ["Jolly"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Stealth Rock", "Rock-types", "Physically Defensive Pokemon", "Steel-types", "Faster Pokemon", "Status"], "credits": ["Written by jklioe", "Quality checked by Darkinium, allstarapology,  and TONE", "Grammar checked by The Dutch Plumberjack and A Cake Wearing A Hat"]}
+{
+    "name": "Scyther",
+    "forms": {
+        "Base": {
+            "base stats": [
+                70,
+                110,
+                80,
+                55,
+                80,
+                105
+            ],
+            "types": [
+                "Bug",
+                "Flying"
+            ],
+            "abilities": [
+                "Steadfast",
+                "Swarm",
+                "Technician"
+            ],
+            "tier": [
+                "PU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Scyther has a potent combination of great offensive presence and substantial defensive utility with usable bulk and access to Roost. Its Bug / Flying typing lets it heavily pressure relevant threats like Mesprit, Gurdurr, and Victreebel as well as take on powerful Fighting- and Grass-type attacks from Pokemon like Primeape and Shiftry. Scyther is also quite flexible with items; it can run Eviolite to augment its bulk and function as a potent bulky setup sweeper, Choice Scarf to act as a great revenge killer that can punish premier weather threats like Ludicolo, Alolan Sandslash, and Victreebel, and Choice Band to function as a powerful wallbreaker that is efficient at pressuring certain switch-ins like Alolan Sandslash and Oricorio-E. Scyther's great Speed and excellent offensive presence make it a top-notch way to generate momentum for offensive teams with its strong and quick U-turn. However, despite Scyther's strong typing, it is plagued by a severe Stealth Rock weakness that limits its ability in play, although bulky Swords Dance sets with Roost can slightly mitigate this. This same 4x weakness causes it to have difficulty dealing with the prominent Rock-types in the tier, including Regirock, Aggron, and Lycanroc. It also renders Scyther inconsistent in checking many of those same Fighting-type Pokemon it regularly pressures. Scyther's other weaknesses include Ice and Electric, leaving it vulnerable to faster Pokemon like Froslass and Choice Scarf Manectric. Despite its offensive prowess, Scyther's inability to blast through Pokemon in the way that Aggron and Aurorus can often leaves it reliant on support to deal with physical walls like the aforementioned Regirock, Sableye, Quagsire, and Mudsdale. Regardless, Scyther's offensive and defensive capabilities combined with its good item flexibility give it all the tools it needs to be a potent team player in the PU metagame.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Swords Dance",
+            "stats": [
+                238,
+                258,
+                196,
+                131,
+                196,
+                339
+            ],
+            "type": [
+                "Bug",
+                "Flying"
+            ],
+            "usage": "This set uses its bulk to switch into Pokemon that struggle to threaten it like Clefairy, Tangela, and defensive Mesprit and either sets up or pivots out appropriately. Scyther can act as a Fighting-type check that can pivot into and either heal up against or threaten Hitmonchan, Gurdurr, and Primeape, but it must be wary of coverage moves like Stone Edge that can often take it out with prediction. Otherwise, Scyther should dedicate its early- to mid-game presence to weakening checks like Regirock, Mudsdale and Aggron with U-turn and keeping up momentum for its team before attempting a sweep. Setting up Swords Dance does not have to be purely for sweeping, as weakening checks early-game can work if they aren't brought in initially, but this is often situational. It is also useful for breaking through bulky Pokemon such as Altaria. Scyther can use its Speed to pick off weakened Pokemon like Haunter, Kangaskhan, and Jynx. Scyther should avoid switching into Stealth Rock, as the 50% damage can often force situations where it must use Roost initially as opposed to setting up, which could cost momentum. Preserving Scyther's health with Roost is always key for always keeping it above the range of Stealth Rock damage and staying healthy. This also gives it longevity for checking Grass- and Fighting-type Pokemon, sheds its Flying typing to scout for moves like Lanturn's Volt Switch and Hitmonchan's Thunder Punch, dodges Sucker Punch from users like Absol, and takes advantage of Pokemon that can't do any significant damage such as Lurantis and Skuntank. Scyther should avoid status ailments whenever possible, and thus it must be wary when being used to take advantage of Pokemon like Poliwrath and Tangela, as they often have options for crippling it in a way that severely hinders its effectiveness throughout the match.",
+            "moves": [
+                [
+                    "Swords Dance"
+                ],
+                [
+                    "Roost"
+                ],
+                [
+                    "U-turn"
+                ],
+                [
+                    "Aerial Ace"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Technician"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                248,
+                8,
+                0,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Choice Scarf",
+            "stats": [
+                176,
+                319,
+                197,
+                131,
+                196,
+                339
+            ],
+            "type": [
+                "Bug",
+                "Flying"
+            ],
+            "usage": "Scyther should mostly pivot with U-turn early-game to gain momentum, chip away at its switch-ins, and safely bring in teammates that can threaten them. Knock Off and Toxic can be good for crippling defensive checks early-game; one must be cautious about locking into Toxic, however, as it can be a major momentum drain if the opponent switches to Alolan Sandslash, Qwilfish, or Aggron. Although Scyther can pivot into resisted hits from foes like Bellossom and Hitmonchan, it lacks the bulk required to take repeated or neutral hits, meaning that it should only do so if necessary. As a Choice Scarf user, Scyther outspeeds the vast majority of the metagame, including weather threats like Alolan Sandslash, Ludicolo, and Victreebel, and it can be dependable in revenge killing virtually any weakened offensive Pokemon. Be careful about using Aerial Ace and Bug Bite with healthy defensive checks on the field, as the loss in momentum can be disadvantageous. Once they're weakened or removed, Scyther will be able to use these moves more liberally to pressure the opposing team.",
+            "moves": [
+                [
+                    "U-turn"
+                ],
+                [
+                    "Aerial Ace"
+                ],
+                [
+                    "Brick Break"
+                ],
+                [
+                    "Knock Off",
+                    "Bug Bite",
+                    "Toxic"
+                ]
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Technician"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Choice Band",
+            "stats": [
+                176,
+                319,
+                197,
+                131,
+                196,
+                339
+            ],
+            "type": [
+                "Bug",
+                "Flying"
+            ],
+            "usage": "Scyther should prioritize a hit-and-run strategy with powerful U-turns to weaken checks like Sableye and Qwilfish early- to mid-game. While Scyther shouldn't be too aggressive when switching into what it checks due to its lacking longevity, it is decent for pivoting into the resisted hits from offensive threats like Gurdurr, Bellossom, and Primeape. It can also pivot into defensive threats like Mesprit and Clefairy but must be wary of Thunder Wave. Scyther can and should make use of its high Speed to revenge kill threats like Swanna and Aurorus. Scyther can use Pursuit when predicting a switch and when the Pokemon is threatened by Scyther such as non-Choice Scarf Haunter and Jynx. Choice Band Scyther can be especially potent in situations where its set is not yet revealed. Given that Steel-types are common initial switch-ins to Scyther, predicting targets like Aggron and Alolan Sandslash to switch in and breaking through them with Brick Break can be great for enabling Scyther to wallbreak or sweep with Aerial Ace later. Do note, however, that the damage output of this set can reveal Scyther's set earlier than intended.",
+            "moves": [
+                [
+                    "U-turn"
+                ],
+                [
+                    "Aerial Ace"
+                ],
+                [
+                    "Brick Break"
+                ],
+                [
+                    "Knock Off",
+                    "Pursuit"
+                ]
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Technician"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Stealth Rock",
+        "Rock-types",
+        "Physically Defensive Pokemon",
+        "Steel-types",
+        "Faster Pokemon",
+        "Status"
+    ],
+    "credits": [
+        "Written by jklioe",
+        "Quality checked by Darkinium, allstarapology,  and TONE",
+        "Grammar checked by The Dutch Plumberjack and A Cake Wearing A Hat"
+    ]
+}

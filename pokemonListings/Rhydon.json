@@ -1,1 +1,102 @@
-{"name": "Rhydon", "forms": {"Base": {"base stats": [105, 130, 120, 45, 45, 40], "types": ["Ground", "Rock"], "abilities": ["Lightning Rod", "Reckless", "Rock Head"], "tier": ["NU"], "form": "Base"}}, "overview": "Rhydon's Rock / Ground typing is accentuated by Eviolite and great physical bulk as well as very usable special bulk, letting it check many potent offensive threats such as Incineroar, Choice Scarf Rotom, and Braviary. High base 130 Attack combined with strong moves in Earthquake, Megahorn, and Stone Edge gives Rhydon the ability to pose a potent offensive threat to most teams and threaten common forms of entry hazard control such as Xatu, Silvally-Steel, and Cryogonal, making it a reliable Stealth Rock user. However, a lack of recovery leaves Rhydon easily worn down by enemy attacks and passive damage. This is compounded by its reliance on Eviolite, forcing it to be very wary of Knock Off users such as Incineroar. Furthermore, exploitable weaknesses to Grass, Water, and Ground mean that Rhydon is often at the mercy of the foe's coverage moves, such as Heliolisk's Surf, Comfey's Giga Drain, and Incineroar's Earthquake. These weaknesses also force Rhydon to play very carefully against Grass- and Water-types such as Sceptile and defensive Slowking.\n", "strategies' format": "NU", "strategies": [{"name": "Tank", "stats": [309, 330, 276, 113, 186, 116], "type": ["Ground", "Rock"], "usage": "Rhydon should be brought in on Pokemon it checks such as Incineroar, Braviary, and Golbat. Stealth Rock should generally be set up as early as possible. However, if the opponent has a Xatu, using Rock Blast or Stone Edge is helpful to damage it on a predicted switch in and prevent it from bouncing Rhydon's Stealth Rock back. Swords Dance can be used to punish Xatu lacking Grass Knot, allowing Rhydon to avoid being stalled out by Roost, along with other Flying-types like Braviary and Golbat. Toxic should be used if the opponent is expected to switch in a Pokemon that can force Rhydon out such as Rotom or defensive Slowking, helping to whittle down those Pokemon. Rhydon's high Attack stat lets it use powerful attacks in neutral situations to chip the opponent's team if given a free turn.", "moves": [["Stealth Rock"], ["Earthquake"], ["Rock Blast", "Stone Edge"], ["Swords Dance", "Megahorn", "Toxic"]], "item": [" Eviolite"], "ability": ["Reckless"], "nature": ["Adamant"], "ev spread": [252, 16, 0, 0, 240, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Torterra", "Bulky Water-types", "Grass-types", "Faster Attackers with Super Effective Coverage"], "credits": ["Written by quziel", "Earlier versions by AJB and Eternally", "Quality checked by Rabia, allstarapology,  and Blast", "Grammar checked by The Dutch Plumberjack and CryoGyro"]}
+{
+    "name": "Rhydon",
+    "forms": {
+        "Base": {
+            "base stats": [
+                105,
+                130,
+                120,
+                45,
+                45,
+                40
+            ],
+            "types": [
+                "Ground",
+                "Rock"
+            ],
+            "abilities": [
+                "Lightning Rod",
+                "Reckless",
+                "Rock Head"
+            ],
+            "tier": [
+                "NU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Rhydon's Rock / Ground typing is accentuated by Eviolite and great physical bulk as well as very usable special bulk, letting it check many potent offensive threats such as Incineroar, Choice Scarf Rotom, and Braviary. High base 130 Attack combined with strong moves in Earthquake, Megahorn, and Stone Edge gives Rhydon the ability to pose a potent offensive threat to most teams and threaten common forms of entry hazard control such as Xatu, Silvally-Steel, and Cryogonal, making it a reliable Stealth Rock user. However, a lack of recovery leaves Rhydon easily worn down by enemy attacks and passive damage. This is compounded by its reliance on Eviolite, forcing it to be very wary of Knock Off users such as Incineroar. Furthermore, exploitable weaknesses to Grass, Water, and Ground mean that Rhydon is often at the mercy of the foe's coverage moves, such as Heliolisk's Surf, Comfey's Giga Drain, and Incineroar's Earthquake. These weaknesses also force Rhydon to play very carefully against Grass- and Water-types such as Sceptile and defensive Slowking.\n",
+    "strategies' format": "NU",
+    "strategies": [
+        {
+            "name": "Tank",
+            "stats": [
+                309,
+                330,
+                276,
+                113,
+                186,
+                116
+            ],
+            "type": [
+                "Ground",
+                "Rock"
+            ],
+            "usage": "Rhydon should be brought in on Pokemon it checks such as Incineroar, Braviary, and Golbat. Stealth Rock should generally be set up as early as possible. However, if the opponent has a Xatu, using Rock Blast or Stone Edge is helpful to damage it on a predicted switch in and prevent it from bouncing Rhydon's Stealth Rock back. Swords Dance can be used to punish Xatu lacking Grass Knot, allowing Rhydon to avoid being stalled out by Roost, along with other Flying-types like Braviary and Golbat. Toxic should be used if the opponent is expected to switch in a Pokemon that can force Rhydon out such as Rotom or defensive Slowking, helping to whittle down those Pokemon. Rhydon's high Attack stat lets it use powerful attacks in neutral situations to chip the opponent's team if given a free turn.",
+            "moves": [
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Rock Blast",
+                    "Stone Edge"
+                ],
+                [
+                    "Swords Dance",
+                    "Megahorn",
+                    "Toxic"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Reckless"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                252,
+                16,
+                0,
+                0,
+                240,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Torterra",
+        "Bulky Water-types",
+        "Grass-types",
+        "Faster Attackers with Super Effective Coverage"
+    ],
+    "credits": [
+        "Written by quziel",
+        "Earlier versions by AJB and Eternally",
+        "Quality checked by Rabia, allstarapology,  and Blast",
+        "Grammar checked by The Dutch Plumberjack and CryoGyro"
+    ]
+}

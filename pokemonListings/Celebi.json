@@ -1,1 +1,155 @@
-{"name": "Celebi", "forms": {"Base": {"base stats": [100, 100, 100, 100, 100, 100], "types": ["Psychic", "Grass"], "abilities": ["Natural Cure"], "tier": ["UU"], "form": "Base"}}, "overview": "Thanks to its diverse movepool and solid stats across the board, Celebi is a potent and versatile threat in the UU metagame. It can utilize its decent offensive typing to function as a competent sweeper and stallbreaker with Nasty Plot, forcing out the tier's several popular Ground- and Water-types in order to set up. Thanks to its diverse movepool, it can also work around conventional Grass-type checks through the use of coverage options like Earth Power and Dazzling Gleam, which can hit the Steel-types and Dragon-types that Celebi lures in. Celebi can also viably run a defensive Stealth Rock set due to its expansive support movepool, its decent bulk with investment, and a typing that provides it with the ability to act as a strong defensive pivot that can switch into attacks such as Scald and Earthquake. Its Natural Cure ability is also a relatively useful tool, allowing it to come in on Pokemon that commonly carry status-inducing moves, such as Alomomola and Hippowdon, without fear of a long-term status ailment. Unfortunately, Celebi's defensive typing provides it with as many crippling weaknesses as useful resistances, burdening it with vulnerabilities to several top threats, including Infernape, Scizor, and Hydreigon. Celebi also suffers from its relatively average Speed tier, which leaves it outsped and heavily threatened by the likes of Gengar, Nihilego, and Infernape.\n", "strategies' format": "UU", "strategies": [{"name": "Nasty Plot", "stats": [236, 212, 236, 299, 237, 328], "type": ["Psychic", "Grass"], "usage": "Celebi should aim to set up against Pokemon that cannot do much against it thanks to its typing and Natural Cure, such as Hippowdon, Empoleon, and Suicune. Do not set up if Celebi's checks, such as Mega Aggron and Bronzong, have not been worn down, as this can give the opponent momentum or free turns. Celebi's offensive presence causes many switches, especially against passive Pokemon; take advantage of these forced switches to double switch to Pokemon that can directly threaten the opponent's answers to Celebi. Make sure to scout for a Choice Scarf set against slower Pokemon such as Hydreigon and Togekiss that Celebi could otherwise beat one-on-one. Use Natural Cure's benefit liberally against defensively oriented teams that depend on status or other passive damage to deal with setup sweepers. After a Nasty Plot, Celebi can dent opposing teams and heal off most residual damage via Giga Drain. Similarly, Shattered Psyche is immensely powerful at +2 and allows Celebi to muscle through certain Steel-types like Scizor with prior damage. Use this to your advantage when setting up if Celebi's checks have been worn down. Celebi can also be used as a status absorber and pivot throughout the match versus Pokemon that could otherwise be annoying for the rest of the team to switch into, such as Amoonguss and Alomomola.", "moves": [["Nasty Plot"], ["Psychic"], ["Giga Drain"], ["Dazzling Gleam"]], "item": [" Psychium Z"], "ability": ["Natural Cure"], "nature": ["Timid"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Defensive", "stats": [299, 212, 324, 236, 236, 241], "type": ["Psychic", "Grass"], "usage": "This set acts as a defensive pivot, meaning that Celebi will mostly attempt switching in on a Pokemon it can beat, like Zeraora or Hippowdon, in order to set Stealth Rock, spread status, or wear down opposing Pokemon. Celebi can also come in on Choice Scarf variants of Latias due to tanking its unboosted attacks quite comfortably, though Celebi should be wary of trying to combat Calm Mind variants of Latias. U-turn should be used frequently throughout the match to gain momentum for Celebi's team and chip switch-ins. Using it on predicted switch-ins that can Pursuit trap Celebi or use it as setup fodder, like Scizor and Togekiss, is optimal. If Celebi is using both Giga Drain and Recover, it should mainly look to use Giga Drain in an attempt to damage an opposing Pokemon instead of specifically for recovery. If Giga Drain is the only recovery option being used, however, Celebi should use it to restore health whenever the opportunity presents itself, such as against Stealth Rock setters and walls that can't damage Celebi adequately. Staying in when the opposing team carries a Pokemon capable of Pursuit trapping Celebi can often lead to compromising its longevity, meaning that Pursuit users on opposing teams should always be scouted out in order to make full use of this set.", "moves": [["Stealth Rock"], ["U-turn"], ["Psychic", "Giga Drain"], ["Recover"]], "item": [" Leftovers"], "ability": ["Natural Cure"], "nature": ["Bold"], "ev spread": [252, 0, 236, 0, 0, 20], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Specially Bulky Pokemon", "Dark-types", "Faster Pokemon", "Steel-types", "Dragon-types", "Flying-types"], "credits": ["Written by Hilomilo and Indigo Plateau", "Earlier versions by Ark", "Quality checked by Sage, vivalospride, martha,  and Nuked", "Grammar checked by A Cake Wearing A Hat, The Dutch Plumberjack,  and martha"]}
+{
+    "name": "Celebi",
+    "forms": {
+        "Base": {
+            "base stats": [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ],
+            "types": [
+                "Psychic",
+                "Grass"
+            ],
+            "abilities": [
+                "Natural Cure"
+            ],
+            "tier": [
+                "UU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Thanks to its diverse movepool and solid stats across the board, Celebi is a potent and versatile threat in the UU metagame. It can utilize its decent offensive typing to function as a competent sweeper and stallbreaker with Nasty Plot, forcing out the tier's several popular Ground- and Water-types in order to set up. Thanks to its diverse movepool, it can also work around conventional Grass-type checks through the use of coverage options like Earth Power and Dazzling Gleam, which can hit the Steel-types and Dragon-types that Celebi lures in. Celebi can also viably run a defensive Stealth Rock set due to its expansive support movepool, its decent bulk with investment, and a typing that provides it with the ability to act as a strong defensive pivot that can switch into attacks such as Scald and Earthquake. Its Natural Cure ability is also a relatively useful tool, allowing it to come in on Pokemon that commonly carry status-inducing moves, such as Alomomola and Hippowdon, without fear of a long-term status ailment. Unfortunately, Celebi's defensive typing provides it with as many crippling weaknesses as useful resistances, burdening it with vulnerabilities to several top threats, including Infernape, Scizor, and Hydreigon. Celebi also suffers from its relatively average Speed tier, which leaves it outsped and heavily threatened by the likes of Gengar, Nihilego, and Infernape.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Nasty Plot",
+            "stats": [
+                236,
+                212,
+                236,
+                299,
+                237,
+                328
+            ],
+            "type": [
+                "Psychic",
+                "Grass"
+            ],
+            "usage": "Celebi should aim to set up against Pokemon that cannot do much against it thanks to its typing and Natural Cure, such as Hippowdon, Empoleon, and Suicune. Do not set up if Celebi's checks, such as Mega Aggron and Bronzong, have not been worn down, as this can give the opponent momentum or free turns. Celebi's offensive presence causes many switches, especially against passive Pokemon; take advantage of these forced switches to double switch to Pokemon that can directly threaten the opponent's answers to Celebi. Make sure to scout for a Choice Scarf set against slower Pokemon such as Hydreigon and Togekiss that Celebi could otherwise beat one-on-one. Use Natural Cure's benefit liberally against defensively oriented teams that depend on status or other passive damage to deal with setup sweepers. After a Nasty Plot, Celebi can dent opposing teams and heal off most residual damage via Giga Drain. Similarly, Shattered Psyche is immensely powerful at +2 and allows Celebi to muscle through certain Steel-types like Scizor with prior damage. Use this to your advantage when setting up if Celebi's checks have been worn down. Celebi can also be used as a status absorber and pivot throughout the match versus Pokemon that could otherwise be annoying for the rest of the team to switch into, such as Amoonguss and Alomomola.",
+            "moves": [
+                [
+                    "Nasty Plot"
+                ],
+                [
+                    "Psychic"
+                ],
+                [
+                    "Giga Drain"
+                ],
+                [
+                    "Dazzling Gleam"
+                ]
+            ],
+            "item": [
+                " Psychium Z"
+            ],
+            "ability": [
+                "Natural Cure"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Defensive",
+            "stats": [
+                299,
+                212,
+                324,
+                236,
+                236,
+                241
+            ],
+            "type": [
+                "Psychic",
+                "Grass"
+            ],
+            "usage": "This set acts as a defensive pivot, meaning that Celebi will mostly attempt switching in on a Pokemon it can beat, like Zeraora or Hippowdon, in order to set Stealth Rock, spread status, or wear down opposing Pokemon. Celebi can also come in on Choice Scarf variants of Latias due to tanking its unboosted attacks quite comfortably, though Celebi should be wary of trying to combat Calm Mind variants of Latias. U-turn should be used frequently throughout the match to gain momentum for Celebi's team and chip switch-ins. Using it on predicted switch-ins that can Pursuit trap Celebi or use it as setup fodder, like Scizor and Togekiss, is optimal. If Celebi is using both Giga Drain and Recover, it should mainly look to use Giga Drain in an attempt to damage an opposing Pokemon instead of specifically for recovery. If Giga Drain is the only recovery option being used, however, Celebi should use it to restore health whenever the opportunity presents itself, such as against Stealth Rock setters and walls that can't damage Celebi adequately. Staying in when the opposing team carries a Pokemon capable of Pursuit trapping Celebi can often lead to compromising its longevity, meaning that Pursuit users on opposing teams should always be scouted out in order to make full use of this set.",
+            "moves": [
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "U-turn"
+                ],
+                [
+                    "Psychic",
+                    "Giga Drain"
+                ],
+                [
+                    "Recover"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Natural Cure"
+            ],
+            "nature": [
+                "Bold"
+            ],
+            "ev spread": [
+                252,
+                0,
+                236,
+                0,
+                0,
+                20
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Specially Bulky Pokemon",
+        "Dark-types",
+        "Faster Pokemon",
+        "Steel-types",
+        "Dragon-types",
+        "Flying-types"
+    ],
+    "credits": [
+        "Written by Hilomilo and Indigo Plateau",
+        "Earlier versions by Ark",
+        "Quality checked by Sage, vivalospride, martha,  and Nuked",
+        "Grammar checked by A Cake Wearing A Hat, The Dutch Plumberjack,  and martha"
+    ]
+}

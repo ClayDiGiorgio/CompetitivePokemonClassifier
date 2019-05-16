@@ -1,1 +1,97 @@
-{"name": "Ribombee", "forms": {"Base": {"base stats": [60, 55, 60, 95, 70, 124], "types": ["Bug", "Fairy"], "abilities": ["Honey Gather", "Shield Dust", "Sweet Veil"], "tier": ["NUBL"], "form": "Base"}}, "overview": "Ribombee carves itself a niche in the tier by its ability to reliably set Sticky Web for offensive teams. Its fantastic Speed and ability Shield Dust let Ribombee overcome common anti-leads, as it is faster than Mega Medicham and can't flinch from Mega Lopunny's Fake Out. It also has some nice utility in Stun Spore and is less passive than other suicide leads thanks to a passable Special Attack stat, a strong STAB move in Moonblast, and the ability to boost in Quiver Dance. Despite this, Ribombee can still be underwhelming, as it lacks power if opting for Stun Spore over Quiver Dance and otherwise struggles with common Pokemon such as Heatran and Tornadus-T.\n", "strategies' format": "OU", "strategies": [{"name": "Sticky Web Lead", "stats": [156, 131, 156, 289, 177, 381], "type": ["Bug", "Fairy"], "usage": "Ribombee is fairly straightforward to use; in most situations, you should send out Ribombee turn one and set up Sticky Web. When facing setup sweepers or Speed-boosting sweepers such as Shift Gear Magearna, Gyarados, and Blacephalon, you should prioritize using Stun Spore to ensure Ribombee can outspeed and KO them so they do not sweep your team. If opting to use Quiver Dance, it is best to use it in situations where the foe cannot deal much damage to Ribombee, such as against defensive Landorus-T and non-Gyro Ball Ferrothorn, or to threaten Defoggers such as Zapdos and Mew. In some cases, it is a good idea to keep Ribombee alive, even if it's at 1 HP, as its Speed can be very useful in revenge killing Pokemon like Greninja and non-Choice Scarf Kartana.", "moves": [["Sticky Web"], ["Moonblast"], ["Hidden Power Fire"], ["Stun Spore", "Quiver Dance"]], "item": [" Focus Sash"], "ability": ["Shield Dust"], "nature": ["Timid"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Steel-types", "Fire-types"], "credits": ["Written by Mellow", "Quality checked by Talah, Leo,  and lyd", "Grammar checked by Fireflame479 and The Dutch Plumberjack"]}
+{
+    "name": "Ribombee",
+    "forms": {
+        "Base": {
+            "base stats": [
+                60,
+                55,
+                60,
+                95,
+                70,
+                124
+            ],
+            "types": [
+                "Bug",
+                "Fairy"
+            ],
+            "abilities": [
+                "Honey Gather",
+                "Shield Dust",
+                "Sweet Veil"
+            ],
+            "tier": [
+                "NUBL"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Ribombee carves itself a niche in the tier by its ability to reliably set Sticky Web for offensive teams. Its fantastic Speed and ability Shield Dust let Ribombee overcome common anti-leads, as it is faster than Mega Medicham and can't flinch from Mega Lopunny's Fake Out. It also has some nice utility in Stun Spore and is less passive than other suicide leads thanks to a passable Special Attack stat, a strong STAB move in Moonblast, and the ability to boost in Quiver Dance. Despite this, Ribombee can still be underwhelming, as it lacks power if opting for Stun Spore over Quiver Dance and otherwise struggles with common Pokemon such as Heatran and Tornadus-T.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Sticky Web Lead",
+            "stats": [
+                156,
+                131,
+                156,
+                289,
+                177,
+                381
+            ],
+            "type": [
+                "Bug",
+                "Fairy"
+            ],
+            "usage": "Ribombee is fairly straightforward to use; in most situations, you should send out Ribombee turn one and set up Sticky Web. When facing setup sweepers or Speed-boosting sweepers such as Shift Gear Magearna, Gyarados, and Blacephalon, you should prioritize using Stun Spore to ensure Ribombee can outspeed and KO them so they do not sweep your team. If opting to use Quiver Dance, it is best to use it in situations where the foe cannot deal much damage to Ribombee, such as against defensive Landorus-T and non-Gyro Ball Ferrothorn, or to threaten Defoggers such as Zapdos and Mew. In some cases, it is a good idea to keep Ribombee alive, even if it's at 1 HP, as its Speed can be very useful in revenge killing Pokemon like Greninja and non-Choice Scarf Kartana.",
+            "moves": [
+                [
+                    "Sticky Web"
+                ],
+                [
+                    "Moonblast"
+                ],
+                [
+                    "Hidden Power Fire"
+                ],
+                [
+                    "Stun Spore",
+                    "Quiver Dance"
+                ]
+            ],
+            "item": [
+                " Focus Sash"
+            ],
+            "ability": [
+                "Shield Dust"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Steel-types",
+        "Fire-types"
+    ],
+    "credits": [
+        "Written by Mellow",
+        "Quality checked by Talah, Leo,  and lyd",
+        "Grammar checked by Fireflame479 and The Dutch Plumberjack"
+    ]
+}

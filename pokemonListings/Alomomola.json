@@ -1,1 +1,97 @@
-{"name": "Alomomola", "forms": {"Base": {"base stats": [165, 75, 80, 40, 45, 65], "types": ["Water"], "abilities": ["Healer", "Hydration", "Regenerator"], "tier": ["UU"], "form": "Base"}}, "overview": "Alomomola's massive HP stat combined with decent Defense, alongside access to the combination of Wish and Regenerator, gives it a niche on certain teams as a somewhat reliable Wish passer. Alomomola can find several opportunities to Wish pass during a game thanks to its good physical bulk. On the downside, Alomomola's low base 40 Special Attack means that it is very passive and thus heavily reliant on Scald burns or utility moves such as Toxic and Knock Off. It offers very little to a team outside of Wish passing due to its low offenses, lack of useful resistances, and its bad Special Defense, which makes it mostly outclassed by Chansey as a Wish passer.\n", "strategies' format": "OU", "strategies": [{"name": "WishPass", "stats": [376, 167, 275, 116, 189, 166], "type": ["Water"], "usage": "Once Alomomola has been brought in, it is usually best to try and throw out either a Knock Off or a Toxic to cripple the opponent's initial switch-in. Alomomola is a relatively safe Pokemon to use when scouting offensive threats such as Greninja and Keldeo for coverage moves thanks to its great bulk combined with Regenerator, so don't be afraid to switch it in during situations such as this. Lastly, keep in mind that Alomomola needs to be at a relatively high amount of HP in order to reliably wall many of the more powerful wallbreakers in OU, so try not to let it get too weak; sometimes, it is best for Alomomola to receive its own Wish, rather than passing it, so that it can remain healthy.", "moves": [["Scald"], ["Toxic", "Knock Off"], ["Wish"], ["Protect"]], "item": [" Leftovers"], "ability": ["Regenerator"], "nature": ["Bold"], "ev spread": [40, 0, 216, 0, 252, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Grass- and Electric-type Pokemon", "Setup Sweepers", "Powerful Special Attackers", "Taunt Users"], "credits": ["Written by false", "Quality checked by Gary, Subject 18,  and Finchinator", "Grammar checked by Eyan and Kris"]}
+{
+    "name": "Alomomola",
+    "forms": {
+        "Base": {
+            "base stats": [
+                165,
+                75,
+                80,
+                40,
+                45,
+                65
+            ],
+            "types": [
+                "Water"
+            ],
+            "abilities": [
+                "Healer",
+                "Hydration",
+                "Regenerator"
+            ],
+            "tier": [
+                "UU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Alomomola's massive HP stat combined with decent Defense, alongside access to the combination of Wish and Regenerator, gives it a niche on certain teams as a somewhat reliable Wish passer. Alomomola can find several opportunities to Wish pass during a game thanks to its good physical bulk. On the downside, Alomomola's low base 40 Special Attack means that it is very passive and thus heavily reliant on Scald burns or utility moves such as Toxic and Knock Off. It offers very little to a team outside of Wish passing due to its low offenses, lack of useful resistances, and its bad Special Defense, which makes it mostly outclassed by Chansey as a Wish passer.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "WishPass",
+            "stats": [
+                376,
+                167,
+                275,
+                116,
+                189,
+                166
+            ],
+            "type": [
+                "Water"
+            ],
+            "usage": "Once Alomomola has been brought in, it is usually best to try and throw out either a Knock Off or a Toxic to cripple the opponent's initial switch-in. Alomomola is a relatively safe Pokemon to use when scouting offensive threats such as Greninja and Keldeo for coverage moves thanks to its great bulk combined with Regenerator, so don't be afraid to switch it in during situations such as this. Lastly, keep in mind that Alomomola needs to be at a relatively high amount of HP in order to reliably wall many of the more powerful wallbreakers in OU, so try not to let it get too weak; sometimes, it is best for Alomomola to receive its own Wish, rather than passing it, so that it can remain healthy.",
+            "moves": [
+                [
+                    "Scald"
+                ],
+                [
+                    "Toxic",
+                    "Knock Off"
+                ],
+                [
+                    "Wish"
+                ],
+                [
+                    "Protect"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Regenerator"
+            ],
+            "nature": [
+                "Bold"
+            ],
+            "ev spread": [
+                40,
+                0,
+                216,
+                0,
+                252,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Grass- and Electric-type Pokemon",
+        "Setup Sweepers",
+        "Powerful Special Attackers",
+        "Taunt Users"
+    ],
+    "credits": [
+        "Written by false",
+        "Quality checked by Gary, Subject 18,  and Finchinator",
+        "Grammar checked by Eyan and Kris"
+    ]
+}

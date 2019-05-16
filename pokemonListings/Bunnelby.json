@@ -1,1 +1,153 @@
-{"name": "Bunnelby", "forms": {"Base": {"base stats": [38, 36, 38, 32, 36, 57], "types": ["Normal"], "abilities": ["Cheek Pouch", "Huge Power", "Pickup"], "tier": ["LC"], "form": "Base"}}, "overview": "Bunnelby is able to use Huge Power to effectively wallbreak and clean. Aditionally, its decent Speed in conjunction with a Choice Scarf or Sticky Web support allow it to outspeed many important threats and effectively revenge kill as well. Due to its high Attack and coverage it is hard to switch into, but some common Pokemon, such as Onix, Ferroseed, and Pumpkaboo-XL can still easily come in. Additionally, Fighting-types such as Timburr and Mienfoo can easily force Bunnelby out, forcing Bunnelby's team to lose some momentum, and if it is being run on an offensive team, that can be hard to deal with. Finally, it has very low bulk, meaning it is very hard to get it in without U-turn or Volt Switch.\n", "strategies' format": "LC", "strategies": [{"name": "Choice Scarf", "stats": [112, 181, 125, 90, 108, 205], "type": ["Normal"], "usage": "Bunnelby's main use in the early-game is to try to wear down its own checks with U-turn and revenge kill. Once priority users such as Pawniard and Timburr and Pokemon that resist Return such as Archen and Gastly have been removed, Bunnelby can sweep with Return. It is critical that you remove priority users because most of them can KO Bunnelby after minimal damage.", "moves": [["Return"], ["U-turn"], ["Earthquake"], ["Stone Edge"]], "item": [" Choice Scarf"], "ability": ["Huge Power"], "nature": ["Adamant", "Jolly"], "ev spread": [0, 228, 52, 0, 0, 220], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Life Orb", "stats": [85, 181, 125, 90, 108, 205], "type": ["Normal"], "usage": "Try to avoid switching Bunnelby into a direct attack; otherwise, it will get KOed quickly due to its low bulk and its tendency to be worn down by Life Orb recoil. Use slow pivots such as Mienfoo and Chinchou to bring Bunnelby in safely. Quick Attack is useful for revenge killing weakened enemy Pokemon. Bunnelby is ridiculously strong and is capable of 2HKOing the entire metagame.", "moves": [["Return"], ["Quick Attack"], ["Earthquake"], ["Iron Head"]], "item": [" Life Orb"], "ability": ["Huge Power"], "nature": ["Adamant", "Jolly"], "ev spread": [0, 228, 52, 0, 0, 220], "iv spread": [4, 31, 31, 31, 31, 31]}], "counters": ["Priority Moves", "Fighting-types", "Ghost-types", "Ferroseed", "Status"], "credits": ["Written by sam-testings", "Quality checked by tahu, Fiend,  and Tricking", "Grammar checked by fleurdyleurse and The Dutch Plumberjack"]}
+{
+    "name": "Bunnelby",
+    "forms": {
+        "Base": {
+            "base stats": [
+                38,
+                36,
+                38,
+                32,
+                36,
+                57
+            ],
+            "types": [
+                "Normal"
+            ],
+            "abilities": [
+                "Cheek Pouch",
+                "Huge Power",
+                "Pickup"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Bunnelby is able to use Huge Power to effectively wallbreak and clean. Aditionally, its decent Speed in conjunction with a Choice Scarf or Sticky Web support allow it to outspeed many important threats and effectively revenge kill as well. Due to its high Attack and coverage it is hard to switch into, but some common Pokemon, such as Onix, Ferroseed, and Pumpkaboo-XL can still easily come in. Additionally, Fighting-types such as Timburr and Mienfoo can easily force Bunnelby out, forcing Bunnelby's team to lose some momentum, and if it is being run on an offensive team, that can be hard to deal with. Finally, it has very low bulk, meaning it is very hard to get it in without U-turn or Volt Switch.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Choice Scarf",
+            "stats": [
+                112,
+                181,
+                125,
+                90,
+                108,
+                205
+            ],
+            "type": [
+                "Normal"
+            ],
+            "usage": "Bunnelby's main use in the early-game is to try to wear down its own checks with U-turn and revenge kill. Once priority users such as Pawniard and Timburr and Pokemon that resist Return such as Archen and Gastly have been removed, Bunnelby can sweep with Return. It is critical that you remove priority users because most of them can KO Bunnelby after minimal damage.",
+            "moves": [
+                [
+                    "Return"
+                ],
+                [
+                    "U-turn"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Stone Edge"
+                ]
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Huge Power"
+            ],
+            "nature": [
+                "Adamant",
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                228,
+                52,
+                0,
+                0,
+                220
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Life Orb",
+            "stats": [
+                85,
+                181,
+                125,
+                90,
+                108,
+                205
+            ],
+            "type": [
+                "Normal"
+            ],
+            "usage": "Try to avoid switching Bunnelby into a direct attack; otherwise, it will get KOed quickly due to its low bulk and its tendency to be worn down by Life Orb recoil. Use slow pivots such as Mienfoo and Chinchou to bring Bunnelby in safely. Quick Attack is useful for revenge killing weakened enemy Pokemon. Bunnelby is ridiculously strong and is capable of 2HKOing the entire metagame.",
+            "moves": [
+                [
+                    "Return"
+                ],
+                [
+                    "Quick Attack"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Iron Head"
+                ]
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Huge Power"
+            ],
+            "nature": [
+                "Adamant",
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                228,
+                52,
+                0,
+                0,
+                220
+            ],
+            "iv spread": [
+                4,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Priority Moves",
+        "Fighting-types",
+        "Ghost-types",
+        "Ferroseed",
+        "Status"
+    ],
+    "credits": [
+        "Written by sam-testings",
+        "Quality checked by tahu, Fiend,  and Tricking",
+        "Grammar checked by fleurdyleurse and The Dutch Plumberjack"
+    ]
+}

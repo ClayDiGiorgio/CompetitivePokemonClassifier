@@ -1,1 +1,174 @@
-{"name": "Gengar", "forms": {"Base": {"base stats": [60, 65, 60, 130, 75, 110], "types": ["Ghost", "Poison"], "abilities": ["Cursed Body"], "tier": ["UU"], "form": "Base"}, "Mega": {"base stats": [60, 65, 80, 170, 95, 130], "types": ["Ghost", "Poison"], "abilities": ["Shadow Tag"], "tier": ["Uber"], "form": "Mega"}}, "overview": "By virtue of its high Special Attack and Speed stats, Gengar is an exceptional wallbreaker in the OU metagame. It can take advantage of the tier's general lack of Ghost-resistant Pokemon to fire off powerful STAB Shadow Balls while also pressuring the tier's myriad of Fairy-types thanks to its Poison typing. Gengar also has a decent amount of coverage and utility options at its disposal, including useful moves in Focus Blast, Thunderbolt, and Taunt. Unfortunately, Gengar is horribly frail and thus easily folds to faster Pokemon, Choice Scarf users, and priority, which are all quite common in OU. It also has trouble taking strong neutral hits because of this, and at times it over relies on KOing its foes as a result. Gengar's fragility can also limit its opportunities to switch in, which can prevent it from consistently wallbreaking. Lastly, Gengar is quite weak to Pursuit from the likes of Weavile and Tyranitar, which requires that it is played carefully in order to prevent it from being trapped and KOed.\n", "strategies' format": "OU", "strategies": [{"name": "Offensive Utility", "stats": [157, 149, 156, 359, 186, 350], "type": ["Ghost", "Poison"], "usage": "Gengar should be brought in early-game in order to spam its STAB attacks and wear down the other team. This will often pave the way for a teammate's sweep due to the lack of Pokemon capable of easily stomaching Gengar's hits. In matchups against defensive or balanced teams, Gengar should look to come in on threats like Chansey and Toxapex. From there, it can cripple them with Taunt and proceed to wear them down without taking notable damage from any of their attacks. This set should be wary of staying in on threats that it can't OHKO from full health, such as Volcarona and Gyarados, as Gengar is incredibly frail. Because of said frailty, Gengar should also be wary about coming in on any attacks, which makes being brought in after a teammate has fainted or with support from a pivot optimal. Double switches and coming in on resisted attacks are also options, though these are both notably riskier.", "moves": [["Shadow Ball"], ["Sludge Wave"], ["Taunt"], ["Focus Blast"]], "item": [" Life Orb", " Ghostium Z"], "ability": ["Cursed Body"], "nature": ["Timid"], "ev spread": [4, 0, 0, 252, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Choice Specs", "stats": [157, 149, 156, 359, 186, 350], "type": ["Ghost", "Poison"], "usage": "This set functions as a wallbreaker that looks to pave the way for a teammate's sweep. However, Gengar can try using its high Speed to clean up late-game if the opposing team is weakened well enough. Because of its frailty, Gengar should be careful about switching in. It can usually get in on predicted double switches and attacks that it either is immune to or 4x resists, though it is often safer to bring Gengar into play with pivot support or after a teammate has fainted. Gengar's frailty should also prevent it from staying in on various threats, such as Garchomp and unboosted Volcarona, unless they've been weakened a bit, since these Pokemon are all capable of taking a hit and OHKOing Gengar or setting up in retaliation. Because Choice Specs locks Gengar into one move, it is important that this set is utilized with careful prediction. For example, if a foe like Tyranitar or Bisharp is predicted to switch in, Gengar should use Focus Blast to prevent them from either trapping it or receiving an opportunity to set up the next turn. Trick is especially important to use with careful prediction, as Gengar only has one opportunity to force a foe to hold Choice Specs. Chansey and Mantine are two examples of Pokemon that are often going to switch into Gengar, so if they are on the opposing team and are predicted to come into play, Trick should be used to cripple them by locking them into one move and, in Chansey's case, removing Eviolite.", "moves": [["Shadow Ball"], ["Sludge Wave"], ["Focus Blast"], ["Trick", "Thunderbolt"]], "item": [" Choice Specs"], "ability": ["Cursed Body"], "nature": ["Timid"], "ev spread": [4, 0, 0, 252, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Faster Pokemon", "Strong Priority", "Pursuit Trappers", "Offensive Pokemon That Can Take a Hit"], "credits": ["Written by Hilomilo", "Quality checked by Gary, GMars,  and Finchinator", "Grammar checked by P Squared and Fireflame479"]}
+{
+    "name": "Gengar",
+    "forms": {
+        "Base": {
+            "base stats": [
+                60,
+                65,
+                60,
+                130,
+                75,
+                110
+            ],
+            "types": [
+                "Ghost",
+                "Poison"
+            ],
+            "abilities": [
+                "Cursed Body"
+            ],
+            "tier": [
+                "UU"
+            ],
+            "form": "Base"
+        },
+        "Mega": {
+            "base stats": [
+                60,
+                65,
+                80,
+                170,
+                95,
+                130
+            ],
+            "types": [
+                "Ghost",
+                "Poison"
+            ],
+            "abilities": [
+                "Shadow Tag"
+            ],
+            "tier": [
+                "Uber"
+            ],
+            "form": "Mega"
+        }
+    },
+    "overview": "By virtue of its high Special Attack and Speed stats, Gengar is an exceptional wallbreaker in the OU metagame. It can take advantage of the tier's general lack of Ghost-resistant Pokemon to fire off powerful STAB Shadow Balls while also pressuring the tier's myriad of Fairy-types thanks to its Poison typing. Gengar also has a decent amount of coverage and utility options at its disposal, including useful moves in Focus Blast, Thunderbolt, and Taunt. Unfortunately, Gengar is horribly frail and thus easily folds to faster Pokemon, Choice Scarf users, and priority, which are all quite common in OU. It also has trouble taking strong neutral hits because of this, and at times it over relies on KOing its foes as a result. Gengar's fragility can also limit its opportunities to switch in, which can prevent it from consistently wallbreaking. Lastly, Gengar is quite weak to Pursuit from the likes of Weavile and Tyranitar, which requires that it is played carefully in order to prevent it from being trapped and KOed.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Offensive Utility",
+            "stats": [
+                157,
+                149,
+                156,
+                359,
+                186,
+                350
+            ],
+            "type": [
+                "Ghost",
+                "Poison"
+            ],
+            "usage": "Gengar should be brought in early-game in order to spam its STAB attacks and wear down the other team. This will often pave the way for a teammate's sweep due to the lack of Pokemon capable of easily stomaching Gengar's hits. In matchups against defensive or balanced teams, Gengar should look to come in on threats like Chansey and Toxapex. From there, it can cripple them with Taunt and proceed to wear them down without taking notable damage from any of their attacks. This set should be wary of staying in on threats that it can't OHKO from full health, such as Volcarona and Gyarados, as Gengar is incredibly frail. Because of said frailty, Gengar should also be wary about coming in on any attacks, which makes being brought in after a teammate has fainted or with support from a pivot optimal. Double switches and coming in on resisted attacks are also options, though these are both notably riskier.",
+            "moves": [
+                [
+                    "Shadow Ball"
+                ],
+                [
+                    "Sludge Wave"
+                ],
+                [
+                    "Taunt"
+                ],
+                [
+                    "Focus Blast"
+                ]
+            ],
+            "item": [
+                " Life Orb",
+                " Ghostium Z"
+            ],
+            "ability": [
+                "Cursed Body"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                4,
+                0,
+                0,
+                252,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Choice Specs",
+            "stats": [
+                157,
+                149,
+                156,
+                359,
+                186,
+                350
+            ],
+            "type": [
+                "Ghost",
+                "Poison"
+            ],
+            "usage": "This set functions as a wallbreaker that looks to pave the way for a teammate's sweep. However, Gengar can try using its high Speed to clean up late-game if the opposing team is weakened well enough. Because of its frailty, Gengar should be careful about switching in. It can usually get in on predicted double switches and attacks that it either is immune to or 4x resists, though it is often safer to bring Gengar into play with pivot support or after a teammate has fainted. Gengar's frailty should also prevent it from staying in on various threats, such as Garchomp and unboosted Volcarona, unless they've been weakened a bit, since these Pokemon are all capable of taking a hit and OHKOing Gengar or setting up in retaliation. Because Choice Specs locks Gengar into one move, it is important that this set is utilized with careful prediction. For example, if a foe like Tyranitar or Bisharp is predicted to switch in, Gengar should use Focus Blast to prevent them from either trapping it or receiving an opportunity to set up the next turn. Trick is especially important to use with careful prediction, as Gengar only has one opportunity to force a foe to hold Choice Specs. Chansey and Mantine are two examples of Pokemon that are often going to switch into Gengar, so if they are on the opposing team and are predicted to come into play, Trick should be used to cripple them by locking them into one move and, in Chansey's case, removing Eviolite.",
+            "moves": [
+                [
+                    "Shadow Ball"
+                ],
+                [
+                    "Sludge Wave"
+                ],
+                [
+                    "Focus Blast"
+                ],
+                [
+                    "Trick",
+                    "Thunderbolt"
+                ]
+            ],
+            "item": [
+                " Choice Specs"
+            ],
+            "ability": [
+                "Cursed Body"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                4,
+                0,
+                0,
+                252,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Faster Pokemon",
+        "Strong Priority",
+        "Pursuit Trappers",
+        "Offensive Pokemon That Can Take a Hit"
+    ],
+    "credits": [
+        "Written by Hilomilo",
+        "Quality checked by Gary, GMars,  and Finchinator",
+        "Grammar checked by P Squared and Fireflame479"
+    ]
+}

@@ -1,1 +1,104 @@
-{"name": "Spinarak", "forms": {"Base": {"base stats": [40, 60, 40, 40, 40, 30], "types": ["Bug", "Poison"], "abilities": ["Insomnia", "Sniper", "Swarm"], "tier": ["LC"], "form": "Base"}}, "overview": "Spinarak is blessed with access to the move Sticky Web, which means it can greatly support its teammates, especially offensive ones, by allowing them to outspeed foes they usually wouldn't. However, it is generally outclassed by Surskit, which is a much faster Sticky Web setter. Despite this, Spinarak has several niches that differentiate it from Surskit and allow it to perform effectively in its own right. For instance, it has a better defensive typing and superior bulk, which allows it to check and set up entry hazards against Snivy, a large threat to Sticky Web teams, along with common Fighting- and Fairy-types like Timburr and Spritzee. Insomnia means that Spinarak can switch in and set up hazards versus Foongus with ease. Spinarak has a passable Attack stat and can learn Megahorn, a powerful STAB move, and Leech Life, which provides recovery, and it can also use Toxic Spikes, furthering its supportive role by letting it wear down its foes so that its teammates can KO them more easily. Unfortunately, Spinarak also has significant downsides; its poor bulk combined with its low Speed stat means that it struggles to fulfill its role as a Sticky Web setter effectively. While its typing allows it to check some common Pokemon, it makes it weak to Stealth Rock and Flying-types, some of which can also remove its entry hazards using Defog. Spinarak also has extremely limited versatility, as its utility stems almost purely from its access to Sticky Web, making it very predictable. Sticky Web can be easily removed by Pokemon such as Staryu, Drilbur, Vullaby, and Archen using Rapid Spin or Defog, limiting Spinarak's contribution to the battle; Vullaby and Archen are the most notable because of their super effective STAB moves that they can use against Spinarak. Sticky Web is further flawed in that Pawniard and Snivy, two very common threats, can switch in and benefit from it via Defiant and Contrary, respectively.\n", "strategies' format": "LC", "strategies": [{"name": "Sticky Web", "stats": [165, 156, 181, 104, 145, 96], "type": ["Bug", "Poison"], "usage": "Spinarak should switch in on Pokemon that cannot deal much damage to it, such as Fairy-types like Spritzee and Snubbull, Fighting-types like Timburr and Croagunk, and Pokemon that have poor offensive capabilities such as Foongus and Mareanie, for a safe opportunity to set up Sticky Web or Toxic Spikes. It is a good idea to set up Sticky Web as soon as possible, so leading with Spinarak is often ideal. However, you should not lead with Spinarak when the opponent has a threatening hazard setter like Onix or Dwebble that they will likely lead with. In almost all situations, Sticky Web should be set up before Toxic Spikes because it supports the team more. It is rarely worthwhile to set up two layers of Toxic Spikes because in an offensive metagame, the immediate poison damage from a single layer is more useful than the gradually increasing damage from Toxic poison. Beware of Rapid Spin and Defog users, because they can remove Spinarak's entry hazards. If your team lacks a spinblocker or Defiant user, you should usually wait until the opponent's entry hazard remover is KOed before setting up Sticky Web and Toxic Spikes, and you should attempt to keep Spinarak healthy throughout the game so that it can set up Sticky Web multiple times if necessary. You should only allow Spinarak to be KOed once Sticky Web is set up and the opponent has no entry hazard removers left, and you should also be careful when using Sticky Web if the opponent has a Pawniard, which can switch in and gain an instant Attack boost from Defiant. Likewise, Snivy receives a Speed boost from Contrary, although as long as Spinarak isn't weakened, it can deal with Snivy well. Sucker Punch can be used in desperate situations to attempt to stop a very weakened faster sweeper, or for Spinarak to attack the foe just before it is KOed.", "moves": [["Sticky Web"], ["Leech Life", "Megahorn"], ["Poison Jab"], ["Toxic Spikes", "Sucker Punch", "Thief"]], "item": [" Eviolite"], "ability": ["Insomnia"], "nature": ["Impish"], "ev spread": [196, 0, 196, 0, 116, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Flying-type Pokemon", "Fire-type Pokemon", "Rock-type Pokemon", "Steel-type Pokemon", "Pawniard", "Abra", "Taunt Users"], "credits": ["Written by MeButYou82", "Quality checked by Xayah, Nineage,  and Hilomilo", "Grammar checked by Fireflame479 and CryoGyro"]}
+{
+    "name": "Spinarak",
+    "forms": {
+        "Base": {
+            "base stats": [
+                40,
+                60,
+                40,
+                40,
+                40,
+                30
+            ],
+            "types": [
+                "Bug",
+                "Poison"
+            ],
+            "abilities": [
+                "Insomnia",
+                "Sniper",
+                "Swarm"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Spinarak is blessed with access to the move Sticky Web, which means it can greatly support its teammates, especially offensive ones, by allowing them to outspeed foes they usually wouldn't. However, it is generally outclassed by Surskit, which is a much faster Sticky Web setter. Despite this, Spinarak has several niches that differentiate it from Surskit and allow it to perform effectively in its own right. For instance, it has a better defensive typing and superior bulk, which allows it to check and set up entry hazards against Snivy, a large threat to Sticky Web teams, along with common Fighting- and Fairy-types like Timburr and Spritzee. Insomnia means that Spinarak can switch in and set up hazards versus Foongus with ease. Spinarak has a passable Attack stat and can learn Megahorn, a powerful STAB move, and Leech Life, which provides recovery, and it can also use Toxic Spikes, furthering its supportive role by letting it wear down its foes so that its teammates can KO them more easily. Unfortunately, Spinarak also has significant downsides; its poor bulk combined with its low Speed stat means that it struggles to fulfill its role as a Sticky Web setter effectively. While its typing allows it to check some common Pokemon, it makes it weak to Stealth Rock and Flying-types, some of which can also remove its entry hazards using Defog. Spinarak also has extremely limited versatility, as its utility stems almost purely from its access to Sticky Web, making it very predictable. Sticky Web can be easily removed by Pokemon such as Staryu, Drilbur, Vullaby, and Archen using Rapid Spin or Defog, limiting Spinarak's contribution to the battle; Vullaby and Archen are the most notable because of their super effective STAB moves that they can use against Spinarak. Sticky Web is further flawed in that Pawniard and Snivy, two very common threats, can switch in and benefit from it via Defiant and Contrary, respectively.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Sticky Web",
+            "stats": [
+                165,
+                156,
+                181,
+                104,
+                145,
+                96
+            ],
+            "type": [
+                "Bug",
+                "Poison"
+            ],
+            "usage": "Spinarak should switch in on Pokemon that cannot deal much damage to it, such as Fairy-types like Spritzee and Snubbull, Fighting-types like Timburr and Croagunk, and Pokemon that have poor offensive capabilities such as Foongus and Mareanie, for a safe opportunity to set up Sticky Web or Toxic Spikes. It is a good idea to set up Sticky Web as soon as possible, so leading with Spinarak is often ideal. However, you should not lead with Spinarak when the opponent has a threatening hazard setter like Onix or Dwebble that they will likely lead with. In almost all situations, Sticky Web should be set up before Toxic Spikes because it supports the team more. It is rarely worthwhile to set up two layers of Toxic Spikes because in an offensive metagame, the immediate poison damage from a single layer is more useful than the gradually increasing damage from Toxic poison. Beware of Rapid Spin and Defog users, because they can remove Spinarak's entry hazards. If your team lacks a spinblocker or Defiant user, you should usually wait until the opponent's entry hazard remover is KOed before setting up Sticky Web and Toxic Spikes, and you should attempt to keep Spinarak healthy throughout the game so that it can set up Sticky Web multiple times if necessary. You should only allow Spinarak to be KOed once Sticky Web is set up and the opponent has no entry hazard removers left, and you should also be careful when using Sticky Web if the opponent has a Pawniard, which can switch in and gain an instant Attack boost from Defiant. Likewise, Snivy receives a Speed boost from Contrary, although as long as Spinarak isn't weakened, it can deal with Snivy well. Sucker Punch can be used in desperate situations to attempt to stop a very weakened faster sweeper, or for Spinarak to attack the foe just before it is KOed.",
+            "moves": [
+                [
+                    "Sticky Web"
+                ],
+                [
+                    "Leech Life",
+                    "Megahorn"
+                ],
+                [
+                    "Poison Jab"
+                ],
+                [
+                    "Toxic Spikes",
+                    "Sucker Punch",
+                    "Thief"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Insomnia"
+            ],
+            "nature": [
+                "Impish"
+            ],
+            "ev spread": [
+                196,
+                0,
+                196,
+                0,
+                116,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Flying-type Pokemon",
+        "Fire-type Pokemon",
+        "Rock-type Pokemon",
+        "Steel-type Pokemon",
+        "Pawniard",
+        "Abra",
+        "Taunt Users"
+    ],
+    "credits": [
+        "Written by MeButYou82",
+        "Quality checked by Xayah, Nineage,  and Hilomilo",
+        "Grammar checked by Fireflame479 and CryoGyro"
+    ]
+}

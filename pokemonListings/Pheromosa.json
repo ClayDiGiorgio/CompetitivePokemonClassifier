@@ -1,1 +1,31 @@
-{"name": "Pheromosa", "forms": {"Base": {"base stats": [71, 137, 37, 137, 37, 151], "types": ["Bug", "Fighting"], "abilities": ["Beast Boost"], "tier": ["Uber"], "form": "Base"}}, "overview": "", "strategies' format": "Doubles", "strategies": [], "counters": [], "credits": []}
+{
+    "name": "Pheromosa",
+    "forms": {
+        "Base": {
+            "base stats": [
+                71,
+                137,
+                37,
+                137,
+                37,
+                151
+            ],
+            "types": [
+                "Bug",
+                "Fighting"
+            ],
+            "abilities": [
+                "Beast Boost"
+            ],
+            "tier": [
+                "Uber"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "",
+    "strategies' format": "Doubles",
+    "strategies": [],
+    "counters": [],
+    "credits": []
+}

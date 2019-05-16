@@ -1,1 +1,100 @@
-{"name": "Aron", "forms": {"Base": {"base stats": [50, 70, 100, 40, 40, 30], "types": ["Steel", "Rock"], "abilities": ["Heavy Metal", "Rock Head", "Sturdy"], "tier": ["LC"], "form": "Base"}}, "overview": "Thanks to Rock Head, Aron has access to a recoil-free 150-Base Power STAB move in Head Smash, which hits hard thanks to Aron's solid base 70 Attack. A great base 100 Defense allows Aron to survive strong physical hits, especially when coupled with an Eviolite. Its Steel / Rock typing gives it useful resistances, most notably to Fairy- and Flying-type attacks. However, its typing also gives it very common weaknesses to Water, Ground, and Fighting. Head Smash also has very low PP. It's difficult for Aron to set up on many things due to coverage moves such as Earthquake from Snubbull and Jump Kick from Doduo. Aron also has low Special Defense, meaning it can have a tough time switching in on special attacks. It faces competition from other setup sweepers that can be stronger and faster than a set-up Aron; Shell Smash users like Tirtouga and Shellder are particularly good examples. Aron also has very low Speed prior to a Rock Polish, meaning it can be KOed easily if it hasn't set up.\n", "strategies' format": "LC", "strategies": [{"name": "Rock Polish", "stats": [136, 225, 236, 104, 145, 159], "type": ["Steel", "Rock"], "usage": "Aron can switch into Pokemon that it defensively checks, such as Spritzee and Vullaby, as this allows it to immediately threaten the opposing switch-in with a strong Head Smash. Aron should be switched in on resisted hits like Moonblast or Brave Bird, as against Choice Scarf users like Doduo, this can usually force a switch, allowing it to get a free Rock Polish. Aron can use Head Smash against slower foes when it is at low HP to deal some damage before going down.", "moves": [["Rock Polish"], ["Head Smash"], ["Heavy Slam", "Iron Head"], ["Earthquake", "Superpower"]], "item": [" Eviolite"], "ability": ["Rock Head"], "nature": ["Jolly"], "ev spread": [0, 196, 0, 0, 116, 196], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Fighting-types", "Physically Defensive Pokemon", "Water-types", "Ground-types"], "credits": ["Written by MeepBard", "Quality checked by Nineage, Xayah,  and Corporal Levi", "Grammar checked by allstarapology, A Cake Wearing A Hat,  and martha"]}
+{
+    "name": "Aron",
+    "forms": {
+        "Base": {
+            "base stats": [
+                50,
+                70,
+                100,
+                40,
+                40,
+                30
+            ],
+            "types": [
+                "Steel",
+                "Rock"
+            ],
+            "abilities": [
+                "Heavy Metal",
+                "Rock Head",
+                "Sturdy"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Thanks to Rock Head, Aron has access to a recoil-free 150-Base Power STAB move in Head Smash, which hits hard thanks to Aron's solid base 70 Attack. A great base 100 Defense allows Aron to survive strong physical hits, especially when coupled with an Eviolite. Its Steel / Rock typing gives it useful resistances, most notably to Fairy- and Flying-type attacks. However, its typing also gives it very common weaknesses to Water, Ground, and Fighting. Head Smash also has very low PP. It's difficult for Aron to set up on many things due to coverage moves such as Earthquake from Snubbull and Jump Kick from Doduo. Aron also has low Special Defense, meaning it can have a tough time switching in on special attacks. It faces competition from other setup sweepers that can be stronger and faster than a set-up Aron; Shell Smash users like Tirtouga and Shellder are particularly good examples. Aron also has very low Speed prior to a Rock Polish, meaning it can be KOed easily if it hasn't set up.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Rock Polish",
+            "stats": [
+                136,
+                225,
+                236,
+                104,
+                145,
+                159
+            ],
+            "type": [
+                "Steel",
+                "Rock"
+            ],
+            "usage": "Aron can switch into Pokemon that it defensively checks, such as Spritzee and Vullaby, as this allows it to immediately threaten the opposing switch-in with a strong Head Smash. Aron should be switched in on resisted hits like Moonblast or Brave Bird, as against Choice Scarf users like Doduo, this can usually force a switch, allowing it to get a free Rock Polish. Aron can use Head Smash against slower foes when it is at low HP to deal some damage before going down.",
+            "moves": [
+                [
+                    "Rock Polish"
+                ],
+                [
+                    "Head Smash"
+                ],
+                [
+                    "Heavy Slam",
+                    "Iron Head"
+                ],
+                [
+                    "Earthquake",
+                    "Superpower"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Rock Head"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                196,
+                0,
+                0,
+                116,
+                196
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Fighting-types",
+        "Physically Defensive Pokemon",
+        "Water-types",
+        "Ground-types"
+    ],
+    "credits": [
+        "Written by MeepBard",
+        "Quality checked by Nineage, Xayah,  and Corporal Levi",
+        "Grammar checked by allstarapology, A Cake Wearing A Hat,  and martha"
+    ]
+}

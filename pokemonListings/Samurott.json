@@ -1,1 +1,152 @@
-{"name": "Samurott", "forms": {"Base": {"base stats": [95, 100, 85, 108, 70, 70], "types": ["Water"], "abilities": ["Shell Armor", "Torrent"], "tier": ["NU"], "form": "Base"}}, "overview": "Samurott is one of the best offensive Water-types in the NU tier. Thanks to its balanced attacking stats, it can effectively run physical, special, and mixed sets. Having access to near-perfect coverage with moves like Hydro Pump, Ice Beam, and Grass Knot, it rarely finds itself hard walled by any Pokemon. It also has access to Swords Dance and Aqua Jet, allowing it to perform as a sweeper, as well as another utility move in Taunt, which can give it the opportunity to break through Pokemon like Vaporeon and defensive Slowking by preventing them from recovering. It can also prevent status moves from the likes of Mega Audino and Stealth Rock from Pokemon like Druddigon. Samurott has quite a few checks, however, such as Heliolisk and Vaporeon, both of which tank Water-type moves with ease, preventing Samurott from spamming Hydro Pump and Liquidation. Heliolisk works especially well against Samurott, as it is faster and puts a stop to both the special and Swords Dance sets. Samurott is further hindered by its mediocre Speed, meaning you'll have to keep it healthy so it can set up and sweep. This also makes it easy to revenge kill with Pokemon that are resistant to Aqua Jet, such as Sceptile and Whimsicott.\n", "strategies' format": "NU", "strategies": [{"name": "Special Wallbreaker", "stats": [226, 212, 206, 315, 177, 262], "type": ["Water"], "usage": "Make sure to play around Heliolisk effectively. It is Samurott's best counter, as it can be healed up by Water-type attacks. Try to avoid spamming Hydro Pump and Surf before Heliolisk and other Water-immune Pokemon like Seismitoad, which is susceptible to Grass Knot, are taken out. Instead, try using Ice Beam to catch Heliolisk on the switch. Try to take out all special walls such as Mega Audino and Assault Vest Slowking before spamming moves with Samurott, as taking Life Orb damage just for the foe to soak up a hit and heal right up is not ideal. Thankfully, Samurott can prevent this in many ways, such as using Taunt on Audino to prevent Wish. Knock Off can also hit Assault Vest users such as Hariyama and Slowking, allowing Samurott to muscle through them more easily. Be sure to Taunt Pokemon like Druddigon and Vaporeon to prevent entry hazards and status moves like Toxic. Vaporeon is also shut down by Taunt, as it prevents it from using Wish, effectively letting Samurott beat it one-on-one. Due to Samurott's low Speed stat, it's advised to send it in on Pokemon that are slower than it, like Steelix and Rhydon. This will allow it to get as much damage off as it can while taking less damage.", "moves": [["Hydro Pump"], ["Grass Knot"], ["Ice Beam"], ["Taunt", "Aqua Jet", "Knock Off"]], "item": [" Life Orb"], "ability": ["Torrent"], "nature": ["Timid"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Swords Dance Sweeper", "stats": [226, 299, 206, 226, 177, 262], "type": ["Water"], "usage": "Unless there is a clear opportunity early on, Samurott shouldn't try to sweep until late-game. Samurott will be better off if it waits until most Pokemon are chipped down to sweep. However, if there is an opportunity for Samurott to set up a Swords Dance and wallbreak, you should take that opportunity. A Swords Dance-boosted Liquidation is sure to do a ton of damage to anything that doesn't resist Water, and the foes that do resist it like Slowking and Vaporeon are susceptible to Megahorn. Keep Samurott away from status moves like Will-O-Wisp from Incineroar and Toxic from Vaporeon, as they will ruin any chance Samurott had to sweep. If at all possible, try to get Samurott into Torrent range to maximize the power of its Water-type moves, specifically Aqua Jet, to help it sweep. Aqua Jet should be used to clean late-game to hit faster Pokemon that can KO Samurott. It can also be used throughout the match to simply KO weakened Pokemon.", "moves": [["Swords Dance"], ["Liquidation"], ["Aqua Jet"], ["Megahorn"]], "item": [" Buginium Z", " Waterium Z"], "ability": ["Torrent"], "nature": ["Jolly"], "ev spread": [0, 252, 0, 0, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Heliolisk", "Bulky Water-types", "Grass-types", "Special Walls"], "credits": ["Written by Yoshizilla315", "Quality checked by Rabia, quziel,  and banks", "Grammar checked by martha and The Dutch Plumberjack"]}
+{
+    "name": "Samurott",
+    "forms": {
+        "Base": {
+            "base stats": [
+                95,
+                100,
+                85,
+                108,
+                70,
+                70
+            ],
+            "types": [
+                "Water"
+            ],
+            "abilities": [
+                "Shell Armor",
+                "Torrent"
+            ],
+            "tier": [
+                "NU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Samurott is one of the best offensive Water-types in the NU tier. Thanks to its balanced attacking stats, it can effectively run physical, special, and mixed sets. Having access to near-perfect coverage with moves like Hydro Pump, Ice Beam, and Grass Knot, it rarely finds itself hard walled by any Pokemon. It also has access to Swords Dance and Aqua Jet, allowing it to perform as a sweeper, as well as another utility move in Taunt, which can give it the opportunity to break through Pokemon like Vaporeon and defensive Slowking by preventing them from recovering. It can also prevent status moves from the likes of Mega Audino and Stealth Rock from Pokemon like Druddigon. Samurott has quite a few checks, however, such as Heliolisk and Vaporeon, both of which tank Water-type moves with ease, preventing Samurott from spamming Hydro Pump and Liquidation. Heliolisk works especially well against Samurott, as it is faster and puts a stop to both the special and Swords Dance sets. Samurott is further hindered by its mediocre Speed, meaning you'll have to keep it healthy so it can set up and sweep. This also makes it easy to revenge kill with Pokemon that are resistant to Aqua Jet, such as Sceptile and Whimsicott.\n",
+    "strategies' format": "NU",
+    "strategies": [
+        {
+            "name": "Special Wallbreaker",
+            "stats": [
+                226,
+                212,
+                206,
+                315,
+                177,
+                262
+            ],
+            "type": [
+                "Water"
+            ],
+            "usage": "Make sure to play around Heliolisk effectively. It is Samurott's best counter, as it can be healed up by Water-type attacks. Try to avoid spamming Hydro Pump and Surf before Heliolisk and other Water-immune Pokemon like Seismitoad, which is susceptible to Grass Knot, are taken out. Instead, try using Ice Beam to catch Heliolisk on the switch. Try to take out all special walls such as Mega Audino and Assault Vest Slowking before spamming moves with Samurott, as taking Life Orb damage just for the foe to soak up a hit and heal right up is not ideal. Thankfully, Samurott can prevent this in many ways, such as using Taunt on Audino to prevent Wish. Knock Off can also hit Assault Vest users such as Hariyama and Slowking, allowing Samurott to muscle through them more easily. Be sure to Taunt Pokemon like Druddigon and Vaporeon to prevent entry hazards and status moves like Toxic. Vaporeon is also shut down by Taunt, as it prevents it from using Wish, effectively letting Samurott beat it one-on-one. Due to Samurott's low Speed stat, it's advised to send it in on Pokemon that are slower than it, like Steelix and Rhydon. This will allow it to get as much damage off as it can while taking less damage.",
+            "moves": [
+                [
+                    "Hydro Pump"
+                ],
+                [
+                    "Grass Knot"
+                ],
+                [
+                    "Ice Beam"
+                ],
+                [
+                    "Taunt",
+                    "Aqua Jet",
+                    "Knock Off"
+                ]
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Torrent"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Swords Dance Sweeper",
+            "stats": [
+                226,
+                299,
+                206,
+                226,
+                177,
+                262
+            ],
+            "type": [
+                "Water"
+            ],
+            "usage": "Unless there is a clear opportunity early on, Samurott shouldn't try to sweep until late-game. Samurott will be better off if it waits until most Pokemon are chipped down to sweep. However, if there is an opportunity for Samurott to set up a Swords Dance and wallbreak, you should take that opportunity. A Swords Dance-boosted Liquidation is sure to do a ton of damage to anything that doesn't resist Water, and the foes that do resist it like Slowking and Vaporeon are susceptible to Megahorn. Keep Samurott away from status moves like Will-O-Wisp from Incineroar and Toxic from Vaporeon, as they will ruin any chance Samurott had to sweep. If at all possible, try to get Samurott into Torrent range to maximize the power of its Water-type moves, specifically Aqua Jet, to help it sweep. Aqua Jet should be used to clean late-game to hit faster Pokemon that can KO Samurott. It can also be used throughout the match to simply KO weakened Pokemon.",
+            "moves": [
+                [
+                    "Swords Dance"
+                ],
+                [
+                    "Liquidation"
+                ],
+                [
+                    "Aqua Jet"
+                ],
+                [
+                    "Megahorn"
+                ]
+            ],
+            "item": [
+                " Buginium Z",
+                " Waterium Z"
+            ],
+            "ability": [
+                "Torrent"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                0,
+                0,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Heliolisk",
+        "Bulky Water-types",
+        "Grass-types",
+        "Special Walls"
+    ],
+    "credits": [
+        "Written by Yoshizilla315",
+        "Quality checked by Rabia, quziel,  and banks",
+        "Grammar checked by martha and The Dutch Plumberjack"
+    ]
+}

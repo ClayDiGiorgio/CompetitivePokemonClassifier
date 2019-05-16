@@ -1,1 +1,102 @@
-{"name": "Vivillon", "forms": {"Base": {"base stats": [80, 52, 50, 90, 50, 89], "types": ["Bug", "Flying"], "abilities": ["Compound Eyes", "Friend Guard", "Shield Dust"], "tier": ["NU"], "form": "Base"}}, "overview": "The combination of its access to Quiver Dance, decent Speed and Special Attack, and good offensive typing makes Vivillon one of the deadliest setup sweepers in NU, capable of threatening offensive and defensive teams alike. Sleep Powder is another factor that contributes to how threatening Vivillon is, allowing it to incapacitate even its hardest checks in Pokemon like Steelix, Silvally-Steel, and Rhydon and proving useful in generating setup opportunities. Furthermore, Compound Eyes increasing the accuracy of Vivillon's moves makes Sleep Powder and Hurricane far more reliable than usual. Vivillon also boasts good coverage in Hurricane + Energy Ball, which is enough to hit the entire tier barring most Steel-types neutrally. However, Vivillon's defensive presence is rather poor due to its typing leaving it 4x weak to Stealth Rock and vulnerable to common attacking typings in Electric, Fire, Flying, and Ice and its low defenses preventing it from taking neutral attacks well even after using Quiver Dance and leaving it susceptible to priority from the likes of Sneasel and Medicham. Vivillon is weak unboosted, meaning that it will need to accrue a number of boosts in order to break through bulkier Pokemon like Assault Vest Slowking as well as balance teams.\n", "strategies' format": "NU", "strategies": [{"name": "Quiver Dance", "stats": [196, 126, 136, 279, 137, 304], "type": ["Bug", "Flying"], "usage": "Above all else, refrain from switching Vivillon in if Stealth Rock is up, as doing so will cause Vivillon to lose 50% of its HP and leave it incapable of reliably sweeping. Vivillon's lack of recovery outside of Leftovers and poor bulk mean that it should avoid switching directly in on most attacks. However, Vivillon is capable of switching in on Pokemon that are Choice-locked into Fighting-type moves such as Medicham and Braviary. Substitute variants should switch in on Pokemon that Vivillon threatens out like Decidueye lacking priority moves and use Substitute as they switch out, which can allow Vivillon to safely set up or use Sleep Powder. Avoid attempting to set up until all Steel-types have been removed. Bulky Rock-types like Rhydon should also be either heavily weakened or removed entirely if Vivillon lacks Energy Ball. Early-game, Vivillon should prioritize crippling Pokemon with Sleep Powder and using Hurricane, since this can potentially open the door for a teammate or even Vivillon itself to clean late-game. Priority users like Piloswine should also be removed, especially in the case of non-Substitute variants, since they can quickly put an end to Vivillon's sweep after it KOes a foe.", "moves": [["Quiver Dance"], ["Hurricane"], ["Energy Ball", "Substitute"], ["Sleep Powder"]], "item": [" Flyinium Z", " Leftovers"], "ability": ["Compound Eyes"], "nature": ["Timid"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Priority", "Steel-types", "Rock-types", "Stealth Rock", "Faster Pokemon", "Electric-types"], "credits": ["Written by allstarapology", "Quality checked by Punchshroom, banks,  and poh", "Grammar checked by The Dutch Plumberjack and A Cake Wearing A Hat"]}
+{
+    "name": "Vivillon",
+    "forms": {
+        "Base": {
+            "base stats": [
+                80,
+                52,
+                50,
+                90,
+                50,
+                89
+            ],
+            "types": [
+                "Bug",
+                "Flying"
+            ],
+            "abilities": [
+                "Compound Eyes",
+                "Friend Guard",
+                "Shield Dust"
+            ],
+            "tier": [
+                "NU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "The combination of its access to Quiver Dance, decent Speed and Special Attack, and good offensive typing makes Vivillon one of the deadliest setup sweepers in NU, capable of threatening offensive and defensive teams alike. Sleep Powder is another factor that contributes to how threatening Vivillon is, allowing it to incapacitate even its hardest checks in Pokemon like Steelix, Silvally-Steel, and Rhydon and proving useful in generating setup opportunities. Furthermore, Compound Eyes increasing the accuracy of Vivillon's moves makes Sleep Powder and Hurricane far more reliable than usual. Vivillon also boasts good coverage in Hurricane + Energy Ball, which is enough to hit the entire tier barring most Steel-types neutrally. However, Vivillon's defensive presence is rather poor due to its typing leaving it 4x weak to Stealth Rock and vulnerable to common attacking typings in Electric, Fire, Flying, and Ice and its low defenses preventing it from taking neutral attacks well even after using Quiver Dance and leaving it susceptible to priority from the likes of Sneasel and Medicham. Vivillon is weak unboosted, meaning that it will need to accrue a number of boosts in order to break through bulkier Pokemon like Assault Vest Slowking as well as balance teams.\n",
+    "strategies' format": "NU",
+    "strategies": [
+        {
+            "name": "Quiver Dance",
+            "stats": [
+                196,
+                126,
+                136,
+                279,
+                137,
+                304
+            ],
+            "type": [
+                "Bug",
+                "Flying"
+            ],
+            "usage": "Above all else, refrain from switching Vivillon in if Stealth Rock is up, as doing so will cause Vivillon to lose 50% of its HP and leave it incapable of reliably sweeping. Vivillon's lack of recovery outside of Leftovers and poor bulk mean that it should avoid switching directly in on most attacks. However, Vivillon is capable of switching in on Pokemon that are Choice-locked into Fighting-type moves such as Medicham and Braviary. Substitute variants should switch in on Pokemon that Vivillon threatens out like Decidueye lacking priority moves and use Substitute as they switch out, which can allow Vivillon to safely set up or use Sleep Powder. Avoid attempting to set up until all Steel-types have been removed. Bulky Rock-types like Rhydon should also be either heavily weakened or removed entirely if Vivillon lacks Energy Ball. Early-game, Vivillon should prioritize crippling Pokemon with Sleep Powder and using Hurricane, since this can potentially open the door for a teammate or even Vivillon itself to clean late-game. Priority users like Piloswine should also be removed, especially in the case of non-Substitute variants, since they can quickly put an end to Vivillon's sweep after it KOes a foe.",
+            "moves": [
+                [
+                    "Quiver Dance"
+                ],
+                [
+                    "Hurricane"
+                ],
+                [
+                    "Energy Ball",
+                    "Substitute"
+                ],
+                [
+                    "Sleep Powder"
+                ]
+            ],
+            "item": [
+                " Flyinium Z",
+                " Leftovers"
+            ],
+            "ability": [
+                "Compound Eyes"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Priority",
+        "Steel-types",
+        "Rock-types",
+        "Stealth Rock",
+        "Faster Pokemon",
+        "Electric-types"
+    ],
+    "credits": [
+        "Written by allstarapology",
+        "Quality checked by Punchshroom, banks,  and poh",
+        "Grammar checked by The Dutch Plumberjack and A Cake Wearing A Hat"
+    ]
+}

@@ -1,1 +1,154 @@
-{"name": "Haunter", "forms": {"Base": {"base stats": [45, 50, 45, 115, 55, 95], "types": ["Ghost", "Poison"], "abilities": ["Levitate"], "tier": ["PU"], "form": "Base"}}, "overview": "Haunter is an overall decent offensive threat, being able to serve as a wallbreaker with its Life Orb set or as a revenge killer with its Choice Scarf set. This is mostly thanks to its good base 95 Speed tier, which allows it to outspeed Pokemon such as Lilligant and Zangoose and Speed tie with Pokemon such as Jynx and Primeape. Base 115 Special Attack allows Haunter to even more reliably revenge kill such Pokemon or break through bulkier Pokemon such as Weezing and Tangela. Furthermore, Haunter\u2019s good Ghost / Poison typing allows it to hit almost the entire metagame neutrally with STAB attacks and combines with Levitate to give Haunter three useful immunities in Ground, Normal, and Fighting. Haunter also has a vast utility movepool that includes moves such as Destiny Bond, Trick, Will-O-Wisp, and Substitute, which allows it to better handle its checks and support its teammates. Despite this, Dark-types are always a large problem for Haunter, as Skuntank resists both of its STAB moves while Spiritomb can bypass Substitute, and both can Pursuit trap Haunter or threaten it with Sucker Punch, although they do fear certain utility or coverage moves. Haunter's abysmal defenses leave it unable to switch into even most resisted hits, and it can be easily revenge killed by faster threats and priority users assuming it does not have a Substitute up. This also makes it tricky to use as a spinblocker, as it fears moves such as Hitmonchan's Thunder Punch. Finally, Haunter faces competition from Oricorio-G, which boasts access to Calm Mind, better bulk, reliable recovery in Roost, and Dancer to give it an even better matchup against Lilligant.\n", "strategies' format": "PU", "strategies": [{"name": "Life Orb", "stats": [126, 122, 127, 329, 146, 317], "type": ["Ghost", "Poison"], "usage": "Haunter can utilize its good STAB coverage to serve as a wallbreaker against foes such as Clefairy and Quagsire. Furthermore, due to its high Speed, it can also serve as a revenge killer for foes such as Choice Specs Mesprit and unboosted Lilligant. However, if the opponent has a threat such as Skuntank or Spiritomb ready to switch in, Haunter can predict the switch and go for Hidden Power Ground or Dazzling Gleam instead to 2HKO it. However, stay aware that both cause mind games with their combination of Sucker Punch and Pursuit, although Spiritomb is less affected due to the fact that it can bypass Substitute. Therefore, another option is to make a double switch and have teammates weaken these foes until Haunter can KO. If they are brought in, Destiny Bond is an option that can take them down with Haunter if they are a threat to the rest of the team or if you predict them to take out Haunter with Pursuit. Destiny Bond can be similarly used against any other threat, ideally when Haunter is at low health. Substitute can be set up against passive Pokemon such as Clefairy or upon a forced switch like against Primeape Choice-locked into Close Combat. It can also be used to take advantage of attacks like Skuntank\u2019s Sucker Punch or to scout for what move slower Choice item Pokemon such as Drampa will lock themselves into. Haunter should not be brought in expecting to take an attack due to its low defenses. However, it can switch into a predicted utility move, such as Golurk\u2019s Stealth Rock, or a move it's immune to such as Zangoose's Facade, though it has to watch out for coverage from both. It can also be brought in through a slow pivot such as Mesprit or Lanturn.", "moves": [["Shadow Ball"], ["Sludge Bomb"], ["Dazzling Gleam", "Hidden Power Ground"], ["Destiny Bond", "Substitute"]], "item": [" Life Orb"], "ability": ["Levitate"], "nature": ["Timid"], "ev spread": [0, 0, 4, 252, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Choice Scarf", "stats": [126, 122, 127, 329, 146, 317], "type": ["Ghost", "Poison"], "usage": "Haunter is best used as a revenge killer or late-game cleaner. However, Haunter can also utilize its good offensive typing to serve as an offensive check to various Pokemon such as Golurk, Alolan Raichu, and Tangela throughout the game. Haunter should be brought in after a teammate has been KOed or through a slow pivot such as Mesprit or Eelektross; due to its low bulk, Haunter should rarely be switched directly into an attack, even resisted ones. If switching into an immunity, it should still watch out for coverage such as Gurdurr\u2019s Knock Off. Haunter similarly can be switched into a predicted harmless status move such as Clefairy\u2019s Stealth Rock or Soft-Boiled, but it still has to watch out for moves like Thunder Wave. Lilligant is a Pokemon Haunter will often have to directly switch into on a predicted Quiver Dance, since +2 Lilligant is faster than Choice Scarf Haunter. Even then, however, Haunter has to watch out for Sleep Powder or even unboosted Giga Drain. When Haunter is brought in, stay aware of what checks the opponent has for it, as it will be locked into the same move until it is switched out. This is especially important if their switch-ins include Pursuit users such as Skuntank and Spiritomb, which can Pursuit trap Haunter with ease if they manage to come in when it is locked into a resisted move. If Dark-types pose a threat to the rest of your team, Haunter can use Destiny Bond in such situations. Destiny Bond can also be used to take out any other potential threats to the team or pick off a foe late-game if Haunter is weakened or has no more use. On the other hand, be careful when using Destiny Bond, as it can be exploited by the opponent and be a huge momentum drain. Watch out for any potential Choice Scarf users with naturally higher Speed such as Dodrio and Swanna, as they could otherwise lure Haunter in, thinking it can outspeed. If facing bulkier teams, in which case Haunter\u2019s Choice Scarf is not needed, Haunter can use Trick to switch between moves and potentially cripple a foe in the process.", "moves": [["Shadow Ball"], ["Sludge Wave"], ["Destiny Bond"], ["Trick", "Will-O-Wisp"]], "item": [" Choice Scarf"], "ability": ["Levitate"], "nature": ["Timid"], "ev spread": [0, 0, 4, 252, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Dark-types", "Faster Pokemon", "Priority Users", "Specially Defensive Pokemon"], "credits": ["Written by UberSkitty", "Quality checked by Megazard, yogi,  and allstarapology", "Grammar checked by The Dutch Plumberjack and CryoGyro"]}
+{
+    "name": "Haunter",
+    "forms": {
+        "Base": {
+            "base stats": [
+                45,
+                50,
+                45,
+                115,
+                55,
+                95
+            ],
+            "types": [
+                "Ghost",
+                "Poison"
+            ],
+            "abilities": [
+                "Levitate"
+            ],
+            "tier": [
+                "PU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Haunter is an overall decent offensive threat, being able to serve as a wallbreaker with its Life Orb set or as a revenge killer with its Choice Scarf set. This is mostly thanks to its good base 95 Speed tier, which allows it to outspeed Pokemon such as Lilligant and Zangoose and Speed tie with Pokemon such as Jynx and Primeape. Base 115 Special Attack allows Haunter to even more reliably revenge kill such Pokemon or break through bulkier Pokemon such as Weezing and Tangela. Furthermore, Haunter\u2019s good Ghost / Poison typing allows it to hit almost the entire metagame neutrally with STAB attacks and combines with Levitate to give Haunter three useful immunities in Ground, Normal, and Fighting. Haunter also has a vast utility movepool that includes moves such as Destiny Bond, Trick, Will-O-Wisp, and Substitute, which allows it to better handle its checks and support its teammates. Despite this, Dark-types are always a large problem for Haunter, as Skuntank resists both of its STAB moves while Spiritomb can bypass Substitute, and both can Pursuit trap Haunter or threaten it with Sucker Punch, although they do fear certain utility or coverage moves. Haunter's abysmal defenses leave it unable to switch into even most resisted hits, and it can be easily revenge killed by faster threats and priority users assuming it does not have a Substitute up. This also makes it tricky to use as a spinblocker, as it fears moves such as Hitmonchan's Thunder Punch. Finally, Haunter faces competition from Oricorio-G, which boasts access to Calm Mind, better bulk, reliable recovery in Roost, and Dancer to give it an even better matchup against Lilligant.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Life Orb",
+            "stats": [
+                126,
+                122,
+                127,
+                329,
+                146,
+                317
+            ],
+            "type": [
+                "Ghost",
+                "Poison"
+            ],
+            "usage": "Haunter can utilize its good STAB coverage to serve as a wallbreaker against foes such as Clefairy and Quagsire. Furthermore, due to its high Speed, it can also serve as a revenge killer for foes such as Choice Specs Mesprit and unboosted Lilligant. However, if the opponent has a threat such as Skuntank or Spiritomb ready to switch in, Haunter can predict the switch and go for Hidden Power Ground or Dazzling Gleam instead to 2HKO it. However, stay aware that both cause mind games with their combination of Sucker Punch and Pursuit, although Spiritomb is less affected due to the fact that it can bypass Substitute. Therefore, another option is to make a double switch and have teammates weaken these foes until Haunter can KO. If they are brought in, Destiny Bond is an option that can take them down with Haunter if they are a threat to the rest of the team or if you predict them to take out Haunter with Pursuit. Destiny Bond can be similarly used against any other threat, ideally when Haunter is at low health. Substitute can be set up against passive Pokemon such as Clefairy or upon a forced switch like against Primeape Choice-locked into Close Combat. It can also be used to take advantage of attacks like Skuntank\u2019s Sucker Punch or to scout for what move slower Choice item Pokemon such as Drampa will lock themselves into. Haunter should not be brought in expecting to take an attack due to its low defenses. However, it can switch into a predicted utility move, such as Golurk\u2019s Stealth Rock, or a move it's immune to such as Zangoose's Facade, though it has to watch out for coverage from both. It can also be brought in through a slow pivot such as Mesprit or Lanturn.",
+            "moves": [
+                [
+                    "Shadow Ball"
+                ],
+                [
+                    "Sludge Bomb"
+                ],
+                [
+                    "Dazzling Gleam",
+                    "Hidden Power Ground"
+                ],
+                [
+                    "Destiny Bond",
+                    "Substitute"
+                ]
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Levitate"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                4,
+                252,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Choice Scarf",
+            "stats": [
+                126,
+                122,
+                127,
+                329,
+                146,
+                317
+            ],
+            "type": [
+                "Ghost",
+                "Poison"
+            ],
+            "usage": "Haunter is best used as a revenge killer or late-game cleaner. However, Haunter can also utilize its good offensive typing to serve as an offensive check to various Pokemon such as Golurk, Alolan Raichu, and Tangela throughout the game. Haunter should be brought in after a teammate has been KOed or through a slow pivot such as Mesprit or Eelektross; due to its low bulk, Haunter should rarely be switched directly into an attack, even resisted ones. If switching into an immunity, it should still watch out for coverage such as Gurdurr\u2019s Knock Off. Haunter similarly can be switched into a predicted harmless status move such as Clefairy\u2019s Stealth Rock or Soft-Boiled, but it still has to watch out for moves like Thunder Wave. Lilligant is a Pokemon Haunter will often have to directly switch into on a predicted Quiver Dance, since +2 Lilligant is faster than Choice Scarf Haunter. Even then, however, Haunter has to watch out for Sleep Powder or even unboosted Giga Drain. When Haunter is brought in, stay aware of what checks the opponent has for it, as it will be locked into the same move until it is switched out. This is especially important if their switch-ins include Pursuit users such as Skuntank and Spiritomb, which can Pursuit trap Haunter with ease if they manage to come in when it is locked into a resisted move. If Dark-types pose a threat to the rest of your team, Haunter can use Destiny Bond in such situations. Destiny Bond can also be used to take out any other potential threats to the team or pick off a foe late-game if Haunter is weakened or has no more use. On the other hand, be careful when using Destiny Bond, as it can be exploited by the opponent and be a huge momentum drain. Watch out for any potential Choice Scarf users with naturally higher Speed such as Dodrio and Swanna, as they could otherwise lure Haunter in, thinking it can outspeed. If facing bulkier teams, in which case Haunter\u2019s Choice Scarf is not needed, Haunter can use Trick to switch between moves and potentially cripple a foe in the process.",
+            "moves": [
+                [
+                    "Shadow Ball"
+                ],
+                [
+                    "Sludge Wave"
+                ],
+                [
+                    "Destiny Bond"
+                ],
+                [
+                    "Trick",
+                    "Will-O-Wisp"
+                ]
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Levitate"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                4,
+                252,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Dark-types",
+        "Faster Pokemon",
+        "Priority Users",
+        "Specially Defensive Pokemon"
+    ],
+    "credits": [
+        "Written by UberSkitty",
+        "Quality checked by Megazard, yogi,  and allstarapology",
+        "Grammar checked by The Dutch Plumberjack and CryoGyro"
+    ]
+}

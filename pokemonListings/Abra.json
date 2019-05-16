@@ -1,1 +1,157 @@
-{"name": "Abra", "forms": {"Base": {"base stats": [25, 20, 15, 105, 55, 90], "types": ["Psychic"], "abilities": ["Inner Focus", "Magic Guard", "Synchronize"], "tier": ["LC"], "form": "Base"}}, "overview": "Abra has exceptionally high Speed and Special Attack stats as well as a very useful ability in Magic Guard, which gives it the potential to function as either the tier's best revenge killer with a Focus Sash or a menacing wallbreaker with Life Orb. However, for as good as Abra's offensive capabilities are, it has less bulk than wet tissue paper, not to mention it is also vulnerable to all forms of trapping in the tier.\n", "strategies' format": "LC", "strategies": [{"name": "Focus Sash", "stats": [86, 68, 66, 305, 165, 291], "type": ["Psychic"], "usage": "Abra is an amazing revenge killer, as it possesses good coverage, blazing Speed, and a sky-high Special Attack, but it has horrendous defenses. Thus, Abra should not be switched directly into play, but rather through U-turn or Volt Switch or after a KO. Furthermore, Abra is very susceptible to trappers such as Diglett and Alolan Grimer, the latter of which can switch in on it. For this reason, if there are trappers on the opposing team paired with a sweeper, it's best to not put Abra into play until the opposing sweeper has set up. Versus teams that lack trapping, Abra does not need to be played conservatively and can freely pressure the opposing team. Lastly, Abra should not be sent out versus Pokemon with priority unless necessary, because otherwise it will lose its Focus Sash.", "moves": [["Psychic"], ["Dazzling Gleam"], ["Counter", "Hidden Power Fighting", "Hidden Power Fire"], ["Protect", "Energy Ball", "Psychic Terrain"]], "item": [" Focus Sash"], "ability": ["Magic Guard"], "nature": ["Timid"], "ev spread": [0, 0, 0, 236, 76, 196], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Life Orb", "stats": [86, 68, 66, 306, 146, 292], "type": ["Psychic"], "usage": "Life Orb Abra is a wallbreaker. In addition to protecting it from entry hazards, Magic Guard also lets Abra not take damage from Life Orb recoil. This is partly why Life Orb Abra is so threatening; it can feign holding Focus Sash, allowing it to nab some surprise OHKOs and 2HKOs. As a wallbreaker, Life Orb Abra is often played early on in the match and very aggressively. Abra will be using Psychic or whatever coverage move is super effective, though it can also use Substitute on predicted switches so that it does not need to predict perfectly. Substitute can also be used to avoid Sucker Punches from Pawniard.", "moves": [["Psychic"], ["Dazzling Gleam"], ["Hidden Power Ground", "Hidden Power Fighting", "Energy Ball"], ["Substitute"]], "item": [" Life Orb"], "ability": ["Magic Guard"], "nature": ["Timid"], "ev spread": [0, 0, 0, 240, 0, 200], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Faster Pokemon", "Trappers", "Pursuit Trappers", "Bulky Pokemon", "Pokemon with Priority"], "credits": ["Written by himeringo", "Quality checked by tahu, Rowan,  and Fiend", "Grammar checked by P Squared and The Dutch Plumberjack"]}
+{
+    "name": "Abra",
+    "forms": {
+        "Base": {
+            "base stats": [
+                25,
+                20,
+                15,
+                105,
+                55,
+                90
+            ],
+            "types": [
+                "Psychic"
+            ],
+            "abilities": [
+                "Inner Focus",
+                "Magic Guard",
+                "Synchronize"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Abra has exceptionally high Speed and Special Attack stats as well as a very useful ability in Magic Guard, which gives it the potential to function as either the tier's best revenge killer with a Focus Sash or a menacing wallbreaker with Life Orb. However, for as good as Abra's offensive capabilities are, it has less bulk than wet tissue paper, not to mention it is also vulnerable to all forms of trapping in the tier.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Focus Sash",
+            "stats": [
+                86,
+                68,
+                66,
+                305,
+                165,
+                291
+            ],
+            "type": [
+                "Psychic"
+            ],
+            "usage": "Abra is an amazing revenge killer, as it possesses good coverage, blazing Speed, and a sky-high Special Attack, but it has horrendous defenses. Thus, Abra should not be switched directly into play, but rather through U-turn or Volt Switch or after a KO. Furthermore, Abra is very susceptible to trappers such as Diglett and Alolan Grimer, the latter of which can switch in on it. For this reason, if there are trappers on the opposing team paired with a sweeper, it's best to not put Abra into play until the opposing sweeper has set up. Versus teams that lack trapping, Abra does not need to be played conservatively and can freely pressure the opposing team. Lastly, Abra should not be sent out versus Pokemon with priority unless necessary, because otherwise it will lose its Focus Sash.",
+            "moves": [
+                [
+                    "Psychic"
+                ],
+                [
+                    "Dazzling Gleam"
+                ],
+                [
+                    "Counter",
+                    "Hidden Power Fighting",
+                    "Hidden Power Fire"
+                ],
+                [
+                    "Protect",
+                    "Energy Ball",
+                    "Psychic Terrain"
+                ]
+            ],
+            "item": [
+                " Focus Sash"
+            ],
+            "ability": [
+                "Magic Guard"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                236,
+                76,
+                196
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Life Orb",
+            "stats": [
+                86,
+                68,
+                66,
+                306,
+                146,
+                292
+            ],
+            "type": [
+                "Psychic"
+            ],
+            "usage": "Life Orb Abra is a wallbreaker. In addition to protecting it from entry hazards, Magic Guard also lets Abra not take damage from Life Orb recoil. This is partly why Life Orb Abra is so threatening; it can feign holding Focus Sash, allowing it to nab some surprise OHKOs and 2HKOs. As a wallbreaker, Life Orb Abra is often played early on in the match and very aggressively. Abra will be using Psychic or whatever coverage move is super effective, though it can also use Substitute on predicted switches so that it does not need to predict perfectly. Substitute can also be used to avoid Sucker Punches from Pawniard.",
+            "moves": [
+                [
+                    "Psychic"
+                ],
+                [
+                    "Dazzling Gleam"
+                ],
+                [
+                    "Hidden Power Ground",
+                    "Hidden Power Fighting",
+                    "Energy Ball"
+                ],
+                [
+                    "Substitute"
+                ]
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Magic Guard"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                240,
+                0,
+                200
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Faster Pokemon",
+        "Trappers",
+        "Pursuit Trappers",
+        "Bulky Pokemon",
+        "Pokemon with Priority"
+    ],
+    "credits": [
+        "Written by himeringo",
+        "Quality checked by tahu, Rowan,  and Fiend",
+        "Grammar checked by P Squared and The Dutch Plumberjack"
+    ]
+}

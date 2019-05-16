@@ -1,1 +1,117 @@
-{"name": "Darmanitan", "forms": {"Base": {"base stats": [105, 140, 55, 30, 55, 95], "types": ["Fire"], "abilities": ["Sheer Force", "Zen Mode"], "tier": ["RUBL"], "form": "Base"}, "Zen": {"base stats": [105, 30, 105, 140, 105, 55], "types": ["Fire", "Psychic"], "abilities": ["Zen Mode"], "tier": ["RUBL"], "form": "Zen"}}, "overview": "Darmanitan carves its niche in the UU metagame by being one of the hardest-hitting Pokemon in the tier due to its Sheer Force-boosted Flare Blitz, making it incredibly hard to switch into when holding a Choice Band and able to easily 2HKO some of the tier's most common physical walls, such as Gligar, Hippowdon, and Tentacruel. However, Darmanitan's poor Fire typing leaves it vulnerable to Stealth Rock damage and the plethora of Water- and Ground-type moves that flood the tier. Moreover, its terrible defensive stats mean that Darmanitan struggles to switch into resisted attacks, fails to check Pokemon like Scizor, Bisharp, and Cobalion, which most other Fire-types have defensive utility against, and heavily relies on prediction or VoltTurn support to come in safely. Recoil damage from Flare Blitz also severely hinders Darmanitan's longevity and only gives it a few opportunities to fire off Flare Blitz throughout the match. These aforementioned flaws usually make Darmanitan's use hard to justify over other Fire-types with better movepools or stats, such as Infernape and Moltres.\n", "strategies' format": "UU", "strategies": [{"name": "Choice Band", "stats": [246, 379, 146, 86, 147, 317], "type": ["Fire"], "usage": "Darmanitan can get worn down extremely quickly when using Flare Blitz, and because of this, you should avoid using it when the opponent has a sturdy answer to it like Alomomola in the back to avoid unnecessary recoil damage. Darmanitan can also be used as a wallbreaker to punch holes against opposing teams early- and mid-game if the ultimate goal is cleaning late-game with another teammate. Take advantage of the number of switches that Darmanitan produces to gain momentum and weaken the opposing team as much as possible. U-turn should be used if the opponent has a sturdy Water-type counter in the back, such as Alomomola or Slowbro. This will give Darmanitan a much easier time clicking Flare Blitz later on and possibly allow it to sweep late-game against bulkier teams. Try to bring Darmanitan in through VoltTurn support or predicted double switches because its poor defensive stats and typing mean that it will take a sizable amount of damage against resisted hits.", "moves": [["Flare Blitz"], ["U-turn"], ["Earthquake"], ["Rock Slide", "Fire Punch"]], "item": [" Choice Band"], "ability": ["Sheer Force"], "nature": ["Jolly"], "ev spread": [0, 252, 0, 0, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Defensive Water-types", "Faster Pokemon", "Defensive Ground-types", "Residual damage"], "credits": ["Written by Indigo Plateau", "Quality checked by Nuked, vivalospride, Hilomilo,  and Surgeon", "Grammar checked by The Dutch Plumberjack and Nixhex"]}
+{
+    "name": "Darmanitan",
+    "forms": {
+        "Base": {
+            "base stats": [
+                105,
+                140,
+                55,
+                30,
+                55,
+                95
+            ],
+            "types": [
+                "Fire"
+            ],
+            "abilities": [
+                "Sheer Force",
+                "Zen Mode"
+            ],
+            "tier": [
+                "RUBL"
+            ],
+            "form": "Base"
+        },
+        "Zen": {
+            "base stats": [
+                105,
+                30,
+                105,
+                140,
+                105,
+                55
+            ],
+            "types": [
+                "Fire",
+                "Psychic"
+            ],
+            "abilities": [
+                "Zen Mode"
+            ],
+            "tier": [
+                "RUBL"
+            ],
+            "form": "Zen"
+        }
+    },
+    "overview": "Darmanitan carves its niche in the UU metagame by being one of the hardest-hitting Pokemon in the tier due to its Sheer Force-boosted Flare Blitz, making it incredibly hard to switch into when holding a Choice Band and able to easily 2HKO some of the tier's most common physical walls, such as Gligar, Hippowdon, and Tentacruel. However, Darmanitan's poor Fire typing leaves it vulnerable to Stealth Rock damage and the plethora of Water- and Ground-type moves that flood the tier. Moreover, its terrible defensive stats mean that Darmanitan struggles to switch into resisted attacks, fails to check Pokemon like Scizor, Bisharp, and Cobalion, which most other Fire-types have defensive utility against, and heavily relies on prediction or VoltTurn support to come in safely. Recoil damage from Flare Blitz also severely hinders Darmanitan's longevity and only gives it a few opportunities to fire off Flare Blitz throughout the match. These aforementioned flaws usually make Darmanitan's use hard to justify over other Fire-types with better movepools or stats, such as Infernape and Moltres.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Choice Band",
+            "stats": [
+                246,
+                379,
+                146,
+                86,
+                147,
+                317
+            ],
+            "type": [
+                "Fire"
+            ],
+            "usage": "Darmanitan can get worn down extremely quickly when using Flare Blitz, and because of this, you should avoid using it when the opponent has a sturdy answer to it like Alomomola in the back to avoid unnecessary recoil damage. Darmanitan can also be used as a wallbreaker to punch holes against opposing teams early- and mid-game if the ultimate goal is cleaning late-game with another teammate. Take advantage of the number of switches that Darmanitan produces to gain momentum and weaken the opposing team as much as possible. U-turn should be used if the opponent has a sturdy Water-type counter in the back, such as Alomomola or Slowbro. This will give Darmanitan a much easier time clicking Flare Blitz later on and possibly allow it to sweep late-game against bulkier teams. Try to bring Darmanitan in through VoltTurn support or predicted double switches because its poor defensive stats and typing mean that it will take a sizable amount of damage against resisted hits.",
+            "moves": [
+                [
+                    "Flare Blitz"
+                ],
+                [
+                    "U-turn"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Rock Slide",
+                    "Fire Punch"
+                ]
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Sheer Force"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                0,
+                0,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Defensive Water-types",
+        "Faster Pokemon",
+        "Defensive Ground-types",
+        "Residual damage"
+    ],
+    "credits": [
+        "Written by Indigo Plateau",
+        "Quality checked by Nuked, vivalospride, Hilomilo,  and Surgeon",
+        "Grammar checked by The Dutch Plumberjack and Nixhex"
+    ]
+}

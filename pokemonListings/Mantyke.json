@@ -1,1 +1,100 @@
-{"name": "Mantyke", "forms": {"Base": {"base stats": [45, 20, 50, 60, 120, 50], "types": ["Water", "Flying"], "abilities": ["Swift Swim", "Water Absorb", "Water Veil"], "tier": ["LC"], "form": "Base"}}, "overview": "Mantyke's access to Rain Dance and Swift Swim as well as an excellent offensive typing allow it to function as a fairly effective late-game cleaner, especially since there are only two Pokemon in Little Cup that resist both of Mantyke's STAB moves\u2014Chinchou and the very uncommon Helioptile. It also has a gargantuan base 120 Special Defense stat, allowing it to set up on certain special attackers like Gastly, unboosted Snivy, and Croagunk. In addition, Mantyke resists common forms of priority in Aqua Jet, Mach Punch, and Vacuum Wave, which would otherwise be able to end its sweep prematurely. However, though Mantyke's Hydro Pump is very powerful when rain-boosted, its Air Slash is quite weak, especially coming off a low base 60 Special Attack stat. In addition, Mantyke's 4x weakness to Electric means it can sometimes get KOed by coverage moves on a Pokemon it can usually set up on, like Thunderbolt Gastly or Wild Charge Ponyta. A weakness to Stealth Rock means that Mantyke struggles to switch in repeatedly. Its pitiful physical bulk only amplifies this, as it can rarely switch into or set up on any physical attacker. Mantyke struggles greatly if rain is not up, as it is quite slow without a Swift Swim boost and Hydro Pump is weak without the boost from rain. In addition, since rain only lasts 4 turns, Mantyke is very limited in the time it has to sweep. Lastly, Mantyke faces a lot of competition from other offensive Water-types such as Shellder, Carvanha, and Omanyte, though its incredible STAB coverage and great Special Defense give it a niche.\n", "strategies' format": "LC", "strategies": [{"name": "Eye of the Storm (Rain Dance)", "stats": [104, 68, 145, 226, 285, 185], "type": ["Water", "Flying"], "usage": "Mantyke should be preserved until late-game, where it should look for a setup opportunity in order to clean once its checks like Chinchou and Ferroseed have been weakened or removed. It can potentially set up on certain special attackers like Gastly lacking Thunderbolt and unboosted Snivy, Fighting-types like Timburr lacking the very rare Thunder Punch and Mienfoo, Fire-types like Ponyta lacking Wild Charge, or Water-types like Staryu lacking Thunderbolt. Always make sure to scout for Electric-type coverage possessed by the foe, especially with Pokemon such as Gastly, Ponyta, and Staryu, as it can quickly put an end to Mantyke's sweep or setup opportunity. It is very important that Mantyke has enough turns of rain to clean up. If your opponent's team still has too many Pokemon remaining for Mantyke to clean in its limited time, it is often recommended to weaken them further before attempting a sweep, even if your opponent can't check Mantyke well anymore. Mantyke shouldn't try to sweep until Sucker Punch users like Pawniard have also been eliminated, as they can generally knock it out easily with only minimal prior damage due to Mantyke's pitiful Defense. Even with a boost from rain and Life Orb, Mantyke is not extremely powerful, so it is important that Eviolites from bulky foes like Spritzee and Slowpoke have been removed and that entry hazards have been set up on the opponent's side of the field, since Mantyke relies on them for many of its KOs.", "moves": [["Rain Dance"], ["Hydro Pump"], ["Air Slash"], ["Hidden Power Ground", "Hidden Power Grass"]], "item": [" Life Orb", " Eviolite"], "ability": ["Swift Swim"], "nature": ["Modest"], "ev spread": [0, 0, 36, 200, 36, 196], "iv spread": [9, 31, 31, 31, 31, 31]}], "counters": ["Electric-types", "Bulky Water-types", "Powerful Priority", "Very Specially Bulky Pokemon"], "credits": ["Written by Xayah", "Quality checked by Hilomilo, Nineage,  and Corporal Levi", "Grammar checked by Rakan and Eyan"]}
+{
+    "name": "Mantyke",
+    "forms": {
+        "Base": {
+            "base stats": [
+                45,
+                20,
+                50,
+                60,
+                120,
+                50
+            ],
+            "types": [
+                "Water",
+                "Flying"
+            ],
+            "abilities": [
+                "Swift Swim",
+                "Water Absorb",
+                "Water Veil"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Mantyke's access to Rain Dance and Swift Swim as well as an excellent offensive typing allow it to function as a fairly effective late-game cleaner, especially since there are only two Pokemon in Little Cup that resist both of Mantyke's STAB moves\u2014Chinchou and the very uncommon Helioptile. It also has a gargantuan base 120 Special Defense stat, allowing it to set up on certain special attackers like Gastly, unboosted Snivy, and Croagunk. In addition, Mantyke resists common forms of priority in Aqua Jet, Mach Punch, and Vacuum Wave, which would otherwise be able to end its sweep prematurely. However, though Mantyke's Hydro Pump is very powerful when rain-boosted, its Air Slash is quite weak, especially coming off a low base 60 Special Attack stat. In addition, Mantyke's 4x weakness to Electric means it can sometimes get KOed by coverage moves on a Pokemon it can usually set up on, like Thunderbolt Gastly or Wild Charge Ponyta. A weakness to Stealth Rock means that Mantyke struggles to switch in repeatedly. Its pitiful physical bulk only amplifies this, as it can rarely switch into or set up on any physical attacker. Mantyke struggles greatly if rain is not up, as it is quite slow without a Swift Swim boost and Hydro Pump is weak without the boost from rain. In addition, since rain only lasts 4 turns, Mantyke is very limited in the time it has to sweep. Lastly, Mantyke faces a lot of competition from other offensive Water-types such as Shellder, Carvanha, and Omanyte, though its incredible STAB coverage and great Special Defense give it a niche.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Eye of the Storm (Rain Dance)",
+            "stats": [
+                104,
+                68,
+                145,
+                226,
+                285,
+                185
+            ],
+            "type": [
+                "Water",
+                "Flying"
+            ],
+            "usage": "Mantyke should be preserved until late-game, where it should look for a setup opportunity in order to clean once its checks like Chinchou and Ferroseed have been weakened or removed. It can potentially set up on certain special attackers like Gastly lacking Thunderbolt and unboosted Snivy, Fighting-types like Timburr lacking the very rare Thunder Punch and Mienfoo, Fire-types like Ponyta lacking Wild Charge, or Water-types like Staryu lacking Thunderbolt. Always make sure to scout for Electric-type coverage possessed by the foe, especially with Pokemon such as Gastly, Ponyta, and Staryu, as it can quickly put an end to Mantyke's sweep or setup opportunity. It is very important that Mantyke has enough turns of rain to clean up. If your opponent's team still has too many Pokemon remaining for Mantyke to clean in its limited time, it is often recommended to weaken them further before attempting a sweep, even if your opponent can't check Mantyke well anymore. Mantyke shouldn't try to sweep until Sucker Punch users like Pawniard have also been eliminated, as they can generally knock it out easily with only minimal prior damage due to Mantyke's pitiful Defense. Even with a boost from rain and Life Orb, Mantyke is not extremely powerful, so it is important that Eviolites from bulky foes like Spritzee and Slowpoke have been removed and that entry hazards have been set up on the opponent's side of the field, since Mantyke relies on them for many of its KOs.",
+            "moves": [
+                [
+                    "Rain Dance"
+                ],
+                [
+                    "Hydro Pump"
+                ],
+                [
+                    "Air Slash"
+                ],
+                [
+                    "Hidden Power Ground",
+                    "Hidden Power Grass"
+                ]
+            ],
+            "item": [
+                " Life Orb",
+                " Eviolite"
+            ],
+            "ability": [
+                "Swift Swim"
+            ],
+            "nature": [
+                "Modest"
+            ],
+            "ev spread": [
+                0,
+                0,
+                36,
+                200,
+                36,
+                196
+            ],
+            "iv spread": [
+                9,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Electric-types",
+        "Bulky Water-types",
+        "Powerful Priority",
+        "Very Specially Bulky Pokemon"
+    ],
+    "credits": [
+        "Written by Xayah",
+        "Quality checked by Hilomilo, Nineage,  and Corporal Levi",
+        "Grammar checked by Rakan and Eyan"
+    ]
+}

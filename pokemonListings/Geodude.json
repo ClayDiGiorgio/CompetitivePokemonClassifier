@@ -1,1 +1,101 @@
-{"name": "Geodude", "forms": {"Base": {"base stats": [40, 80, 100, 30, 30, 20], "types": ["Rock", "Ground"], "abilities": ["Rock Head", "Sand Veil", "Sturdy"], "tier": ["LC"], "form": "Base"}}, "overview": "Geodude is a decent Stealth Rock user, as its Sturdy ability in conjunction with a Berry Juice usually guarantees that it will set up Stealth Rock. However, it is largely outclassed by Onix in this role, as its superior Speed stat, unpredictability in ability options, and access to more utility moves like Taunt and Roar make it function much better as an entry hazard lead. Geodude does boast a far greater Attack stat and a nice movepool, though, containing Sucker Punch as a priority option, a very powerful Explosion, Counter to smack physical attacking foes back, and great STAB moves to take advantage of Geodude's amazing offensive typing, all of which give it a good offensive presence and make it function as a better suicide lead for offense teams. Like Onix, Geodude suffers with a bad Special Defense stat and mediocre HP stat, which coupled by its terrible defensive typing that gives it a 4x weakness to Water and Grass as well as other weaknesses to common types like Fighting and Ground, makes it mediocre defensively, though Sturdy does mitigate this hindrance.\n", "strategies' format": "LC", "strategies": [{"name": "Stealth Rock", "stats": [125, 269, 265, 86, 105, 105], "type": ["Rock", "Ground"], "usage": "Geodude best functions as a lead and should use Stealth Rock as early as possible to pressure the opposing team with entry hazards up. Be careful of Ferroseed and Mienfoo when leading with Geodude, as the former outright beats it with Bullet Seed, while the latter can remove Geodude's Berry Juice and proceed to KO it with Fighting-type moves or simply Taunt it, preventing it from setting Stealth Rock. Geodude can also be saved for late-game once spinners and Defoggers have been cleared, allowing it to keep Stealth Rock up; it should switch in if it gets a free switch, such as via VoltTurn, to avoid damage and keep Sturdy intact, or on attacks it resists from the likes of Doduo and Elekid, though it should be careful of coverage these Pokemon carry. Be cautious of Drilbur, as it is able to remove Geodude's Stealth Rock and set up its own while also being able to OHKO it, as Mold Breaker ignores Sturdy. Faster Pokemon such as Abra, Gastly, and weakened foes are prime targets for Sucker Punch, but be sure that they'll opt to attack instead of using a status move like Substitute, as mispredicting can be detrimental to Geodude. Explosion should only be used once Geodude has fulfilled its role of having Stealth Rock up, usually with spinners gone as well, and can be used to avoid being setup bait and to gain momentum for Geodude's team. However, watch out for Ghost-types, as they are immune to Explosion and will cause Geodude to faint without damaging them. Counter should be used against physical attackers Geodude cannot KO with its other moves, like Mienfoo and Timburr at full HP, and when it is at full health to ensure that Sturdy activates.", "moves": [["Stealth Rock"], ["Rock Blast"], ["Earthquake"], ["Sucker Punch", "Explosion", "Counter"]], "item": [" Berry Juice"], "ability": ["Sturdy"], "nature": ["Adamant"], "ev spread": [36, 196, 116, 0, 36, 116], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Grass-types", "Water-types", "Fighting-types", "Ground-types", "Residual Damage"], "credits": ["Written by crusty", "Quality checked by Hilomilo, Xayah,  and Nineage", "Grammar checked by Wob and FireFlame479"]}
+{
+    "name": "Geodude",
+    "forms": {
+        "Base": {
+            "base stats": [
+                40,
+                80,
+                100,
+                30,
+                30,
+                20
+            ],
+            "types": [
+                "Rock",
+                "Ground"
+            ],
+            "abilities": [
+                "Rock Head",
+                "Sand Veil",
+                "Sturdy"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Geodude is a decent Stealth Rock user, as its Sturdy ability in conjunction with a Berry Juice usually guarantees that it will set up Stealth Rock. However, it is largely outclassed by Onix in this role, as its superior Speed stat, unpredictability in ability options, and access to more utility moves like Taunt and Roar make it function much better as an entry hazard lead. Geodude does boast a far greater Attack stat and a nice movepool, though, containing Sucker Punch as a priority option, a very powerful Explosion, Counter to smack physical attacking foes back, and great STAB moves to take advantage of Geodude's amazing offensive typing, all of which give it a good offensive presence and make it function as a better suicide lead for offense teams. Like Onix, Geodude suffers with a bad Special Defense stat and mediocre HP stat, which coupled by its terrible defensive typing that gives it a 4x weakness to Water and Grass as well as other weaknesses to common types like Fighting and Ground, makes it mediocre defensively, though Sturdy does mitigate this hindrance.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Stealth Rock",
+            "stats": [
+                125,
+                269,
+                265,
+                86,
+                105,
+                105
+            ],
+            "type": [
+                "Rock",
+                "Ground"
+            ],
+            "usage": "Geodude best functions as a lead and should use Stealth Rock as early as possible to pressure the opposing team with entry hazards up. Be careful of Ferroseed and Mienfoo when leading with Geodude, as the former outright beats it with Bullet Seed, while the latter can remove Geodude's Berry Juice and proceed to KO it with Fighting-type moves or simply Taunt it, preventing it from setting Stealth Rock. Geodude can also be saved for late-game once spinners and Defoggers have been cleared, allowing it to keep Stealth Rock up; it should switch in if it gets a free switch, such as via VoltTurn, to avoid damage and keep Sturdy intact, or on attacks it resists from the likes of Doduo and Elekid, though it should be careful of coverage these Pokemon carry. Be cautious of Drilbur, as it is able to remove Geodude's Stealth Rock and set up its own while also being able to OHKO it, as Mold Breaker ignores Sturdy. Faster Pokemon such as Abra, Gastly, and weakened foes are prime targets for Sucker Punch, but be sure that they'll opt to attack instead of using a status move like Substitute, as mispredicting can be detrimental to Geodude. Explosion should only be used once Geodude has fulfilled its role of having Stealth Rock up, usually with spinners gone as well, and can be used to avoid being setup bait and to gain momentum for Geodude's team. However, watch out for Ghost-types, as they are immune to Explosion and will cause Geodude to faint without damaging them. Counter should be used against physical attackers Geodude cannot KO with its other moves, like Mienfoo and Timburr at full HP, and when it is at full health to ensure that Sturdy activates.",
+            "moves": [
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Rock Blast"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Sucker Punch",
+                    "Explosion",
+                    "Counter"
+                ]
+            ],
+            "item": [
+                " Berry Juice"
+            ],
+            "ability": [
+                "Sturdy"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                36,
+                196,
+                116,
+                0,
+                36,
+                116
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Grass-types",
+        "Water-types",
+        "Fighting-types",
+        "Ground-types",
+        "Residual Damage"
+    ],
+    "credits": [
+        "Written by crusty",
+        "Quality checked by Hilomilo, Xayah,  and Nineage",
+        "Grammar checked by Wob and FireFlame479"
+    ]
+}

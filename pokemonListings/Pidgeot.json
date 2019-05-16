@@ -1,1 +1,120 @@
-{"name": "Pidgeot", "forms": {"Base": {"base stats": [83, 80, 75, 70, 70, 101], "types": ["Normal", "Flying"], "abilities": ["Big Pecks", "Keen Eye", "Tangled Feet"], "tier": ["Untiered"], "form": "Base"}, "Mega": {"base stats": [83, 80, 80, 135, 80, 121], "types": ["Normal", "Flying"], "abilities": ["No Guard"], "tier": ["UU"], "form": "Mega"}}, "overview": "Mega Pidgeot's great Speed tier, amazing offensive typing in Flying, and solid Special Attack make it a threatening attacker. No Guard gives Mega Pidgeot a 100% accurate Hurricane, which means it has something many special attacking Flying-types lack: a reliable, strong STAB move. Flying as an offensive typing is great, as few types resist it, although the types it hits super effectively are not very common. Mega Pidgeot also has solid coverage in Heat Wave, pivoting abilities in U-turn, and reliable recovery in Roost, giving it decent longevity and allowing it to fit on VoltTurn teams. Mega Pidgeot's flaws lie in its mediocre defensive typing, giving it very few useful resistances and a crippling weakness to Stealth Rock; its bulk is good enough to survive most neutral attacks, but not with Stealth Rock up, making entry hazard removal a priority on Mega Pidgeot teams. The high usage of Electric-types such as Mega Manectric do Mega Pidgeot no favors either, as they resist its STAB attack and deal heavy damage in return with Volt Switch or OHKO with Thunderbolt. While No Guard gives Mega Pidgeot an accurate Hurricane, it also makes every inaccurate move hit Mega Pidgeot itself, which means it cannot dodge moves such as Stone Edge, Toxic, and Icicle Crash. It also faces indirect competition from other Mega Evolutions, such as Mega Aerodactyl and Mega Sharpedo, which are often faster and stronger than Mega Pidgeot.\n", "strategies' format": "UU", "strategies": [{"name": "Special Attacker", "stats": [202, 176, 197, 369, 196, 375], "type": ["Normal", "Flying"], "usage": "Hurricane is the move you want to use the most because of the lack of Pokemon resisting it and its high Base Power. Don't attempt to switch Mega Pidgeot in on hits unless it absolutely has to, because it will fall to most decently powerful neutral hits with Stealth Rock up, when it would otherwise survive them. Instead, bring it in when a Pokemon faints or on a Volt Switch or U-turn. Use U-turn on Mega Pidgeot switch-ins, such as Nihilego and Blissey. Mega Pidgeot can survive some neutral hits, such as Cobalion's Close Combat and Mega Beedrill's Poison Jab, so try to keep Mega Pidgeot healthy enough to take these hits if necessary. Make sure that Stealth Rock is removed from the field before sending Mega Pidgeot in, since it despises being worn down, which will prevent it from being able to take neutral hits.", "moves": [["Hurricane"], ["Heat Wave"], ["U-turn"], ["Roost"]], "item": [" Pidgeotite"], "ability": ["Big Pecks"], "nature": ["Timid"], "ev spread": [0, 0, 4, 252, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Electric-types", "Rock-types", "Priority", "Special Walls", "Choice Scarf Users and Faster Attackers"], "credits": ["Written by Nuked", "Quality checked by A Cake Wearing A Hat, Amaroq,  and Bouff", "Grammar checked by The Dutch Plumberjack and martha"]}
+{
+    "name": "Pidgeot",
+    "forms": {
+        "Base": {
+            "base stats": [
+                83,
+                80,
+                75,
+                70,
+                70,
+                101
+            ],
+            "types": [
+                "Normal",
+                "Flying"
+            ],
+            "abilities": [
+                "Big Pecks",
+                "Keen Eye",
+                "Tangled Feet"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        },
+        "Mega": {
+            "base stats": [
+                83,
+                80,
+                80,
+                135,
+                80,
+                121
+            ],
+            "types": [
+                "Normal",
+                "Flying"
+            ],
+            "abilities": [
+                "No Guard"
+            ],
+            "tier": [
+                "UU"
+            ],
+            "form": "Mega"
+        }
+    },
+    "overview": "Mega Pidgeot's great Speed tier, amazing offensive typing in Flying, and solid Special Attack make it a threatening attacker. No Guard gives Mega Pidgeot a 100% accurate Hurricane, which means it has something many special attacking Flying-types lack: a reliable, strong STAB move. Flying as an offensive typing is great, as few types resist it, although the types it hits super effectively are not very common. Mega Pidgeot also has solid coverage in Heat Wave, pivoting abilities in U-turn, and reliable recovery in Roost, giving it decent longevity and allowing it to fit on VoltTurn teams. Mega Pidgeot's flaws lie in its mediocre defensive typing, giving it very few useful resistances and a crippling weakness to Stealth Rock; its bulk is good enough to survive most neutral attacks, but not with Stealth Rock up, making entry hazard removal a priority on Mega Pidgeot teams. The high usage of Electric-types such as Mega Manectric do Mega Pidgeot no favors either, as they resist its STAB attack and deal heavy damage in return with Volt Switch or OHKO with Thunderbolt. While No Guard gives Mega Pidgeot an accurate Hurricane, it also makes every inaccurate move hit Mega Pidgeot itself, which means it cannot dodge moves such as Stone Edge, Toxic, and Icicle Crash. It also faces indirect competition from other Mega Evolutions, such as Mega Aerodactyl and Mega Sharpedo, which are often faster and stronger than Mega Pidgeot.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Special Attacker",
+            "stats": [
+                202,
+                176,
+                197,
+                369,
+                196,
+                375
+            ],
+            "type": [
+                "Normal",
+                "Flying"
+            ],
+            "usage": "Hurricane is the move you want to use the most because of the lack of Pokemon resisting it and its high Base Power. Don't attempt to switch Mega Pidgeot in on hits unless it absolutely has to, because it will fall to most decently powerful neutral hits with Stealth Rock up, when it would otherwise survive them. Instead, bring it in when a Pokemon faints or on a Volt Switch or U-turn. Use U-turn on Mega Pidgeot switch-ins, such as Nihilego and Blissey. Mega Pidgeot can survive some neutral hits, such as Cobalion's Close Combat and Mega Beedrill's Poison Jab, so try to keep Mega Pidgeot healthy enough to take these hits if necessary. Make sure that Stealth Rock is removed from the field before sending Mega Pidgeot in, since it despises being worn down, which will prevent it from being able to take neutral hits.",
+            "moves": [
+                [
+                    "Hurricane"
+                ],
+                [
+                    "Heat Wave"
+                ],
+                [
+                    "U-turn"
+                ],
+                [
+                    "Roost"
+                ]
+            ],
+            "item": [
+                " Pidgeotite"
+            ],
+            "ability": [
+                "Big Pecks"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                4,
+                252,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Electric-types",
+        "Rock-types",
+        "Priority",
+        "Special Walls",
+        "Choice Scarf Users and Faster Attackers"
+    ],
+    "credits": [
+        "Written by Nuked",
+        "Quality checked by A Cake Wearing A Hat, Amaroq,  and Bouff",
+        "Grammar checked by The Dutch Plumberjack and martha"
+    ]
+}

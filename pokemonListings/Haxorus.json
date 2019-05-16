@@ -1,1 +1,154 @@
-{"name": "Haxorus", "forms": {"Base": {"base stats": [76, 147, 90, 60, 70, 97], "types": ["Dragon"], "abilities": ["Mold Breaker", "Rivalry", "Unnerve"], "tier": ["UU"], "form": "Base"}}, "overview": "Haxorus is a solid physical sweeper and wallbreaker in the UU metagame thanks to its superb Attack stat and a powerful STAB move in Outrage, as well as two setup moves in Swords Dance and Dragon Dance. Its typing also grants it good resistances that help it take hits from threats such as Suicune, Rotom-C, and Rotom-H and open up some setup opportunities. Furthermore, a decent physical movepool with coverage such as Earthquake and Poison Jab allows it to go toe-to-toe with Steel- and Fairy-types such as Mega Aggron, Empoleon, and Togekiss, and its ability Mold Breaker helps it to be a stallbreaker, allowing it to set up and bypass the tier's Unaware users in Quagsire and Pyukumuku, stall's normal answers to physical setup sweepers, and giving it an edge over other setup sweepers such as Cobalion. However, Haxorus's Speed tier, while good for outspeeding balance and stall teams, renders it slower than many of UU's faster offensive threats such as Latias, Infernape, and Hydreigon. Its mediocre bulk also hinders it by limiting its ability to set up and leaving it prone to being revenge killed by said faster offensive Pokemon or priority such as Mamoswine's Ice Shard. It faces competition as a Dragon-type from Latias, Hydreigon, and Kommo-o, all of which offer more utility due to their better bulk, better typings, and stronger coverage; Kommo-o also has access to powerful Fighting-type STAB move in Close Combat to give it an edge as a Dragon Dance sweeper.\n", "strategies' format": "UU", "strategies": [{"name": "Swords Dance", "stats": [188, 393, 216, 140, 177, 322], "type": ["Dragon"], "usage": "Haxorus functions mainly as a wallbreaker, using its sheer power to muscle through bulkier threats on bulky offense, balance, and stall teams. Ideally, Haxorus should be used mid-game to break down or pressure walls such as Suicune and Hippowdon. It should aim to soften such walls so that other teammates can pull off a sweep late-game. Due to its middling bulk, Haxorus often struggles to find setup opportunities, particularly against faster offensive teams. In those cases, Haxorus can afford to immediately use Devastating Drake or wallbreak with its attacks before going down; since it possesses such a high amount of initial power, it can wallbreak competently without a boost. However, against defensive and balanced teams, Lum Berry Haxorus can try to use a weaker defensive threat such as Blissey or Alomomola as setup fodder to enhance its wallbreaking capabilities.", "moves": [["Swords Dance"], ["Outrage"], ["Earthquake"], ["Poison Jab"]], "item": [" Dragonium Z", " Lum Berry"], "ability": ["Mold Breaker"], "nature": ["Jolly"], "ev spread": [0, 252, 0, 0, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Dragon Dance", "stats": [188, 393, 216, 140, 177, 322], "type": ["Dragon"], "usage": "Haxorus can function in two ways: it can sweep late-game with a Dragon Dance boost once its checks, such as Mega Altaria and Scizor, are removed from play, or it can function as a competent wallbreaker and lure mid-game. Since Haxorus struggles to find setup opportunities due to its mediocre bulk and awkward Speed tier, it can be used to lure in its potential checks and wear them down with Earthquake or Poison Jab, and it can use its raw immediate power to muscle through teams, which can help it sweep late-game. It can wallbreak well overall, as it possesses a solid matchup against more defensive teams. If needed, Devastating Drake allows Haxorus to break past Alomomola and Hippowdon after a boost or two without locking itself into Outrage. Devastating Drake is most useful when the raw power is needed but there are still Steel- or Fairy-types on the opposing team to switch into Outrage. Haxorus can find setup opportunities against certain Pokemon such as Tsareena, as well as passive threats such as Blissey. VoltTurn support is also appreciated as a means of helping Haxorus get into battle more safely. Haxorus shouldn't try switching into moves, since doing that will leave it more vulnerable to being revenge killed by priority such as Scizor's Bullet Punch or reasonably strong attacks from faster Pokemon.", "moves": [["Dragon Dance"], ["Outrage"], ["Earthquake"], ["Poison Jab"]], "item": [" Dragonium Z", " Lum Berry"], "ability": ["Mold Breaker"], "nature": ["Jolly"], "ev spread": [0, 252, 0, 0, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Revenge Killers", "Fairy-types", "Priority", "Steel-types", "Offensive Pressure"], "credits": ["Written by ScraftyIsTheBest", "Earlier versions by Amaroq", "Quality checked by Bouff, Nuked,  and martha", "Grammar checked by A Cake Wearing A Hat and The Dutch Plumberjack"]}
+{
+    "name": "Haxorus",
+    "forms": {
+        "Base": {
+            "base stats": [
+                76,
+                147,
+                90,
+                60,
+                70,
+                97
+            ],
+            "types": [
+                "Dragon"
+            ],
+            "abilities": [
+                "Mold Breaker",
+                "Rivalry",
+                "Unnerve"
+            ],
+            "tier": [
+                "UU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Haxorus is a solid physical sweeper and wallbreaker in the UU metagame thanks to its superb Attack stat and a powerful STAB move in Outrage, as well as two setup moves in Swords Dance and Dragon Dance. Its typing also grants it good resistances that help it take hits from threats such as Suicune, Rotom-C, and Rotom-H and open up some setup opportunities. Furthermore, a decent physical movepool with coverage such as Earthquake and Poison Jab allows it to go toe-to-toe with Steel- and Fairy-types such as Mega Aggron, Empoleon, and Togekiss, and its ability Mold Breaker helps it to be a stallbreaker, allowing it to set up and bypass the tier's Unaware users in Quagsire and Pyukumuku, stall's normal answers to physical setup sweepers, and giving it an edge over other setup sweepers such as Cobalion. However, Haxorus's Speed tier, while good for outspeeding balance and stall teams, renders it slower than many of UU's faster offensive threats such as Latias, Infernape, and Hydreigon. Its mediocre bulk also hinders it by limiting its ability to set up and leaving it prone to being revenge killed by said faster offensive Pokemon or priority such as Mamoswine's Ice Shard. It faces competition as a Dragon-type from Latias, Hydreigon, and Kommo-o, all of which offer more utility due to their better bulk, better typings, and stronger coverage; Kommo-o also has access to powerful Fighting-type STAB move in Close Combat to give it an edge as a Dragon Dance sweeper.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Swords Dance",
+            "stats": [
+                188,
+                393,
+                216,
+                140,
+                177,
+                322
+            ],
+            "type": [
+                "Dragon"
+            ],
+            "usage": "Haxorus functions mainly as a wallbreaker, using its sheer power to muscle through bulkier threats on bulky offense, balance, and stall teams. Ideally, Haxorus should be used mid-game to break down or pressure walls such as Suicune and Hippowdon. It should aim to soften such walls so that other teammates can pull off a sweep late-game. Due to its middling bulk, Haxorus often struggles to find setup opportunities, particularly against faster offensive teams. In those cases, Haxorus can afford to immediately use Devastating Drake or wallbreak with its attacks before going down; since it possesses such a high amount of initial power, it can wallbreak competently without a boost. However, against defensive and balanced teams, Lum Berry Haxorus can try to use a weaker defensive threat such as Blissey or Alomomola as setup fodder to enhance its wallbreaking capabilities.",
+            "moves": [
+                [
+                    "Swords Dance"
+                ],
+                [
+                    "Outrage"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Poison Jab"
+                ]
+            ],
+            "item": [
+                " Dragonium Z",
+                " Lum Berry"
+            ],
+            "ability": [
+                "Mold Breaker"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                0,
+                0,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Dragon Dance",
+            "stats": [
+                188,
+                393,
+                216,
+                140,
+                177,
+                322
+            ],
+            "type": [
+                "Dragon"
+            ],
+            "usage": "Haxorus can function in two ways: it can sweep late-game with a Dragon Dance boost once its checks, such as Mega Altaria and Scizor, are removed from play, or it can function as a competent wallbreaker and lure mid-game. Since Haxorus struggles to find setup opportunities due to its mediocre bulk and awkward Speed tier, it can be used to lure in its potential checks and wear them down with Earthquake or Poison Jab, and it can use its raw immediate power to muscle through teams, which can help it sweep late-game. It can wallbreak well overall, as it possesses a solid matchup against more defensive teams. If needed, Devastating Drake allows Haxorus to break past Alomomola and Hippowdon after a boost or two without locking itself into Outrage. Devastating Drake is most useful when the raw power is needed but there are still Steel- or Fairy-types on the opposing team to switch into Outrage. Haxorus can find setup opportunities against certain Pokemon such as Tsareena, as well as passive threats such as Blissey. VoltTurn support is also appreciated as a means of helping Haxorus get into battle more safely. Haxorus shouldn't try switching into moves, since doing that will leave it more vulnerable to being revenge killed by priority such as Scizor's Bullet Punch or reasonably strong attacks from faster Pokemon.",
+            "moves": [
+                [
+                    "Dragon Dance"
+                ],
+                [
+                    "Outrage"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Poison Jab"
+                ]
+            ],
+            "item": [
+                " Dragonium Z",
+                " Lum Berry"
+            ],
+            "ability": [
+                "Mold Breaker"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                0,
+                0,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Revenge Killers",
+        "Fairy-types",
+        "Priority",
+        "Steel-types",
+        "Offensive Pressure"
+    ],
+    "credits": [
+        "Written by ScraftyIsTheBest",
+        "Earlier versions by Amaroq",
+        "Quality checked by Bouff, Nuked,  and martha",
+        "Grammar checked by A Cake Wearing A Hat and The Dutch Plumberjack"
+    ]
+}

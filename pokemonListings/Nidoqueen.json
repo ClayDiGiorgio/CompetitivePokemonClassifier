@@ -1,1 +1,156 @@
-{"name": "Nidoqueen", "forms": {"Base": {"base stats": [90, 92, 87, 75, 85, 76], "types": ["Poison", "Ground"], "abilities": ["Poison Point", "Rivalry", "Sheer Force"], "tier": ["RU"], "form": "Base"}}, "overview": "Nidoqueen offers a unique mix of utility to UU teams, including its immunity to Electric, access to entry hazards like Toxic Spikes and Stealth Rock, and favorable one-on-one matchup against threats like Mega Manectric, Terrakion, and Nihilego. It can viably run both offensive and defensive sets, which similarly take advantage of these matchups as well as its coverage options in tandem with Sheer Force. Alongside its solid defensive uses, Nidoqueen's main selling point lies in these traits, letting it threaten entry hazard removers like Tentacruel, Empoleon, and Gligar. However, Nidoqueen possesses mediocre stats across the board, leaving it easily revenge killed and shakier versus threats like Terrakion and Cobalion than it would prefer. Nidoking offers stiff competition offensively, trading Nidoqueen's additional bulk for more Speed and the ability to deal with Pokemon like Togekiss. Other bulky Ground-types, mainly Gligar and Hippowdon, also make bulky sets hard to justify, possessing superior bulk and access to reliable recovery at the cost of Nidoqueen's offensive presence.\n", "strategies' format": "UU", "strategies": [{"name": "Defensive", "stats": [279, 198, 260, 186, 224, 207], "type": ["Poison", "Ground"], "usage": "Nidoqueen should be used primarily early- to mid-game, mainly to handle threats such as Nihilego, Terrakion, and Mega Manectric. These favorable positions make for ideal opportunities to set up an entry hazard, as the foe is often forced out. Prioritize laying down Toxic Spikes if the opponent has multiple Pokemon vulnerable to them, especially if they lack a grounded Poison-type or an entry hazard remover that fares well against Nidoqueen. Similarly, setting Stealth Rock can be crucial in pressuring foes like Moltres, Rotom-H, and Mega Aerodactyl. Keep Nidoqueen healthy if it is necessary to handle cleaners like Mega Manectric, Choice Scarf Infernape, and Nihilego.", "moves": [["Toxic Spikes", "Stealth Rock"], ["Sludge Wave"], ["Earth Power"], ["Ice Beam"]], "item": [" Black Sludge"], "ability": ["Sheer Force"], "nature": ["Bold"], "ev spread": [252, 0, 108, 0, 72, 76], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Offensive Hazard Setter", "stats": [248, 198, 210, 273, 206, 220], "type": ["Poison", "Ground"], "usage": "Especially early on in matches, position Nidoqueen against foes like Mega Altaria, Mega Manectric, and Cobalion, where it can either set an entry hazard or throw out a powerful attack. Nidoqueen has the coverage necessary to threaten most teams offensively; therefore, play aggressively to make the most of this trait. The combination of Earth Power and Ice Beam can hit most Pokemon super effectively, but Sludge Wave can often make for a safe middle ground if expecting a switch to Pokemon like Hydreigon, Moltres, or Rotom-H. Offensive Nidoqueen has a tendency to be worn down easily, so prioritize keeping it healthy if it is needed to beat Pokemon like Mega Manectric or Terrakion.", "moves": [["Toxic Spikes", "Stealth Rock"], ["Sludge Wave"], ["Earth Power"], ["Ice Beam"]], "item": [" Life Orb"], "ability": ["Sheer Force"], "nature": ["Modest"], "ev spread": [128, 0, 0, 252, 0, 128], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Blissey", "Dragon-types", "Water-types", "Ground-types", "Bronzong"], "credits": ["Written by Pak", "Quality checked by Indigo Plateau, Nuked,  and Eyan", "Grammar checked by Estronic and frostration"]}
+{
+    "name": "Nidoqueen",
+    "forms": {
+        "Base": {
+            "base stats": [
+                90,
+                92,
+                87,
+                75,
+                85,
+                76
+            ],
+            "types": [
+                "Poison",
+                "Ground"
+            ],
+            "abilities": [
+                "Poison Point",
+                "Rivalry",
+                "Sheer Force"
+            ],
+            "tier": [
+                "RU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Nidoqueen offers a unique mix of utility to UU teams, including its immunity to Electric, access to entry hazards like Toxic Spikes and Stealth Rock, and favorable one-on-one matchup against threats like Mega Manectric, Terrakion, and Nihilego. It can viably run both offensive and defensive sets, which similarly take advantage of these matchups as well as its coverage options in tandem with Sheer Force. Alongside its solid defensive uses, Nidoqueen's main selling point lies in these traits, letting it threaten entry hazard removers like Tentacruel, Empoleon, and Gligar. However, Nidoqueen possesses mediocre stats across the board, leaving it easily revenge killed and shakier versus threats like Terrakion and Cobalion than it would prefer. Nidoking offers stiff competition offensively, trading Nidoqueen's additional bulk for more Speed and the ability to deal with Pokemon like Togekiss. Other bulky Ground-types, mainly Gligar and Hippowdon, also make bulky sets hard to justify, possessing superior bulk and access to reliable recovery at the cost of Nidoqueen's offensive presence.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Defensive",
+            "stats": [
+                279,
+                198,
+                260,
+                186,
+                224,
+                207
+            ],
+            "type": [
+                "Poison",
+                "Ground"
+            ],
+            "usage": "Nidoqueen should be used primarily early- to mid-game, mainly to handle threats such as Nihilego, Terrakion, and Mega Manectric. These favorable positions make for ideal opportunities to set up an entry hazard, as the foe is often forced out. Prioritize laying down Toxic Spikes if the opponent has multiple Pokemon vulnerable to them, especially if they lack a grounded Poison-type or an entry hazard remover that fares well against Nidoqueen. Similarly, setting Stealth Rock can be crucial in pressuring foes like Moltres, Rotom-H, and Mega Aerodactyl. Keep Nidoqueen healthy if it is necessary to handle cleaners like Mega Manectric, Choice Scarf Infernape, and Nihilego.",
+            "moves": [
+                [
+                    "Toxic Spikes",
+                    "Stealth Rock"
+                ],
+                [
+                    "Sludge Wave"
+                ],
+                [
+                    "Earth Power"
+                ],
+                [
+                    "Ice Beam"
+                ]
+            ],
+            "item": [
+                " Black Sludge"
+            ],
+            "ability": [
+                "Sheer Force"
+            ],
+            "nature": [
+                "Bold"
+            ],
+            "ev spread": [
+                252,
+                0,
+                108,
+                0,
+                72,
+                76
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Offensive Hazard Setter",
+            "stats": [
+                248,
+                198,
+                210,
+                273,
+                206,
+                220
+            ],
+            "type": [
+                "Poison",
+                "Ground"
+            ],
+            "usage": "Especially early on in matches, position Nidoqueen against foes like Mega Altaria, Mega Manectric, and Cobalion, where it can either set an entry hazard or throw out a powerful attack. Nidoqueen has the coverage necessary to threaten most teams offensively; therefore, play aggressively to make the most of this trait. The combination of Earth Power and Ice Beam can hit most Pokemon super effectively, but Sludge Wave can often make for a safe middle ground if expecting a switch to Pokemon like Hydreigon, Moltres, or Rotom-H. Offensive Nidoqueen has a tendency to be worn down easily, so prioritize keeping it healthy if it is needed to beat Pokemon like Mega Manectric or Terrakion.",
+            "moves": [
+                [
+                    "Toxic Spikes",
+                    "Stealth Rock"
+                ],
+                [
+                    "Sludge Wave"
+                ],
+                [
+                    "Earth Power"
+                ],
+                [
+                    "Ice Beam"
+                ]
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Sheer Force"
+            ],
+            "nature": [
+                "Modest"
+            ],
+            "ev spread": [
+                128,
+                0,
+                0,
+                252,
+                0,
+                128
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Blissey",
+        "Dragon-types",
+        "Water-types",
+        "Ground-types",
+        "Bronzong"
+    ],
+    "credits": [
+        "Written by Pak",
+        "Quality checked by Indigo Plateau, Nuked,  and Eyan",
+        "Grammar checked by Estronic and frostration"
+    ]
+}

@@ -1,1 +1,154 @@
-{"name": "Zeraora", "forms": {"Base": {"base stats": [88, 112, 75, 102, 80, 143], "types": ["Electric"], "abilities": ["Volt Absorb"], "tier": ["UU"], "form": "Base"}}, "overview": "Zeraora is a potent offensive threat in UU by virtue of its decent mixed offenses, outstanding Speed, and access to a powerful physical Electric-type move in Plasma Fists. Thanks to its aforementioned Speed, it can outrun and threaten some of the tier's fastest threats, including Mega Manectric, Latias, Gengar, and Starmie. Its vast coverage movepool allows it to hit several conventional Electric-type checks like Hydreigon and Hippowdon with moves like Close Combat and Grass Knot, making it a solid mixed wallbreaker. It can also attempt to sweep with Bulk Up thanks to its ability to power through several bulkier threats with either Gigavolt Havoc or Breakneck Blitz, as well as its Speed allowing it to limit the number of Pokemon capable of revenge killing it. Unfortunately, Zeraora's pitiful defenses and weak typing limit its opportunities to come into play on its own and prevent it from reliably checking Pokemon that other Electric-types can often handle well, such as Scizor and Togekiss. Its lack of immediate power causes it to rely on Life Orb for damage output on some sets, damaging its longevity in the process. This also makes Zeraora more prediction reliant in order to adequately punish its switch-ins. Zeraora struggles to fit all of its desired coverage moves on its setup sets, meaning that they will always fail to hit at least one key target hard. Because of these downsides, Zeraora faces competition from other Electric-types like Rotom-H and Mega Manectric, which can more reliably fulfill their roles due to being less hard pressed to fit coverage on their sets and having better defensive utility.\n", "strategies' format": "UU", "strategies": [{"name": "Mixed Attacker", "stats": [212, 323, 186, 241, 176, 423], "type": ["Electric"], "usage": "This set's main function is as a fast mixed wallbreaker capable of punching holes in opposing teams early- or mid-game. However, if Zeraora is still healthy at the end of the match and Plasma Fists switch-ins are weakened or removed, it can attempt cleaning up thanks to its high Speed. Due to its poor bulk and typing, Zeraora should almost never switch into foes directly, instead coming into play with support from a pivot or after a teammate has fainted. Prediction is vital in reliably securing various KOs for Zeraora. For instance, if a Ground-type like Hippowdon or Swampert is likely to switch in on an expected Plasma Fists, Zeraora should try nailing them with Grass Knot as they come in, sufficiently weakening them. Due to its Speed, Zeraora can be used to revenge kill weakened sweepers like Cobalion, Mega Houndoom, and Latias. However, it should be wary of revenge killing setup sweepers that often carry priority, such as Scizor, Bisharp, Infernape, and Lucario, as after a boost these threats will likely be able to wear Zeraora down immensely or pick it off if it's weakened enough. If Volt Switch is being used, Zeraora should use the attack on predicted switches into foes it can't reliably break through, like Mega Altaria and Amoonguss, in order to chip them while generating momentum. While Zeraora's typing can allow it to tank a hit or two from foes like Togekiss, Scizor, and Crobat, it should never be used primarily as a check to these Pokemon due to its poor longevity. This is further compounded by the Life Orb recoil it may sustain, making it often only an offensive answer. If Shuca Berry is being run, Zeraora should use it to either tank a hit from a faster foe like Mega Aerodactyl or Krookodile while retaliating with super effective hits or inflict damage on a slower Ground-type like Hippowdon or Mega Steelix while stomaching an Earthquake.", "moves": [["Plasma Fists"], ["Close Combat"], ["Grass Knot"], ["Knock Off", "Volt Switch"]], "item": [" Life Orb", " Expert Belt", " Shuca Berry"], "ability": ["Volt Absorb"], "nature": ["Naive"], "ev spread": [0, 252, 0, 4, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Bulk Up", "stats": [212, 323, 187, 216, 196, 423], "type": ["Electric"], "usage": "This set's function is as a sweeper capable of cleaning up late-game once its checks have been removed or weakened. However, with Normalium Z, it can also double as a lure to several of Zeraora's otherwise solid checks, like Mega Altaria, Amoonguss, and several Ground-types. Due to its frailty, Zeraora should only come in after a teammate has fainted or with support from a pivoting teammate. It should be brought in on foes it can force out, such as Primarina and Starmie, in order to find opportunities to set up. Zeraora can also attempt setup against foes like Rotom-H and Latias after they have used moves like Overheat and Draco Meteor, respectively. While on paper it could switch in on opposing Electric-types or resisted attacks to set up, its susceptibility to coverage and chip damage often makes this an unreliable strategy. Electrium Z should be activated to deal heavy damage to bulky Pokemon that would otherwise tank a hit or two from Zeraora and possibly cripple it, like Mega Aggron and Mega Slowbro. If Normalium Z is being used, it should be activated after a boost to dent targets that would otherwise take minimal damage from even boosted hits, like Amoonguss, Celebi, Gligar, and Mega Altaria. Conserving Zeraora's HP in order to allow it to reliably sweep is important, meaning it should rarely be brought out before setting up unless it is needed to revenge kill an opposing Pokemon.", "moves": [["Bulk Up"], ["Plasma Fists"], ["Close Combat"], ["Knock Off", "Giga Impact"]], "item": [" Electrium Z", " Shuca Berry", " Normalium Z"], "ability": ["Volt Absorb"], "nature": ["Jolly"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Ground-types", "Physically Bulky Pokemon", "Faster Pokemon", "Strong Priority"], "credits": ["Written by Hilomilo", "Quality checked by martha, Nuked,  and A Cake Wearing A Hat", "Grammar checked by A Cake Wearing A Hat and The Dutch Plumberjack"]}
+{
+    "name": "Zeraora",
+    "forms": {
+        "Base": {
+            "base stats": [
+                88,
+                112,
+                75,
+                102,
+                80,
+                143
+            ],
+            "types": [
+                "Electric"
+            ],
+            "abilities": [
+                "Volt Absorb"
+            ],
+            "tier": [
+                "UU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Zeraora is a potent offensive threat in UU by virtue of its decent mixed offenses, outstanding Speed, and access to a powerful physical Electric-type move in Plasma Fists. Thanks to its aforementioned Speed, it can outrun and threaten some of the tier's fastest threats, including Mega Manectric, Latias, Gengar, and Starmie. Its vast coverage movepool allows it to hit several conventional Electric-type checks like Hydreigon and Hippowdon with moves like Close Combat and Grass Knot, making it a solid mixed wallbreaker. It can also attempt to sweep with Bulk Up thanks to its ability to power through several bulkier threats with either Gigavolt Havoc or Breakneck Blitz, as well as its Speed allowing it to limit the number of Pokemon capable of revenge killing it. Unfortunately, Zeraora's pitiful defenses and weak typing limit its opportunities to come into play on its own and prevent it from reliably checking Pokemon that other Electric-types can often handle well, such as Scizor and Togekiss. Its lack of immediate power causes it to rely on Life Orb for damage output on some sets, damaging its longevity in the process. This also makes Zeraora more prediction reliant in order to adequately punish its switch-ins. Zeraora struggles to fit all of its desired coverage moves on its setup sets, meaning that they will always fail to hit at least one key target hard. Because of these downsides, Zeraora faces competition from other Electric-types like Rotom-H and Mega Manectric, which can more reliably fulfill their roles due to being less hard pressed to fit coverage on their sets and having better defensive utility.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Mixed Attacker",
+            "stats": [
+                212,
+                323,
+                186,
+                241,
+                176,
+                423
+            ],
+            "type": [
+                "Electric"
+            ],
+            "usage": "This set's main function is as a fast mixed wallbreaker capable of punching holes in opposing teams early- or mid-game. However, if Zeraora is still healthy at the end of the match and Plasma Fists switch-ins are weakened or removed, it can attempt cleaning up thanks to its high Speed. Due to its poor bulk and typing, Zeraora should almost never switch into foes directly, instead coming into play with support from a pivot or after a teammate has fainted. Prediction is vital in reliably securing various KOs for Zeraora. For instance, if a Ground-type like Hippowdon or Swampert is likely to switch in on an expected Plasma Fists, Zeraora should try nailing them with Grass Knot as they come in, sufficiently weakening them. Due to its Speed, Zeraora can be used to revenge kill weakened sweepers like Cobalion, Mega Houndoom, and Latias. However, it should be wary of revenge killing setup sweepers that often carry priority, such as Scizor, Bisharp, Infernape, and Lucario, as after a boost these threats will likely be able to wear Zeraora down immensely or pick it off if it's weakened enough. If Volt Switch is being used, Zeraora should use the attack on predicted switches into foes it can't reliably break through, like Mega Altaria and Amoonguss, in order to chip them while generating momentum. While Zeraora's typing can allow it to tank a hit or two from foes like Togekiss, Scizor, and Crobat, it should never be used primarily as a check to these Pokemon due to its poor longevity. This is further compounded by the Life Orb recoil it may sustain, making it often only an offensive answer. If Shuca Berry is being run, Zeraora should use it to either tank a hit from a faster foe like Mega Aerodactyl or Krookodile while retaliating with super effective hits or inflict damage on a slower Ground-type like Hippowdon or Mega Steelix while stomaching an Earthquake.",
+            "moves": [
+                [
+                    "Plasma Fists"
+                ],
+                [
+                    "Close Combat"
+                ],
+                [
+                    "Grass Knot"
+                ],
+                [
+                    "Knock Off",
+                    "Volt Switch"
+                ]
+            ],
+            "item": [
+                " Life Orb",
+                " Expert Belt",
+                " Shuca Berry"
+            ],
+            "ability": [
+                "Volt Absorb"
+            ],
+            "nature": [
+                "Naive"
+            ],
+            "ev spread": [
+                0,
+                252,
+                0,
+                4,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Bulk Up",
+            "stats": [
+                212,
+                323,
+                187,
+                216,
+                196,
+                423
+            ],
+            "type": [
+                "Electric"
+            ],
+            "usage": "This set's function is as a sweeper capable of cleaning up late-game once its checks have been removed or weakened. However, with Normalium Z, it can also double as a lure to several of Zeraora's otherwise solid checks, like Mega Altaria, Amoonguss, and several Ground-types. Due to its frailty, Zeraora should only come in after a teammate has fainted or with support from a pivoting teammate. It should be brought in on foes it can force out, such as Primarina and Starmie, in order to find opportunities to set up. Zeraora can also attempt setup against foes like Rotom-H and Latias after they have used moves like Overheat and Draco Meteor, respectively. While on paper it could switch in on opposing Electric-types or resisted attacks to set up, its susceptibility to coverage and chip damage often makes this an unreliable strategy. Electrium Z should be activated to deal heavy damage to bulky Pokemon that would otherwise tank a hit or two from Zeraora and possibly cripple it, like Mega Aggron and Mega Slowbro. If Normalium Z is being used, it should be activated after a boost to dent targets that would otherwise take minimal damage from even boosted hits, like Amoonguss, Celebi, Gligar, and Mega Altaria. Conserving Zeraora's HP in order to allow it to reliably sweep is important, meaning it should rarely be brought out before setting up unless it is needed to revenge kill an opposing Pokemon.",
+            "moves": [
+                [
+                    "Bulk Up"
+                ],
+                [
+                    "Plasma Fists"
+                ],
+                [
+                    "Close Combat"
+                ],
+                [
+                    "Knock Off",
+                    "Giga Impact"
+                ]
+            ],
+            "item": [
+                " Electrium Z",
+                " Shuca Berry",
+                " Normalium Z"
+            ],
+            "ability": [
+                "Volt Absorb"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Ground-types",
+        "Physically Bulky Pokemon",
+        "Faster Pokemon",
+        "Strong Priority"
+    ],
+    "credits": [
+        "Written by Hilomilo",
+        "Quality checked by martha, Nuked,  and A Cake Wearing A Hat",
+        "Grammar checked by A Cake Wearing A Hat and The Dutch Plumberjack"
+    ]
+}

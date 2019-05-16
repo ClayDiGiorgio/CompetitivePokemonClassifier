@@ -1,1 +1,101 @@
-{"name": "Rowlet", "forms": {"Base": {"base stats": [68, 55, 55, 50, 50, 42], "types": ["Grass", "Flying"], "abilities": ["Long Reach", "Overgrow"], "tier": ["LC"], "form": "Base"}}, "overview": "At first glance, Rowlet seems completely outclassed by Vullaby, as all of the latter's stats are higher than or equal to Rowlet's. Vullaby also gets STAB Knock Off, Weak Armor, and Overcoat, allowing it to be overall better than Rowlet both offensively and defensively. However, Rowlet does have a few niches. To start off, it has access to Baton Pass as well as both Nasty Plot and Swords Dance, allowing it to pass boosts to its teammates when needed. Thanks to its good bulk and access to recovery, it is often able to pass multiple boosts to an ally. It also resists Water and hits Ground-types super effectively with a STAB move, which is unique for a Defog user. Its access to Sucker Punch also means that its offensive set is not as hindered by its low Speed as may seem at first glance and is left less reliant on the opponent's actions than Vullaby. Its Grass / Flying typing allows it to perform as a check to Fighting-types such as Mienfoo as well as Ground-types such as Mudbray and Diglett. Rowlet is also fairly versatile, making it somewhat difficult for your opponent to know what they're up against at Team Preview.\nSadly, Rowlet still suffers from its low Speed stat on sets lacking Sucker Punch, and even on sets with Sucker Punch, the move is not very powerful without a boost. In addition, its offensive stats are low when uninvested, meaning that its defensive sets are very passive and can potentially be set up on. Even when invested, Rowlet is often too weak to be a big threat without a Swords Dance boost. Rowlet also suffers from a Stealth Rock weakness, which means it can be whittled down quite easily. Its typing gives it a 4x weakness to Ice as well as a weakness to Rock, meaning Rowlet will quickly go down to common coverage moves, such as Ice Punch on Timburr or Rock Slide on Mudbray, meaning it won't be able to check those Pokemon it seems like it would be able to. In addition, Rowlet struggles to keep itself healthy enough to perform its role well. Lastly, Rowlet's Baton Pass set faces competition from Mienfoo, which has more offensive presence, but Rowlet can also pass Nasty Plot boosts and its greater bulk allows it to pass multiple boosts much more easily.\n", "strategies' format": "LC", "strategies": [{"name": "Baton Pass", "stats": [205, 146, 185, 136, 203, 108], "type": ["Grass", "Flying"], "usage": "Focus on getting Rowlet in on Pokemon it can set up on, such as Mudbray. When it is in, staying healthy is the main priority, as a weakened Rowlet will struggle to find setup opportunities. Use Swords Dance or Nasty Plot when an opportunity arises, such as when Rowlet is in on a Pokemon that can't do much to it like Spritzee or Snivy lacking Hidden Power Ice. Rowlet becomes somewhat strong itself after multiple boosts, so don't be afraid to use Rowlet's offensive move. Keep in mind, however, that getting boosts to a teammate is the goal of this set. When Rowlet can no longer stay in or it has accumulated enough boosts, use Baton Pass to give an ally an opportunity to sweep. Rowlet can also use Baton Pass without any boosts in order to generate momentum for its team. This can help a teammate get in for free, generating a potential setup opportunity. Be wary of staying in on a Pokemon that seems unable to hurt Rowlet significantly but sometimes carries Ice-type coverage, such as Timburr or Chinchou.", "moves": [["Baton Pass"], ["Swords Dance", "Nasty Plot"], ["Roost"], ["Leaf Blade", "Energy Ball"]], "item": [" Eviolite"], "ability": ["Overgrow"], "nature": ["Sassy"], "ev spread": [132, 0, 156, 0, 196, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Steel-types", "Flying-types", "Stealth Rock", "Poison-types", "Faster Fire-types", "Ice-type coverage"], "credits": ["Written by Xayah", "Quality checked by Fiend, Hilomilo,  and Corporal Levi", "Grammar checked by The Dutch Plumberjack and CryoGyro"]}
+{
+    "name": "Rowlet",
+    "forms": {
+        "Base": {
+            "base stats": [
+                68,
+                55,
+                55,
+                50,
+                50,
+                42
+            ],
+            "types": [
+                "Grass",
+                "Flying"
+            ],
+            "abilities": [
+                "Long Reach",
+                "Overgrow"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "At first glance, Rowlet seems completely outclassed by Vullaby, as all of the latter's stats are higher than or equal to Rowlet's. Vullaby also gets STAB Knock Off, Weak Armor, and Overcoat, allowing it to be overall better than Rowlet both offensively and defensively. However, Rowlet does have a few niches. To start off, it has access to Baton Pass as well as both Nasty Plot and Swords Dance, allowing it to pass boosts to its teammates when needed. Thanks to its good bulk and access to recovery, it is often able to pass multiple boosts to an ally. It also resists Water and hits Ground-types super effectively with a STAB move, which is unique for a Defog user. Its access to Sucker Punch also means that its offensive set is not as hindered by its low Speed as may seem at first glance and is left less reliant on the opponent's actions than Vullaby. Its Grass / Flying typing allows it to perform as a check to Fighting-types such as Mienfoo as well as Ground-types such as Mudbray and Diglett. Rowlet is also fairly versatile, making it somewhat difficult for your opponent to know what they're up against at Team Preview.\nSadly, Rowlet still suffers from its low Speed stat on sets lacking Sucker Punch, and even on sets with Sucker Punch, the move is not very powerful without a boost. In addition, its offensive stats are low when uninvested, meaning that its defensive sets are very passive and can potentially be set up on. Even when invested, Rowlet is often too weak to be a big threat without a Swords Dance boost. Rowlet also suffers from a Stealth Rock weakness, which means it can be whittled down quite easily. Its typing gives it a 4x weakness to Ice as well as a weakness to Rock, meaning Rowlet will quickly go down to common coverage moves, such as Ice Punch on Timburr or Rock Slide on Mudbray, meaning it won't be able to check those Pokemon it seems like it would be able to. In addition, Rowlet struggles to keep itself healthy enough to perform its role well. Lastly, Rowlet's Baton Pass set faces competition from Mienfoo, which has more offensive presence, but Rowlet can also pass Nasty Plot boosts and its greater bulk allows it to pass multiple boosts much more easily.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Baton Pass",
+            "stats": [
+                205,
+                146,
+                185,
+                136,
+                203,
+                108
+            ],
+            "type": [
+                "Grass",
+                "Flying"
+            ],
+            "usage": "Focus on getting Rowlet in on Pokemon it can set up on, such as Mudbray. When it is in, staying healthy is the main priority, as a weakened Rowlet will struggle to find setup opportunities. Use Swords Dance or Nasty Plot when an opportunity arises, such as when Rowlet is in on a Pokemon that can't do much to it like Spritzee or Snivy lacking Hidden Power Ice. Rowlet becomes somewhat strong itself after multiple boosts, so don't be afraid to use Rowlet's offensive move. Keep in mind, however, that getting boosts to a teammate is the goal of this set. When Rowlet can no longer stay in or it has accumulated enough boosts, use Baton Pass to give an ally an opportunity to sweep. Rowlet can also use Baton Pass without any boosts in order to generate momentum for its team. This can help a teammate get in for free, generating a potential setup opportunity. Be wary of staying in on a Pokemon that seems unable to hurt Rowlet significantly but sometimes carries Ice-type coverage, such as Timburr or Chinchou.",
+            "moves": [
+                [
+                    "Baton Pass"
+                ],
+                [
+                    "Swords Dance",
+                    "Nasty Plot"
+                ],
+                [
+                    "Roost"
+                ],
+                [
+                    "Leaf Blade",
+                    "Energy Ball"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Overgrow"
+            ],
+            "nature": [
+                "Sassy"
+            ],
+            "ev spread": [
+                132,
+                0,
+                156,
+                0,
+                196,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Steel-types",
+        "Flying-types",
+        "Stealth Rock",
+        "Poison-types",
+        "Faster Fire-types",
+        "Ice-type coverage"
+    ],
+    "credits": [
+        "Written by Xayah",
+        "Quality checked by Fiend, Hilomilo,  and Corporal Levi",
+        "Grammar checked by The Dutch Plumberjack and CryoGyro"
+    ]
+}

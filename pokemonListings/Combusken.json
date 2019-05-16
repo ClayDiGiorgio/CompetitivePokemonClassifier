@@ -1,1 +1,162 @@
-{"name": "Combusken", "forms": {"Base": {"base stats": [60, 85, 60, 85, 60, 55], "types": ["Fire", "Fighting"], "abilities": ["Blaze", "Speed Boost"], "tier": [""], "form": "Base"}}, "overview": "Combusken sports a number of positives that separate it from the myriad of sweepers and cleaners in the tier. For starters, it has a solid and uncommon ability in Speed Boost, which helps make it outspeed and KO everything left on the opposing team without the need to manually boost its Speed. Combusken is always able to at least grab one boost due to Protect. Secondly, its typing is really solid offensively, as its STAB moves alone hit the entire tier, barring a few Pokemon, for neutral damage, and it can beat traditional Fighting-type checks like Gourgeist-XL, Sableye, and Weezing due to its Fire typing and strong physical or special Inferno Overdrives. Its offenses aren't the best, though, and as a result, it struggles with breaking through bulkier Pokemon, but access to high-powered STAB moves in Fire Blast, Flare Blitz, and Focus Blast as well as Z-Moves helps to mitigate this. Combusken's other stats are below average, as well. It's rather frail, which makes revenge killing it with priority easier, and a low base Speed of 55 leaves it outsped by common Choice Scarf users like Oricorio-G even at +2.\n", "strategies' format": "PU", "strategies": [{"name": "Special Attacker", "stats": [156, 185, 157, 269, 156, 229], "type": ["Fire", "Fighting"], "usage": "Fightinium Z turns Focus Blast into All-Out Pummeling, which is capable of doing a lot to Lanturn, Type: Null, Assault Vest Eelektross, and Assault Vest Hitmonchan. Firium Z, on the other hand, turns Fire Blast into Inferno Overdrive, which does a lot of damage to different checks, such as Mesprit, Musharna, Togetic, and the two aforementioned Assault Vest users. Life Orb can be chosen over either Z-Crystal if you already have a Z-Crystal in use or simply want all of its moves to have a bit more power. It should be noted that the recoil makes Combusken easier to pick off with priority.", "moves": [["Fire Blast"], ["Focus Blast"], ["Hidden Power Electric", "Hidden Power Ice"], ["Protect"]], "item": [" Fightinium Z", " Firium Z", " Life Orb"], "ability": ["Speed Boost"], "nature": ["Timid", "Modest"], "ev spread": [0, 0, 4, 252, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Swords Dance", "stats": [156, 269, 156, 185, 157, 229], "type": ["Fire", "Fighting"], "usage": "Combusken excels the most late-game due to its decent power and speed after Swords Dance and Speed Boost. However, it can be effective both as an early-game wallbreaker and as a revenge killer, utilizing Protect to gain a free Speed Boost and using its potent STAB moves to punch through walls. Protect can also provide utility, being able to burn turns of Trick Room and weather or scout for Choice-locked Pokemon such as Scyther. Combusken can be used earlier on against frailer offensive teams, which struggle to take boosted hits. It performs well later in a match versus bulky teams, where Combusken can power through teams where checks like Altaria are weakened. Being relatively frail, especially when lacking Eviolite, means that Combusken should only be brought in through pivoting moves like Volt Switch and U-turn, moves that heal it such as Healing Wish and Z-Parting Shot, into weak resisted attacks like Froslass's Ice Beam, or into moves that have no effect whatsoever, such as Gourgeist-XL's Will-O-Wisp. Double switching can also grant Combusken favorable matchups against threats like Bellossom and Shiftry, giving it a valuable chance to use Swords Dance. Use Swords Dance for when physically bulky threats such as Audino and Clefairy are still relatively healthy, as this grants Combusken the ability to KO them through their high Defense. Combusken can much more easily break through the likes of Weezing, Mesprit, and Lanturn when using the Z-Crystal respective to the Pokemon Combusken intends to break through. Combusken can use opportune matchups as setup time, as the prospect of its powerful STAB moves often forces switches. Examples of Pokemon that can't do much to Combusken include Audino, Gourgeist-XL, and Clefairy lacking Thunder Wave, though the Pokemon listed can potentially carry Toxic, which limits the number of turns Combusken can sweep. It's often a good idea to not reveal Swords Dance until absolutely necessary, as this can be used to bait in specially bulky Pokemon like Hitmonchan and Eelektross to take a hit, expecting a specially offensive set. If lacking the appropriate coverage, have Pokemon such as Qwilfish and Altaria weakened or removed before attempting to sweep, as this facilitates Combusken's ability to set up with Swords Dance and utilize Speed Boost.", "moves": [["Swords Dance"], ["Flare Blitz"], ["Sky Uppercut", "Low Kick"], ["Protect", "Thunder Punch"]], "item": [" Firium Z", " Fightinium Z", " Eviolite"], "ability": ["Speed Boost"], "nature": ["Jolly", "Adamant"], "ev spread": [0, 252, 0, 0, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Specially Defensive Pokemon", "Faster Pokemon", "Water-types", "Psychic-types", "Priority"], "credits": ["Written by allstarapology and tondas", "Quality checked by yogi, Many, Megazard, allstarapology,  and UberSkitty", "Grammar checked by martha, The Dutch Plumberjack,  and lotiasite"]}
+{
+    "name": "Combusken",
+    "forms": {
+        "Base": {
+            "base stats": [
+                60,
+                85,
+                60,
+                85,
+                60,
+                55
+            ],
+            "types": [
+                "Fire",
+                "Fighting"
+            ],
+            "abilities": [
+                "Blaze",
+                "Speed Boost"
+            ],
+            "tier": [
+                ""
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Combusken sports a number of positives that separate it from the myriad of sweepers and cleaners in the tier. For starters, it has a solid and uncommon ability in Speed Boost, which helps make it outspeed and KO everything left on the opposing team without the need to manually boost its Speed. Combusken is always able to at least grab one boost due to Protect. Secondly, its typing is really solid offensively, as its STAB moves alone hit the entire tier, barring a few Pokemon, for neutral damage, and it can beat traditional Fighting-type checks like Gourgeist-XL, Sableye, and Weezing due to its Fire typing and strong physical or special Inferno Overdrives. Its offenses aren't the best, though, and as a result, it struggles with breaking through bulkier Pokemon, but access to high-powered STAB moves in Fire Blast, Flare Blitz, and Focus Blast as well as Z-Moves helps to mitigate this. Combusken's other stats are below average, as well. It's rather frail, which makes revenge killing it with priority easier, and a low base Speed of 55 leaves it outsped by common Choice Scarf users like Oricorio-G even at +2.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Special Attacker",
+            "stats": [
+                156,
+                185,
+                157,
+                269,
+                156,
+                229
+            ],
+            "type": [
+                "Fire",
+                "Fighting"
+            ],
+            "usage": "Fightinium Z turns Focus Blast into All-Out Pummeling, which is capable of doing a lot to Lanturn, Type: Null, Assault Vest Eelektross, and Assault Vest Hitmonchan. Firium Z, on the other hand, turns Fire Blast into Inferno Overdrive, which does a lot of damage to different checks, such as Mesprit, Musharna, Togetic, and the two aforementioned Assault Vest users. Life Orb can be chosen over either Z-Crystal if you already have a Z-Crystal in use or simply want all of its moves to have a bit more power. It should be noted that the recoil makes Combusken easier to pick off with priority.",
+            "moves": [
+                [
+                    "Fire Blast"
+                ],
+                [
+                    "Focus Blast"
+                ],
+                [
+                    "Hidden Power Electric",
+                    "Hidden Power Ice"
+                ],
+                [
+                    "Protect"
+                ]
+            ],
+            "item": [
+                " Fightinium Z",
+                " Firium Z",
+                " Life Orb"
+            ],
+            "ability": [
+                "Speed Boost"
+            ],
+            "nature": [
+                "Timid",
+                "Modest"
+            ],
+            "ev spread": [
+                0,
+                0,
+                4,
+                252,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Swords Dance",
+            "stats": [
+                156,
+                269,
+                156,
+                185,
+                157,
+                229
+            ],
+            "type": [
+                "Fire",
+                "Fighting"
+            ],
+            "usage": "Combusken excels the most late-game due to its decent power and speed after Swords Dance and Speed Boost. However, it can be effective both as an early-game wallbreaker and as a revenge killer, utilizing Protect to gain a free Speed Boost and using its potent STAB moves to punch through walls. Protect can also provide utility, being able to burn turns of Trick Room and weather or scout for Choice-locked Pokemon such as Scyther. Combusken can be used earlier on against frailer offensive teams, which struggle to take boosted hits. It performs well later in a match versus bulky teams, where Combusken can power through teams where checks like Altaria are weakened. Being relatively frail, especially when lacking Eviolite, means that Combusken should only be brought in through pivoting moves like Volt Switch and U-turn, moves that heal it such as Healing Wish and Z-Parting Shot, into weak resisted attacks like Froslass's Ice Beam, or into moves that have no effect whatsoever, such as Gourgeist-XL's Will-O-Wisp. Double switching can also grant Combusken favorable matchups against threats like Bellossom and Shiftry, giving it a valuable chance to use Swords Dance. Use Swords Dance for when physically bulky threats such as Audino and Clefairy are still relatively healthy, as this grants Combusken the ability to KO them through their high Defense. Combusken can much more easily break through the likes of Weezing, Mesprit, and Lanturn when using the Z-Crystal respective to the Pokemon Combusken intends to break through. Combusken can use opportune matchups as setup time, as the prospect of its powerful STAB moves often forces switches. Examples of Pokemon that can't do much to Combusken include Audino, Gourgeist-XL, and Clefairy lacking Thunder Wave, though the Pokemon listed can potentially carry Toxic, which limits the number of turns Combusken can sweep. It's often a good idea to not reveal Swords Dance until absolutely necessary, as this can be used to bait in specially bulky Pokemon like Hitmonchan and Eelektross to take a hit, expecting a specially offensive set. If lacking the appropriate coverage, have Pokemon such as Qwilfish and Altaria weakened or removed before attempting to sweep, as this facilitates Combusken's ability to set up with Swords Dance and utilize Speed Boost.",
+            "moves": [
+                [
+                    "Swords Dance"
+                ],
+                [
+                    "Flare Blitz"
+                ],
+                [
+                    "Sky Uppercut",
+                    "Low Kick"
+                ],
+                [
+                    "Protect",
+                    "Thunder Punch"
+                ]
+            ],
+            "item": [
+                " Firium Z",
+                " Fightinium Z",
+                " Eviolite"
+            ],
+            "ability": [
+                "Speed Boost"
+            ],
+            "nature": [
+                "Jolly",
+                "Adamant"
+            ],
+            "ev spread": [
+                0,
+                252,
+                0,
+                0,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Specially Defensive Pokemon",
+        "Faster Pokemon",
+        "Water-types",
+        "Psychic-types",
+        "Priority"
+    ],
+    "credits": [
+        "Written by allstarapology and tondas",
+        "Quality checked by yogi, Many, Megazard, allstarapology,  and UberSkitty",
+        "Grammar checked by martha, The Dutch Plumberjack,  and lotiasite"
+    ]
+}

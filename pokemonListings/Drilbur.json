@@ -1,1 +1,212 @@
-{"name": "Drilbur", "forms": {"Base": {"base stats": [60, 85, 40, 30, 45, 68], "types": ["Ground"], "abilities": ["Mold Breaker", "Sand Force", "Sand Rush"], "tier": ["LC"], "form": "Base"}}, "overview": "Drilbur can fulfill several different roles in the LC metagame and thus fits on offensive and balanced teams alike. Its moderate bulk with an Eviolite or Berry Juice allows it to also make use of its good utility movepool to set up entry hazards, remove them, and provide its team with speed control. Its high Attack and Speed stats alongside an amazing offensive typing allow it to use powerful Swords Dance-boosted moves like STAB Earthquake, Rock Slide, and Shadow Claw to punch holes in opposing teams. Drilbur also has an extremely useful ability in Mold Breaker, which allows it to ignore abilities like Sturdy and Levitate to easily defeat the likes of Gastly and Onix. However, despite its perks, Drilbur is rather frail even with an Eviolite and can thus be overwhelmed in trying to accomplish its roles by powerful offensive threats, such as Rufflet, Doduo, and Abra. Drilbur also has a poor defensive typing, with weaknesses to the tier's common Grass-, Water-, and Ice-type attacks and to common priority moves in Aqua Jet from Corphish and Ice Shard from Snover. Drilbur also struggles to deal with some of the tier's Ghost-types that prevent it from using Rapid Spin, as Pumpkaboo-XL resists its STAB attacks and Frillish can threaten it with powerful Water-type STAB attacks. Lastly, Drilbur struggles in that at times it faces stiff offensive competition from Mudbray, which is stronger, has a better ability, and has better coverage.\n", "strategies' format": "LC", "strategies": [{"name": "Choice Scarf", "stats": [156, 265, 125, 86, 126, 247], "type": ["Ground"], "usage": "This set's main function is as a revenge killer due to Drilbur's good Speed with a Choice Scarf. It can also be put to use as a late-game cleaner once Drilbur's checks have been weakened or removed. If Drilbur wishes to clean up late-game, it should be kept healthy throughout the early stages of the match and should only begin spamming Earthquake once Pokemon resistant or immune to the move have been removed. Because Choice Scarf locks Drilbur into its moves, prediction is mandatory for this set's success. Drilbur should use super effective coverage moves on predicted switches to Pokemon like Vullaby and Spritzee and Rapid Spin on switches into Pokemon that don't take super effective damage from its coverage, like Ferroseed and Hippopotas. Avoid Knock Off at all costs, as without its Choice Scarf, Drilbur's Speed will only be average, and it will thus be unable to sweep or revenge kill foes as reliably.", "moves": [["Earthquake"], ["Rock Slide"], ["Rapid Spin"], ["Poison Jab", "Shadow Claw"]], "item": [" Choice Scarf"], "ability": ["Mold Breaker"], "nature": ["Jolly", "Adamant"], "ev spread": [0, 236, 36, 0, 0, 212], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Utility", "stats": [165, 225, 125, 86, 145, 247], "type": ["Ground"], "usage": "Drilbur's access to Stealth Rock and ability to defeat the likes of Dwebble and Onix allow it to function quite comfortably as a lead, especially if it's running Swords Dance. If Drilbur isn't being used as a lead, it should be played very carefully due to its poor bulk. Drilbur should avoid switching in on attacks that it isn't immune to and instead be brought in via pivot support or after a teammate has fainted. Upon being brought into play, Drilbur should capitalize on the switches it forces against the likes of Magnemite, Pawniard, and Alolan Grimer to either lay Stealth Rock down, use Rapid Spin, or set up with Swords Dance. If Stealth Rock has already been laid down or there are no entry hazards to spin away, Drilbur should try predicting the switch into Pokemon resistant or immune to Earthquake, like Archen and Vullaby, and hit them hard with Rock Slide.", "moves": [["Earthquake"], ["Rock Slide", "Rock Tomb"], ["Stealth Rock", "Swords Dance"], ["Rapid Spin", "Swords Dance"]], "item": [" Berry Juice", " Eviolite"], "ability": ["Mold Breaker"], "nature": ["Jolly"], "ev spread": [36, 76, 36, 0, 76, 212], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "All-out Attacker", "stats": [165, 265, 116, 86, 126, 247], "type": ["Ground"], "usage": "This set takes a more offensive approach, but it can still function as a decent anti-lead due to its ability to defeat common leads in Sturdy Onix and Omanyte. Drilbur should be especially wary of switching into attacks when holding a Life Orb, as with this set it has even worse bulk. Thus, slow pivot support or the loss of a teammate is mandatory for safely bringing Drilbur into play. This set is rather reliant on careful prediction for its success, as Drilbur will only be able to 2HKO Pokemon like Vullaby, Slowpoke, and Pumpkaboo-XL if it hits them with a super effective coverage move on the switch. If Drilbur is running Rapid Spin over Poison Jab, it should use the move when predicting the switch to a Pokemon that it can't hit for notable damage, such as Cottonee or Snivy. Drilbur's Speed, while good, still leaves it outpaced by a few common Pokemon, such as Abra, Staryu, and Gastly, which means that these threats should be switched out of earlier in the game in order to preserve Drilbur and removed for late-game if Drilbur wishes to clean up.", "moves": [["Earthquake"], ["Rock Slide"], ["Shadow Claw"], ["Rapid Spin", "Poison Jab"]], "item": [" Life Orb", " Groundium Z"], "ability": ["Mold Breaker"], "nature": ["Jolly"], "ev spread": [36, 236, 0, 0, 0, 212], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Grass-types", "Bulky Water-types", "Ghost-types", "Faster Pokemon"], "credits": ["Written by Hilomilo", "Quality checked by Xayah, Fiend,  and Berks", "Grammar checked by The Dutch Plumberjack and GMars"]}
+{
+    "name": "Drilbur",
+    "forms": {
+        "Base": {
+            "base stats": [
+                60,
+                85,
+                40,
+                30,
+                45,
+                68
+            ],
+            "types": [
+                "Ground"
+            ],
+            "abilities": [
+                "Mold Breaker",
+                "Sand Force",
+                "Sand Rush"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Drilbur can fulfill several different roles in the LC metagame and thus fits on offensive and balanced teams alike. Its moderate bulk with an Eviolite or Berry Juice allows it to also make use of its good utility movepool to set up entry hazards, remove them, and provide its team with speed control. Its high Attack and Speed stats alongside an amazing offensive typing allow it to use powerful Swords Dance-boosted moves like STAB Earthquake, Rock Slide, and Shadow Claw to punch holes in opposing teams. Drilbur also has an extremely useful ability in Mold Breaker, which allows it to ignore abilities like Sturdy and Levitate to easily defeat the likes of Gastly and Onix. However, despite its perks, Drilbur is rather frail even with an Eviolite and can thus be overwhelmed in trying to accomplish its roles by powerful offensive threats, such as Rufflet, Doduo, and Abra. Drilbur also has a poor defensive typing, with weaknesses to the tier's common Grass-, Water-, and Ice-type attacks and to common priority moves in Aqua Jet from Corphish and Ice Shard from Snover. Drilbur also struggles to deal with some of the tier's Ghost-types that prevent it from using Rapid Spin, as Pumpkaboo-XL resists its STAB attacks and Frillish can threaten it with powerful Water-type STAB attacks. Lastly, Drilbur struggles in that at times it faces stiff offensive competition from Mudbray, which is stronger, has a better ability, and has better coverage.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Choice Scarf",
+            "stats": [
+                156,
+                265,
+                125,
+                86,
+                126,
+                247
+            ],
+            "type": [
+                "Ground"
+            ],
+            "usage": "This set's main function is as a revenge killer due to Drilbur's good Speed with a Choice Scarf. It can also be put to use as a late-game cleaner once Drilbur's checks have been weakened or removed. If Drilbur wishes to clean up late-game, it should be kept healthy throughout the early stages of the match and should only begin spamming Earthquake once Pokemon resistant or immune to the move have been removed. Because Choice Scarf locks Drilbur into its moves, prediction is mandatory for this set's success. Drilbur should use super effective coverage moves on predicted switches to Pokemon like Vullaby and Spritzee and Rapid Spin on switches into Pokemon that don't take super effective damage from its coverage, like Ferroseed and Hippopotas. Avoid Knock Off at all costs, as without its Choice Scarf, Drilbur's Speed will only be average, and it will thus be unable to sweep or revenge kill foes as reliably.",
+            "moves": [
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Rock Slide"
+                ],
+                [
+                    "Rapid Spin"
+                ],
+                [
+                    "Poison Jab",
+                    "Shadow Claw"
+                ]
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Mold Breaker"
+            ],
+            "nature": [
+                "Jolly",
+                "Adamant"
+            ],
+            "ev spread": [
+                0,
+                236,
+                36,
+                0,
+                0,
+                212
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Utility",
+            "stats": [
+                165,
+                225,
+                125,
+                86,
+                145,
+                247
+            ],
+            "type": [
+                "Ground"
+            ],
+            "usage": "Drilbur's access to Stealth Rock and ability to defeat the likes of Dwebble and Onix allow it to function quite comfortably as a lead, especially if it's running Swords Dance. If Drilbur isn't being used as a lead, it should be played very carefully due to its poor bulk. Drilbur should avoid switching in on attacks that it isn't immune to and instead be brought in via pivot support or after a teammate has fainted. Upon being brought into play, Drilbur should capitalize on the switches it forces against the likes of Magnemite, Pawniard, and Alolan Grimer to either lay Stealth Rock down, use Rapid Spin, or set up with Swords Dance. If Stealth Rock has already been laid down or there are no entry hazards to spin away, Drilbur should try predicting the switch into Pokemon resistant or immune to Earthquake, like Archen and Vullaby, and hit them hard with Rock Slide.",
+            "moves": [
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Rock Slide",
+                    "Rock Tomb"
+                ],
+                [
+                    "Stealth Rock",
+                    "Swords Dance"
+                ],
+                [
+                    "Rapid Spin",
+                    "Swords Dance"
+                ]
+            ],
+            "item": [
+                " Berry Juice",
+                " Eviolite"
+            ],
+            "ability": [
+                "Mold Breaker"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                36,
+                76,
+                36,
+                0,
+                76,
+                212
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "All-out Attacker",
+            "stats": [
+                165,
+                265,
+                116,
+                86,
+                126,
+                247
+            ],
+            "type": [
+                "Ground"
+            ],
+            "usage": "This set takes a more offensive approach, but it can still function as a decent anti-lead due to its ability to defeat common leads in Sturdy Onix and Omanyte. Drilbur should be especially wary of switching into attacks when holding a Life Orb, as with this set it has even worse bulk. Thus, slow pivot support or the loss of a teammate is mandatory for safely bringing Drilbur into play. This set is rather reliant on careful prediction for its success, as Drilbur will only be able to 2HKO Pokemon like Vullaby, Slowpoke, and Pumpkaboo-XL if it hits them with a super effective coverage move on the switch. If Drilbur is running Rapid Spin over Poison Jab, it should use the move when predicting the switch to a Pokemon that it can't hit for notable damage, such as Cottonee or Snivy. Drilbur's Speed, while good, still leaves it outpaced by a few common Pokemon, such as Abra, Staryu, and Gastly, which means that these threats should be switched out of earlier in the game in order to preserve Drilbur and removed for late-game if Drilbur wishes to clean up.",
+            "moves": [
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Rock Slide"
+                ],
+                [
+                    "Shadow Claw"
+                ],
+                [
+                    "Rapid Spin",
+                    "Poison Jab"
+                ]
+            ],
+            "item": [
+                " Life Orb",
+                " Groundium Z"
+            ],
+            "ability": [
+                "Mold Breaker"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                36,
+                236,
+                0,
+                0,
+                0,
+                212
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Grass-types",
+        "Bulky Water-types",
+        "Ghost-types",
+        "Faster Pokemon"
+    ],
+    "credits": [
+        "Written by Hilomilo",
+        "Quality checked by Xayah, Fiend,  and Berks",
+        "Grammar checked by The Dutch Plumberjack and GMars"
+    ]
+}

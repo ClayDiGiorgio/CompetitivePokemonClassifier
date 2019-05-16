@@ -1,1 +1,155 @@
-{"name": "Clefairy", "forms": {"Base": {"base stats": [70, 45, 48, 60, 65, 35], "types": ["Fairy"], "abilities": ["Cute Charm", "Friend Guard", "Magic Guard"], "tier": ["PU"], "form": "Base"}}, "overview": "As a result of Clefairy\u2019s solid Eviolite-augmented bulk and access to reliable recovery in Soft-Boiled, Clefairy is capable of functioning as an effective check to some of PU's most threatening special attackers, such as Drampa and Aurorus. Clefairy also has access to a stellar defensive ability in Magic Guard, which blocks all forms of passive damage, making it immune to entry hazards and allowing it to act as a status absorber, which is particularly useful for Calm Mind sets. On top of this, Clefairy boasts an amazing support movepool, with moves such as Knock Off, Stealth Rock, and Thunder Wave in its arsenal, making Clefairy one of few Pokemon in the tier to have both Stealth Rock and recovery. Unfortunately, Clefairy is heavily reliant on its Eviolite to check stronger special attackers due to its otherwise below-average bulk, making it vulnerable to Knock Off and thus shaky as a Dark-type check. Even with its Eviolite intact, Clefairy struggles against strong physical attackers such as Stoutland and Aggron as a result of its poor physical bulk. Finally, Clefairy suffers from being passive, meaning that it fits best on bulkier, more defensive teams.\n", "strategies' format": "PU", "strategies": [{"name": "Calm Mind", "stats": [239, 113, 133, 156, 251, 106], "type": ["Fairy"], "usage": "Clefairy should prioritize setting up Stealth Rock or crippling foes with one of either Thunder Wave or Knock Off early-game, as it is unsafe to set up Calm Mind before threats that can 2HKO or OHKO Clefairy like Zangoose and Aggron have been removed. Late-game, once these physical attackers are gone, Clefairy can safely use Calm Mind, as there won't be much that can pressure it out of setting up and sweeping by this point. Against more defensive teams that can't pressure Clefairy offensively, however, it has more opportunities to set up. Clefairy finds setting up against stall teams much easier due to Magic Guard and their inability to effectively pressure it. Clefairy should primarily switch into special attackers, since they more than likely won't be doing much damage to it and can give it a chance to set up. Because of Magic Guard nullifying passive damage, use Clefairy as a status absorber for teams that are vulnerable to moves such as Will-O-Wisp and Toxic from Pokemon like Regirock and Poliwrath. Clefairy should mainly set up on passive Pokemon such as Tangela or Regirock. Be cautious of Knock Off, as even though Clefairy resists it, it loses quite a bit of its longevity and is unable to reliably switch into stronger special attackers like Choice Specs Drampa if it loses its Eviolite. Scouting for Taunt from foes such as Oricorio-E is important, since they can take Clefairy by surprise, prevent it from recovering, and KO it if it has been weakened enough.", "moves": [["Calm Mind"], ["Moonblast"], ["Soft-Boiled"], ["Stealth Rock", "Thunder Wave", "Knock Off"]], "item": [" Eviolite"], "ability": ["Magic Guard"], "nature": ["Calm"], "ev spread": [252, 0, 4, 0, 252, 0], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Specially Defensive", "stats": [239, 113, 133, 156, 251, 106], "type": ["Fairy"], "usage": "Clefairy should primarily pivot into special attackers such as Froslass and Swanna. Take advantage of how Clefairy forces these Pokemon out by setting up Stealth Rock or firing off one of Toxic and Thunder Wave on the turn that they switch, as this applies immediate pressure. Use Soft-Boiled once Clefairy begins taking damage to keep it consistently healthy, allowing it to better take on strong special attackers. Soft-Boiled can also be used to stall out attackers once they've been put on a timer by Toxic. Clefairy should prioritize remaining healthy rather than crippling a Pokemon that's switching out if it has already taken prior damage, as this leaves it unable to switch in on Pokemon like Aurorus as reliably. Because of Magic Guard, Clefairy can also act as a status absorber for teams, so switch it in on Toxic or Will-O-Wisp from Pokemon such as Gastrodon and Rotom-F to avoid letting another member get crippled. Magic Guard and Clefairy's aforementioned coverage options allow Clefairy to serve as a good pivot against stall teams due to Clefairy not being affected by chip damage from status and entry hazards. Due to Clefairy's susceptibility to Knock Off, Clefairy also is not a reliable Dark-type answer and should generally not be switched in on Dark-types or Pokemon that commonly run Knock Off either.", "moves": [["Soft-Boiled"], ["Seismic Toss", "Moonblast"], ["Stealth Rock", "Knock Off"], ["Toxic"]], "item": [" Eviolite"], "ability": ["Magic Guard"], "nature": ["Calm"], "ev spread": [252, 0, 4, 0, 252, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Steel-types", "Poison-types", "Taunt", "Knock Off", "Strong Physical Attackers"], "credits": ["Written by allstarapology", "Quality checked by yogi, Many, Megazard,  and 2xTheTap", "Grammar checked by The Dutch Plumberjack, lotiasite,  and martha"]}
+{
+    "name": "Clefairy",
+    "forms": {
+        "Base": {
+            "base stats": [
+                70,
+                45,
+                48,
+                60,
+                65,
+                35
+            ],
+            "types": [
+                "Fairy"
+            ],
+            "abilities": [
+                "Cute Charm",
+                "Friend Guard",
+                "Magic Guard"
+            ],
+            "tier": [
+                "PU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "As a result of Clefairy\u2019s solid Eviolite-augmented bulk and access to reliable recovery in Soft-Boiled, Clefairy is capable of functioning as an effective check to some of PU's most threatening special attackers, such as Drampa and Aurorus. Clefairy also has access to a stellar defensive ability in Magic Guard, which blocks all forms of passive damage, making it immune to entry hazards and allowing it to act as a status absorber, which is particularly useful for Calm Mind sets. On top of this, Clefairy boasts an amazing support movepool, with moves such as Knock Off, Stealth Rock, and Thunder Wave in its arsenal, making Clefairy one of few Pokemon in the tier to have both Stealth Rock and recovery. Unfortunately, Clefairy is heavily reliant on its Eviolite to check stronger special attackers due to its otherwise below-average bulk, making it vulnerable to Knock Off and thus shaky as a Dark-type check. Even with its Eviolite intact, Clefairy struggles against strong physical attackers such as Stoutland and Aggron as a result of its poor physical bulk. Finally, Clefairy suffers from being passive, meaning that it fits best on bulkier, more defensive teams.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Calm Mind",
+            "stats": [
+                239,
+                113,
+                133,
+                156,
+                251,
+                106
+            ],
+            "type": [
+                "Fairy"
+            ],
+            "usage": "Clefairy should prioritize setting up Stealth Rock or crippling foes with one of either Thunder Wave or Knock Off early-game, as it is unsafe to set up Calm Mind before threats that can 2HKO or OHKO Clefairy like Zangoose and Aggron have been removed. Late-game, once these physical attackers are gone, Clefairy can safely use Calm Mind, as there won't be much that can pressure it out of setting up and sweeping by this point. Against more defensive teams that can't pressure Clefairy offensively, however, it has more opportunities to set up. Clefairy finds setting up against stall teams much easier due to Magic Guard and their inability to effectively pressure it. Clefairy should primarily switch into special attackers, since they more than likely won't be doing much damage to it and can give it a chance to set up. Because of Magic Guard nullifying passive damage, use Clefairy as a status absorber for teams that are vulnerable to moves such as Will-O-Wisp and Toxic from Pokemon like Regirock and Poliwrath. Clefairy should mainly set up on passive Pokemon such as Tangela or Regirock. Be cautious of Knock Off, as even though Clefairy resists it, it loses quite a bit of its longevity and is unable to reliably switch into stronger special attackers like Choice Specs Drampa if it loses its Eviolite. Scouting for Taunt from foes such as Oricorio-E is important, since they can take Clefairy by surprise, prevent it from recovering, and KO it if it has been weakened enough.",
+            "moves": [
+                [
+                    "Calm Mind"
+                ],
+                [
+                    "Moonblast"
+                ],
+                [
+                    "Soft-Boiled"
+                ],
+                [
+                    "Stealth Rock",
+                    "Thunder Wave",
+                    "Knock Off"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Magic Guard"
+            ],
+            "nature": [
+                "Calm"
+            ],
+            "ev spread": [
+                252,
+                0,
+                4,
+                0,
+                252,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Specially Defensive",
+            "stats": [
+                239,
+                113,
+                133,
+                156,
+                251,
+                106
+            ],
+            "type": [
+                "Fairy"
+            ],
+            "usage": "Clefairy should primarily pivot into special attackers such as Froslass and Swanna. Take advantage of how Clefairy forces these Pokemon out by setting up Stealth Rock or firing off one of Toxic and Thunder Wave on the turn that they switch, as this applies immediate pressure. Use Soft-Boiled once Clefairy begins taking damage to keep it consistently healthy, allowing it to better take on strong special attackers. Soft-Boiled can also be used to stall out attackers once they've been put on a timer by Toxic. Clefairy should prioritize remaining healthy rather than crippling a Pokemon that's switching out if it has already taken prior damage, as this leaves it unable to switch in on Pokemon like Aurorus as reliably. Because of Magic Guard, Clefairy can also act as a status absorber for teams, so switch it in on Toxic or Will-O-Wisp from Pokemon such as Gastrodon and Rotom-F to avoid letting another member get crippled. Magic Guard and Clefairy's aforementioned coverage options allow Clefairy to serve as a good pivot against stall teams due to Clefairy not being affected by chip damage from status and entry hazards. Due to Clefairy's susceptibility to Knock Off, Clefairy also is not a reliable Dark-type answer and should generally not be switched in on Dark-types or Pokemon that commonly run Knock Off either.",
+            "moves": [
+                [
+                    "Soft-Boiled"
+                ],
+                [
+                    "Seismic Toss",
+                    "Moonblast"
+                ],
+                [
+                    "Stealth Rock",
+                    "Knock Off"
+                ],
+                [
+                    "Toxic"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Magic Guard"
+            ],
+            "nature": [
+                "Calm"
+            ],
+            "ev spread": [
+                252,
+                0,
+                4,
+                0,
+                252,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Steel-types",
+        "Poison-types",
+        "Taunt",
+        "Knock Off",
+        "Strong Physical Attackers"
+    ],
+    "credits": [
+        "Written by allstarapology",
+        "Quality checked by yogi, Many, Megazard,  and 2xTheTap",
+        "Grammar checked by The Dutch Plumberjack, lotiasite,  and martha"
+    ]
+}

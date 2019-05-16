@@ -1,1 +1,100 @@
-{"name": "Golisopod", "forms": {"Base": {"base stats": [75, 125, 140, 60, 90, 40], "types": ["Bug", "Water"], "abilities": ["Emergency Exit"], "tier": ["RU"], "form": "Base"}}, "overview": "Golisopod is a fearsome wallbreaker due to its great STAB combination and access to Spikes to pressure switch-ins with chip damage. It's also a premium revenge killer, since it has amazing priority in First Impression to OHKO fast setup sweepers and offensive threats like Virizion, Gardevoir, and Barbaracle. A good Defense stat and a nice set of resistances let it check Ground-types such as Donphan, Zygarde-10%, and Flygon. It can also deal with the likes of Medicham due to its resistance to Fighting and soft check Water-types such as Mega Blastoise and Araquanid. Despite the effectiveness of Golisopod\u2019s STAB moves, it can also run coverage moves to beat Pokemon that resist it STAB combination, such as Rock Slide to beat Noivern and Drill Run to beat Dragalge and Toxicroak. Unfortunately, Golisopod is cursed with Emergency Exit. While it can some times be useful, getting forced out is most often detrimental. This, plus the fact that Stealth Rock and other residual damage wear it down quickly, can prevent Golisopod from switching into Pokemon such as Steelix and Donphan. While First Impression can hit like a truck, its restriction to first-turn use can turn Golisopod into setup bait for Pokemon like Feraligatr, Linoone, and Barbaracle. Also, since it's Golisopod's most common move, it can usually be played around by the opponent through pivoting and the use of Protect, which forces Golisopod out when it's running Choice Band. Since it commonly will be locked into one move, Golisopod can be usually checked by offensive threats that don't mind its STAB combination, such as Bewear and Toxicroak. A bad Speed tier of base 40 leaves Golisopod vulnerable even to slow Pokemon such as Mega Ampharos and Emboar. Golisopod's standard set can also be walled by common bulky Water-types, such as Milotic.\n", "strategies' format": "RU", "strategies": [{"name": "Offensive", "stats": [228, 383, 316, 140, 216, 138], "type": ["Bug", "Water"], "usage": "Keep Golisopod healthy as much as you can by being careful about when you switch it in; any move or damage from hazards that brings it to 50% HP will send it back out, making it unable to revenge kill properly. You can try to take advantage of Emergency Exit by switching into hazards to activate it so you can switch another time. As with a plethora of Choice-locked wallbreakers, Golisopod's potential to smash switch-ins is heavily prediction reliant, so carefully weigh all your options before attacking. Use Spikes against incoming switch-ins like Milotic and Jellicent, which Golisopod can usually do nothing against. Be aware of when it\u2019s appropriate to use First Impression, since getting a KO with it can give a free turn to setup sweepers like Barbaracle and Toxicroak. Capitalize on Golisopod's resistances by pivoting into the likes of Steelix, Zygarde-10%, and Flygon.", "moves": [["First Impression"], ["Liquidation"], ["Leech Life"], ["Aqua Jet", "Spikes"]], "item": [" Choice Band", " Insect Plate"], "ability": ["Emergency Exit"], "nature": ["Adamant"], "ev spread": [168, 252, 0, 0, 0, 88], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Residual Damage", "Physically Defensive Walls", "Dragon-types", "Rock-types", "Electric-types", "Flying-types"], "credits": ["Written by GustavoYAY", "Quality checked by Phantom, roman,  and Teachable", "Grammar checked by CryoGyro and The Dutch Plumberjack"]}
+{
+    "name": "Golisopod",
+    "forms": {
+        "Base": {
+            "base stats": [
+                75,
+                125,
+                140,
+                60,
+                90,
+                40
+            ],
+            "types": [
+                "Bug",
+                "Water"
+            ],
+            "abilities": [
+                "Emergency Exit"
+            ],
+            "tier": [
+                "RU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Golisopod is a fearsome wallbreaker due to its great STAB combination and access to Spikes to pressure switch-ins with chip damage. It's also a premium revenge killer, since it has amazing priority in First Impression to OHKO fast setup sweepers and offensive threats like Virizion, Gardevoir, and Barbaracle. A good Defense stat and a nice set of resistances let it check Ground-types such as Donphan, Zygarde-10%, and Flygon. It can also deal with the likes of Medicham due to its resistance to Fighting and soft check Water-types such as Mega Blastoise and Araquanid. Despite the effectiveness of Golisopod\u2019s STAB moves, it can also run coverage moves to beat Pokemon that resist it STAB combination, such as Rock Slide to beat Noivern and Drill Run to beat Dragalge and Toxicroak. Unfortunately, Golisopod is cursed with Emergency Exit. While it can some times be useful, getting forced out is most often detrimental. This, plus the fact that Stealth Rock and other residual damage wear it down quickly, can prevent Golisopod from switching into Pokemon such as Steelix and Donphan. While First Impression can hit like a truck, its restriction to first-turn use can turn Golisopod into setup bait for Pokemon like Feraligatr, Linoone, and Barbaracle. Also, since it's Golisopod's most common move, it can usually be played around by the opponent through pivoting and the use of Protect, which forces Golisopod out when it's running Choice Band. Since it commonly will be locked into one move, Golisopod can be usually checked by offensive threats that don't mind its STAB combination, such as Bewear and Toxicroak. A bad Speed tier of base 40 leaves Golisopod vulnerable even to slow Pokemon such as Mega Ampharos and Emboar. Golisopod's standard set can also be walled by common bulky Water-types, such as Milotic.\n",
+    "strategies' format": "RU",
+    "strategies": [
+        {
+            "name": "Offensive",
+            "stats": [
+                228,
+                383,
+                316,
+                140,
+                216,
+                138
+            ],
+            "type": [
+                "Bug",
+                "Water"
+            ],
+            "usage": "Keep Golisopod healthy as much as you can by being careful about when you switch it in; any move or damage from hazards that brings it to 50% HP will send it back out, making it unable to revenge kill properly. You can try to take advantage of Emergency Exit by switching into hazards to activate it so you can switch another time. As with a plethora of Choice-locked wallbreakers, Golisopod's potential to smash switch-ins is heavily prediction reliant, so carefully weigh all your options before attacking. Use Spikes against incoming switch-ins like Milotic and Jellicent, which Golisopod can usually do nothing against. Be aware of when it\u2019s appropriate to use First Impression, since getting a KO with it can give a free turn to setup sweepers like Barbaracle and Toxicroak. Capitalize on Golisopod's resistances by pivoting into the likes of Steelix, Zygarde-10%, and Flygon.",
+            "moves": [
+                [
+                    "First Impression"
+                ],
+                [
+                    "Liquidation"
+                ],
+                [
+                    "Leech Life"
+                ],
+                [
+                    "Aqua Jet",
+                    "Spikes"
+                ]
+            ],
+            "item": [
+                " Choice Band",
+                " Insect Plate"
+            ],
+            "ability": [
+                "Emergency Exit"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                168,
+                252,
+                0,
+                0,
+                0,
+                88
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Residual Damage",
+        "Physically Defensive Walls",
+        "Dragon-types",
+        "Rock-types",
+        "Electric-types",
+        "Flying-types"
+    ],
+    "credits": [
+        "Written by GustavoYAY",
+        "Quality checked by Phantom, roman,  and Teachable",
+        "Grammar checked by CryoGyro and The Dutch Plumberjack"
+    ]
+}

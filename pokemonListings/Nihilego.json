@@ -1,1 +1,158 @@
-{"name": "Nihilego", "forms": {"Base": {"base stats": [109, 53, 47, 127, 131, 103], "types": ["Rock", "Poison"], "abilities": ["Beast Boost"], "tier": ["UU"], "form": "Base"}}, "overview": "By virtue of its unique typing, great Special Attack and Speed, and vast movepool with coverage and utility, Nihilego carves a niche for itself in UU as a customizable offensive force whose tools can be tailored to its team's needs. Its access to Stealth Rock and Toxic Spikes can allow it to function as a reliable offensive entry hazard setter, using its typing and coverage to threaten out many common entry hazard removers, though it also has the option of running moves such as Protect and Acid Spray to more easily work around its checks. Thanks to its typing, coverage, and Speed, Nihilego can also utilize Choice Scarf to revenge kill several of the tier's threatening forces, such as Mega Aerodactyl, Mega Altaria, Terrakion, and Celebi. Moreover, its excellent special bulk for an offensive Pokemon can allow it to sponge weaker or resisted special attacks well, take on Flying-types like Moltres and Togekiss, and blanket check foes like Gengar, Mega Manectric, and Choice Scarf Hydreigon if need be. Unfortunately, Nihilego is at times held back by its terrible physical bulk, which allows the tier's several faster physical threats, including Cobalion and Zeraora, to easily take advantage of it. This also leaves it vulnerable to Pursuit and powerful priority attacks, most notably Scizor's Bullet Punch. It's also unable to power through the tier's surplus of Ground- and Steel-types with its STAB moves alone, which allows most to tank a hit and KO Nihilego with super effective attacks. Nihilego can also struggle to break through a few key defensive Pokemon in the metagame, such as Blissey, Mega Steelix, and Gligar, compromising its wallbreaking capabilities. Lastly, while Nihilego's Speed and typing provide plentiful perks, they also leave it outrun and overwhelmed by a few tier staples, such as Terrakion, Latias, and Cobalion.\n", "strategies' format": "UU", "strategies": [{"name": "3 Attacks", "stats": [254, 127, 130, 353, 299, 335], "type": ["Rock", "Poison"], "usage": "If Nihilego is running Stealth Rock or Toxic Spikes, it should attempt to set them early-game in order to immediately apply pressure to the opposing team. It should do this against special attackers that can't hit it hard, like Moltres, Mega Houndoom, and Rotom-H, or against passive defensive Pokemon like Alomomola and Florges. After setting entry hazards, Nihilego should capitalize on its good coverage and power to try punching holes in opposing teams. Later on in the game, when its checks have been removed or weakened, Nihilego can try cleaning up thanks to its decent Speed and Beast Boost, especially if it is running the investment necessary to receive a Speed boost. If Protect is being run in the fourth slot, it should be used against potential Choice item Pokemon like Scizor, Krookodile, and Hydreigon to scout for their attack. This also allows Nihilego to passively restore health with Black Sludge. If Toxic Spikes is being used, Nihilego should only set one layer against offensive teams, as most Pokemon on these teams won't stay in play long, making consistent poison damage an easy method of quickly chipping them down. Against defensive teams, however, two layers should be set in order to rack up poison damage over time against the passive Pokemon often found on these builds. Electrium Z is best activated against offensive Steel-types and bulky Water-types, such as Bisharp and Mega Slowbro, as otherwise these Pokemon would be able to tank a hit and pressure Nihilego. Prediction is important in securing KOs against Pokemon that could tank a hit and KO Nihilego. For instance, if a Ground-type like Hippowdon or Krookodile is expected to switch in, Nihilego should try nabbing them with Grass Knot on the switch in order to secure the 2HKO without taking any damage itself. Nihilego shouldn't stay in on physical attackers that it can't outrun or KO, such as Mega Aerodactyl, Mega Steelix, and Mega Aggron, due to its awful physical bulk. It should also look out for powerful priority attacks from foes like Scizor, Bisharp, and Crawdaunt, Choice Scarf users like Infernape and Krookodile, and Pursuit from the aforementioned Scizor, Bisharp, and Krookodile.", "moves": [["Sludge Wave"], ["Thunderbolt"], ["Grass Knot", "Power Gem"], ["Stealth Rock", "Protect", "Toxic Spikes"]], "item": [" Electrium Z", " Black Sludge", " Life Orb"], "ability": ["Beast Boost"], "nature": ["Timid"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Choice Scarf", "stats": [254, 127, 130, 353, 299, 335], "type": ["Rock", "Poison"], "usage": "This set should be used to revenge kill various tier sweepers, such as +1 Mega Altaria, Celebi, and Togekiss, after they've sustained some residual damage. It also revenge kills faster threats like Mega Aerodactyl, Mega Manectric, and Zeraora after some prior damage. Since Nihilego often can't directly switch into most of the Pokemon it revenge kills, it will have to come into play as its targeted sweeper is setting up, after a teammate has fainted, or through the support of a pivot, though the first strategy is by far the riskiest. Nihilego can, however, come in on several special attackers that can't hit it super effectively, such as Gengar, Mega Manectric, Moltres, and Mega Pidgeot, as well as passive attackers like Alomomola and Sylveon. Due to Choice Scarf locking Nihilego into one attack, it is important to predict properly so as not to provide the opponent free turns. Nailing Ground-types on the switch with Grass Knot and hitting bulky Water-types with Thunderbolt are examples of how to accomplish this. Nihilego must also look out for Pursuit from Pokemon like Krookodile and Pokemon that can take advantage of it to set up, like Latias and Cobalion. Nabbing these foes with a super effective attack on the switch or, in Cobalion's case, doubling out of play or switching out as it begins to set up is the best way for Nihilego to minimize any potential harm done to its team. Nihilego should be wary of priority moves from Pokemon like Bisharp, Scizor, Infernape, and Crawdaunt, as its poor Defense will cause it to sustain major damage from their attacks, which will complicate its role.", "moves": [["Power Gem"], ["Sludge Wave"], ["Grass Knot"], ["Thunderbolt", "Dazzling Gleam"]], "item": [" Choice Scarf"], "ability": ["Beast Boost"], "nature": ["Timid"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Steel-types", "Ground-types", "Fast Physical Attackers", "Specially Defensive Pokemon", "Strong Priority"], "credits": ["Written by Hilomilo", "Quality checked by vivalospride, Nuked,  and A Cake Wearing A Hat", "Grammar checked by Fireflame479 and The Dutch Plumberjack"]}
+{
+    "name": "Nihilego",
+    "forms": {
+        "Base": {
+            "base stats": [
+                109,
+                53,
+                47,
+                127,
+                131,
+                103
+            ],
+            "types": [
+                "Rock",
+                "Poison"
+            ],
+            "abilities": [
+                "Beast Boost"
+            ],
+            "tier": [
+                "UU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "By virtue of its unique typing, great Special Attack and Speed, and vast movepool with coverage and utility, Nihilego carves a niche for itself in UU as a customizable offensive force whose tools can be tailored to its team's needs. Its access to Stealth Rock and Toxic Spikes can allow it to function as a reliable offensive entry hazard setter, using its typing and coverage to threaten out many common entry hazard removers, though it also has the option of running moves such as Protect and Acid Spray to more easily work around its checks. Thanks to its typing, coverage, and Speed, Nihilego can also utilize Choice Scarf to revenge kill several of the tier's threatening forces, such as Mega Aerodactyl, Mega Altaria, Terrakion, and Celebi. Moreover, its excellent special bulk for an offensive Pokemon can allow it to sponge weaker or resisted special attacks well, take on Flying-types like Moltres and Togekiss, and blanket check foes like Gengar, Mega Manectric, and Choice Scarf Hydreigon if need be. Unfortunately, Nihilego is at times held back by its terrible physical bulk, which allows the tier's several faster physical threats, including Cobalion and Zeraora, to easily take advantage of it. This also leaves it vulnerable to Pursuit and powerful priority attacks, most notably Scizor's Bullet Punch. It's also unable to power through the tier's surplus of Ground- and Steel-types with its STAB moves alone, which allows most to tank a hit and KO Nihilego with super effective attacks. Nihilego can also struggle to break through a few key defensive Pokemon in the metagame, such as Blissey, Mega Steelix, and Gligar, compromising its wallbreaking capabilities. Lastly, while Nihilego's Speed and typing provide plentiful perks, they also leave it outrun and overwhelmed by a few tier staples, such as Terrakion, Latias, and Cobalion.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "3 Attacks",
+            "stats": [
+                254,
+                127,
+                130,
+                353,
+                299,
+                335
+            ],
+            "type": [
+                "Rock",
+                "Poison"
+            ],
+            "usage": "If Nihilego is running Stealth Rock or Toxic Spikes, it should attempt to set them early-game in order to immediately apply pressure to the opposing team. It should do this against special attackers that can't hit it hard, like Moltres, Mega Houndoom, and Rotom-H, or against passive defensive Pokemon like Alomomola and Florges. After setting entry hazards, Nihilego should capitalize on its good coverage and power to try punching holes in opposing teams. Later on in the game, when its checks have been removed or weakened, Nihilego can try cleaning up thanks to its decent Speed and Beast Boost, especially if it is running the investment necessary to receive a Speed boost. If Protect is being run in the fourth slot, it should be used against potential Choice item Pokemon like Scizor, Krookodile, and Hydreigon to scout for their attack. This also allows Nihilego to passively restore health with Black Sludge. If Toxic Spikes is being used, Nihilego should only set one layer against offensive teams, as most Pokemon on these teams won't stay in play long, making consistent poison damage an easy method of quickly chipping them down. Against defensive teams, however, two layers should be set in order to rack up poison damage over time against the passive Pokemon often found on these builds. Electrium Z is best activated against offensive Steel-types and bulky Water-types, such as Bisharp and Mega Slowbro, as otherwise these Pokemon would be able to tank a hit and pressure Nihilego. Prediction is important in securing KOs against Pokemon that could tank a hit and KO Nihilego. For instance, if a Ground-type like Hippowdon or Krookodile is expected to switch in, Nihilego should try nabbing them with Grass Knot on the switch in order to secure the 2HKO without taking any damage itself. Nihilego shouldn't stay in on physical attackers that it can't outrun or KO, such as Mega Aerodactyl, Mega Steelix, and Mega Aggron, due to its awful physical bulk. It should also look out for powerful priority attacks from foes like Scizor, Bisharp, and Crawdaunt, Choice Scarf users like Infernape and Krookodile, and Pursuit from the aforementioned Scizor, Bisharp, and Krookodile.",
+            "moves": [
+                [
+                    "Sludge Wave"
+                ],
+                [
+                    "Thunderbolt"
+                ],
+                [
+                    "Grass Knot",
+                    "Power Gem"
+                ],
+                [
+                    "Stealth Rock",
+                    "Protect",
+                    "Toxic Spikes"
+                ]
+            ],
+            "item": [
+                " Electrium Z",
+                " Black Sludge",
+                " Life Orb"
+            ],
+            "ability": [
+                "Beast Boost"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Choice Scarf",
+            "stats": [
+                254,
+                127,
+                130,
+                353,
+                299,
+                335
+            ],
+            "type": [
+                "Rock",
+                "Poison"
+            ],
+            "usage": "This set should be used to revenge kill various tier sweepers, such as +1 Mega Altaria, Celebi, and Togekiss, after they've sustained some residual damage. It also revenge kills faster threats like Mega Aerodactyl, Mega Manectric, and Zeraora after some prior damage. Since Nihilego often can't directly switch into most of the Pokemon it revenge kills, it will have to come into play as its targeted sweeper is setting up, after a teammate has fainted, or through the support of a pivot, though the first strategy is by far the riskiest. Nihilego can, however, come in on several special attackers that can't hit it super effectively, such as Gengar, Mega Manectric, Moltres, and Mega Pidgeot, as well as passive attackers like Alomomola and Sylveon. Due to Choice Scarf locking Nihilego into one attack, it is important to predict properly so as not to provide the opponent free turns. Nailing Ground-types on the switch with Grass Knot and hitting bulky Water-types with Thunderbolt are examples of how to accomplish this. Nihilego must also look out for Pursuit from Pokemon like Krookodile and Pokemon that can take advantage of it to set up, like Latias and Cobalion. Nabbing these foes with a super effective attack on the switch or, in Cobalion's case, doubling out of play or switching out as it begins to set up is the best way for Nihilego to minimize any potential harm done to its team. Nihilego should be wary of priority moves from Pokemon like Bisharp, Scizor, Infernape, and Crawdaunt, as its poor Defense will cause it to sustain major damage from their attacks, which will complicate its role.",
+            "moves": [
+                [
+                    "Power Gem"
+                ],
+                [
+                    "Sludge Wave"
+                ],
+                [
+                    "Grass Knot"
+                ],
+                [
+                    "Thunderbolt",
+                    "Dazzling Gleam"
+                ]
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Beast Boost"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Steel-types",
+        "Ground-types",
+        "Fast Physical Attackers",
+        "Specially Defensive Pokemon",
+        "Strong Priority"
+    ],
+    "credits": [
+        "Written by Hilomilo",
+        "Quality checked by vivalospride, Nuked,  and A Cake Wearing A Hat",
+        "Grammar checked by Fireflame479 and The Dutch Plumberjack"
+    ]
+}

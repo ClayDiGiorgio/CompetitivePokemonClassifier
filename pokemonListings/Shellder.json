@@ -1,1 +1,98 @@
-{"name": "Shellder", "forms": {"Base": {"base stats": [30, 65, 100, 45, 25, 40], "types": ["Water"], "abilities": ["Overcoat", "Shell Armor", "Skill Link"], "tier": ["LC"], "form": "Base"}}, "overview": "Possessing immense physical bulk and passable Speed and Attack, Shellder has the right traits to pull off a successful Shell Smash set. Being a pure Water-type is also beneficial for Shellder, not only giving it a great number of setup opportunities but also making it neutral or resistant to all priority attacks. Additionally, Skill Link gives Shellder an edge over most other Shell Smash users, as it allows Shellder to circumvent Focus Sash Abra without giving up an important coverage move. Skill Link has some interesting quirks in LC, making Icicle Spear and Rock Blast hit far harder than their already impressive 125 Base Power would imply. However, Shellder heavily relies on Shell Smash to become a threat and can hardly afford not to run the move.\n", "strategies' format": "LC", "strategies": [{"name": "SMASHING", "stats": [105, 225, 269, 113, 86, 165], "type": ["Water"], "usage": "As with any sweeper, Shellder's checks need to be weakened before it can sweep. Some troubling Pokemon need to be scouted for, such as Chinchou and Tirtouga, as Berry Juice variants check Shellder while other variants do not. Otherwise, using Shellder is rather straightforward: set up on a physical attacker, avoid setting up on a status user, and proceed to sweep.", "moves": [["Shell Smash"], ["Icicle Spear"], ["Rock Blast"], ["Liquidation"]], "item": [" Eviolite"], "ability": ["Skill Link"], "nature": ["Impish", "Jolly"], "ev spread": [36, 236, 36, 0, 0, 196], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Slowpoke", "Bulky Pokemon", "Choice Scarf Users with 18 Speed", "Intimidate", "Steel-types"], "credits": ["Written by Fiend", "Quality checked by Rowan, Nineage,  and Tricking", "Grammar checked by P Squared and CryoGyro"]}
+{
+    "name": "Shellder",
+    "forms": {
+        "Base": {
+            "base stats": [
+                30,
+                65,
+                100,
+                45,
+                25,
+                40
+            ],
+            "types": [
+                "Water"
+            ],
+            "abilities": [
+                "Overcoat",
+                "Shell Armor",
+                "Skill Link"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Possessing immense physical bulk and passable Speed and Attack, Shellder has the right traits to pull off a successful Shell Smash set. Being a pure Water-type is also beneficial for Shellder, not only giving it a great number of setup opportunities but also making it neutral or resistant to all priority attacks. Additionally, Skill Link gives Shellder an edge over most other Shell Smash users, as it allows Shellder to circumvent Focus Sash Abra without giving up an important coverage move. Skill Link has some interesting quirks in LC, making Icicle Spear and Rock Blast hit far harder than their already impressive 125 Base Power would imply. However, Shellder heavily relies on Shell Smash to become a threat and can hardly afford not to run the move.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "SMASHING",
+            "stats": [
+                105,
+                225,
+                269,
+                113,
+                86,
+                165
+            ],
+            "type": [
+                "Water"
+            ],
+            "usage": "As with any sweeper, Shellder's checks need to be weakened before it can sweep. Some troubling Pokemon need to be scouted for, such as Chinchou and Tirtouga, as Berry Juice variants check Shellder while other variants do not. Otherwise, using Shellder is rather straightforward: set up on a physical attacker, avoid setting up on a status user, and proceed to sweep.",
+            "moves": [
+                [
+                    "Shell Smash"
+                ],
+                [
+                    "Icicle Spear"
+                ],
+                [
+                    "Rock Blast"
+                ],
+                [
+                    "Liquidation"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Skill Link"
+            ],
+            "nature": [
+                "Impish",
+                "Jolly"
+            ],
+            "ev spread": [
+                36,
+                236,
+                36,
+                0,
+                0,
+                196
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Slowpoke",
+        "Bulky Pokemon",
+        "Choice Scarf Users with 18 Speed",
+        "Intimidate",
+        "Steel-types"
+    ],
+    "credits": [
+        "Written by Fiend",
+        "Quality checked by Rowan, Nineage,  and Tricking",
+        "Grammar checked by P Squared and CryoGyro"
+    ]
+}

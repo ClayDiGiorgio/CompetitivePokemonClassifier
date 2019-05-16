@@ -1,1 +1,156 @@
-{"name": "Dragalge", "forms": {"Base": {"base stats": [65, 75, 90, 97, 123, 44], "types": ["Poison", "Dragon"], "abilities": ["Adaptability", "Poison Point", "Poison Touch"], "tier": ["RU"], "form": "Base"}}, "overview": "Dragalge's unique typing in conjunction with its above average bulk and Adaptability ability allows it to function as a defensive and offensive powerhouse in the RU tier. It is able to pivot into threats such as Venusaur, Diancie, Rotom-C, and Salazzle while being the only Dragon-type in the tier that can reliably switch in on and threaten the tier's Fairy-types, such as Diancie, Florges, and Comfey, bar Gardevoir. Dragalge has access to high-Base Power STAB moves such as Draco Meteor and Sludge Wave that synergize with Adaptability as well as coverage moves such as Scald and Focus Blast. However, while Dragalge has the capability to tank hits, its lack of reliable recovery causes it to be susceptible to chip damage, status conditions, and entry hazards. It is one of the slowest Pokemon in the tier, which usually means that it is forced to take at least two hits when pivoting in.\n", "strategies' format": "RU", "strategies": [{"name": "Defensive", "stats": [229, 167, 216, 230, 366, 137], "type": ["Poison", "Dragon"], "usage": "Take advantage of Dragalge's unique typing and decent bulk by switching it into Pokemon such as Venusaur, Rotom-H, Diancie, and Chesnaught. Dragalge should also be able to set up Toxic Spikes against the aforementioned Pokemon, which it can threaten out. Against offensive teams, one layer of Toxic Spikes should suffice, since most offensive Pokemon do not stay in long enough for the ever-increasing Toxic damage to build up. However, against defensive teams, always aim to set up two layers of Toxic Spikes, since the gradual Toxic damage will put bulkier Pokemon such as Slowking and Jellicent on a timer while preventing them from safely switching in. However, if the opposing team has airborne Pokemon such as Mantine and Swellow, Steel-types such as Registeel and Escavalier, or Poison-types such as Drapion and Salazzle, it usually isn't worth it for Dragalge to set up Toxic Spikes. Though Poison-types are able to remove Toxic Spikes, they must switch out to a different Pokemon in order to remove them if Dragalge manages to set them up on them. Sludge Wave will be Dragalge's safest move to use because it doesn't have any negative side effects while still benefiting from Adaptability. Draco Meteor should be used a lot more sparingly, since the stat drops will either invite in Pokemon that can take advantage of a weakened Dragalge such as Doublade or force it to switch out. However, Haze can reset the stat drops from Draco Meteor while being able to stop setup sweepers such as Comfey and Doublade. Remember that Dragalge can hit decently hard due to the high Base Power of Draco Meteor and Sludge Wave alongside Adaptability. Due to Dragalge's lack of reliable recovery, try to avoid switching it into entry hazards. Switching into Scald may also be risky, since the burned status annuls Dragalge's only recovery in Black Sludge.", "moves": [["Draco Meteor"], ["Sludge Wave"], ["Toxic Spikes"], ["Scald", "Haze", "Dragon Tail"]], "item": [" Black Sludge"], "ability": ["Adaptability"], "nature": ["Calm"], "ev spread": [252, 0, 0, 0, 204, 52], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Offensive", "stats": [217, 167, 216, 322, 282, 137], "type": ["Poison", "Dragon"], "usage": "Due to Dragalge's unique typing and decent bulk, it should be used as a switch-in to Pokemon such as Roserade, Rotom-H, Diancie, and Salazzle, which it can set up Toxic Spikes against. One layer of Toxic Spikes is more beneficial against an offensive team, as most offensive Pokemon do not stay in long enough for the gradually increasing damage to rack up, whereas two layers of Toxic Spikes is generally more useful against defensive teams, since the gradual Toxic damage will prevent bulkier Pokemon such as Slowbro and Umbreon from safely switching in while also putting them on a timer. If the opponent has airborne Pokemon such as Yanmega and Gligar, Steel-types such as Doublade, or Poison-types such as Roserade and Toxicroak, don't bother setting up Toxic Spikes and just have Dragalge focus on attacking. However, even though Poison-types are able to remove Toxic Spikes, if Dragalge is able to set them up on a Poison-type Pokemon, the Poison-type must switch out into a different Pokemon before being able to remove them. Sludge Wave is usually Dragalge's safest move, since it hits decently hard and does not have any negative stat drops. While Draco Meteor hits extremely hard, it should be used sparingly, since the negative side effects of it can give free switch-in opportunities to Pokemon such as Cresselia and Slowking. If running Choice Specs, note that Dragalge may have to predict carefully if the opponent has Steel- or Fairy-types such as Registeel, Gardevoir, and Diancie, since Pokemon of these types are immune to one of Dragalge's STAB moves. Remember that Z-Moves can only be used once, so it is important to have all Steel-type Pokemon such as Bronzong and Escavalier removed before using Devastating Drake.", "moves": [["Draco Meteor"], ["Sludge Wave"], ["Hidden Power Fire"], ["Toxic Spikes", "Focus Blast"]], "item": [" Dragonium Z", " Choice Specs"], "ability": ["Adaptability"], "nature": ["Modest"], "ev spread": [204, 0, 0, 252, 0, 52], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Steel-types", "Special Walls", "Faster Pokemon"], "credits": ["Written by HotFuzzBall", "Quality checked by Phantom, Avocado,  and Rakan", "Grammar checked by Eyan and CryoGyro"]}
+{
+    "name": "Dragalge",
+    "forms": {
+        "Base": {
+            "base stats": [
+                65,
+                75,
+                90,
+                97,
+                123,
+                44
+            ],
+            "types": [
+                "Poison",
+                "Dragon"
+            ],
+            "abilities": [
+                "Adaptability",
+                "Poison Point",
+                "Poison Touch"
+            ],
+            "tier": [
+                "RU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Dragalge's unique typing in conjunction with its above average bulk and Adaptability ability allows it to function as a defensive and offensive powerhouse in the RU tier. It is able to pivot into threats such as Venusaur, Diancie, Rotom-C, and Salazzle while being the only Dragon-type in the tier that can reliably switch in on and threaten the tier's Fairy-types, such as Diancie, Florges, and Comfey, bar Gardevoir. Dragalge has access to high-Base Power STAB moves such as Draco Meteor and Sludge Wave that synergize with Adaptability as well as coverage moves such as Scald and Focus Blast. However, while Dragalge has the capability to tank hits, its lack of reliable recovery causes it to be susceptible to chip damage, status conditions, and entry hazards. It is one of the slowest Pokemon in the tier, which usually means that it is forced to take at least two hits when pivoting in.\n",
+    "strategies' format": "RU",
+    "strategies": [
+        {
+            "name": "Defensive",
+            "stats": [
+                229,
+                167,
+                216,
+                230,
+                366,
+                137
+            ],
+            "type": [
+                "Poison",
+                "Dragon"
+            ],
+            "usage": "Take advantage of Dragalge's unique typing and decent bulk by switching it into Pokemon such as Venusaur, Rotom-H, Diancie, and Chesnaught. Dragalge should also be able to set up Toxic Spikes against the aforementioned Pokemon, which it can threaten out. Against offensive teams, one layer of Toxic Spikes should suffice, since most offensive Pokemon do not stay in long enough for the ever-increasing Toxic damage to build up. However, against defensive teams, always aim to set up two layers of Toxic Spikes, since the gradual Toxic damage will put bulkier Pokemon such as Slowking and Jellicent on a timer while preventing them from safely switching in. However, if the opposing team has airborne Pokemon such as Mantine and Swellow, Steel-types such as Registeel and Escavalier, or Poison-types such as Drapion and Salazzle, it usually isn't worth it for Dragalge to set up Toxic Spikes. Though Poison-types are able to remove Toxic Spikes, they must switch out to a different Pokemon in order to remove them if Dragalge manages to set them up on them. Sludge Wave will be Dragalge's safest move to use because it doesn't have any negative side effects while still benefiting from Adaptability. Draco Meteor should be used a lot more sparingly, since the stat drops will either invite in Pokemon that can take advantage of a weakened Dragalge such as Doublade or force it to switch out. However, Haze can reset the stat drops from Draco Meteor while being able to stop setup sweepers such as Comfey and Doublade. Remember that Dragalge can hit decently hard due to the high Base Power of Draco Meteor and Sludge Wave alongside Adaptability. Due to Dragalge's lack of reliable recovery, try to avoid switching it into entry hazards. Switching into Scald may also be risky, since the burned status annuls Dragalge's only recovery in Black Sludge.",
+            "moves": [
+                [
+                    "Draco Meteor"
+                ],
+                [
+                    "Sludge Wave"
+                ],
+                [
+                    "Toxic Spikes"
+                ],
+                [
+                    "Scald",
+                    "Haze",
+                    "Dragon Tail"
+                ]
+            ],
+            "item": [
+                " Black Sludge"
+            ],
+            "ability": [
+                "Adaptability"
+            ],
+            "nature": [
+                "Calm"
+            ],
+            "ev spread": [
+                252,
+                0,
+                0,
+                0,
+                204,
+                52
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Offensive",
+            "stats": [
+                217,
+                167,
+                216,
+                322,
+                282,
+                137
+            ],
+            "type": [
+                "Poison",
+                "Dragon"
+            ],
+            "usage": "Due to Dragalge's unique typing and decent bulk, it should be used as a switch-in to Pokemon such as Roserade, Rotom-H, Diancie, and Salazzle, which it can set up Toxic Spikes against. One layer of Toxic Spikes is more beneficial against an offensive team, as most offensive Pokemon do not stay in long enough for the gradually increasing damage to rack up, whereas two layers of Toxic Spikes is generally more useful against defensive teams, since the gradual Toxic damage will prevent bulkier Pokemon such as Slowbro and Umbreon from safely switching in while also putting them on a timer. If the opponent has airborne Pokemon such as Yanmega and Gligar, Steel-types such as Doublade, or Poison-types such as Roserade and Toxicroak, don't bother setting up Toxic Spikes and just have Dragalge focus on attacking. However, even though Poison-types are able to remove Toxic Spikes, if Dragalge is able to set them up on a Poison-type Pokemon, the Poison-type must switch out into a different Pokemon before being able to remove them. Sludge Wave is usually Dragalge's safest move, since it hits decently hard and does not have any negative stat drops. While Draco Meteor hits extremely hard, it should be used sparingly, since the negative side effects of it can give free switch-in opportunities to Pokemon such as Cresselia and Slowking. If running Choice Specs, note that Dragalge may have to predict carefully if the opponent has Steel- or Fairy-types such as Registeel, Gardevoir, and Diancie, since Pokemon of these types are immune to one of Dragalge's STAB moves. Remember that Z-Moves can only be used once, so it is important to have all Steel-type Pokemon such as Bronzong and Escavalier removed before using Devastating Drake.",
+            "moves": [
+                [
+                    "Draco Meteor"
+                ],
+                [
+                    "Sludge Wave"
+                ],
+                [
+                    "Hidden Power Fire"
+                ],
+                [
+                    "Toxic Spikes",
+                    "Focus Blast"
+                ]
+            ],
+            "item": [
+                " Dragonium Z",
+                " Choice Specs"
+            ],
+            "ability": [
+                "Adaptability"
+            ],
+            "nature": [
+                "Modest"
+            ],
+            "ev spread": [
+                204,
+                0,
+                0,
+                252,
+                0,
+                52
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Steel-types",
+        "Special Walls",
+        "Faster Pokemon"
+    ],
+    "credits": [
+        "Written by HotFuzzBall",
+        "Quality checked by Phantom, Avocado,  and Rakan",
+        "Grammar checked by Eyan and CryoGyro"
+    ]
+}

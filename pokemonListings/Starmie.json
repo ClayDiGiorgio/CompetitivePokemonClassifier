@@ -1,1 +1,159 @@
-{"name": "Starmie", "forms": {"Base": {"base stats": [60, 75, 85, 100, 85, 115], "types": ["Water", "Psychic"], "abilities": ["Analytic", "Illuminate", "Natural Cure"], "tier": ["UU"], "form": "Base"}}, "overview": "Starmie is an excellent offensive Pokemon thanks to its great coverage options and useful ability Analytic, and it is also the fastest Rapid Spin user in the tier. In addition to having great offensive capabilities, it also has adequate tools such as Natural Cure, Recover, and Reflect Type that let it viably run a bulkier set geared more towards support. Starmie's Speed tier is fantastic, letting it outspeed many offensive threats like Latias, Terrakion, and Infernape. However, Starmie's raw power without boosts is lacking due to its middling base 100 Special Attack, which can cause it some trouble in breaking past bulkier Pokemon such as Sylveon and Snorlax. This is much more apparent when using bulky variants of Starmie with no Special Attack investment, making these variants unfortunately rather passive versus targets that do not care about burns. While its Water / Psychic typing gives it some useful resistances that allow it to act as a soft check to Pokemon such as Infernape and Cobalion, Starmie is moderately frail, which means that without investment it will not be able to switch in on even many resisted hits. Its typing also gives it a very serious weakness to Electric-, Bug-, Dark-, Ghost-, and Grass-type attacks, which leaves it extremely vulnerable to strategies such as Pursuit trapping and VoltTurn.\n", "strategies' format": "UU", "strategies": [{"name": "Offensive", "stats": [156, 167, 206, 299, 207, 361], "type": ["Water", "Psychic"], "usage": "Starmie should spend most of its time taking out predicted switch-ins like Latias with Analytic-boosted attacks or revenge killing what's in front of it. It is beneficial to predict well when using Starmie, as you waste the Analytic boost if you mispredict a switch-in and use the incorrect coverage move. If a switch to a Pokemon like Alolan Muk is predicted, attempt to double switch out to a Pokemon with a better matchup in order to avoid being Pursuit trapped. Starmie should only use Rapid Spin in emergencies, like when Sticky Web is up on your side or if entry hazards are stacked to a point where you would lose otherwise, since it would much rather be attacking the opposing team if it has the opportunity. Because of its poor bulk, Starmie should primarily be brought in with free switches from users of U-turn or Volt Switch, predicted double switches, or after one of your other team members has fainted.", "moves": [["Hydro Pump"], ["Ice Beam"], ["Psyshock", "Thunderbolt"], ["Rapid Spin", "Thunderbolt"]], "item": [" Life Orb", " Waterium Z"], "ability": ["Analytic"], "nature": ["Timid"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Bulky Spinner", "stats": [219, 167, 206, 237, 206, 361], "type": ["Water", "Psychic"], "usage": "Starmie's primary goal in a match is to act as a reliable form of entry hazard removal, so keep it healthy throughout a match with Recover, and keep hazards off the field whenever possible. Bring Starmie into threats that cannot do much to it like Cobalion and Choice-locked Infernape, or bring it in by pivoting to keep it healthy. If Starmie is facing physical attackers like Cobalion, try fishing for Scald burns to weaken them. If you predict the opponent to switch to one of the many Pokemon that Starmie cannot bypass by normal means such as Latias and Seismitoad, either switch out to avoid a loss of momentum or use Toxic to cripple them. Use Reflect Type in situations where taking on the foe's type would be beneficial, such as to evade a Pursuit from Alolan Muk or weaken the damage done by Volt Switch and U-turn from Rotom-C and Scizor. If Starmie has not been damaged yet and has yet to perform an attack, you can attempt to bluff a more offensive Starmie set in order to force out Pokemon like Tentacruel and weakened Latias. However, this method is not reliable and should be used with caution.", "moves": [["Scald"], ["Toxic", "Reflect Type"], ["Recover"], ["Rapid Spin"]], "item": [" Leftovers"], "ability": ["Natural Cure"], "nature": ["Timid"], "ev spread": [252, 0, 0, 4, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Dark-types and Pursuit Users", "Specially Bulky Pokemon", "Residual Damage", "Faster Pokemon", "Water-resistant Special Attackers"], "credits": ["Written by A Cake Wearing A Hat", "Earlier versions by TSR", "Quality checked by Pak, Bouff,  and Hilomilo", "Grammar checked by The Dutch Plumberjack and martha"]}
+{
+    "name": "Starmie",
+    "forms": {
+        "Base": {
+            "base stats": [
+                60,
+                75,
+                85,
+                100,
+                85,
+                115
+            ],
+            "types": [
+                "Water",
+                "Psychic"
+            ],
+            "abilities": [
+                "Analytic",
+                "Illuminate",
+                "Natural Cure"
+            ],
+            "tier": [
+                "UU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Starmie is an excellent offensive Pokemon thanks to its great coverage options and useful ability Analytic, and it is also the fastest Rapid Spin user in the tier. In addition to having great offensive capabilities, it also has adequate tools such as Natural Cure, Recover, and Reflect Type that let it viably run a bulkier set geared more towards support. Starmie's Speed tier is fantastic, letting it outspeed many offensive threats like Latias, Terrakion, and Infernape. However, Starmie's raw power without boosts is lacking due to its middling base 100 Special Attack, which can cause it some trouble in breaking past bulkier Pokemon such as Sylveon and Snorlax. This is much more apparent when using bulky variants of Starmie with no Special Attack investment, making these variants unfortunately rather passive versus targets that do not care about burns. While its Water / Psychic typing gives it some useful resistances that allow it to act as a soft check to Pokemon such as Infernape and Cobalion, Starmie is moderately frail, which means that without investment it will not be able to switch in on even many resisted hits. Its typing also gives it a very serious weakness to Electric-, Bug-, Dark-, Ghost-, and Grass-type attacks, which leaves it extremely vulnerable to strategies such as Pursuit trapping and VoltTurn.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Offensive",
+            "stats": [
+                156,
+                167,
+                206,
+                299,
+                207,
+                361
+            ],
+            "type": [
+                "Water",
+                "Psychic"
+            ],
+            "usage": "Starmie should spend most of its time taking out predicted switch-ins like Latias with Analytic-boosted attacks or revenge killing what's in front of it. It is beneficial to predict well when using Starmie, as you waste the Analytic boost if you mispredict a switch-in and use the incorrect coverage move. If a switch to a Pokemon like Alolan Muk is predicted, attempt to double switch out to a Pokemon with a better matchup in order to avoid being Pursuit trapped. Starmie should only use Rapid Spin in emergencies, like when Sticky Web is up on your side or if entry hazards are stacked to a point where you would lose otherwise, since it would much rather be attacking the opposing team if it has the opportunity. Because of its poor bulk, Starmie should primarily be brought in with free switches from users of U-turn or Volt Switch, predicted double switches, or after one of your other team members has fainted.",
+            "moves": [
+                [
+                    "Hydro Pump"
+                ],
+                [
+                    "Ice Beam"
+                ],
+                [
+                    "Psyshock",
+                    "Thunderbolt"
+                ],
+                [
+                    "Rapid Spin",
+                    "Thunderbolt"
+                ]
+            ],
+            "item": [
+                " Life Orb",
+                " Waterium Z"
+            ],
+            "ability": [
+                "Analytic"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Bulky Spinner",
+            "stats": [
+                219,
+                167,
+                206,
+                237,
+                206,
+                361
+            ],
+            "type": [
+                "Water",
+                "Psychic"
+            ],
+            "usage": "Starmie's primary goal in a match is to act as a reliable form of entry hazard removal, so keep it healthy throughout a match with Recover, and keep hazards off the field whenever possible. Bring Starmie into threats that cannot do much to it like Cobalion and Choice-locked Infernape, or bring it in by pivoting to keep it healthy. If Starmie is facing physical attackers like Cobalion, try fishing for Scald burns to weaken them. If you predict the opponent to switch to one of the many Pokemon that Starmie cannot bypass by normal means such as Latias and Seismitoad, either switch out to avoid a loss of momentum or use Toxic to cripple them. Use Reflect Type in situations where taking on the foe's type would be beneficial, such as to evade a Pursuit from Alolan Muk or weaken the damage done by Volt Switch and U-turn from Rotom-C and Scizor. If Starmie has not been damaged yet and has yet to perform an attack, you can attempt to bluff a more offensive Starmie set in order to force out Pokemon like Tentacruel and weakened Latias. However, this method is not reliable and should be used with caution.",
+            "moves": [
+                [
+                    "Scald"
+                ],
+                [
+                    "Toxic",
+                    "Reflect Type"
+                ],
+                [
+                    "Recover"
+                ],
+                [
+                    "Rapid Spin"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Natural Cure"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                252,
+                0,
+                0,
+                4,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Dark-types and Pursuit Users",
+        "Specially Bulky Pokemon",
+        "Residual Damage",
+        "Faster Pokemon",
+        "Water-resistant Special Attackers"
+    ],
+    "credits": [
+        "Written by A Cake Wearing A Hat",
+        "Earlier versions by TSR",
+        "Quality checked by Pak, Bouff,  and Hilomilo",
+        "Grammar checked by The Dutch Plumberjack and martha"
+    ]
+}

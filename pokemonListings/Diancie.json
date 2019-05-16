@@ -1,1 +1,121 @@
-{"name": "Diancie", "forms": {"Base": {"base stats": [50, 100, 150, 100, 150, 50], "types": ["Rock", "Fairy"], "abilities": ["Clear Body"], "tier": ["RU"], "form": "Base"}, "Mega": {"base stats": [50, 160, 110, 160, 110, 110], "types": ["Rock", "Fairy"], "abilities": ["Magic Bounce"], "tier": ["OU"], "form": "Mega"}}, "overview": "Mega Diancie's strong offensive capabilities and above average Speed stat make it a solid pick in the OU metagame. Its Rock / Fairy typing along with good coverage options in Earth Power make it difficult to switch into reliably, allowing it to dismantle certain defensive cores. Mega Diancie's Magic Bounce ability allows it to pressure common entry hazard setters such as Heatran and Clefable, as well as giving it an immunity to status moves. Mega Diancie is also able to reliably get up Stealth Rock against stall teams, as it is able to threaten Mega Sableye and common Defoggers such as Zapdos. Unfortunately, Mega Diancie's defensive stats are quite lackluster, leaving it very vulnerable to being revenge killed by common Choice Scarf users as well as faster Pokemon such as Greninja, Tapu Koko, and Mega Alakazam. This is made worse by Mega Diancie's common weaknesses to Ground-, Water-, Grass-, and Steel-type attacks. It also suffers to break past certain Pokemon commonly found on balance such as Celesteela, Magearna, and Tangrowth.\n", "strategies' format": "OU", "strategies": [{"name": "Offensive", "stats": [136, 356, 230, 419, 257, 350], "type": ["Rock", "Fairy"], "usage": "Bring Mega Diancie in as much as possible to start punching holes into the opponent's team, as well as catching switch-ins with proper coverage when necessary. Avoid hard switching Mega Diancie into anything, and try to only bring it in on sacrifices, double switches, and free momentum; however, it can somewhat switch into weaker resisted attacks if absolutely necessary. Mega Evolving as soon as possible is very important because it allows Mega Diancie to be immune to status moves and pressure entry hazard setters like Chansey and Mew.", "moves": [["Moonblast"], ["Diamond Storm", "Stealth Rock"], ["Earth Power", "Stealth Rock"], ["Protect"]], "item": [" Diancite"], "ability": ["Clear Body"], "nature": ["Hasty", "Timid"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Chansey", "Steel-types", "Bulky Water-types", "Bulky Grass-types", "Faster Revenge Killers"], "credits": ["Written by Gary", "Quality checked by p2, Subject 18,  and Hootie", "Grammar checked by P Squared and The Dutch Plumberjack"]}
+{
+    "name": "Diancie",
+    "forms": {
+        "Base": {
+            "base stats": [
+                50,
+                100,
+                150,
+                100,
+                150,
+                50
+            ],
+            "types": [
+                "Rock",
+                "Fairy"
+            ],
+            "abilities": [
+                "Clear Body"
+            ],
+            "tier": [
+                "RU"
+            ],
+            "form": "Base"
+        },
+        "Mega": {
+            "base stats": [
+                50,
+                160,
+                110,
+                160,
+                110,
+                110
+            ],
+            "types": [
+                "Rock",
+                "Fairy"
+            ],
+            "abilities": [
+                "Magic Bounce"
+            ],
+            "tier": [
+                "OU"
+            ],
+            "form": "Mega"
+        }
+    },
+    "overview": "Mega Diancie's strong offensive capabilities and above average Speed stat make it a solid pick in the OU metagame. Its Rock / Fairy typing along with good coverage options in Earth Power make it difficult to switch into reliably, allowing it to dismantle certain defensive cores. Mega Diancie's Magic Bounce ability allows it to pressure common entry hazard setters such as Heatran and Clefable, as well as giving it an immunity to status moves. Mega Diancie is also able to reliably get up Stealth Rock against stall teams, as it is able to threaten Mega Sableye and common Defoggers such as Zapdos. Unfortunately, Mega Diancie's defensive stats are quite lackluster, leaving it very vulnerable to being revenge killed by common Choice Scarf users as well as faster Pokemon such as Greninja, Tapu Koko, and Mega Alakazam. This is made worse by Mega Diancie's common weaknesses to Ground-, Water-, Grass-, and Steel-type attacks. It also suffers to break past certain Pokemon commonly found on balance such as Celesteela, Magearna, and Tangrowth.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Offensive",
+            "stats": [
+                136,
+                356,
+                230,
+                419,
+                257,
+                350
+            ],
+            "type": [
+                "Rock",
+                "Fairy"
+            ],
+            "usage": "Bring Mega Diancie in as much as possible to start punching holes into the opponent's team, as well as catching switch-ins with proper coverage when necessary. Avoid hard switching Mega Diancie into anything, and try to only bring it in on sacrifices, double switches, and free momentum; however, it can somewhat switch into weaker resisted attacks if absolutely necessary. Mega Evolving as soon as possible is very important because it allows Mega Diancie to be immune to status moves and pressure entry hazard setters like Chansey and Mew.",
+            "moves": [
+                [
+                    "Moonblast"
+                ],
+                [
+                    "Diamond Storm",
+                    "Stealth Rock"
+                ],
+                [
+                    "Earth Power",
+                    "Stealth Rock"
+                ],
+                [
+                    "Protect"
+                ]
+            ],
+            "item": [
+                " Diancite"
+            ],
+            "ability": [
+                "Clear Body"
+            ],
+            "nature": [
+                "Hasty",
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Chansey",
+        "Steel-types",
+        "Bulky Water-types",
+        "Bulky Grass-types",
+        "Faster Revenge Killers"
+    ],
+    "credits": [
+        "Written by Gary",
+        "Quality checked by p2, Subject 18,  and Hootie",
+        "Grammar checked by P Squared and The Dutch Plumberjack"
+    ]
+}

@@ -1,1 +1,212 @@
-{"name": "Heatran", "forms": {"Base": {"base stats": [91, 90, 106, 130, 106, 77], "types": ["Fire", "Steel"], "abilities": ["Flash Fire"], "tier": ["OU"], "form": "Base"}}, "overview": "Heatran is one of the best Pokemon in the tier thanks to an insane typing and great ability in Flash Fire, granting it a number of key immunities and resistances to make it a great check to a number of top-tier Pokemon like Clefable, Ferrothorn, Tornadus-T, Celesteela, and Tapu Lele. It is a fantastic breaker due to a solid base Special Attack stat of 130 and access to a great STAB move in Magma Storm, which when used in tandem with Taunt grants Heatran the invaluable ability to trap and remove passive Pokemon such as Toxapex, Chansey, and Alomomola that would otherwise beat it; furthermore, its Inferno Overdrive can be a nightmare for would-be-checks such as Gliscor, Garchomp, and Ash-Greninja to switch into. These traits make it one of the best Stealth Rock setters in the tier, as it is capable of forcing out foes with its power. However, due to Heatran's prevalence, it can lose to Pokemon it would otherwise check, such as Mega Mawile, Tornadus-T, and Volcarona, due to coverage they run specifically for it. Heatran also unfortunately lacks any form of recovery outside of Leftovers and is vulnerable to both Stealth Rock and Spikes, meaning it can be worn down quite quickly. A middling Speed tier means Heatran is quite easy to force it out with faster Pokemon such as Landorus-T and Ash-Greninja.\n", "strategies' format": "OU", "strategies": [{"name": "Z-Move Trapper", "stats": [218, 194, 249, 394, 248, 253], "type": ["Fire", "Steel"], "usage": "Try to bring Heatran into the field through double switches or with the aid of VoltTurn support, as this variant is more offensively focused and lacks the extra bulk of an HP-invested Heatran and the sustainability of Leftovers variants. Therefore, you also need to play more conservatively with it; avoid letting it take damage, even from strong resisted hits, as it won't be able to recover any lost HP and it needs some health to effectively take on the likes of Chansey and Toxapex. Moreover, don't let too many entry hazards go up on your side of the field because Spikes damage can stack pretty quickly on Heatran lacking Leftovers. As with any other Heatran set, you should scout for super effective coverage on Pokemon that usually can't do too much damage to Heatran like Mega Mawile and Tornadus-T before attempting to take advantage of them.", "moves": [["Magma Storm"], ["Earth Power"], ["Taunt"], ["Toxic", "Stealth Rock"]], "item": [" Firium Z"], "ability": ["Flash Fire"], "nature": ["Modest"], "ev spread": [0, 0, 4, 252, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Specially Defensive", "stats": [281, 194, 248, 296, 308, 222], "type": ["Fire", "Steel"], "usage": "Use this Heatran set to check Pokemon like Tornadus-T and Tapu Lele or switch it into Pokemon that can't do much to it such as Ferrothorn and Mega Scizor and take the opportunity to throw off an attack or set up Stealth Rock. Furthermore, if the opponent has a Pokemon such as Mega Alakazam or Hydreigon, it is often a good idea to predict them to switch in by hitting them with a Toxic. Try not to let Heatran take a Knock Off, as having its Leftovers removed mean it is worn down much quicker. Try to avoid switching Heatran into entry hazards repeatedly, as it will severely hurt its longevity.", "moves": [["Lava Plume"], ["Earth Power"], ["Stealth Rock"], ["Toxic", "Taunt"]], "item": [" Leftovers"], "ability": ["Flash Fire"], "nature": ["Calm"], "ev spread": [252, 0, 0, 0, 128, 128], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Steelium Z", "stats": [218, 194, 249, 394, 248, 253], "type": ["Fire", "Steel"], "usage": "Unlike other variants, Steelium Z Heatran can OHKO its usual checks like Mega Alakazam, Hydreigon, Mega Latios, and Gliscor on the switch with Corkscrew Crash, so do your best to not waste the Z-Move on the wrong target, especially since opponents are likely to scout the Z-Move with Pokemon that resist it such as Toxapex. If using Magma Storm, Heatran can act offensively early-game to cause serious damage to opposing teams. Thanks to Heatran's offensive investment, this set has a narrow array of checks available. Even if Heatran has trapped a foe that it must avoid, Magma Storm's general damage output and trapping damage will considerably wear them down and prevent them from switching out, giving Heatran a chance to create a favorable matchup for one of its appropriate teammates. Lastly, Heatran lacks durability with offensive investment, so avoid playing too recklessly.", "moves": [["Flash Cannon"], ["Lava Plume", "Magma Storm"], ["Earth Power"], ["Stealth Rock", "Taunt"]], "item": [" Steelium Z"], "ability": ["Flash Fire"], "nature": ["Modest"], "ev spread": [0, 0, 4, 252, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Water-type Pokemon and Coverage", "Ground-type Pokemon and Coverage", "Knock Off", "Fighting-type Pokemon and Coverage", "Strong Attackers"], "credits": ["Written by Leo, DMDW,  and Mellow", "Earlier versions by Vertex and AccidentalGreed", "Quality checked by Colonel M, Gary, GMars, Jordy, Leo,  and lyd", "Grammar checked by A Cake Wearing A Hat, lotiasite, martha,  and The Dutch Plumberjack"]}
+{
+    "name": "Heatran",
+    "forms": {
+        "Base": {
+            "base stats": [
+                91,
+                90,
+                106,
+                130,
+                106,
+                77
+            ],
+            "types": [
+                "Fire",
+                "Steel"
+            ],
+            "abilities": [
+                "Flash Fire"
+            ],
+            "tier": [
+                "OU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Heatran is one of the best Pokemon in the tier thanks to an insane typing and great ability in Flash Fire, granting it a number of key immunities and resistances to make it a great check to a number of top-tier Pokemon like Clefable, Ferrothorn, Tornadus-T, Celesteela, and Tapu Lele. It is a fantastic breaker due to a solid base Special Attack stat of 130 and access to a great STAB move in Magma Storm, which when used in tandem with Taunt grants Heatran the invaluable ability to trap and remove passive Pokemon such as Toxapex, Chansey, and Alomomola that would otherwise beat it; furthermore, its Inferno Overdrive can be a nightmare for would-be-checks such as Gliscor, Garchomp, and Ash-Greninja to switch into. These traits make it one of the best Stealth Rock setters in the tier, as it is capable of forcing out foes with its power. However, due to Heatran's prevalence, it can lose to Pokemon it would otherwise check, such as Mega Mawile, Tornadus-T, and Volcarona, due to coverage they run specifically for it. Heatran also unfortunately lacks any form of recovery outside of Leftovers and is vulnerable to both Stealth Rock and Spikes, meaning it can be worn down quite quickly. A middling Speed tier means Heatran is quite easy to force it out with faster Pokemon such as Landorus-T and Ash-Greninja.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Z-Move Trapper",
+            "stats": [
+                218,
+                194,
+                249,
+                394,
+                248,
+                253
+            ],
+            "type": [
+                "Fire",
+                "Steel"
+            ],
+            "usage": "Try to bring Heatran into the field through double switches or with the aid of VoltTurn support, as this variant is more offensively focused and lacks the extra bulk of an HP-invested Heatran and the sustainability of Leftovers variants. Therefore, you also need to play more conservatively with it; avoid letting it take damage, even from strong resisted hits, as it won't be able to recover any lost HP and it needs some health to effectively take on the likes of Chansey and Toxapex. Moreover, don't let too many entry hazards go up on your side of the field because Spikes damage can stack pretty quickly on Heatran lacking Leftovers. As with any other Heatran set, you should scout for super effective coverage on Pokemon that usually can't do too much damage to Heatran like Mega Mawile and Tornadus-T before attempting to take advantage of them.",
+            "moves": [
+                [
+                    "Magma Storm"
+                ],
+                [
+                    "Earth Power"
+                ],
+                [
+                    "Taunt"
+                ],
+                [
+                    "Toxic",
+                    "Stealth Rock"
+                ]
+            ],
+            "item": [
+                " Firium Z"
+            ],
+            "ability": [
+                "Flash Fire"
+            ],
+            "nature": [
+                "Modest"
+            ],
+            "ev spread": [
+                0,
+                0,
+                4,
+                252,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Specially Defensive",
+            "stats": [
+                281,
+                194,
+                248,
+                296,
+                308,
+                222
+            ],
+            "type": [
+                "Fire",
+                "Steel"
+            ],
+            "usage": "Use this Heatran set to check Pokemon like Tornadus-T and Tapu Lele or switch it into Pokemon that can't do much to it such as Ferrothorn and Mega Scizor and take the opportunity to throw off an attack or set up Stealth Rock. Furthermore, if the opponent has a Pokemon such as Mega Alakazam or Hydreigon, it is often a good idea to predict them to switch in by hitting them with a Toxic. Try not to let Heatran take a Knock Off, as having its Leftovers removed mean it is worn down much quicker. Try to avoid switching Heatran into entry hazards repeatedly, as it will severely hurt its longevity.",
+            "moves": [
+                [
+                    "Lava Plume"
+                ],
+                [
+                    "Earth Power"
+                ],
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Toxic",
+                    "Taunt"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Flash Fire"
+            ],
+            "nature": [
+                "Calm"
+            ],
+            "ev spread": [
+                252,
+                0,
+                0,
+                0,
+                128,
+                128
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Steelium Z",
+            "stats": [
+                218,
+                194,
+                249,
+                394,
+                248,
+                253
+            ],
+            "type": [
+                "Fire",
+                "Steel"
+            ],
+            "usage": "Unlike other variants, Steelium Z Heatran can OHKO its usual checks like Mega Alakazam, Hydreigon, Mega Latios, and Gliscor on the switch with Corkscrew Crash, so do your best to not waste the Z-Move on the wrong target, especially since opponents are likely to scout the Z-Move with Pokemon that resist it such as Toxapex. If using Magma Storm, Heatran can act offensively early-game to cause serious damage to opposing teams. Thanks to Heatran's offensive investment, this set has a narrow array of checks available. Even if Heatran has trapped a foe that it must avoid, Magma Storm's general damage output and trapping damage will considerably wear them down and prevent them from switching out, giving Heatran a chance to create a favorable matchup for one of its appropriate teammates. Lastly, Heatran lacks durability with offensive investment, so avoid playing too recklessly.",
+            "moves": [
+                [
+                    "Flash Cannon"
+                ],
+                [
+                    "Lava Plume",
+                    "Magma Storm"
+                ],
+                [
+                    "Earth Power"
+                ],
+                [
+                    "Stealth Rock",
+                    "Taunt"
+                ]
+            ],
+            "item": [
+                " Steelium Z"
+            ],
+            "ability": [
+                "Flash Fire"
+            ],
+            "nature": [
+                "Modest"
+            ],
+            "ev spread": [
+                0,
+                0,
+                4,
+                252,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Water-type Pokemon and Coverage",
+        "Ground-type Pokemon and Coverage",
+        "Knock Off",
+        "Fighting-type Pokemon and Coverage",
+        "Strong Attackers"
+    ],
+    "credits": [
+        "Written by Leo, DMDW,  and Mellow",
+        "Earlier versions by Vertex and AccidentalGreed",
+        "Quality checked by Colonel M, Gary, GMars, Jordy, Leo,  and lyd",
+        "Grammar checked by A Cake Wearing A Hat, lotiasite, martha,  and The Dutch Plumberjack"
+    ]
+}

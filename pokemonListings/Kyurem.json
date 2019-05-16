@@ -1,1 +1,98 @@
-{"name": "Kyurem", "forms": {"Base": {"base stats": [125, 130, 90, 130, 90, 95], "types": ["Dragon", "Ice"], "abilities": ["Pressure"], "tier": ["RUBL"], "form": "Base"}}, "overview": "Kyurem is an interesting pick in the OU metagame thanks to its ability to PP stall several Pokemon with its useful combination of Substitute, Pressure, and Roost. Kyurem's typing and respectable bulk allow it to take advantage of some of OU's premier walls, such as Toxapex and Tangrowth, and pivot into Choice-locked Kartana's Leaf Blade and Greninja's Hydro Pump. Its high base Special Attack and access to Ice- and Ground-type coverage let it hit a vast majority of the OU tier for neutral damage and threaten many common Pokemon like Landorus-T, Heatran, and Tornadus-T. However, Kyurem's mediocre base 95 Speed leaves more to be wished for in a metagame full of faster threats that can beat it, such as Mega Alakazam, Mega Medicham, and Kartana. Kyurem is also susceptible to every form of entry hazard and requires entry hazard control to perform its niche to its fullest potential. Moreover, Kyurem's ability to PP stall takes a big hit if it is inflicted with status, which is fairly common in the OU metagame, and its typing leaves it susceptible to the plethora of Steel-, Fairy-, and Fighting-type Pokemon and moves that plague the tier.\n", "strategies' format": "OU", "strategies": [{"name": "SubRoost", "stats": [300, 266, 216, 345, 217, 317], "type": ["Dragon", "Ice"], "usage": "Kyurem's priority should be to set up a Substitute against Pokemon that it forces out or Pokemon that can't break its Substitute, such as Tangrowth and Toxapex. Once behind a Substitute, Kyurem's combination of Pressure, Roost, and respectable bulk should be utilized to deplete Pokemon of their PP. Some examples include Celesteela and Clefable, as these can be PP stalled out of Heavy Slam and Moonblast, respectively, once behind a Substitute. Try to keep Stealth Rock and other entry hazards off of the field to keep Kyurem as healthy as possible and maximize its ability to switch into Pokemon it can beat like Tangrowth and Tornadus-T. Leech Seed and status conditions, especially paralysis and poison, hinder Kyurem's ability to PP stall foes, so try not to switch into status-inducing moves and avoid them with Substitute whenever possible. At times, using Substitute isn't necessary; if the opponent's team struggles to switch into Kyurem's coverage or is more offensively inclined, then attacking and weakening the opposing team for its teammates is beneficial. Kyurem should utilize its Ice- and Ground-type coverage effectively to dent common defensive backbones consisting of Heatran, Tapu Bulu, and Landorus-T.", "moves": [["Substitute"], ["Ice Beam"], ["Earth Power"], ["Roost"]], "item": [" Metronome", " Icium Z"], "ability": ["Pressure"], "nature": ["Timid"], "ev spread": [56, 0, 0, 196, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Faster Pokemon", "Fighting-types", "Steel-types", "Setup Sweepers", "Tapu Fini"], "credits": ["Written by Indigo Plateau", "Quality checked by lyd, Simia,  and LL", "Grammar checked by A Cake Wearing A Hat and Kris"]}
+{
+    "name": "Kyurem",
+    "forms": {
+        "Base": {
+            "base stats": [
+                125,
+                130,
+                90,
+                130,
+                90,
+                95
+            ],
+            "types": [
+                "Dragon",
+                "Ice"
+            ],
+            "abilities": [
+                "Pressure"
+            ],
+            "tier": [
+                "RUBL"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Kyurem is an interesting pick in the OU metagame thanks to its ability to PP stall several Pokemon with its useful combination of Substitute, Pressure, and Roost. Kyurem's typing and respectable bulk allow it to take advantage of some of OU's premier walls, such as Toxapex and Tangrowth, and pivot into Choice-locked Kartana's Leaf Blade and Greninja's Hydro Pump. Its high base Special Attack and access to Ice- and Ground-type coverage let it hit a vast majority of the OU tier for neutral damage and threaten many common Pokemon like Landorus-T, Heatran, and Tornadus-T. However, Kyurem's mediocre base 95 Speed leaves more to be wished for in a metagame full of faster threats that can beat it, such as Mega Alakazam, Mega Medicham, and Kartana. Kyurem is also susceptible to every form of entry hazard and requires entry hazard control to perform its niche to its fullest potential. Moreover, Kyurem's ability to PP stall takes a big hit if it is inflicted with status, which is fairly common in the OU metagame, and its typing leaves it susceptible to the plethora of Steel-, Fairy-, and Fighting-type Pokemon and moves that plague the tier.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "SubRoost",
+            "stats": [
+                300,
+                266,
+                216,
+                345,
+                217,
+                317
+            ],
+            "type": [
+                "Dragon",
+                "Ice"
+            ],
+            "usage": "Kyurem's priority should be to set up a Substitute against Pokemon that it forces out or Pokemon that can't break its Substitute, such as Tangrowth and Toxapex. Once behind a Substitute, Kyurem's combination of Pressure, Roost, and respectable bulk should be utilized to deplete Pokemon of their PP. Some examples include Celesteela and Clefable, as these can be PP stalled out of Heavy Slam and Moonblast, respectively, once behind a Substitute. Try to keep Stealth Rock and other entry hazards off of the field to keep Kyurem as healthy as possible and maximize its ability to switch into Pokemon it can beat like Tangrowth and Tornadus-T. Leech Seed and status conditions, especially paralysis and poison, hinder Kyurem's ability to PP stall foes, so try not to switch into status-inducing moves and avoid them with Substitute whenever possible. At times, using Substitute isn't necessary; if the opponent's team struggles to switch into Kyurem's coverage or is more offensively inclined, then attacking and weakening the opposing team for its teammates is beneficial. Kyurem should utilize its Ice- and Ground-type coverage effectively to dent common defensive backbones consisting of Heatran, Tapu Bulu, and Landorus-T.",
+            "moves": [
+                [
+                    "Substitute"
+                ],
+                [
+                    "Ice Beam"
+                ],
+                [
+                    "Earth Power"
+                ],
+                [
+                    "Roost"
+                ]
+            ],
+            "item": [
+                " Metronome",
+                " Icium Z"
+            ],
+            "ability": [
+                "Pressure"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                56,
+                0,
+                0,
+                196,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Faster Pokemon",
+        "Fighting-types",
+        "Steel-types",
+        "Setup Sweepers",
+        "Tapu Fini"
+    ],
+    "credits": [
+        "Written by Indigo Plateau",
+        "Quality checked by lyd, Simia,  and LL",
+        "Grammar checked by A Cake Wearing A Hat and Kris"
+    ]
+}

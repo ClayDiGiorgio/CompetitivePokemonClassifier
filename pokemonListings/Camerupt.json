@@ -1,1 +1,121 @@
-{"name": "Camerupt", "forms": {"Base": {"base stats": [70, 100, 70, 105, 75, 40], "types": ["Fire", "Ground"], "abilities": ["Anger Point", "Magma Armor", "Solid Rock"], "tier": ["Untiered"], "form": "Base"}, "Mega": {"base stats": [70, 120, 100, 145, 105, 20], "types": ["Fire", "Ground"], "abilities": ["Sheer Force"], "tier": ["NUBL"], "form": "Mega"}}, "overview": "Camerupt's Fire / Ground typing provides a valuable immunity to Electric-type moves and a resistance to Fairy-type moves, which, along with its solid bulk, allows Mega Camerupt to function as an effective check to Electric-types such as Tapu Koko and Mega Manectric and Fairy-types such as Magearna and Mega Mawile. Access to extremely powerful Fire- and Ground-type STAB moves is very useful too, as it allows Mega Camerupt to shred common Pokemon found on bulky offense teams such as Celesteela, Tangrowth, Toxapex, Mew, and Ferrothorn. Fire-resistant Pokemon aren't very common in the metagame either, with many teams relying on the likes of Greninja and Keldeo, which are very shaky answers to Mega Camerupt, while others such as Tyranitar and Heatran can't switch into Mega Camerupt reliably because of the threat of Earth Power. Mega Camerupt does struggle in the metagame, however, mostly due to its low Speed, which forces it to take a hit before it can attack back; this also often leads to it being very prediction reliant. On top of this, Ground- and Water-types such as Ash-Greninja, Garchomp, Gliscor, and Rotom-W are all common in the metagame.\n", "strategies' format": "OU", "strategies": [{"name": "Wallbreaker", "stats": [208, 248, 236, 427, 246, 108], "type": ["Fire", "Ground"], "usage": "Mega Camerupt should be used to pressure threats such as Magearna and Mega Mawile throughout games, but avoid switching it often into the likes of Tapu Koko because Tapu Koko can U-turn out, making Camerupt rack up chip damage from entry hazards. Because Mega Camerupt is extremely slow, predicting when Fire-resistant Pokemon such as Garchomp and Keldeo will come in and using the appropriate coverage move against them is recommended because Mega Camerupt will lose 1v1 to almost all common Fire-resistant Pokemon. If the opponent has a hard counter to Mega Camerupt such as Chansey, use the opportunity to set up Stealth Rock or take advantage of it and double switch into a teammate that can effectively pressure Chansey.", "moves": [["Fire Blast"], ["Earth Power"], ["Nature Power"], ["Stealth Rock", "Rock Slide"]], "item": [" Cameruptite"], "ability": ["Magma Armor"], "nature": ["Modest"], "ev spread": [128, 0, 0, 252, 0, 128], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Chansey", "Water-types", "Ground-types", "Dragon-types", "Heavy Offensive Pressure"], "credits": ["Written by p2", "Quality checked by Gary, Finchinator,  and Hootie", "Grammar checked by Mr. Uncompetitive and P Squared"]}
+{
+    "name": "Camerupt",
+    "forms": {
+        "Base": {
+            "base stats": [
+                70,
+                100,
+                70,
+                105,
+                75,
+                40
+            ],
+            "types": [
+                "Fire",
+                "Ground"
+            ],
+            "abilities": [
+                "Anger Point",
+                "Magma Armor",
+                "Solid Rock"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        },
+        "Mega": {
+            "base stats": [
+                70,
+                120,
+                100,
+                145,
+                105,
+                20
+            ],
+            "types": [
+                "Fire",
+                "Ground"
+            ],
+            "abilities": [
+                "Sheer Force"
+            ],
+            "tier": [
+                "NUBL"
+            ],
+            "form": "Mega"
+        }
+    },
+    "overview": "Camerupt's Fire / Ground typing provides a valuable immunity to Electric-type moves and a resistance to Fairy-type moves, which, along with its solid bulk, allows Mega Camerupt to function as an effective check to Electric-types such as Tapu Koko and Mega Manectric and Fairy-types such as Magearna and Mega Mawile. Access to extremely powerful Fire- and Ground-type STAB moves is very useful too, as it allows Mega Camerupt to shred common Pokemon found on bulky offense teams such as Celesteela, Tangrowth, Toxapex, Mew, and Ferrothorn. Fire-resistant Pokemon aren't very common in the metagame either, with many teams relying on the likes of Greninja and Keldeo, which are very shaky answers to Mega Camerupt, while others such as Tyranitar and Heatran can't switch into Mega Camerupt reliably because of the threat of Earth Power. Mega Camerupt does struggle in the metagame, however, mostly due to its low Speed, which forces it to take a hit before it can attack back; this also often leads to it being very prediction reliant. On top of this, Ground- and Water-types such as Ash-Greninja, Garchomp, Gliscor, and Rotom-W are all common in the metagame.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Wallbreaker",
+            "stats": [
+                208,
+                248,
+                236,
+                427,
+                246,
+                108
+            ],
+            "type": [
+                "Fire",
+                "Ground"
+            ],
+            "usage": "Mega Camerupt should be used to pressure threats such as Magearna and Mega Mawile throughout games, but avoid switching it often into the likes of Tapu Koko because Tapu Koko can U-turn out, making Camerupt rack up chip damage from entry hazards. Because Mega Camerupt is extremely slow, predicting when Fire-resistant Pokemon such as Garchomp and Keldeo will come in and using the appropriate coverage move against them is recommended because Mega Camerupt will lose 1v1 to almost all common Fire-resistant Pokemon. If the opponent has a hard counter to Mega Camerupt such as Chansey, use the opportunity to set up Stealth Rock or take advantage of it and double switch into a teammate that can effectively pressure Chansey.",
+            "moves": [
+                [
+                    "Fire Blast"
+                ],
+                [
+                    "Earth Power"
+                ],
+                [
+                    "Nature Power"
+                ],
+                [
+                    "Stealth Rock",
+                    "Rock Slide"
+                ]
+            ],
+            "item": [
+                " Cameruptite"
+            ],
+            "ability": [
+                "Magma Armor"
+            ],
+            "nature": [
+                "Modest"
+            ],
+            "ev spread": [
+                128,
+                0,
+                0,
+                252,
+                0,
+                128
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Chansey",
+        "Water-types",
+        "Ground-types",
+        "Dragon-types",
+        "Heavy Offensive Pressure"
+    ],
+    "credits": [
+        "Written by p2",
+        "Quality checked by Gary, Finchinator,  and Hootie",
+        "Grammar checked by Mr. Uncompetitive and P Squared"
+    ]
+}

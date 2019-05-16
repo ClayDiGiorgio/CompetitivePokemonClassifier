@@ -1,1 +1,156 @@
-{"name": "Spiritomb", "forms": {"Base": {"base stats": [50, 92, 108, 92, 108, 35], "types": ["Ghost", "Dark"], "abilities": ["Infiltrator", "Pressure"], "tier": ["PU"], "form": "Base"}}, "overview": "Spiritomb's good defensive typing, which gives it three useful immunities to Fighting, Psychic, and Normal, decent bulk, and access to a fairly solid support movepool with moves like Will-O-Wisp, Taunt, and Calm Mind give it great defensive presence. Spiritomb is also capable of providing useful offensive support to teams threatened by Pokemon like Mesprit, Haunter, and Oricorio-G due to its access to a fairly strong Pursuit and Sucker Punch, giving its Pursuit Trapper set a good mix of attributes. Spiritomb is also capable of acting as a bulky setup sweeper on bulkier teams because of its access to Calm Mind. However, Spiritomb's solid mixed bulk is offset by its low HP, and its lack of reliable recovery in tandem with its vulnerability to entry hazards only makes wearing it down easier, which can hurt its longevity in longer matches. Calm Mind Spiritomb is forced to rely on Rest for recovery, which can be taken advantage of by strong attackers like Stoutland. Spiritomb's low Speed also tends to leave it more reliant on Sucker Punch than it would like to be, which can be capitalized on by setup sweepers such as Lilligant.\n", "strategies' format": "PU", "strategies": [{"name": "Pursuit Trapper", "stats": [198, 311, 254, 198, 252, 106], "type": ["Ghost", "Dark"], "usage": "Spiritomb should mainly act as a revenge killer due to the combination of Sucker Punch and Pursuit allowing it to create mind games with and pick off weakened foes. Due to how setup sweepers can take advantage of Spiritomb's reliance on Sucker Punch, it should be wary of using it against them. Spiritomb should mainly switch into STAB moves from Pokemon such as Mesprit and Primeape, since it is immune to them. Pursuit should be used whenever Spiritomb anticipates a foe to switch out, as it is fairly strong and can wear them down faster than they would like. Pursuit can also be useful for putting foes in range of Sucker Punch. Exercise caution when using Will-O-Wisp if the opponent has a Fire-type, as they can absorb it and force Spiritomb out with their strong STAB attacks. If Spiritomb isn't running Foul Play, it doesn't have any reliably strong attacks, meaning that it will have to be a bit more careful against foes such as Carracosta, since they can potentially play around Sucker Punch. Scouting for Fairy-type coverage against foes such as Mesprit before switching in is advised, as they can heavily damage Spiritomb before it gets a chance to attack them.", "moves": [["Pursuit"], ["Sucker Punch"], ["Foul Play", "Psychic"], ["Will-O-Wisp"]], "item": [" Aguav Berry", " Black Glasses"], "ability": ["Infiltrator"], "nature": ["Adamant", "Brave"], "ev spread": [248, 252, 8, 0, 0, 0], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Calm Mind", "stats": [198, 198, 346, 220, 254, 106], "type": ["Ghost", "Dark"], "usage": "Spiritomb should mainly attempt to set up with Calm Mind late-game, as by this point, a lot of the stronger wallbreakers and Fairy-types that would otherwise prevent Spiritomb from setting up will either have been removed or weakened enough to be KOed. Use Rest once Spiritomb begins to take noticeable damage, as this prevents it from being worn down too fast and gets rid of any status that may be plaguing it beforehand while also letting it act as an emergency status absorber in case nothing else wants to switch in on status moves like Toxic. Spiritomb should aim to pivot into Fighting-types such as Hitmonchan and Throh and take advantage of how little they are capable of doing to it by either setting up or using Rest if necessary. Although not very common, Spiritomb should be wary of potential users of Switcheroo and Trick such as Manectric and Mesprit if it isn't using Darkinium Z, since they can render it completely useless. Darkinium Z variants should preserve their Z-Move until they need to break through special walls that they otherwise cannot bypass, such as Munchlax and Type: Null. It is advised to scout for Fairy-type coverage against foes such as Claydol, as they can lure in and heavily damage Spiritomb before it gets a chance to do anything.", "moves": [["Calm Mind"], ["Dark Pulse"], ["Rest"], ["Sleep Talk"]], "item": [" Leftovers", " Darkinium Z"], "ability": ["Pressure"], "nature": ["Bold"], "ev spread": [248, 0, 252, 0, 8, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Fairy-types", "Defensive Pokemon", "Stronger Attackers", "Dark-types"], "credits": ["Written by allstarapology", "Quality checked by Megazard, yogi,  and UberSkitty", "Grammar checked by The Dutch Plumberjack and A Cake Wearing A Hat"]}
+{
+    "name": "Spiritomb",
+    "forms": {
+        "Base": {
+            "base stats": [
+                50,
+                92,
+                108,
+                92,
+                108,
+                35
+            ],
+            "types": [
+                "Ghost",
+                "Dark"
+            ],
+            "abilities": [
+                "Infiltrator",
+                "Pressure"
+            ],
+            "tier": [
+                "PU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Spiritomb's good defensive typing, which gives it three useful immunities to Fighting, Psychic, and Normal, decent bulk, and access to a fairly solid support movepool with moves like Will-O-Wisp, Taunt, and Calm Mind give it great defensive presence. Spiritomb is also capable of providing useful offensive support to teams threatened by Pokemon like Mesprit, Haunter, and Oricorio-G due to its access to a fairly strong Pursuit and Sucker Punch, giving its Pursuit Trapper set a good mix of attributes. Spiritomb is also capable of acting as a bulky setup sweeper on bulkier teams because of its access to Calm Mind. However, Spiritomb's solid mixed bulk is offset by its low HP, and its lack of reliable recovery in tandem with its vulnerability to entry hazards only makes wearing it down easier, which can hurt its longevity in longer matches. Calm Mind Spiritomb is forced to rely on Rest for recovery, which can be taken advantage of by strong attackers like Stoutland. Spiritomb's low Speed also tends to leave it more reliant on Sucker Punch than it would like to be, which can be capitalized on by setup sweepers such as Lilligant.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Pursuit Trapper",
+            "stats": [
+                198,
+                311,
+                254,
+                198,
+                252,
+                106
+            ],
+            "type": [
+                "Ghost",
+                "Dark"
+            ],
+            "usage": "Spiritomb should mainly act as a revenge killer due to the combination of Sucker Punch and Pursuit allowing it to create mind games with and pick off weakened foes. Due to how setup sweepers can take advantage of Spiritomb's reliance on Sucker Punch, it should be wary of using it against them. Spiritomb should mainly switch into STAB moves from Pokemon such as Mesprit and Primeape, since it is immune to them. Pursuit should be used whenever Spiritomb anticipates a foe to switch out, as it is fairly strong and can wear them down faster than they would like. Pursuit can also be useful for putting foes in range of Sucker Punch. Exercise caution when using Will-O-Wisp if the opponent has a Fire-type, as they can absorb it and force Spiritomb out with their strong STAB attacks. If Spiritomb isn't running Foul Play, it doesn't have any reliably strong attacks, meaning that it will have to be a bit more careful against foes such as Carracosta, since they can potentially play around Sucker Punch. Scouting for Fairy-type coverage against foes such as Mesprit before switching in is advised, as they can heavily damage Spiritomb before it gets a chance to attack them.",
+            "moves": [
+                [
+                    "Pursuit"
+                ],
+                [
+                    "Sucker Punch"
+                ],
+                [
+                    "Foul Play",
+                    "Psychic"
+                ],
+                [
+                    "Will-O-Wisp"
+                ]
+            ],
+            "item": [
+                " Aguav Berry",
+                " Black Glasses"
+            ],
+            "ability": [
+                "Infiltrator"
+            ],
+            "nature": [
+                "Adamant",
+                "Brave"
+            ],
+            "ev spread": [
+                248,
+                252,
+                8,
+                0,
+                0,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Calm Mind",
+            "stats": [
+                198,
+                198,
+                346,
+                220,
+                254,
+                106
+            ],
+            "type": [
+                "Ghost",
+                "Dark"
+            ],
+            "usage": "Spiritomb should mainly attempt to set up with Calm Mind late-game, as by this point, a lot of the stronger wallbreakers and Fairy-types that would otherwise prevent Spiritomb from setting up will either have been removed or weakened enough to be KOed. Use Rest once Spiritomb begins to take noticeable damage, as this prevents it from being worn down too fast and gets rid of any status that may be plaguing it beforehand while also letting it act as an emergency status absorber in case nothing else wants to switch in on status moves like Toxic. Spiritomb should aim to pivot into Fighting-types such as Hitmonchan and Throh and take advantage of how little they are capable of doing to it by either setting up or using Rest if necessary. Although not very common, Spiritomb should be wary of potential users of Switcheroo and Trick such as Manectric and Mesprit if it isn't using Darkinium Z, since they can render it completely useless. Darkinium Z variants should preserve their Z-Move until they need to break through special walls that they otherwise cannot bypass, such as Munchlax and Type: Null. It is advised to scout for Fairy-type coverage against foes such as Claydol, as they can lure in and heavily damage Spiritomb before it gets a chance to do anything.",
+            "moves": [
+                [
+                    "Calm Mind"
+                ],
+                [
+                    "Dark Pulse"
+                ],
+                [
+                    "Rest"
+                ],
+                [
+                    "Sleep Talk"
+                ]
+            ],
+            "item": [
+                " Leftovers",
+                " Darkinium Z"
+            ],
+            "ability": [
+                "Pressure"
+            ],
+            "nature": [
+                "Bold"
+            ],
+            "ev spread": [
+                248,
+                0,
+                252,
+                0,
+                8,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Fairy-types",
+        "Defensive Pokemon",
+        "Stronger Attackers",
+        "Dark-types"
+    ],
+    "credits": [
+        "Written by allstarapology",
+        "Quality checked by Megazard, yogi,  and UberSkitty",
+        "Grammar checked by The Dutch Plumberjack and A Cake Wearing A Hat"
+    ]
+}

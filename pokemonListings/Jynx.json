@@ -1,1 +1,209 @@
-{"name": "Jynx", "forms": {"Base": {"base stats": [65, 50, 35, 115, 95, 95], "types": ["Ice", "Psychic"], "abilities": ["Dry Skin", "Forewarn", "Oblivious"], "tier": ["Untiered"], "form": "Base"}}, "overview": "Jynx stands out in PU as a dangerous and effective sweeper and wallbreaker thanks to its access to the incredible Z-Lovely Kiss as well as Nasty Plot, which allows it to boost its Speed and Special Attack while putting foes to sleep. Its excellent dual STAB combination allows Jynx to forgo coverage if it needs to, although Focus Blast is a great option for getting neutral coverage on the entire tier. Jynx also has decent set diversity, with its Choice Scarf and Substitute sets being able to catch foes off guard. Dry Skin gives Jynx even more utility, allowing it to check a plethora of Water-types in the tier including Poliwrath and Floatzel. However, Jynx has awful defenses and a terrible defensive typing, leaving it susceptible to most forms of priority and all entry hazards. While its Speed tier is decent, it still leaves Jynx open to being revenge killed by a number of threats, including a few notable Choice Scarf users such as Dodrio even when Jynx is at +1. Finally, Jynx can have difficulty with Lovely Kiss's accuracy and the prevalence of other base 95 Speed Pokemon, which can lead to very common Speed ties with foes such as Primeape.\n", "strategies' format": "PU", "strategies": [{"name": "Nasty Thot (Z-Lovely Kiss)", "stats": [166, 122, 107, 329, 226, 317], "type": ["Ice", "Psychic"], "usage": "Jynx is typically more of a late-game sweeper; it can be used earlier to put a foe to sleep or revenge kill a slower Pokemon, but Z-Lovely Kiss's single-use nature means that Jynx should not set up until absolutely necessary. If Jynx does need to put a foe to sleep early, using regular Lovely Kiss rather than the Z-Move should be considered in order to preserve the Speed boost opportunity for later on. Try to avoid switching Jynx in while entry hazards are up, as even minimal chip damage can put Jynx in range of priority users such as Hitmonchan. Jynx will often need to set up Nasty Plot versus bulky teams, and it sets up best immediately after putting a foe to sleep. Jynx's defenses are so poor that it's generally best not to use Nasty Plot versus a foe ready to attack. However, also consider avoiding putting a foe to sleep until Jynx is faced with a Sucker Punch user such as Skuntank or Shiftry. This can allow Jynx to avoid deadly mind games in playing around Sucker Punch with Nasty Plot.", "moves": [["Lovely Kiss"], ["Nasty Plot"], ["Ice Beam"], ["Psyshock"]], "item": [" Normalium Z"], "ability": ["Dry Skin"], "nature": ["Timid"], "ev spread": [0, 0, 4, 252, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Choice Scarf", "stats": [166, 122, 107, 329, 226, 317], "type": ["Ice", "Psychic"], "usage": "Choice Scarf Jynx is a very straightforward revenge killer that should be brought in on slower, boosted sweepers such as Dodrio to either KO them or force them out. However, there is some surprise factor associated with the set, which can be used to Jynx's advantage. Be careful of using Psychic if the opponent has a Dark-type Pursuit trapper such as Skuntank on their team, as it can leave Jynx vulnerable. All of Jynx's moves can allow certain Pokemon to set up on it if they are aware that Jynx is Choice locked, so hiding that fact can be useful. Lovely Kiss in particular necessitates that Jynx switch out afterwards due to Sleep Clause, so be careful with its use. Make sure when using Trick to cripple foes that Jynx does not need its Choice Scarf to outpace a sweeper such as Carracosta later in the game, and also be careful of a Pokemon carrying a Z-Crystal switching in.", "moves": [["Ice Beam"], ["Psychic"], ["Focus Blast"], ["Lovely Kiss", "Trick"]], "item": [" Choice Scarf"], "ability": ["Dry Skin"], "nature": ["Timid"], "ev spread": [0, 0, 4, 252, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Substitute + Nasty Plot", "stats": [166, 122, 107, 329, 226, 317], "type": ["Ice", "Psychic"], "usage": "If running Normalium Z, Jynx should be used primarily as a late-game sweeper, as Ice-resistant Pokemon must be removed or weakened for maximum effectiveness. However, Leftovers sets can be effective at chipping away at checks such as Lanturn, Alolan Sandslash, and Aurorus, which more handily beat Normalium Z Jynx, throughout a match. However, if the opposing team lacks strong Ice-resistant Pokemon, Jynx may attempt to sweep or wallbreak earlier on in the match. Jynx is highly susceptible to priority and faster Pokemon due to its poor bulk, so setting up a Substitute should take priority over boosting with Nasty Plot unless no attempt to sweep is being made. Jynx can bluff a different set rather effectively before revealing Substitute, so attempt to keep it hidden for as long as possible. Getting a KO while Jynx has a Substitute set up can be an incredibly powerful position, as allowing Jynx to bypass certain checks such as Hitmonchan and Kangaskhan can easily turn the tide of a match. Avoid sending out Jynx until entry hazards have been removed, as it takes significant damage from both Stealth Rock and Spikes. If Jynx is carrying Leftovers, this may also reveal Jynx's set earlier than intended.", "moves": [["Substitute"], ["Nasty Plot"], ["Lovely Kiss"], ["Ice Beam"]], "item": [" Normalium Z", " Leftovers"], "ability": ["Dry Skin"], "nature": ["Timid"], "ev spread": [0, 0, 4, 252, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Faster Pokemon", "Priority", "Steel-types"], "credits": ["Written by Megazard", "Quality checked by yogi, TONE,  and HJAD", "Grammar checked by Haund and The Dutch Plumberjack"]}
+{
+    "name": "Jynx",
+    "forms": {
+        "Base": {
+            "base stats": [
+                65,
+                50,
+                35,
+                115,
+                95,
+                95
+            ],
+            "types": [
+                "Ice",
+                "Psychic"
+            ],
+            "abilities": [
+                "Dry Skin",
+                "Forewarn",
+                "Oblivious"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Jynx stands out in PU as a dangerous and effective sweeper and wallbreaker thanks to its access to the incredible Z-Lovely Kiss as well as Nasty Plot, which allows it to boost its Speed and Special Attack while putting foes to sleep. Its excellent dual STAB combination allows Jynx to forgo coverage if it needs to, although Focus Blast is a great option for getting neutral coverage on the entire tier. Jynx also has decent set diversity, with its Choice Scarf and Substitute sets being able to catch foes off guard. Dry Skin gives Jynx even more utility, allowing it to check a plethora of Water-types in the tier including Poliwrath and Floatzel. However, Jynx has awful defenses and a terrible defensive typing, leaving it susceptible to most forms of priority and all entry hazards. While its Speed tier is decent, it still leaves Jynx open to being revenge killed by a number of threats, including a few notable Choice Scarf users such as Dodrio even when Jynx is at +1. Finally, Jynx can have difficulty with Lovely Kiss's accuracy and the prevalence of other base 95 Speed Pokemon, which can lead to very common Speed ties with foes such as Primeape.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Nasty Thot (Z-Lovely Kiss)",
+            "stats": [
+                166,
+                122,
+                107,
+                329,
+                226,
+                317
+            ],
+            "type": [
+                "Ice",
+                "Psychic"
+            ],
+            "usage": "Jynx is typically more of a late-game sweeper; it can be used earlier to put a foe to sleep or revenge kill a slower Pokemon, but Z-Lovely Kiss's single-use nature means that Jynx should not set up until absolutely necessary. If Jynx does need to put a foe to sleep early, using regular Lovely Kiss rather than the Z-Move should be considered in order to preserve the Speed boost opportunity for later on. Try to avoid switching Jynx in while entry hazards are up, as even minimal chip damage can put Jynx in range of priority users such as Hitmonchan. Jynx will often need to set up Nasty Plot versus bulky teams, and it sets up best immediately after putting a foe to sleep. Jynx's defenses are so poor that it's generally best not to use Nasty Plot versus a foe ready to attack. However, also consider avoiding putting a foe to sleep until Jynx is faced with a Sucker Punch user such as Skuntank or Shiftry. This can allow Jynx to avoid deadly mind games in playing around Sucker Punch with Nasty Plot.",
+            "moves": [
+                [
+                    "Lovely Kiss"
+                ],
+                [
+                    "Nasty Plot"
+                ],
+                [
+                    "Ice Beam"
+                ],
+                [
+                    "Psyshock"
+                ]
+            ],
+            "item": [
+                " Normalium Z"
+            ],
+            "ability": [
+                "Dry Skin"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                4,
+                252,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Choice Scarf",
+            "stats": [
+                166,
+                122,
+                107,
+                329,
+                226,
+                317
+            ],
+            "type": [
+                "Ice",
+                "Psychic"
+            ],
+            "usage": "Choice Scarf Jynx is a very straightforward revenge killer that should be brought in on slower, boosted sweepers such as Dodrio to either KO them or force them out. However, there is some surprise factor associated with the set, which can be used to Jynx's advantage. Be careful of using Psychic if the opponent has a Dark-type Pursuit trapper such as Skuntank on their team, as it can leave Jynx vulnerable. All of Jynx's moves can allow certain Pokemon to set up on it if they are aware that Jynx is Choice locked, so hiding that fact can be useful. Lovely Kiss in particular necessitates that Jynx switch out afterwards due to Sleep Clause, so be careful with its use. Make sure when using Trick to cripple foes that Jynx does not need its Choice Scarf to outpace a sweeper such as Carracosta later in the game, and also be careful of a Pokemon carrying a Z-Crystal switching in.",
+            "moves": [
+                [
+                    "Ice Beam"
+                ],
+                [
+                    "Psychic"
+                ],
+                [
+                    "Focus Blast"
+                ],
+                [
+                    "Lovely Kiss",
+                    "Trick"
+                ]
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Dry Skin"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                4,
+                252,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Substitute + Nasty Plot",
+            "stats": [
+                166,
+                122,
+                107,
+                329,
+                226,
+                317
+            ],
+            "type": [
+                "Ice",
+                "Psychic"
+            ],
+            "usage": "If running Normalium Z, Jynx should be used primarily as a late-game sweeper, as Ice-resistant Pokemon must be removed or weakened for maximum effectiveness. However, Leftovers sets can be effective at chipping away at checks such as Lanturn, Alolan Sandslash, and Aurorus, which more handily beat Normalium Z Jynx, throughout a match. However, if the opposing team lacks strong Ice-resistant Pokemon, Jynx may attempt to sweep or wallbreak earlier on in the match. Jynx is highly susceptible to priority and faster Pokemon due to its poor bulk, so setting up a Substitute should take priority over boosting with Nasty Plot unless no attempt to sweep is being made. Jynx can bluff a different set rather effectively before revealing Substitute, so attempt to keep it hidden for as long as possible. Getting a KO while Jynx has a Substitute set up can be an incredibly powerful position, as allowing Jynx to bypass certain checks such as Hitmonchan and Kangaskhan can easily turn the tide of a match. Avoid sending out Jynx until entry hazards have been removed, as it takes significant damage from both Stealth Rock and Spikes. If Jynx is carrying Leftovers, this may also reveal Jynx's set earlier than intended.",
+            "moves": [
+                [
+                    "Substitute"
+                ],
+                [
+                    "Nasty Plot"
+                ],
+                [
+                    "Lovely Kiss"
+                ],
+                [
+                    "Ice Beam"
+                ]
+            ],
+            "item": [
+                " Normalium Z",
+                " Leftovers"
+            ],
+            "ability": [
+                "Dry Skin"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                4,
+                252,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Faster Pokemon",
+        "Priority",
+        "Steel-types"
+    ],
+    "credits": [
+        "Written by Megazard",
+        "Quality checked by yogi, TONE,  and HJAD",
+        "Grammar checked by Haund and The Dutch Plumberjack"
+    ]
+}

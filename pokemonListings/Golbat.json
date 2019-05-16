@@ -1,1 +1,99 @@
-{"name": "Golbat", "forms": {"Base": {"base stats": [75, 80, 70, 65, 75, 90], "types": ["Poison", "Flying"], "abilities": ["Infiltrator", "Inner Focus"], "tier": ["NU"], "form": "Base"}}, "overview": "With its excellent bulk with Eviolite, great defensive typing, and reliable recovery, Golbat finds its place on teams that require checks to offensive Pokemon like Sceptile and Passimian. Additionally, the utility that Defog offers gives it a place on teams that require entry hazard control. Golbat possesses a great Speed tier, allowing it to outspeed and deal with threats like Decidueye and Medicham. Utility options in Super Fang, Toxic, and Taunt offer Golbat a wide range of stallbreaking options against Pokemon like Vaporeon, Mega Audino, and Silvally-Steel. However, Golbat's weakness to Stealth Rock leaves it susceptible to being pressured and forced to Roost frequently, which also makes it less effective as a hazard remover. Golbat's heavy reliance on Eviolite leaves it vulnerable to being exploited by Pokemon it used to be able to check, like Sceptile and Fighting-types, when it has been hit by Knock Off. Golbat's passive nature leaves it prone to being pivoted on and taken advantage of by Pokemon like Steelix, Klinklang, and Rotom.\n", "strategies' format": "NU", "strategies": [{"name": "Defensive", "stats": [249, 196, 176, 149, 206, 286], "type": ["Poison", "Flying"], "usage": "Golbat's bulk allows it to directly switch into the STAB moves of a plethora of attackers. For example, it can switch into Pokemon like Sceptile and Passimian and 2HKO if not OHKO these Pokemon with Brave Bird, and it can be used as a switch-in to Dhelmise, though it has to be wary of a Choice Band-boosted Anchor Shot. Golbat can also directly switch in against some Fairy-types like Comfey, but it cannot switch into Aromatisse's and Choice Specs Whimsicott's Psychic, as they both 2HKO Golbat, and it must be wary of Mega Audino's Knock Off. Try to avoid letting Golbat take an unnecessary Knock Off, as without Eviolite, it loses a lot of bulk and has a harder time functioning as a check to threats like Passimian and Scrafty. Stealth Rock is a large detriment to Golbat's ability to act as a defensive check, so make sure to use Golbat's ability to switch into the plethora of passive Pokemon in NU like Vileplume, Mega Audino, and Vaporeon as an opportunity to remove entry hazards with Defog. Utilize Taunt to stop Pokemon like Palossand, Torterra, Miltank, and Ferroseed from setting up hazards, and against Pokemon like Mega Audino and Vaporeon to stop them from using their utility moves. Utilize Toxic to cripple common switch-ins to Golbat like Rhydon and Heliolisk and against bulkier Pokemon that do not function well when badly poisoned, like Palossand and Seismitoad.", "moves": [["Brave Bird"], ["Toxic"], ["Defog", "Taunt"], ["Roost"]], "item": [" Eviolite"], "ability": ["Infiltrator"], "nature": ["Jolly"], "ev spread": [252, 0, 0, 0, 80, 176], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Rock- and Steel-type Pokemon", "Stealth Rock", "Electric-type Pokemon", "Knock Off"], "credits": ["Written by Watchog", "Previous versions by Martin", "Quality checked by kay, rozes,  and Rabia", "Grammar checked by talkingtree and The Dutch Plumberjack"]}
+{
+    "name": "Golbat",
+    "forms": {
+        "Base": {
+            "base stats": [
+                75,
+                80,
+                70,
+                65,
+                75,
+                90
+            ],
+            "types": [
+                "Poison",
+                "Flying"
+            ],
+            "abilities": [
+                "Infiltrator",
+                "Inner Focus"
+            ],
+            "tier": [
+                "NU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "With its excellent bulk with Eviolite, great defensive typing, and reliable recovery, Golbat finds its place on teams that require checks to offensive Pokemon like Sceptile and Passimian. Additionally, the utility that Defog offers gives it a place on teams that require entry hazard control. Golbat possesses a great Speed tier, allowing it to outspeed and deal with threats like Decidueye and Medicham. Utility options in Super Fang, Toxic, and Taunt offer Golbat a wide range of stallbreaking options against Pokemon like Vaporeon, Mega Audino, and Silvally-Steel. However, Golbat's weakness to Stealth Rock leaves it susceptible to being pressured and forced to Roost frequently, which also makes it less effective as a hazard remover. Golbat's heavy reliance on Eviolite leaves it vulnerable to being exploited by Pokemon it used to be able to check, like Sceptile and Fighting-types, when it has been hit by Knock Off. Golbat's passive nature leaves it prone to being pivoted on and taken advantage of by Pokemon like Steelix, Klinklang, and Rotom.\n",
+    "strategies' format": "NU",
+    "strategies": [
+        {
+            "name": "Defensive",
+            "stats": [
+                249,
+                196,
+                176,
+                149,
+                206,
+                286
+            ],
+            "type": [
+                "Poison",
+                "Flying"
+            ],
+            "usage": "Golbat's bulk allows it to directly switch into the STAB moves of a plethora of attackers. For example, it can switch into Pokemon like Sceptile and Passimian and 2HKO if not OHKO these Pokemon with Brave Bird, and it can be used as a switch-in to Dhelmise, though it has to be wary of a Choice Band-boosted Anchor Shot. Golbat can also directly switch in against some Fairy-types like Comfey, but it cannot switch into Aromatisse's and Choice Specs Whimsicott's Psychic, as they both 2HKO Golbat, and it must be wary of Mega Audino's Knock Off. Try to avoid letting Golbat take an unnecessary Knock Off, as without Eviolite, it loses a lot of bulk and has a harder time functioning as a check to threats like Passimian and Scrafty. Stealth Rock is a large detriment to Golbat's ability to act as a defensive check, so make sure to use Golbat's ability to switch into the plethora of passive Pokemon in NU like Vileplume, Mega Audino, and Vaporeon as an opportunity to remove entry hazards with Defog. Utilize Taunt to stop Pokemon like Palossand, Torterra, Miltank, and Ferroseed from setting up hazards, and against Pokemon like Mega Audino and Vaporeon to stop them from using their utility moves. Utilize Toxic to cripple common switch-ins to Golbat like Rhydon and Heliolisk and against bulkier Pokemon that do not function well when badly poisoned, like Palossand and Seismitoad.",
+            "moves": [
+                [
+                    "Brave Bird"
+                ],
+                [
+                    "Toxic"
+                ],
+                [
+                    "Defog",
+                    "Taunt"
+                ],
+                [
+                    "Roost"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Infiltrator"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                252,
+                0,
+                0,
+                0,
+                80,
+                176
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Rock- and Steel-type Pokemon",
+        "Stealth Rock",
+        "Electric-type Pokemon",
+        "Knock Off"
+    ],
+    "credits": [
+        "Written by Watchog",
+        "Previous versions by Martin",
+        "Quality checked by kay, rozes,  and Rabia",
+        "Grammar checked by talkingtree and The Dutch Plumberjack"
+    ]
+}

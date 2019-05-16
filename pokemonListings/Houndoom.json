@@ -1,1 +1,123 @@
-{"name": "Houndoom", "forms": {"Base": {"base stats": [75, 90, 50, 110, 80, 95], "types": ["Dark", "Fire"], "abilities": ["Early Bird", "Flash Fire", "Unnerve"], "tier": ["PUBL"], "form": "Base"}, "Mega": {"base stats": [75, 90, 90, 140, 90, 115], "types": ["Dark", "Fire"], "abilities": ["Solar Power"], "tier": ["RUBL"], "form": "Mega"}}, "overview": "The notable Special Attack and Speed boosts Houndoom receives upon Mega Evolution make it a respectable sweeper in the UU metagame. Its movepool complements its massive Special Attack stat and strong offensive typing perfectly, containing high-Base Power STAB moves, a great boosting move in Nasty Plot, and other intriguing options such as Sludge Bomb, Taunt, and Destiny Bond. With its high Speed, Mega Houndoom outspeeds much of the unboosted tier, notably including Pokemon like Cobalion, Latias, and Gengar. However, while its Dark / Fire typing is solid offensively, it leaves Mega Houndoom weak to the tier's common Water-, Fighting-, and Ground-type attacks. Mega Houndoom also finds itself vulnerable to all entry hazards, including a notable weakness to Stealth Rock, which in combination with its average bulk does not leave Mega Houndoom with many opportunities to fulfill its role. It also has some rough one-on-one matchups with top-tier Pokemon like Hydreigon and Mega Aerodactyl, putting more pressure on the rest of the team to shore up those recurring weaknesses.\n", "strategies' format": "UU", "strategies": [{"name": "Nasty Plot", "stats": [186, 194, 216, 379, 217, 361], "type": ["Dark", "Fire"], "usage": "Bring Mega Houndoom in mid- or late-game to either throw out strong attacks or sweep. Use Nasty Plot only when it is safe to do so and when its checks have been weakened to the point where Mega Houndoom can break through. Due to its middling bulk and weakness to entry hazards, try to bring Mega Houndoom when it is safe to do so, such as through U-turn or double switches. If necessary, Mega Houndoom can revenge kill threats like Scizor and Latias. Use Taunt against special walls when expecting recovery moves, whittling them and hindering their effectiveness later on.", "moves": [["Nasty Plot"], ["Fire Blast"], ["Dark Pulse"], ["Sludge Bomb", "Taunt"]], "item": [" Houndoominite"], "ability": ["Flash Fire"], "nature": ["Timid"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Hydreigon", "Special Walls", "Faster Pokemon", "Fairy-types", "Rock-types", "Bulky Water-types", "Priority"], "credits": ["Written by Pak", "Quality checked by Bouff, Cynde,  and Ark", "Grammar checked by martha and The Dutch Plumberjack"]}
+{
+    "name": "Houndoom",
+    "forms": {
+        "Base": {
+            "base stats": [
+                75,
+                90,
+                50,
+                110,
+                80,
+                95
+            ],
+            "types": [
+                "Dark",
+                "Fire"
+            ],
+            "abilities": [
+                "Early Bird",
+                "Flash Fire",
+                "Unnerve"
+            ],
+            "tier": [
+                "PUBL"
+            ],
+            "form": "Base"
+        },
+        "Mega": {
+            "base stats": [
+                75,
+                90,
+                90,
+                140,
+                90,
+                115
+            ],
+            "types": [
+                "Dark",
+                "Fire"
+            ],
+            "abilities": [
+                "Solar Power"
+            ],
+            "tier": [
+                "RUBL"
+            ],
+            "form": "Mega"
+        }
+    },
+    "overview": "The notable Special Attack and Speed boosts Houndoom receives upon Mega Evolution make it a respectable sweeper in the UU metagame. Its movepool complements its massive Special Attack stat and strong offensive typing perfectly, containing high-Base Power STAB moves, a great boosting move in Nasty Plot, and other intriguing options such as Sludge Bomb, Taunt, and Destiny Bond. With its high Speed, Mega Houndoom outspeeds much of the unboosted tier, notably including Pokemon like Cobalion, Latias, and Gengar. However, while its Dark / Fire typing is solid offensively, it leaves Mega Houndoom weak to the tier's common Water-, Fighting-, and Ground-type attacks. Mega Houndoom also finds itself vulnerable to all entry hazards, including a notable weakness to Stealth Rock, which in combination with its average bulk does not leave Mega Houndoom with many opportunities to fulfill its role. It also has some rough one-on-one matchups with top-tier Pokemon like Hydreigon and Mega Aerodactyl, putting more pressure on the rest of the team to shore up those recurring weaknesses.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Nasty Plot",
+            "stats": [
+                186,
+                194,
+                216,
+                379,
+                217,
+                361
+            ],
+            "type": [
+                "Dark",
+                "Fire"
+            ],
+            "usage": "Bring Mega Houndoom in mid- or late-game to either throw out strong attacks or sweep. Use Nasty Plot only when it is safe to do so and when its checks have been weakened to the point where Mega Houndoom can break through. Due to its middling bulk and weakness to entry hazards, try to bring Mega Houndoom when it is safe to do so, such as through U-turn or double switches. If necessary, Mega Houndoom can revenge kill threats like Scizor and Latias. Use Taunt against special walls when expecting recovery moves, whittling them and hindering their effectiveness later on.",
+            "moves": [
+                [
+                    "Nasty Plot"
+                ],
+                [
+                    "Fire Blast"
+                ],
+                [
+                    "Dark Pulse"
+                ],
+                [
+                    "Sludge Bomb",
+                    "Taunt"
+                ]
+            ],
+            "item": [
+                " Houndoominite"
+            ],
+            "ability": [
+                "Flash Fire"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Hydreigon",
+        "Special Walls",
+        "Faster Pokemon",
+        "Fairy-types",
+        "Rock-types",
+        "Bulky Water-types",
+        "Priority"
+    ],
+    "credits": [
+        "Written by Pak",
+        "Quality checked by Bouff, Cynde,  and Ark",
+        "Grammar checked by martha and The Dutch Plumberjack"
+    ]
+}

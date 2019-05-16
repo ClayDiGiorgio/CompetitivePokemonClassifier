@@ -1,1 +1,155 @@
-{"name": "Salazzle", "forms": {"Base": {"base stats": [68, 64, 60, 111, 60, 117], "types": ["Poison", "Fire"], "abilities": ["Corrosion", "Oblivious"], "tier": ["RU"], "form": "Base"}}, "overview": "Salazzle has an excellent Speed tier that allows it to outspeed many prominent threats in the UU metagame such as Infernape, Latias, and Cobalion. It has a respectable Special Attack stat and access to moves like Fire Blast and Sludge Wave that complement it. It also has a fantastic offensive typing that is well suited the UU metagame, which is full of Grass-, Fairy-, and Steel-type Pokemon such as Celebi, Togekiss, and Scizor. Access to Nasty Plot allows it to reliably threaten most defensive Pokemon. Salazzle can also take advantage of its ability Corrosion to punish typical Poison-immune walls such as Empoleon with Toxic. Unfortunately, Salazzle has extremely poor coverage outside of its STAB moves; it relies on Hidden Power for coverage. Additionally, its ability to set up and plow through teams or stall foes out with Toxic damage is hampered by its lackluster bulk and weakness to Stealth Rock, which makes it hard to set up and incredibly easy to revenge kill.\n", "strategies' format": "UU", "strategies": [{"name": "Nasty Plot", "stats": [172, 147, 162, 316, 156, 366], "type": ["Poison", "Fire"], "usage": "Salazzle is at its best when its faster checks such as Choice Scarf Pokemon like Hydreigon and Krookodile and Pokemon like Mega Aerodactyl, Mega Manectric, and Mega Beedrill are removed from play, so ideally avoid setting up while they are still around. Do not attempt to use Salazzle as a switch-in to anything; its abysmal bulk prevents it from being a reliable switch-in to even resisted hits. Salazzle can be brought in via pivoting, via double switches, or after a teammate has fainted. It is best to set up with Salazzle on a Pokemon that it forces out like Sylveon or Scizor. Alternatively, you can take advantage of a foe locked into a move like Pursuit or Bullet Punch and set up with Salazzle. Ensure that Pokemon that could potentially halt a Salazzle sweep such as Hippowdon are sufficiently worn down or eliminated before attempting to set up. Due to Salazzle's typing, it can serve as a soft check to Pokemon like Choice Scarf Infernape and Rotom-C if absolutely necessary, but this hampers its ability to set up in the process.", "moves": [["Nasty Plot"], ["Sludge Wave"], ["Fire Blast"], ["Hidden Power Grass"]], "item": [" Poisonium Z"], "ability": ["Oblivious"], "nature": ["Timid"], "ev spread": [0, 0, 24, 232, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Corrosion", "stats": [234, 147, 158, 258, 156, 366], "type": ["Poison", "Fire"], "usage": "Salazzle is generally free to start spamming Toxic every time it enters the field. The only times it should be wary is when a poison-immune Pokemon by virtue of abilities such as Gligar or Reuniclus is on the opposing team. RestTalk users such as Suicune are also easily able to pivot in and take advantage of the set's weak offenses. Try to bring Salazzle in on free switches or when you predict a resisted hit, as even with investment, its bulk is pitiful, and it will fall to most STAB attacks from breakers like Hydreigon and Moltres. Predicting Pokemon such as Cobalion and Amoonguss is a good way to find turns to spread status or get a Substitute up. Use Protect when needed to maximize Salazzle's potential recovery and residual damage. You can also catch double switches this way and potentially amass even more chip damage. Be careful of letting in threatening Pursuit users like Mega Aerodactyl and Choice Scarf Krookodile. Avoid Knock Off from support Pokemon like Alomomola and Mienshao at all costs, as Salazzle will not be able to stall for long periods of time without its Black Sludge. If Salazzle is carrying Taunt, it can often keep using Taunt to cover switches as long as some of your opponent's team is already poisoned. This is even more effective when you have some form of entry hazards up and makes it hard for defensive teams to break through Salazzle's onslaught when they can't recover any health. Try and keep entry hazards off your side of the field, as Salazzle's already limited defensive utility is cut even further when it is losing 1/4 of its health due to Stealth Rock or even more with Spikes added. Avoiding paralysis from Klefki, Rotom-H, and Amoonguss is important, as Salazzle needs its speed in order to set up Substitutes safely and dislikes the full paralysis chance on Protect turns.", "moves": [["Toxic"], ["Protect"], ["Flamethrower"], ["Substitute", "Taunt"]], "item": [" Black Sludge"], "ability": ["Corrosion"], "nature": ["Timid"], "ev spread": [248, 0, 8, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Faster Pokemon", "Rock-types", "Ground-types", "Specially Defensive Pokemon", "Water-types"], "credits": ["Written by Cynde and Sage", "Earlier versions by Hilomilo", "Quality checked by A Cake Wearing A Hat, Bouff,  and Kreme", "Grammar checked by Mr. Uncompetitive, Winry, GMars,  and The Dutch Plumberjack"]}
+{
+    "name": "Salazzle",
+    "forms": {
+        "Base": {
+            "base stats": [
+                68,
+                64,
+                60,
+                111,
+                60,
+                117
+            ],
+            "types": [
+                "Poison",
+                "Fire"
+            ],
+            "abilities": [
+                "Corrosion",
+                "Oblivious"
+            ],
+            "tier": [
+                "RU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Salazzle has an excellent Speed tier that allows it to outspeed many prominent threats in the UU metagame such as Infernape, Latias, and Cobalion. It has a respectable Special Attack stat and access to moves like Fire Blast and Sludge Wave that complement it. It also has a fantastic offensive typing that is well suited the UU metagame, which is full of Grass-, Fairy-, and Steel-type Pokemon such as Celebi, Togekiss, and Scizor. Access to Nasty Plot allows it to reliably threaten most defensive Pokemon. Salazzle can also take advantage of its ability Corrosion to punish typical Poison-immune walls such as Empoleon with Toxic. Unfortunately, Salazzle has extremely poor coverage outside of its STAB moves; it relies on Hidden Power for coverage. Additionally, its ability to set up and plow through teams or stall foes out with Toxic damage is hampered by its lackluster bulk and weakness to Stealth Rock, which makes it hard to set up and incredibly easy to revenge kill.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Nasty Plot",
+            "stats": [
+                172,
+                147,
+                162,
+                316,
+                156,
+                366
+            ],
+            "type": [
+                "Poison",
+                "Fire"
+            ],
+            "usage": "Salazzle is at its best when its faster checks such as Choice Scarf Pokemon like Hydreigon and Krookodile and Pokemon like Mega Aerodactyl, Mega Manectric, and Mega Beedrill are removed from play, so ideally avoid setting up while they are still around. Do not attempt to use Salazzle as a switch-in to anything; its abysmal bulk prevents it from being a reliable switch-in to even resisted hits. Salazzle can be brought in via pivoting, via double switches, or after a teammate has fainted. It is best to set up with Salazzle on a Pokemon that it forces out like Sylveon or Scizor. Alternatively, you can take advantage of a foe locked into a move like Pursuit or Bullet Punch and set up with Salazzle. Ensure that Pokemon that could potentially halt a Salazzle sweep such as Hippowdon are sufficiently worn down or eliminated before attempting to set up. Due to Salazzle's typing, it can serve as a soft check to Pokemon like Choice Scarf Infernape and Rotom-C if absolutely necessary, but this hampers its ability to set up in the process.",
+            "moves": [
+                [
+                    "Nasty Plot"
+                ],
+                [
+                    "Sludge Wave"
+                ],
+                [
+                    "Fire Blast"
+                ],
+                [
+                    "Hidden Power Grass"
+                ]
+            ],
+            "item": [
+                " Poisonium Z"
+            ],
+            "ability": [
+                "Oblivious"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                24,
+                232,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Corrosion",
+            "stats": [
+                234,
+                147,
+                158,
+                258,
+                156,
+                366
+            ],
+            "type": [
+                "Poison",
+                "Fire"
+            ],
+            "usage": "Salazzle is generally free to start spamming Toxic every time it enters the field. The only times it should be wary is when a poison-immune Pokemon by virtue of abilities such as Gligar or Reuniclus is on the opposing team. RestTalk users such as Suicune are also easily able to pivot in and take advantage of the set's weak offenses. Try to bring Salazzle in on free switches or when you predict a resisted hit, as even with investment, its bulk is pitiful, and it will fall to most STAB attacks from breakers like Hydreigon and Moltres. Predicting Pokemon such as Cobalion and Amoonguss is a good way to find turns to spread status or get a Substitute up. Use Protect when needed to maximize Salazzle's potential recovery and residual damage. You can also catch double switches this way and potentially amass even more chip damage. Be careful of letting in threatening Pursuit users like Mega Aerodactyl and Choice Scarf Krookodile. Avoid Knock Off from support Pokemon like Alomomola and Mienshao at all costs, as Salazzle will not be able to stall for long periods of time without its Black Sludge. If Salazzle is carrying Taunt, it can often keep using Taunt to cover switches as long as some of your opponent's team is already poisoned. This is even more effective when you have some form of entry hazards up and makes it hard for defensive teams to break through Salazzle's onslaught when they can't recover any health. Try and keep entry hazards off your side of the field, as Salazzle's already limited defensive utility is cut even further when it is losing 1/4 of its health due to Stealth Rock or even more with Spikes added. Avoiding paralysis from Klefki, Rotom-H, and Amoonguss is important, as Salazzle needs its speed in order to set up Substitutes safely and dislikes the full paralysis chance on Protect turns.",
+            "moves": [
+                [
+                    "Toxic"
+                ],
+                [
+                    "Protect"
+                ],
+                [
+                    "Flamethrower"
+                ],
+                [
+                    "Substitute",
+                    "Taunt"
+                ]
+            ],
+            "item": [
+                " Black Sludge"
+            ],
+            "ability": [
+                "Corrosion"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                248,
+                0,
+                8,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Faster Pokemon",
+        "Rock-types",
+        "Ground-types",
+        "Specially Defensive Pokemon",
+        "Water-types"
+    ],
+    "credits": [
+        "Written by Cynde and Sage",
+        "Earlier versions by Hilomilo",
+        "Quality checked by A Cake Wearing A Hat, Bouff,  and Kreme",
+        "Grammar checked by Mr. Uncompetitive, Winry, GMars,  and The Dutch Plumberjack"
+    ]
+}

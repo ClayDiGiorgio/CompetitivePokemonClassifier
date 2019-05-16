@@ -1,1 +1,158 @@
-{"name": "Zygarde", "forms": {"Base": {"base stats": [108, 100, 121, 81, 95, 95], "types": ["Dragon", "Ground"], "abilities": ["Aura Break", "Power Construct"], "tier": ["Uber"], "form": "Base"}}, "overview": "Spread attacks are extremely valuable in Doubles, and Zygarde possesses a fantastic one in Thousand Arrows, which allows it to hit even Flying-types and Levitate users with its Ground-type STAB attack. This leaves Zygarde with only a few Pokemon that can reliably take its attacks due to many otherwise resistant Bug- and Grass-types having a secondary typing weak to Ground. With such a fantastic spread move in its arsenal, Zygarde makes a great user of either Dragon Dance or Choice Band sets, with the former taking advantage of the strong spread damage to clean the opposition and the latter using Zygarde's tendency to need only Thousand Arrows for damage to its advantage. Zygarde's offensive stats aren't anything overly impressive, but its bulk provides it many chances to get attacks off or boost up with Dragon Dance, and access to Extreme Speed weakens the impact its mediocre Speed would otherwise have on its effectiveness. However, with an already average Attack stat and a primary STAB attack weakened by nature of being a spread move, Zygarde's damage output is quite dependent on it avoiding Intimidate, a difficult task with most teams carrying threats with that ability.\n", "strategies' format": "Doubles", "strategies": [{"name": "Dragon Dance", "stats": [271, 328, 278, 178, 226, 271], "type": ["Dragon", "Ground"], "usage": "Zygarde is best used late-game when it can set up and clean with its counters removed. However, Dragon Dance is also effective earlier on to apply pressure and either negate Intimidate drops or force a response from the opponent. If Zygarde isn't in a good position to clean, don't be afraid to switch Zygarde out of the field for another chance later, especially if the opponent's Intimidate users have left Zygarde with only its Speed boosted. As much as Dragon Dance helps Zygarde be more effective, sometimes simply attacking is the better play. If Zygarde is carrying Substitute, set that up to shield Zygarde from Intimidate and a potential stronger hit knocking it out. This is best done on a predicted status move or switch or against foes unlikely to be able to break it. In any other situation, this simply wastes Zygarde's valuable HP. Try to keep Zygarde's health high if it's your best way to win in the endgame, as its bulk is invaluable in aiding eventual setup.", "moves": [["Thousand Arrows"], ["Substitute", "Extreme Speed"], ["Dragon Dance"], ["Protect"]], "item": [" Groundium Z", " Mago Berry"], "ability": ["Aura Break"], "nature": ["Adamant"], "ev spread": [76, 252, 0, 0, 0, 180], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Choice Band", "stats": [258, 328, 278, 178, 240, 270], "type": ["Dragon", "Ground"], "usage": "The only move Zygarde should be using most of the time is Thousand Arrows, with its other moves best reserved for specific threats. With its other moves, Zygarde risks being locked into a move the opponent can take advantage of later. If this happens, you should switch Zygarde out to regain momentum. After incurring Intimidate drops, Zygarde's damage output will become very disappointing, so it should be switched out to reset those drops. This particular set works during all points in the game, either breaking down threats for a teammate to close out the game or cleaning up weakened foes. Retaining Zygarde's HP isn't overly important for this set to do its job, but playing too recklessly is never advisable.", "moves": [["Thousand Arrows"], ["Extreme Speed"], ["Superpower"], ["Dragon Tail", "Thousand Waves"]], "item": [" Choice Band"], "ability": ["Aura Break"], "nature": ["Adamant"], "ev spread": [24, 252, 0, 0, 56, 176], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Ice-types", "Grass-types", "Fairy-types", "Speed Control", "Intimidate", "Wide Guard"], "credits": ["Written by talkingtree", "Earlier versions by miltankmilk", "Quality checked by Level 51 and Memoric", "Grammar checked by The Dutch Plumberjack and A Cake Wearing A Hat"]}
+{
+    "name": "Zygarde",
+    "forms": {
+        "Base": {
+            "base stats": [
+                108,
+                100,
+                121,
+                81,
+                95,
+                95
+            ],
+            "types": [
+                "Dragon",
+                "Ground"
+            ],
+            "abilities": [
+                "Aura Break",
+                "Power Construct"
+            ],
+            "tier": [
+                "Uber"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Spread attacks are extremely valuable in Doubles, and Zygarde possesses a fantastic one in Thousand Arrows, which allows it to hit even Flying-types and Levitate users with its Ground-type STAB attack. This leaves Zygarde with only a few Pokemon that can reliably take its attacks due to many otherwise resistant Bug- and Grass-types having a secondary typing weak to Ground. With such a fantastic spread move in its arsenal, Zygarde makes a great user of either Dragon Dance or Choice Band sets, with the former taking advantage of the strong spread damage to clean the opposition and the latter using Zygarde's tendency to need only Thousand Arrows for damage to its advantage. Zygarde's offensive stats aren't anything overly impressive, but its bulk provides it many chances to get attacks off or boost up with Dragon Dance, and access to Extreme Speed weakens the impact its mediocre Speed would otherwise have on its effectiveness. However, with an already average Attack stat and a primary STAB attack weakened by nature of being a spread move, Zygarde's damage output is quite dependent on it avoiding Intimidate, a difficult task with most teams carrying threats with that ability.\n",
+    "strategies' format": "Doubles",
+    "strategies": [
+        {
+            "name": "Dragon Dance",
+            "stats": [
+                271,
+                328,
+                278,
+                178,
+                226,
+                271
+            ],
+            "type": [
+                "Dragon",
+                "Ground"
+            ],
+            "usage": "Zygarde is best used late-game when it can set up and clean with its counters removed. However, Dragon Dance is also effective earlier on to apply pressure and either negate Intimidate drops or force a response from the opponent. If Zygarde isn't in a good position to clean, don't be afraid to switch Zygarde out of the field for another chance later, especially if the opponent's Intimidate users have left Zygarde with only its Speed boosted. As much as Dragon Dance helps Zygarde be more effective, sometimes simply attacking is the better play. If Zygarde is carrying Substitute, set that up to shield Zygarde from Intimidate and a potential stronger hit knocking it out. This is best done on a predicted status move or switch or against foes unlikely to be able to break it. In any other situation, this simply wastes Zygarde's valuable HP. Try to keep Zygarde's health high if it's your best way to win in the endgame, as its bulk is invaluable in aiding eventual setup.",
+            "moves": [
+                [
+                    "Thousand Arrows"
+                ],
+                [
+                    "Substitute",
+                    "Extreme Speed"
+                ],
+                [
+                    "Dragon Dance"
+                ],
+                [
+                    "Protect"
+                ]
+            ],
+            "item": [
+                " Groundium Z",
+                " Mago Berry"
+            ],
+            "ability": [
+                "Aura Break"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                76,
+                252,
+                0,
+                0,
+                0,
+                180
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Choice Band",
+            "stats": [
+                258,
+                328,
+                278,
+                178,
+                240,
+                270
+            ],
+            "type": [
+                "Dragon",
+                "Ground"
+            ],
+            "usage": "The only move Zygarde should be using most of the time is Thousand Arrows, with its other moves best reserved for specific threats. With its other moves, Zygarde risks being locked into a move the opponent can take advantage of later. If this happens, you should switch Zygarde out to regain momentum. After incurring Intimidate drops, Zygarde's damage output will become very disappointing, so it should be switched out to reset those drops. This particular set works during all points in the game, either breaking down threats for a teammate to close out the game or cleaning up weakened foes. Retaining Zygarde's HP isn't overly important for this set to do its job, but playing too recklessly is never advisable.",
+            "moves": [
+                [
+                    "Thousand Arrows"
+                ],
+                [
+                    "Extreme Speed"
+                ],
+                [
+                    "Superpower"
+                ],
+                [
+                    "Dragon Tail",
+                    "Thousand Waves"
+                ]
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Aura Break"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                24,
+                252,
+                0,
+                0,
+                56,
+                176
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Ice-types",
+        "Grass-types",
+        "Fairy-types",
+        "Speed Control",
+        "Intimidate",
+        "Wide Guard"
+    ],
+    "credits": [
+        "Written by talkingtree",
+        "Earlier versions by miltankmilk",
+        "Quality checked by Level 51 and Memoric",
+        "Grammar checked by The Dutch Plumberjack and A Cake Wearing A Hat"
+    ]
+}

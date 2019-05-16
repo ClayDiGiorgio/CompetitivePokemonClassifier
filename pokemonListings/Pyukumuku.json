@@ -1,1 +1,99 @@
-{"name": "Pyukumuku", "forms": {"Base": {"base stats": [55, 60, 130, 30, 130, 5], "types": ["Water"], "abilities": ["Innards Out", "Unaware"], "tier": ["Untiered"], "form": "Base"}}, "overview": "Due to Pyukumuku's combination of good defensive stats, a pure Water typing, access to reliable recovery, and an amazing ability in Unaware, it's able to carve itself a decent niche by being an Unaware user with better overall bulk than both Quagsire and Clefable, allowing it to handle certain setup sweepers and offensive threats such as Mega Pinsir, Mega Swampert, and Manaphy better than the other two, while having useful and unique utility options in Block, Spite, and Soak that make the target unable to switch out, lower the target's PP, or allow it to poison Steel- and Poison-types. Aside from being an Unaware wall, Pyukumuku's other role is that of a bulky trapper that is able to either PP or Toxic stall passive targets such as Clefable, Gliscor, and Celesteela. This is incredibly useful for stall teams that want to remove a specific nuisance early on. However, Pyukumuku is a massive momentum drain, so much so that it basically requires that you use it exclusively on stall teams where its teammates can make up for its shortcomings. It also has a barren movepool, leaving it both one-dimensional and predictable. Due to not having any attacking options and only being able to inflict damage with Toxic, Pyukumuku is extremely passive and will lose to any Taunt users while being severely annoyed by Substitute users. Finally, even though it has a lot of unique features going for it, Pyukumuku can still fall behind the other Unaware users; Quagsire having actual attacking options prevents it from being complete Taunt bait, and it also checks Choice Band Tyranitar and provides a useful Electric immunity, while Clefable can support teammates with the use of Heal Bell and Wish.\n", "strategies' format": "OU", "strategies": [{"name": "Unaware Wall", "stats": [209, 140, 394, 96, 297, 46], "type": ["Water"], "usage": "It's best to preserve Pyukumuku's HP and keep it healthy enough to check setup sweepers such as Hawlucha and Manaphy and some wallbreakers such as Mega Swampert. Use Recover liberally to keep Pyukumuku healthy and scout possible Z-Moves from wallbreakers such as Landorus-T, which might put it in range of regular attacks. Keep Pyukumuku away from common Taunt users such as Heatran to prevent it from getting crippled. Use Block when you suspect the opponent to stay in with a trappable target, such as against Clefable if Pyukumuku is running Spite. If using the Soak + Toxic variant, try not to reveal Soak- against Steel and Poison-types such as Celesteela and Toxapex until you have trapped them with Block.", "moves": [["Block"], ["Recover"], ["Spite", "Soak"], ["Rest", "Taunt", "Toxic"]], "item": [" Leftovers"], "ability": ["Unaware"], "nature": ["Bold"], "ev spread": [252, 0, 252, 0, 4, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Taunt Users", "Substitute Users", "Electric-types", "Grass-types", "Powerful Wallbreakers"], "credits": ["Written by Felixx", "Quality checked by GMars, lyd,  and Leo", "Grammar checked by Fireflame479 and martha"]}
+{
+    "name": "Pyukumuku",
+    "forms": {
+        "Base": {
+            "base stats": [
+                55,
+                60,
+                130,
+                30,
+                130,
+                5
+            ],
+            "types": [
+                "Water"
+            ],
+            "abilities": [
+                "Innards Out",
+                "Unaware"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Due to Pyukumuku's combination of good defensive stats, a pure Water typing, access to reliable recovery, and an amazing ability in Unaware, it's able to carve itself a decent niche by being an Unaware user with better overall bulk than both Quagsire and Clefable, allowing it to handle certain setup sweepers and offensive threats such as Mega Pinsir, Mega Swampert, and Manaphy better than the other two, while having useful and unique utility options in Block, Spite, and Soak that make the target unable to switch out, lower the target's PP, or allow it to poison Steel- and Poison-types. Aside from being an Unaware wall, Pyukumuku's other role is that of a bulky trapper that is able to either PP or Toxic stall passive targets such as Clefable, Gliscor, and Celesteela. This is incredibly useful for stall teams that want to remove a specific nuisance early on. However, Pyukumuku is a massive momentum drain, so much so that it basically requires that you use it exclusively on stall teams where its teammates can make up for its shortcomings. It also has a barren movepool, leaving it both one-dimensional and predictable. Due to not having any attacking options and only being able to inflict damage with Toxic, Pyukumuku is extremely passive and will lose to any Taunt users while being severely annoyed by Substitute users. Finally, even though it has a lot of unique features going for it, Pyukumuku can still fall behind the other Unaware users; Quagsire having actual attacking options prevents it from being complete Taunt bait, and it also checks Choice Band Tyranitar and provides a useful Electric immunity, while Clefable can support teammates with the use of Heal Bell and Wish.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Unaware Wall",
+            "stats": [
+                209,
+                140,
+                394,
+                96,
+                297,
+                46
+            ],
+            "type": [
+                "Water"
+            ],
+            "usage": "It's best to preserve Pyukumuku's HP and keep it healthy enough to check setup sweepers such as Hawlucha and Manaphy and some wallbreakers such as Mega Swampert. Use Recover liberally to keep Pyukumuku healthy and scout possible Z-Moves from wallbreakers such as Landorus-T, which might put it in range of regular attacks. Keep Pyukumuku away from common Taunt users such as Heatran to prevent it from getting crippled. Use Block when you suspect the opponent to stay in with a trappable target, such as against Clefable if Pyukumuku is running Spite. If using the Soak + Toxic variant, try not to reveal Soak- against Steel and Poison-types such as Celesteela and Toxapex until you have trapped them with Block.",
+            "moves": [
+                [
+                    "Block"
+                ],
+                [
+                    "Recover"
+                ],
+                [
+                    "Spite",
+                    "Soak"
+                ],
+                [
+                    "Rest",
+                    "Taunt",
+                    "Toxic"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Unaware"
+            ],
+            "nature": [
+                "Bold"
+            ],
+            "ev spread": [
+                252,
+                0,
+                252,
+                0,
+                4,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Taunt Users",
+        "Substitute Users",
+        "Electric-types",
+        "Grass-types",
+        "Powerful Wallbreakers"
+    ],
+    "credits": [
+        "Written by Felixx",
+        "Quality checked by GMars, lyd,  and Leo",
+        "Grammar checked by Fireflame479 and martha"
+    ]
+}

@@ -1,1 +1,97 @@
-{"name": "Hippopotas", "forms": {"Base": {"base stats": [68, 72, 78, 38, 42, 32], "types": ["Ground"], "abilities": ["Sand Force", "Sand Stream"], "tier": ["LC"], "form": "Base"}}, "overview": "Thanks to incredible physical bulk complemented by a reliable recovery move in Slack Off, Hippopotas is capable of checking a huge variety of physical attackers in Little Cup including, but not limited to, Choice Scarf Doduo and Rufflet, Timburr, non-Life Orb Pawniard, and Archen. Because of this, it can function as a great Stealth Rock setter, capable of setting it up on many threats in the metagame. Hippopotas also has a decent Attack stat as well as access to Whirlwind, which together mean that it isn't setup bait. Its ability Sand Stream allows Hippopotas to remove hail, making it a decent check to hail teams. However, it has a low Special Defense stat that, in combination with a less-than-ideal defensive typing, can easily be taken advantage of, as it leaves Hippopotas open to common Grass- and Water-type moves. Its usual lack of a move to threaten Flying-types also means that it often can't fight back against some of the threats it walls. Hippopotas also has a bad matchup against two of the most common hazard removers, Staryu and Vullaby, meaning it is often unable to keep Stealth Rock set.\n", "strategies' format": "LC", "strategies": [{"name": "Physical Wall", "stats": [205, 185, 225, 100, 181, 105], "type": ["Ground"], "usage": "Hippopotas should be used as a check to the opponent's physical attackers. It should be switched in to take a hit and proceed to use Slack Off to recover the damage it has taken or, if it is not threatened, use the opportunity to set up Stealth Rock. If Hippopotas switches in while a foe sets up, it should immediately use Whirlwind, as it will often be unable to avoid a 2HKO from a boosted move. Be careful of switching into Knock Off users; even though Hippopotas will usually take the hit quite easily, it does not appreciate losing its Eviolite, as this greatly lowers its bulk. Scouting for sets before switching Hippopotas in can be very useful; it is able to take hits from many bulky physical attackers and physical Choice Scarf users, but many Life Orb users will be able to 2HKO it. For example, Life Orb Doduo can 2HKO Hippopotas with Brave Bird, but it usually won't if it is holding a Choice Scarf. Always try to avoid taking special hits; Hippopotas will usually be OHKOed or 2HKOed by powerful special attackers. Lastly, if Rock Tomb is run, be wary of using it when the opponent has a Snivy or Pawniard. Both of these gain stat boosts when hit by the move, thanks to their respective abilities Contrary and Defiant, and this can make them very big threats to Hippopotas's team.", "moves": [["Slack Off"], ["Stealth Rock"], ["Earthquake"], ["Whirlwind", "Rock Tomb"]], "item": [" Eviolite"], "ability": ["Sand Stream"], "nature": ["Careful"], "ev spread": [132, 20, 132, 0, 180, 20], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Special Attackers", "Grass-types", "Water-types", "Ground-immune Pokemon", "Knock Off"], "credits": ["Written by Xayah", "Quality checked by Nineage, OP,  and Rowan", "Grammar checked by Haund and The Dutch Plumberjack"]}
+{
+    "name": "Hippopotas",
+    "forms": {
+        "Base": {
+            "base stats": [
+                68,
+                72,
+                78,
+                38,
+                42,
+                32
+            ],
+            "types": [
+                "Ground"
+            ],
+            "abilities": [
+                "Sand Force",
+                "Sand Stream"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Thanks to incredible physical bulk complemented by a reliable recovery move in Slack Off, Hippopotas is capable of checking a huge variety of physical attackers in Little Cup including, but not limited to, Choice Scarf Doduo and Rufflet, Timburr, non-Life Orb Pawniard, and Archen. Because of this, it can function as a great Stealth Rock setter, capable of setting it up on many threats in the metagame. Hippopotas also has a decent Attack stat as well as access to Whirlwind, which together mean that it isn't setup bait. Its ability Sand Stream allows Hippopotas to remove hail, making it a decent check to hail teams. However, it has a low Special Defense stat that, in combination with a less-than-ideal defensive typing, can easily be taken advantage of, as it leaves Hippopotas open to common Grass- and Water-type moves. Its usual lack of a move to threaten Flying-types also means that it often can't fight back against some of the threats it walls. Hippopotas also has a bad matchup against two of the most common hazard removers, Staryu and Vullaby, meaning it is often unable to keep Stealth Rock set.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Physical Wall",
+            "stats": [
+                205,
+                185,
+                225,
+                100,
+                181,
+                105
+            ],
+            "type": [
+                "Ground"
+            ],
+            "usage": "Hippopotas should be used as a check to the opponent's physical attackers. It should be switched in to take a hit and proceed to use Slack Off to recover the damage it has taken or, if it is not threatened, use the opportunity to set up Stealth Rock. If Hippopotas switches in while a foe sets up, it should immediately use Whirlwind, as it will often be unable to avoid a 2HKO from a boosted move. Be careful of switching into Knock Off users; even though Hippopotas will usually take the hit quite easily, it does not appreciate losing its Eviolite, as this greatly lowers its bulk. Scouting for sets before switching Hippopotas in can be very useful; it is able to take hits from many bulky physical attackers and physical Choice Scarf users, but many Life Orb users will be able to 2HKO it. For example, Life Orb Doduo can 2HKO Hippopotas with Brave Bird, but it usually won't if it is holding a Choice Scarf. Always try to avoid taking special hits; Hippopotas will usually be OHKOed or 2HKOed by powerful special attackers. Lastly, if Rock Tomb is run, be wary of using it when the opponent has a Snivy or Pawniard. Both of these gain stat boosts when hit by the move, thanks to their respective abilities Contrary and Defiant, and this can make them very big threats to Hippopotas's team.",
+            "moves": [
+                [
+                    "Slack Off"
+                ],
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Whirlwind",
+                    "Rock Tomb"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Sand Stream"
+            ],
+            "nature": [
+                "Careful"
+            ],
+            "ev spread": [
+                132,
+                20,
+                132,
+                0,
+                180,
+                20
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Special Attackers",
+        "Grass-types",
+        "Water-types",
+        "Ground-immune Pokemon",
+        "Knock Off"
+    ],
+    "credits": [
+        "Written by Xayah",
+        "Quality checked by Nineage, OP,  and Rowan",
+        "Grammar checked by Haund and The Dutch Plumberjack"
+    ]
+}

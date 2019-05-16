@@ -1,1 +1,121 @@
-{"name": "Glalie", "forms": {"Base": {"base stats": [80, 80, 80, 80, 80, 80], "types": ["Ice"], "abilities": ["Ice Body", "Inner Focus", "Moody"], "tier": ["Untiered"], "form": "Base"}, "Mega": {"base stats": [80, 120, 80, 120, 80, 100], "types": ["Ice"], "abilities": ["Refrigerate"], "tier": ["NU"], "form": "Mega"}}, "overview": "Mega Glalie finds a niche in UU due to its ability to find free turns setting Spikes and its great mixed offenses. It has a large number of viable moves it can run on its Spikes set, making scouting for its coverage extremely tricky. It has the capability to pressure nearly every hazard remover in the tier. A good base 100 Speed tier lets it outpace many threatening offensive Pokemon such as Nidoking, Moltres, and non-Choice Scarf Hydreigon and Krookodile. Unfortunately, Mega Glalie has a large number of shortcomings that prevent from being more than a niche pick on offensive teams. Its mono Ice-typing is absolutely horrendous defensively, providing zero utility to the team and giving it limited switch in opportunities, thanks to a Stealth Rock weakness and weaknesses to common offensive types like Fighting and Rock. It is weak to many common revenge killers in the tier, such as the priority moves of Scizor and special Lucario, as well as faster threats like Aerodactyl, Infernape, and Terrakion. All of these threats can outspeed and hit it with super effective moves. Mega Glalie also suffers from extreme cases of 4MSS, not having enough room to threaten all the hazard removers on just one set. Using a Mega slot for a Spiker when there are options like Klefki, Chesnaught, and Froslass can be suboptimal, especially when the hyper offense teams Mega Glalie works best on do like having Pokemon such as Mega Aerodactyl, Mega Sharpedo, Mega Manectric, and Mega Altaria on them.\n", "strategies' format": "UU", "strategies": [{"name": "Offensive Spiker", "stats": [196, 339, 196, 277, 176, 328], "type": ["Ice"], "usage": "Glalie can often be used in the lead slot to immediately set the pressure of Spikes on your opponent, and they may not have the adequate switch-ins to whatever coverage Mega Glalie is carrying. Try to use Glalie early-game as much as possible, since Stealth Rock stops it from taking even neutral hits well; while at full health, Mega Glalie can usually tank one decently powerful STAB move such as Starmie's Life Orb Hydro Pump. Take advantage of Mega Glalie's unpredictability by mostly setting up Spikes early and using its main STAB option in Return or Double-Edge, as it can lure in foes like Alomomola to take Freeze-Dry, Scizor for Hidden Power Fire, and Empoleon for Earthquake. If you have Stealth Rock up and your opponent is carrying an entry hazard remover, it is often wise to use the attack of choice that would hit them super effectively on the switch, keeping your Stealth Rock up and still giving Mega Glalie more opportunities to lay Spikes later. Explosion can give your breakers free setup opportunities by getting them in safely. Once you've set up a layer of Spikes and you see an opportunity for your cleaner to go in, don't be afraid to use it. Explosion also can be used to prevent removal when you otherwise aren't able to.", "moves": [["Spikes"], ["Return", "Double-Edge"], ["Freeze-Dry", "Ice Shard"], ["Earthquake", "Hidden Power Fire", "Explosion"]], "item": [" Glalitite"], "ability": ["Inner Focus"], "nature": ["Naive", "Jolly"], "ev spread": [0, 252, 0, 4, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Priority Users", "Steel-types", "Fire-types", "Faster Offensive Threats"], "credits": ["Written by Sage", "Quality checked by Amane Misa, Hilomilo,  and A Cake Wearing A Hat", "Grammar checked by martha and GMars"]}
+{
+    "name": "Glalie",
+    "forms": {
+        "Base": {
+            "base stats": [
+                80,
+                80,
+                80,
+                80,
+                80,
+                80
+            ],
+            "types": [
+                "Ice"
+            ],
+            "abilities": [
+                "Ice Body",
+                "Inner Focus",
+                "Moody"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        },
+        "Mega": {
+            "base stats": [
+                80,
+                120,
+                80,
+                120,
+                80,
+                100
+            ],
+            "types": [
+                "Ice"
+            ],
+            "abilities": [
+                "Refrigerate"
+            ],
+            "tier": [
+                "NU"
+            ],
+            "form": "Mega"
+        }
+    },
+    "overview": "Mega Glalie finds a niche in UU due to its ability to find free turns setting Spikes and its great mixed offenses. It has a large number of viable moves it can run on its Spikes set, making scouting for its coverage extremely tricky. It has the capability to pressure nearly every hazard remover in the tier. A good base 100 Speed tier lets it outpace many threatening offensive Pokemon such as Nidoking, Moltres, and non-Choice Scarf Hydreigon and Krookodile. Unfortunately, Mega Glalie has a large number of shortcomings that prevent from being more than a niche pick on offensive teams. Its mono Ice-typing is absolutely horrendous defensively, providing zero utility to the team and giving it limited switch in opportunities, thanks to a Stealth Rock weakness and weaknesses to common offensive types like Fighting and Rock. It is weak to many common revenge killers in the tier, such as the priority moves of Scizor and special Lucario, as well as faster threats like Aerodactyl, Infernape, and Terrakion. All of these threats can outspeed and hit it with super effective moves. Mega Glalie also suffers from extreme cases of 4MSS, not having enough room to threaten all the hazard removers on just one set. Using a Mega slot for a Spiker when there are options like Klefki, Chesnaught, and Froslass can be suboptimal, especially when the hyper offense teams Mega Glalie works best on do like having Pokemon such as Mega Aerodactyl, Mega Sharpedo, Mega Manectric, and Mega Altaria on them.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Offensive Spiker",
+            "stats": [
+                196,
+                339,
+                196,
+                277,
+                176,
+                328
+            ],
+            "type": [
+                "Ice"
+            ],
+            "usage": "Glalie can often be used in the lead slot to immediately set the pressure of Spikes on your opponent, and they may not have the adequate switch-ins to whatever coverage Mega Glalie is carrying. Try to use Glalie early-game as much as possible, since Stealth Rock stops it from taking even neutral hits well; while at full health, Mega Glalie can usually tank one decently powerful STAB move such as Starmie's Life Orb Hydro Pump. Take advantage of Mega Glalie's unpredictability by mostly setting up Spikes early and using its main STAB option in Return or Double-Edge, as it can lure in foes like Alomomola to take Freeze-Dry, Scizor for Hidden Power Fire, and Empoleon for Earthquake. If you have Stealth Rock up and your opponent is carrying an entry hazard remover, it is often wise to use the attack of choice that would hit them super effectively on the switch, keeping your Stealth Rock up and still giving Mega Glalie more opportunities to lay Spikes later. Explosion can give your breakers free setup opportunities by getting them in safely. Once you've set up a layer of Spikes and you see an opportunity for your cleaner to go in, don't be afraid to use it. Explosion also can be used to prevent removal when you otherwise aren't able to.",
+            "moves": [
+                [
+                    "Spikes"
+                ],
+                [
+                    "Return",
+                    "Double-Edge"
+                ],
+                [
+                    "Freeze-Dry",
+                    "Ice Shard"
+                ],
+                [
+                    "Earthquake",
+                    "Hidden Power Fire",
+                    "Explosion"
+                ]
+            ],
+            "item": [
+                " Glalitite"
+            ],
+            "ability": [
+                "Inner Focus"
+            ],
+            "nature": [
+                "Naive",
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                0,
+                4,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Priority Users",
+        "Steel-types",
+        "Fire-types",
+        "Faster Offensive Threats"
+    ],
+    "credits": [
+        "Written by Sage",
+        "Quality checked by Amane Misa, Hilomilo,  and A Cake Wearing A Hat",
+        "Grammar checked by martha and GMars"
+    ]
+}

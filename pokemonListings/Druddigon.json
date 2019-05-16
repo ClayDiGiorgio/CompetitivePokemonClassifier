@@ -1,1 +1,102 @@
-{"name": "Druddigon", "forms": {"Base": {"base stats": [77, 120, 90, 60, 90, 48], "types": ["Dragon"], "abilities": ["Mold Breaker", "Rough Skin", "Sheer Force"], "tier": ["NU"], "form": "Base"}}, "overview": "Druddigon is a special utility Pokemon due its ability to get up Stealth Rock up versus Xatu because of Mold Breaker. Its mono-Dragon typing allows it to resist Water-, Electric-, Grass-, and Fire-type moves, which, when combined with its great bulk, can help it take care of the bigger threats in the tier, such as Magmortar, Incineroar, and Heliolisk. While slow, Druddigon is faster than a number of other Stealth Rock setters such as Steelix and can use Taunt on them to shut them down. However, Druddigon's poor Speed tier, which means it is outrun by a lot of the tier, along with lack of reliable recovery makes it easy to wear down and takes a big toll out of Druddigon, especially when it's not running Leftovers. This mediocre longevity also means that it is forced to rely on teammates like Vaporeon and Audino to remain healthy with Wish support. Even Druddigon's mono-Dragon typing leaves it susceptible to frequent Ice- and Fairy-type moves, which allows top-tier threats such as Sneasel, Mega Glalie, Comfey, and Whimsicott to easily wear it down or KO it. Also, with its mediocre damage output, Druddigon tends to get very passive in the long run.\n", "strategies' format": "NU", "strategies": [{"name": "Defensive", "stats": [253, 276, 306, 140, 217, 132], "type": ["Dragon"], "usage": "Druddigon should be used early-game to set up Stealth Rock as its primary goal. Stealth Rock can always be set up quickly unless a Taunt user is on the field, as Druddigon is unbothered by Xatu's Magic Bounce. It's in your best interest to start spreading status to fast, frail Pokemon, such as Comfey and Sceptile, after getting the chance of getting Stealth Rock up to get any necessary chip needed for future turns. It is also used to check Pokemon it answers by virtue of its defensive typing and physical attackers such as Slowking, Passimian, and defensive Incineroar, and it can take advantage of these Pokemon to set up Stealth Rock. Dragon Tail prevents setup from threats such as Swords Dance Incineroar, Calm Mind Delphox, and Swords Dance Decidueye while also being able to get important chip damage on them. This can also be used to get chip damage on wallbreakers such as Alolan Exeggutor switching in on a predicted Stealth Rock. Taunt gives Druddigon the option to shut down other slower Stealth Rock such as Steelix or Palossand, while also being able to get up its own Stealth Rock and potentially crippling it with status. Druddigon can also pressure entry hazard removers such as Silvally-Steel and Rotom and even cripple them with Glare or Toxic. It can also pressure spinners with chip damage from Rocky Helmet and status and really force the opponent to think twice before using Rapid Spin. Scald burns can basically render Druddigon useless, so it's important to be wary of that.", "moves": [["Stealth Rock"], ["Toxic", "Glare", "Taunt"], ["Earthquake"], ["Dragon Tail", "Protect", "Toxic"]], "item": [" Leftovers", " Rocky Helmet"], "ability": ["Mold Breaker"], "nature": ["Impish"], "ev spread": [252, 0, 252, 0, 4, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Fairy-types", "Ice-types", "Special Wallbreakers", "Status"], "credits": ["Written by Go0d", "Earlier versions by ChrystalFalchion", "Quality checked by Rabia, quziel,  and banks", "Grammar checked by martha and The Dutch Plumberjack"]}
+{
+    "name": "Druddigon",
+    "forms": {
+        "Base": {
+            "base stats": [
+                77,
+                120,
+                90,
+                60,
+                90,
+                48
+            ],
+            "types": [
+                "Dragon"
+            ],
+            "abilities": [
+                "Mold Breaker",
+                "Rough Skin",
+                "Sheer Force"
+            ],
+            "tier": [
+                "NU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Druddigon is a special utility Pokemon due its ability to get up Stealth Rock up versus Xatu because of Mold Breaker. Its mono-Dragon typing allows it to resist Water-, Electric-, Grass-, and Fire-type moves, which, when combined with its great bulk, can help it take care of the bigger threats in the tier, such as Magmortar, Incineroar, and Heliolisk. While slow, Druddigon is faster than a number of other Stealth Rock setters such as Steelix and can use Taunt on them to shut them down. However, Druddigon's poor Speed tier, which means it is outrun by a lot of the tier, along with lack of reliable recovery makes it easy to wear down and takes a big toll out of Druddigon, especially when it's not running Leftovers. This mediocre longevity also means that it is forced to rely on teammates like Vaporeon and Audino to remain healthy with Wish support. Even Druddigon's mono-Dragon typing leaves it susceptible to frequent Ice- and Fairy-type moves, which allows top-tier threats such as Sneasel, Mega Glalie, Comfey, and Whimsicott to easily wear it down or KO it. Also, with its mediocre damage output, Druddigon tends to get very passive in the long run.\n",
+    "strategies' format": "NU",
+    "strategies": [
+        {
+            "name": "Defensive",
+            "stats": [
+                253,
+                276,
+                306,
+                140,
+                217,
+                132
+            ],
+            "type": [
+                "Dragon"
+            ],
+            "usage": "Druddigon should be used early-game to set up Stealth Rock as its primary goal. Stealth Rock can always be set up quickly unless a Taunt user is on the field, as Druddigon is unbothered by Xatu's Magic Bounce. It's in your best interest to start spreading status to fast, frail Pokemon, such as Comfey and Sceptile, after getting the chance of getting Stealth Rock up to get any necessary chip needed for future turns. It is also used to check Pokemon it answers by virtue of its defensive typing and physical attackers such as Slowking, Passimian, and defensive Incineroar, and it can take advantage of these Pokemon to set up Stealth Rock. Dragon Tail prevents setup from threats such as Swords Dance Incineroar, Calm Mind Delphox, and Swords Dance Decidueye while also being able to get important chip damage on them. This can also be used to get chip damage on wallbreakers such as Alolan Exeggutor switching in on a predicted Stealth Rock. Taunt gives Druddigon the option to shut down other slower Stealth Rock such as Steelix or Palossand, while also being able to get up its own Stealth Rock and potentially crippling it with status. Druddigon can also pressure entry hazard removers such as Silvally-Steel and Rotom and even cripple them with Glare or Toxic. It can also pressure spinners with chip damage from Rocky Helmet and status and really force the opponent to think twice before using Rapid Spin. Scald burns can basically render Druddigon useless, so it's important to be wary of that.",
+            "moves": [
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Toxic",
+                    "Glare",
+                    "Taunt"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Dragon Tail",
+                    "Protect",
+                    "Toxic"
+                ]
+            ],
+            "item": [
+                " Leftovers",
+                " Rocky Helmet"
+            ],
+            "ability": [
+                "Mold Breaker"
+            ],
+            "nature": [
+                "Impish"
+            ],
+            "ev spread": [
+                252,
+                0,
+                252,
+                0,
+                4,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Fairy-types",
+        "Ice-types",
+        "Special Wallbreakers",
+        "Status"
+    ],
+    "credits": [
+        "Written by Go0d",
+        "Earlier versions by ChrystalFalchion",
+        "Quality checked by Rabia, quziel,  and banks",
+        "Grammar checked by martha and The Dutch Plumberjack"
+    ]
+}

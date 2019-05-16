@@ -1,1 +1,99 @@
-{"name": "Sandygast", "forms": {"Base": {"base stats": [55, 55, 80, 70, 45, 15], "types": ["Ghost", "Ground"], "abilities": ["Sand Veil", "Water Compaction"], "tier": ["LC"], "form": "Base"}}, "overview": "Sandygast is a powerful special attacker with great physical bulk, allowing it to become an adequate sweeper under the right circumstances. These great stats combined with its offensive typing, which allows it to both spinblock and intercept Volt Switch while also giving it good neutral coverage, give it a significant niche. It also has a nice array of coverage moves. Sandygast is pretty sluggish even though it has Rock Polish to make up for its low Speed. One of Sandygast's major flaws is its low Special Defense which makes it weak to special attackers. Sandygast also lacks access to a useful ability, as it can only choose between Water Compaction and Sand Veil, both of which are mediocre abilities. Sandygast is outclassed by other Ground-type Pokemon such as Diglett and Mudbray in an offensive role because their good abilities and coverage give them more offensive presence; however, Sandygast is one of the strongest Ground-type special attackers. Sandygast may have a good offensive typing, but it is held back by its weakness to the commonly seen Knock Off and its low speed.\n", "strategies' format": "LC", "strategies": [{"name": "Rock Polish", "stats": [165, 131, 196, 225, 145, 125], "type": ["Ghost", "Ground"], "usage": "Sandygast's main purpose is to spinblock and take down Staryu, which is one of the most powerful and effective spinners in LC. Sandygast's EV spread allows it to take a Scald from Staryu most of the time, recover its HP with Berry Juice, and set up with Rock Polish to outspeed Staryu. Sandygast can then proceed to use Destiny Bond and take Staryu down with it. This should only be done if maintaining entry hazards on the opponent's side of the field is important for your team. Sandygast has a nice niche in being able to spinblock common spinners such as Drilbur and Staryu while being able to prevent Volt Switch from Pokemon like Magnemite. After all Flying- and Dark-type Pokemon have been eliminated, Sandygast can proceed to spam its STAB moves after it sets up; however, it still needs to beware of its remaining checks. In addition to beating Staryu, Sandygast can use Destiny Bond to take down other threatening Pokemon such as non-Choice Scarf Pawniard, but it needs to set up with Rock Polish to effectively utilize Destiny Bond. Slow VoltTurn support allows Sandygast to set up more easily because Sandygast struggles to take hits as a result of its low bulk.", "moves": [["Rock Polish"], ["Earth Power"], ["Shadow Ball"], ["Destiny Bond"]], "item": [" Berry Juice"], "ability": ["Water Compaction"], "nature": ["Modest"], "ev spread": [76, 0, 0, 116, 76, 236], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Flying-types", "Dark-types", "Water-types", "Grass-types", "Ice-types", "Fast Choice Scarf Users"], "credits": ["Written by Alolan Dusky and Conni", "Quality checked by Fiend, Xayah,  and Hilomilo", "Grammar checked by Eien and Rakan"]}
+{
+    "name": "Sandygast",
+    "forms": {
+        "Base": {
+            "base stats": [
+                55,
+                55,
+                80,
+                70,
+                45,
+                15
+            ],
+            "types": [
+                "Ghost",
+                "Ground"
+            ],
+            "abilities": [
+                "Sand Veil",
+                "Water Compaction"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Sandygast is a powerful special attacker with great physical bulk, allowing it to become an adequate sweeper under the right circumstances. These great stats combined with its offensive typing, which allows it to both spinblock and intercept Volt Switch while also giving it good neutral coverage, give it a significant niche. It also has a nice array of coverage moves. Sandygast is pretty sluggish even though it has Rock Polish to make up for its low Speed. One of Sandygast's major flaws is its low Special Defense which makes it weak to special attackers. Sandygast also lacks access to a useful ability, as it can only choose between Water Compaction and Sand Veil, both of which are mediocre abilities. Sandygast is outclassed by other Ground-type Pokemon such as Diglett and Mudbray in an offensive role because their good abilities and coverage give them more offensive presence; however, Sandygast is one of the strongest Ground-type special attackers. Sandygast may have a good offensive typing, but it is held back by its weakness to the commonly seen Knock Off and its low speed.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Rock Polish",
+            "stats": [
+                165,
+                131,
+                196,
+                225,
+                145,
+                125
+            ],
+            "type": [
+                "Ghost",
+                "Ground"
+            ],
+            "usage": "Sandygast's main purpose is to spinblock and take down Staryu, which is one of the most powerful and effective spinners in LC. Sandygast's EV spread allows it to take a Scald from Staryu most of the time, recover its HP with Berry Juice, and set up with Rock Polish to outspeed Staryu. Sandygast can then proceed to use Destiny Bond and take Staryu down with it. This should only be done if maintaining entry hazards on the opponent's side of the field is important for your team. Sandygast has a nice niche in being able to spinblock common spinners such as Drilbur and Staryu while being able to prevent Volt Switch from Pokemon like Magnemite. After all Flying- and Dark-type Pokemon have been eliminated, Sandygast can proceed to spam its STAB moves after it sets up; however, it still needs to beware of its remaining checks. In addition to beating Staryu, Sandygast can use Destiny Bond to take down other threatening Pokemon such as non-Choice Scarf Pawniard, but it needs to set up with Rock Polish to effectively utilize Destiny Bond. Slow VoltTurn support allows Sandygast to set up more easily because Sandygast struggles to take hits as a result of its low bulk.",
+            "moves": [
+                [
+                    "Rock Polish"
+                ],
+                [
+                    "Earth Power"
+                ],
+                [
+                    "Shadow Ball"
+                ],
+                [
+                    "Destiny Bond"
+                ]
+            ],
+            "item": [
+                " Berry Juice"
+            ],
+            "ability": [
+                "Water Compaction"
+            ],
+            "nature": [
+                "Modest"
+            ],
+            "ev spread": [
+                76,
+                0,
+                0,
+                116,
+                76,
+                236
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Flying-types",
+        "Dark-types",
+        "Water-types",
+        "Grass-types",
+        "Ice-types",
+        "Fast Choice Scarf Users"
+    ],
+    "credits": [
+        "Written by Alolan Dusky and Conni",
+        "Quality checked by Fiend, Xayah,  and Hilomilo",
+        "Grammar checked by Eien and Rakan"
+    ]
+}

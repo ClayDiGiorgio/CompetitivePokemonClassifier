@@ -1,1 +1,100 @@
-{"name": "Zorua", "forms": {"Base": {"base stats": [40, 65, 40, 80, 40, 65], "types": ["Dark"], "abilities": ["Illusion"], "tier": ["LC"], "form": "Base"}}, "overview": "Zorua's signature ability Illusion gives it a decent and unique niche in Little Cup. Zorua's main function is to trick opponents into thinking they're using super effective moves when really they are merely attacking a disguised Zorua. Its relatively high Attack and Special Attack stats help Zorua score a surprise KO. It also has a great Speed tier at 17, Speed tying with Snivy, Drilbur, and Mienfoo. Zorua has access to some great moves, such as U-turn, STAB Knock Off, and Nasty Plot. However, Zorua's paper-thin defenses and relatively poor defensive typing leave it vulnerable to priority and any super effective moves aimed its way. Its fairly narrow movepool also leaves it completely walled by common Fairy-types, namely Spritzee and Snubbull. Finally, Zorua has a weakness to the common Fighting-types and U-turn users of Little Cup.\n", "strategies' format": "LC", "strategies": [{"name": "Life Orb", "stats": [116, 149, 125, 245, 125, 247], "type": ["Dark"], "usage": "Deciding upon your team order is very important with Zorua, due to its unique ability. The Pokemon put in the last slot should usually be a Poison- or Fighting-type if your opponent has a Psychic-type such as Abra, as Zorua can bait the Psychic-type moves that it is immune to and hit back with a powerful Dark-type move. Your last Pokemon in other situations should be a Pokemon weak to attacks that Zorua resists, namely Psychic- and Ghost-type moves. Illusion also lets Zorua force switches by disguising itself as Timburr against a Pawniard, for example, allowing it to safely set up Nasty Plot. It can also be good to disguise Zorua as a Pokemon that uses the same moves as it, such as Nasty Plot Croagunk, U-turn Mienfoo, or Knock Off Timburr. If utilizing Nasty Plot, it is always a good idea to remove Zorua's checks and counters before attempting to sweep, as Fighting-types, faster Pokemon, and, (comma) in particular, Fairy-types can be troublesome. Keep careful watch on your team's HP, as Zorua's HP can reveal its disguise to opponents who pay close attention, and as such, try to keep Zorua's HP as close to the Pokemon it's disguised as as possible. Also be wary of switching into Stealth Rock when disguised as a Pokemon weak or resistant to it, as the damage Zorua takes will reveal it to observant opponents. Because of its frailty, Zorua should only be brought in on safe switches or via U-turn or Volt Switch.", "moves": [["Night Daze", "Dark Pulse"], ["Extrasensory"], ["Nasty Plot", "Knock Off"], ["U-turn", "Hidden Power Fighting", "Knock Off"]], "item": [" Life Orb"], "ability": ["Illusion"], "nature": ["Timid", "Naive"], "ev spread": [0, 0, 36, 196, 36, 236], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Fairy-types", "Fighting-types", "Chip Damage", "Faster Pokemon", "Dark-types"], "credits": ["Written by Drew", "Quality checked by Xayah, Hilomilo,  and Berks", "Grammar checked by Wob and frenzyplant"]}
+{
+    "name": "Zorua",
+    "forms": {
+        "Base": {
+            "base stats": [
+                40,
+                65,
+                40,
+                80,
+                40,
+                65
+            ],
+            "types": [
+                "Dark"
+            ],
+            "abilities": [
+                "Illusion"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Zorua's signature ability Illusion gives it a decent and unique niche in Little Cup. Zorua's main function is to trick opponents into thinking they're using super effective moves when really they are merely attacking a disguised Zorua. Its relatively high Attack and Special Attack stats help Zorua score a surprise KO. It also has a great Speed tier at 17, Speed tying with Snivy, Drilbur, and Mienfoo. Zorua has access to some great moves, such as U-turn, STAB Knock Off, and Nasty Plot. However, Zorua's paper-thin defenses and relatively poor defensive typing leave it vulnerable to priority and any super effective moves aimed its way. Its fairly narrow movepool also leaves it completely walled by common Fairy-types, namely Spritzee and Snubbull. Finally, Zorua has a weakness to the common Fighting-types and U-turn users of Little Cup.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Life Orb",
+            "stats": [
+                116,
+                149,
+                125,
+                245,
+                125,
+                247
+            ],
+            "type": [
+                "Dark"
+            ],
+            "usage": "Deciding upon your team order is very important with Zorua, due to its unique ability. The Pokemon put in the last slot should usually be a Poison- or Fighting-type if your opponent has a Psychic-type such as Abra, as Zorua can bait the Psychic-type moves that it is immune to and hit back with a powerful Dark-type move. Your last Pokemon in other situations should be a Pokemon weak to attacks that Zorua resists, namely Psychic- and Ghost-type moves. Illusion also lets Zorua force switches by disguising itself as Timburr against a Pawniard, for example, allowing it to safely set up Nasty Plot. It can also be good to disguise Zorua as a Pokemon that uses the same moves as it, such as Nasty Plot Croagunk, U-turn Mienfoo, or Knock Off Timburr. If utilizing Nasty Plot, it is always a good idea to remove Zorua's checks and counters before attempting to sweep, as Fighting-types, faster Pokemon, and, (comma) in particular, Fairy-types can be troublesome. Keep careful watch on your team's HP, as Zorua's HP can reveal its disguise to opponents who pay close attention, and as such, try to keep Zorua's HP as close to the Pokemon it's disguised as as possible. Also be wary of switching into Stealth Rock when disguised as a Pokemon weak or resistant to it, as the damage Zorua takes will reveal it to observant opponents. Because of its frailty, Zorua should only be brought in on safe switches or via U-turn or Volt Switch.",
+            "moves": [
+                [
+                    "Night Daze",
+                    "Dark Pulse"
+                ],
+                [
+                    "Extrasensory"
+                ],
+                [
+                    "Nasty Plot",
+                    "Knock Off"
+                ],
+                [
+                    "U-turn",
+                    "Hidden Power Fighting",
+                    "Knock Off"
+                ]
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Illusion"
+            ],
+            "nature": [
+                "Timid",
+                "Naive"
+            ],
+            "ev spread": [
+                0,
+                0,
+                36,
+                196,
+                36,
+                236
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Fairy-types",
+        "Fighting-types",
+        "Chip Damage",
+        "Faster Pokemon",
+        "Dark-types"
+    ],
+    "credits": [
+        "Written by Drew",
+        "Quality checked by Xayah, Hilomilo,  and Berks",
+        "Grammar checked by Wob and frenzyplant"
+    ]
+}

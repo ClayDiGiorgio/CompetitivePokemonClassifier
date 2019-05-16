@@ -1,1 +1,177 @@
-{"name": "Abomasnow", "forms": {"Base": {"base stats": [90, 92, 75, 92, 85, 60], "types": ["Grass", "Ice"], "abilities": ["Snow Warning", "Soundproof"], "tier": ["Untiered"], "form": "Base"}, "Mega": {"base stats": [90, 132, 105, 132, 105, 30], "types": ["Grass", "Ice"], "abilities": ["Snow Warning"], "tier": ["NU"], "form": "Mega"}}, "overview": "Abomasnow is quite the threat to be reckoned with in RU, as its potent STAB moves and solid coverage make it very difficult to switch into. Its solid bulk and key resistances to Water and Ground allow it multiple chances to fire off attacks or set up Swords Dance. Access to the coveted STAB Ice Shard allows Abomasnow to revenge a whole host of offensive threats, such as Zygarde-10%, Noivern, Roserade, and Virizion. Despite this, numerous common weaknesses mean Abomasnow can be offensively pressured easily. Also, Abomasnow is excruciatingly slow, so it needs considerable Speed investment to outpace most defensive Pokemon and is incapable of outspeeding the majority of offensive Pokemon; even with maximum Speed investment, Abomasnow is unable to outspeed Pokemon such as Umbreon and Porygon2 unless it uses a Speed-boosting nature. Abomasnow is also susceptible to all entry hazards and weak to Stealth Rock, which, alongside a recoil-causing STAB move in Wood Hammer, can lead to it being worn down quickly.\n", "strategies' format": "RU", "strategies": [{"name": "Swords Dance", "stats": [216, 399, 247, 270, 246, 159], "type": ["Grass", "Ice"], "usage": "Set up Swords Dance on Pokemon threatened by Abomasnow's STAB moves, such as Rhyperior, Torterra, and Roserade. Abomasnow can also use its decent resistances and solid bulk to set up on a few offensive Pokemon, such as Zygarde-10% and Shaymin. After setting up, Abomasnow is devastatingly strong; use its immense power to blow huge holes in the opposition. Swords Dance Abomasnow can punish teams that rely on Registeel to check Abomasnow, as it is not a reliable answer to this set. Abomasnow can also function as a late-game cleaner with Swords Dance-boosted Ice Shard, so preserving it to do so is not a bad idea. Abomasnow has a few qualities that give choosing when to Mega Evolve a strategic component, such as choosing to Mega Evolve after an opposing weather setter has hit the field to disrupt the opposing team, or holding off on doing so to hit Milotic with Wood Hammer before it is able to attack. Be wary when switching Abomasnow into Pokemon that use sound moves, as they are all capable of OHKOing Abomasnow\u2014some examples are Swellow with Heat Wave and Yanmega with Air Slash.", "moves": [["Swords Dance"], ["Wood Hammer"], ["Ice Shard"], ["Earthquake"]], "item": [" Abomasite"], "ability": ["Soundproof"], "nature": ["Adamant"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Mixed Attacker", "stats": [216, 323, 246, 399, 221, 137], "type": ["Grass", "Ice"], "usage": "Bring Abomasnow into weaker attacks, especially those it resists, such as Torterra or Steelix's Earthquake and Milotic's Scald, and use its powerful STAB moves to break down teams. However, be wary of Scald burns if using Wood Hammer. Note that only Registeel, Escavalier, Torkoal, and Salazzle take more damage from Earthquake than from one of Abomasnow's other moves, so it is only necessary to use it when one of these Pokemon is around. Ice Shard is a fantastic tool that allows Abomasnow to threaten a lot of Pokemon that would otherwise be unafraid of it, especially faster Ice-weak Pokemon such as Roserade, Nidoqueen, and Flygon. Abomasnow has a few qualities that give choosing when to Mega Evolve a strategic component, such as choosing to Mega Evolve after an opposing weather setter has hit the field to disrupt the opposing team, or remaining in base forme to hit Milotic with a Grass-type move before it is able to attack. Note that outspeeding minimum Speed Milotic with non-Mega Abomasnow requires 172 Speed EVs. Be wary when switching Abomasnow into Pokemon that use sound moves, as they are all capable of OHKOing Abomasnow\u2014Swellow with Heat Wave and Ribombee with Hidden Power Fire are some examples.", "moves": [["Blizzard"], ["Wood Hammer", "Giga Drain"], ["Ice Shard"], ["Focus Blast", "Earthquake"]], "item": [" Abomasite"], "ability": ["Soundproof"], "nature": ["Rash"], "ev spread": [0, 92, 0, 252, 0, 164], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Fire-types", "Steel-types", "Fighting-types", "Bulky Neutral Pokemon", "Offensive Pressure", "Residual Damage"], "credits": ["Written by cyanize", "Quality checked by avocado, eren,  and teachable", "Grammar checked by P Squared and The Dutch Plumberjack"]}
+{
+    "name": "Abomasnow",
+    "forms": {
+        "Base": {
+            "base stats": [
+                90,
+                92,
+                75,
+                92,
+                85,
+                60
+            ],
+            "types": [
+                "Grass",
+                "Ice"
+            ],
+            "abilities": [
+                "Snow Warning",
+                "Soundproof"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        },
+        "Mega": {
+            "base stats": [
+                90,
+                132,
+                105,
+                132,
+                105,
+                30
+            ],
+            "types": [
+                "Grass",
+                "Ice"
+            ],
+            "abilities": [
+                "Snow Warning"
+            ],
+            "tier": [
+                "NU"
+            ],
+            "form": "Mega"
+        }
+    },
+    "overview": "Abomasnow is quite the threat to be reckoned with in RU, as its potent STAB moves and solid coverage make it very difficult to switch into. Its solid bulk and key resistances to Water and Ground allow it multiple chances to fire off attacks or set up Swords Dance. Access to the coveted STAB Ice Shard allows Abomasnow to revenge a whole host of offensive threats, such as Zygarde-10%, Noivern, Roserade, and Virizion. Despite this, numerous common weaknesses mean Abomasnow can be offensively pressured easily. Also, Abomasnow is excruciatingly slow, so it needs considerable Speed investment to outpace most defensive Pokemon and is incapable of outspeeding the majority of offensive Pokemon; even with maximum Speed investment, Abomasnow is unable to outspeed Pokemon such as Umbreon and Porygon2 unless it uses a Speed-boosting nature. Abomasnow is also susceptible to all entry hazards and weak to Stealth Rock, which, alongside a recoil-causing STAB move in Wood Hammer, can lead to it being worn down quickly.\n",
+    "strategies' format": "RU",
+    "strategies": [
+        {
+            "name": "Swords Dance",
+            "stats": [
+                216,
+                399,
+                247,
+                270,
+                246,
+                159
+            ],
+            "type": [
+                "Grass",
+                "Ice"
+            ],
+            "usage": "Set up Swords Dance on Pokemon threatened by Abomasnow's STAB moves, such as Rhyperior, Torterra, and Roserade. Abomasnow can also use its decent resistances and solid bulk to set up on a few offensive Pokemon, such as Zygarde-10% and Shaymin. After setting up, Abomasnow is devastatingly strong; use its immense power to blow huge holes in the opposition. Swords Dance Abomasnow can punish teams that rely on Registeel to check Abomasnow, as it is not a reliable answer to this set. Abomasnow can also function as a late-game cleaner with Swords Dance-boosted Ice Shard, so preserving it to do so is not a bad idea. Abomasnow has a few qualities that give choosing when to Mega Evolve a strategic component, such as choosing to Mega Evolve after an opposing weather setter has hit the field to disrupt the opposing team, or holding off on doing so to hit Milotic with Wood Hammer before it is able to attack. Be wary when switching Abomasnow into Pokemon that use sound moves, as they are all capable of OHKOing Abomasnow\u2014some examples are Swellow with Heat Wave and Yanmega with Air Slash.",
+            "moves": [
+                [
+                    "Swords Dance"
+                ],
+                [
+                    "Wood Hammer"
+                ],
+                [
+                    "Ice Shard"
+                ],
+                [
+                    "Earthquake"
+                ]
+            ],
+            "item": [
+                " Abomasite"
+            ],
+            "ability": [
+                "Soundproof"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Mixed Attacker",
+            "stats": [
+                216,
+                323,
+                246,
+                399,
+                221,
+                137
+            ],
+            "type": [
+                "Grass",
+                "Ice"
+            ],
+            "usage": "Bring Abomasnow into weaker attacks, especially those it resists, such as Torterra or Steelix's Earthquake and Milotic's Scald, and use its powerful STAB moves to break down teams. However, be wary of Scald burns if using Wood Hammer. Note that only Registeel, Escavalier, Torkoal, and Salazzle take more damage from Earthquake than from one of Abomasnow's other moves, so it is only necessary to use it when one of these Pokemon is around. Ice Shard is a fantastic tool that allows Abomasnow to threaten a lot of Pokemon that would otherwise be unafraid of it, especially faster Ice-weak Pokemon such as Roserade, Nidoqueen, and Flygon. Abomasnow has a few qualities that give choosing when to Mega Evolve a strategic component, such as choosing to Mega Evolve after an opposing weather setter has hit the field to disrupt the opposing team, or remaining in base forme to hit Milotic with a Grass-type move before it is able to attack. Note that outspeeding minimum Speed Milotic with non-Mega Abomasnow requires 172 Speed EVs. Be wary when switching Abomasnow into Pokemon that use sound moves, as they are all capable of OHKOing Abomasnow\u2014Swellow with Heat Wave and Ribombee with Hidden Power Fire are some examples.",
+            "moves": [
+                [
+                    "Blizzard"
+                ],
+                [
+                    "Wood Hammer",
+                    "Giga Drain"
+                ],
+                [
+                    "Ice Shard"
+                ],
+                [
+                    "Focus Blast",
+                    "Earthquake"
+                ]
+            ],
+            "item": [
+                " Abomasite"
+            ],
+            "ability": [
+                "Soundproof"
+            ],
+            "nature": [
+                "Rash"
+            ],
+            "ev spread": [
+                0,
+                92,
+                0,
+                252,
+                0,
+                164
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Fire-types",
+        "Steel-types",
+        "Fighting-types",
+        "Bulky Neutral Pokemon",
+        "Offensive Pressure",
+        "Residual Damage"
+    ],
+    "credits": [
+        "Written by cyanize",
+        "Quality checked by avocado, eren,  and teachable",
+        "Grammar checked by P Squared and The Dutch Plumberjack"
+    ]
+}

@@ -1,1 +1,99 @@
-{"name": "Hitmontop", "forms": {"Base": {"base stats": [50, 95, 95, 35, 110, 70], "types": ["Fighting"], "abilities": ["Intimidate", "Steadfast", "Technician"], "tier": ["NU"], "form": "Base"}}, "overview": "Hitmontop offers a very niche combination of Rapid Spin and Foresight to clear entry hazards against Ghost-type Pokemon and is a reliable check to Dark-type Pokemon such as Incineroar and Sneasel. Outside of this niche, however, other hazard removers and Fighting-type Pokemon offer much more utility or power. Hitmontop's exploitable weaknesses, lack of reliable recovery, and only good bulk mean that it gets worn down incredibly quickly without Wish support, leaving it very easily taken advantage of. It also relies on only Fighting-type STAB attacks and Toxic for damage, so it is easily walled by Fighting-resistant and Poison-immune Pokemon such as Vileplume, Garbodor, and Golbat. This means that Hitmontop only finds a secure niche on stall teams that need a decent Incineroar check and entry hazard control.\n", "strategies' format": "NU", "strategies": [{"name": "Rapid Spin", "stats": [199, 226, 317, 95, 257, 176], "type": ["Fighting"], "usage": "Hitmontop can be switched into common Stealth Rock setters, such as Rhydon and Steelix, and then use Toxic or Rapid Spin against them as they are forced out by the threat of Close Combat. Should the opponent switch into a Ghost-type Pokemon, use Foresight to either hit it with a STAB attack or clear entry hazards against it the next turn. Keep an eye on Hitmontop's HP because it needs to be as healthy as possible so it can spin hazards away. Although Hitmontop can switch into Knock Off from Incineroar, Passimian, and Sneasel, this play is risky because Hitmontop will lose Leftovers, its only source of recovery. Status ailments heavily wear down Hitmontop, so try to avoid them if you can, although Rotom will often burn Hitmontop when it uses Rapid Spin. Finally, be cautious about repeatedly using Close Combat. Continuous use of Close Combat causes Hitmontop's defenses to lower more and more, making it easier to KO after every use.", "moves": [["Rapid Spin"], ["Foresight", "Protect"], ["Close Combat", "Low Kick"], ["Toxic"]], "item": [" Leftovers"], "ability": ["Intimidate"], "nature": ["Impish"], "ev spread": [252, 0, 252, 0, 4, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Psychic-type Pokemon", "Flying-type Pokemon", "Fairy-type Pokemon", "Poison-type Pokemon", "Residual Damage"], "credits": ["Written by JustoonSmitts", "Quality checked by Rabia, Eternally,  and quziel", "Grammar checked by The Dutch Plumberjack and A Cake Wearing A Hat"]}
+{
+    "name": "Hitmontop",
+    "forms": {
+        "Base": {
+            "base stats": [
+                50,
+                95,
+                95,
+                35,
+                110,
+                70
+            ],
+            "types": [
+                "Fighting"
+            ],
+            "abilities": [
+                "Intimidate",
+                "Steadfast",
+                "Technician"
+            ],
+            "tier": [
+                "NU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Hitmontop offers a very niche combination of Rapid Spin and Foresight to clear entry hazards against Ghost-type Pokemon and is a reliable check to Dark-type Pokemon such as Incineroar and Sneasel. Outside of this niche, however, other hazard removers and Fighting-type Pokemon offer much more utility or power. Hitmontop's exploitable weaknesses, lack of reliable recovery, and only good bulk mean that it gets worn down incredibly quickly without Wish support, leaving it very easily taken advantage of. It also relies on only Fighting-type STAB attacks and Toxic for damage, so it is easily walled by Fighting-resistant and Poison-immune Pokemon such as Vileplume, Garbodor, and Golbat. This means that Hitmontop only finds a secure niche on stall teams that need a decent Incineroar check and entry hazard control.\n",
+    "strategies' format": "NU",
+    "strategies": [
+        {
+            "name": "Rapid Spin",
+            "stats": [
+                199,
+                226,
+                317,
+                95,
+                257,
+                176
+            ],
+            "type": [
+                "Fighting"
+            ],
+            "usage": "Hitmontop can be switched into common Stealth Rock setters, such as Rhydon and Steelix, and then use Toxic or Rapid Spin against them as they are forced out by the threat of Close Combat. Should the opponent switch into a Ghost-type Pokemon, use Foresight to either hit it with a STAB attack or clear entry hazards against it the next turn. Keep an eye on Hitmontop's HP because it needs to be as healthy as possible so it can spin hazards away. Although Hitmontop can switch into Knock Off from Incineroar, Passimian, and Sneasel, this play is risky because Hitmontop will lose Leftovers, its only source of recovery. Status ailments heavily wear down Hitmontop, so try to avoid them if you can, although Rotom will often burn Hitmontop when it uses Rapid Spin. Finally, be cautious about repeatedly using Close Combat. Continuous use of Close Combat causes Hitmontop's defenses to lower more and more, making it easier to KO after every use.",
+            "moves": [
+                [
+                    "Rapid Spin"
+                ],
+                [
+                    "Foresight",
+                    "Protect"
+                ],
+                [
+                    "Close Combat",
+                    "Low Kick"
+                ],
+                [
+                    "Toxic"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Intimidate"
+            ],
+            "nature": [
+                "Impish"
+            ],
+            "ev spread": [
+                252,
+                0,
+                252,
+                0,
+                4,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Psychic-type Pokemon",
+        "Flying-type Pokemon",
+        "Fairy-type Pokemon",
+        "Poison-type Pokemon",
+        "Residual Damage"
+    ],
+    "credits": [
+        "Written by JustoonSmitts",
+        "Quality checked by Rabia, Eternally,  and quziel",
+        "Grammar checked by The Dutch Plumberjack and A Cake Wearing A Hat"
+    ]
+}

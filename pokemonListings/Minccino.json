@@ -1,1 +1,101 @@
-{"name": "Minccino", "forms": {"Base": {"base stats": [55, 50, 40, 40, 40, 75], "types": ["Normal"], "abilities": ["Cute Charm", "Skill Link", "Technician"], "tier": ["LC"], "form": "Base"}}, "overview": "Minccino is a potent threat capable of breaking through weakened foes. Due to the way LC damage rolls work, the combination of Tail Slap and Skill Link allows it to do a lot of damage. An excellent Speed tier of 18 also allows it to outspeed Mienfoo, Vullaby, and Onix. However, it is outsped by Abra and Ponyta and only Speed ties with Gastly. Its Normal typing is unremarkable other than its weakness to the common Fighting-types that dominate LC. Furthermore, its poor defensive stats allow it to be OHKOed by a wide variety of foes, such as Abra and Mienfoo. Lastly, while it has a good range of coverage options, such as Knock Off and Seed Bomb, its low Attack stat means that other than Tail Slap, its moves are relatively weak.\n", "strategies' format": "LC", "strategies": [{"name": "Life Orb", "stats": [146, 185, 125, 104, 125, 269], "type": ["Normal"], "usage": "Minccino generally works best as an early-game breaker, dealing heavy damage to defensive foes to allow a partner to clean. Due to its poor defensive stats, Minccino should not be switched directly into an attack; instead, use a pivoting move such as Mienfoo's U-turn or Magnemite's Volt Switch to bring it in. Minccino can also be used to force out Weak Armor Vullaby, Eviolite Snivy, and Onix with any chip damage.", "moves": [["Tail Slap"], ["Knock Off"], ["Seed Bomb", "U-turn"], ["U-turn", "Wake-Up Slap"]], "item": [" Life Orb"], "ability": ["Skill Link"], "nature": ["Jolly"], "ev spread": [0, 196, 36, 0, 36, 236], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Ferroseed", "Mudbray", "Flame Body Users", "Priority Users", "Faster Foes", "Choice Scarf Users", "Diglett"], "credits": ["Written by EnzoLapras", "Quality Control by Corporal Levi, Merritt,  and Coconut", "Grammar checked by martha and The Dutch Plumberjack"]}
+{
+    "name": "Minccino",
+    "forms": {
+        "Base": {
+            "base stats": [
+                55,
+                50,
+                40,
+                40,
+                40,
+                75
+            ],
+            "types": [
+                "Normal"
+            ],
+            "abilities": [
+                "Cute Charm",
+                "Skill Link",
+                "Technician"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Minccino is a potent threat capable of breaking through weakened foes. Due to the way LC damage rolls work, the combination of Tail Slap and Skill Link allows it to do a lot of damage. An excellent Speed tier of 18 also allows it to outspeed Mienfoo, Vullaby, and Onix. However, it is outsped by Abra and Ponyta and only Speed ties with Gastly. Its Normal typing is unremarkable other than its weakness to the common Fighting-types that dominate LC. Furthermore, its poor defensive stats allow it to be OHKOed by a wide variety of foes, such as Abra and Mienfoo. Lastly, while it has a good range of coverage options, such as Knock Off and Seed Bomb, its low Attack stat means that other than Tail Slap, its moves are relatively weak.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Life Orb",
+            "stats": [
+                146,
+                185,
+                125,
+                104,
+                125,
+                269
+            ],
+            "type": [
+                "Normal"
+            ],
+            "usage": "Minccino generally works best as an early-game breaker, dealing heavy damage to defensive foes to allow a partner to clean. Due to its poor defensive stats, Minccino should not be switched directly into an attack; instead, use a pivoting move such as Mienfoo's U-turn or Magnemite's Volt Switch to bring it in. Minccino can also be used to force out Weak Armor Vullaby, Eviolite Snivy, and Onix with any chip damage.",
+            "moves": [
+                [
+                    "Tail Slap"
+                ],
+                [
+                    "Knock Off"
+                ],
+                [
+                    "Seed Bomb",
+                    "U-turn"
+                ],
+                [
+                    "U-turn",
+                    "Wake-Up Slap"
+                ]
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Skill Link"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                196,
+                36,
+                0,
+                36,
+                236
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Ferroseed",
+        "Mudbray",
+        "Flame Body Users",
+        "Priority Users",
+        "Faster Foes",
+        "Choice Scarf Users",
+        "Diglett"
+    ],
+    "credits": [
+        "Written by EnzoLapras",
+        "Quality Control by Corporal Levi, Merritt,  and Coconut",
+        "Grammar checked by martha and The Dutch Plumberjack"
+    ]
+}

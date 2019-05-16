@@ -1,1 +1,152 @@
-{"name": "Dhelmise", "forms": {"Base": {"base stats": [70, 131, 100, 86, 90, 40], "types": ["Ghost", "Grass"], "abilities": ["Steelworker"], "tier": ["NU"], "form": "Base"}}, "overview": "Dhelmise is a threatening wallbreaker thanks to its high base Attack and strong Grass-type STAB attack in Power Whip enabling it to OHKO the likes of Vaporeon and defensive Hariyama and 2HKO Pokemon such as Steelix, Whimsicott, and Mega Audino. Because of its typing and above-average bulk, Dhelmise finds multiple chances to switch in on resisted hits from Pokemon like Slowking, Heliolisk, and Sceptile while also functioning as a check to Pokemon like Passimian, Rhydon, and Torterra. Additionally, Dhelmise's ability Steelworker provides it with a 1.5x boost to the power of Heavy Slam and Anchor Shot, allowing the former to OHKO Pokemon such as Braviary and Xatu and heavily dent Vileplume. Dhelmise also has access to Rapid Spin and recovery in Rest and Synthesis, letting it function as a reliable source of entry hazard removal. Unfortunately, Dhelmise is plagued with weaknesses to common attacking types in Dark, Fire, Ice, and Ghost as well as a poor Speed tier, making it easy for Pokemon like Incineroar, Sneasel, Decidueye, and Rotom to revenge kill.\n", "strategies' format": "NU", "strategies": [{"name": "Rapid Spin", "stats": [215, 397, 236, 187, 216, 141], "type": ["Ghost", "Grass"], "usage": "Dhelmise should be brought in on Stealth Rock setters that don't pose a significant threat to it such as Steelix, Rhydon, and Miltank. Look to use Rapid Spin against Pokemon Dhelmise forces out such as Passimian, Heliolisk, and Vaporeon. However, be wary of opposing Ghost-types switching in to prevent a successful Rapid Spin. Utilize Anchor Shot's trapping capabilities to freely switch in the appropriate check to the opponent's Pokemon. This Dhelmise variant can relatively easily switch into Fighting-types like Passimian, Hariyama, and Scrafty, as Colbur Berry reduces the damage taken from a potential Knock Off. Rest should be used when Dhelmise has taken heavy damage or sustained a status ailment like a burn or Toxic poison. If using Synthesis, use it to heal chip damage from resisted hits like Heliolisk's Volt Switch and Sceptile's Giga Drain, but be mindful of Synthesis's low PP.", "moves": [["Power Whip"], ["Anchor Shot"], ["Rapid Spin"], ["Synthesis"]], "item": [" Steelium Z", " Colbur Berry"], "ability": ["Steelworker"], "nature": ["Adamant"], "ev spread": [156, 252, 0, 0, 0, 100], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Choice Band", "stats": [189, 397, 236, 187, 216, 167], "type": ["Ghost", "Grass"], "usage": "Dhelmise has an excellent matchup against stall builds because it finds multiple opportunities to switch in against passive Pokemon like Mega Audino, Miltank, and Pyukumuku, fearing only a potential Toxic. Against more offensive teams, look to pivot Dhelmise in on a resisted hit such as Sceptile's Leaf Storm and then retaliate with an attack. Because of Dhelmise's solid bulk, it can easily be pivoted in on Stealth Rock users like Torterra, Steelix, and Rhydon. Thanks to its Ghost typing, Dhelmise can switch into Close Combat from Pokemon like Passimian and Hariyama, but it must be wary about a potential Knock Off. Because of their sheer strength and utility, all of Dhelmise's moves are easy to spam early-game. Both Power Whip and Heavy Slam heavily dent common switch-ins like Steelix, Incineroar, and Vileplume, while Knock Off cripples Ferroseed and Golbat by removing their Eviolite.", "moves": [["Power Whip"], ["Heavy Slam", "Anchor Shot"], ["Earthquake"], ["Knock Off"]], "item": [" Choice Band"], "ability": ["Steelworker"], "nature": ["Adamant"], "ev spread": [52, 252, 0, 0, 0, 204], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Dark-types", "Flying-types", "Faster Attackers"], "credits": ["Written by Rabia", "Quality checked by Punchshroom, banks,  and Hootie", "Grammar checked by A Cake Wearing A Hat and CryoGyro"]}
+{
+    "name": "Dhelmise",
+    "forms": {
+        "Base": {
+            "base stats": [
+                70,
+                131,
+                100,
+                86,
+                90,
+                40
+            ],
+            "types": [
+                "Ghost",
+                "Grass"
+            ],
+            "abilities": [
+                "Steelworker"
+            ],
+            "tier": [
+                "NU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Dhelmise is a threatening wallbreaker thanks to its high base Attack and strong Grass-type STAB attack in Power Whip enabling it to OHKO the likes of Vaporeon and defensive Hariyama and 2HKO Pokemon such as Steelix, Whimsicott, and Mega Audino. Because of its typing and above-average bulk, Dhelmise finds multiple chances to switch in on resisted hits from Pokemon like Slowking, Heliolisk, and Sceptile while also functioning as a check to Pokemon like Passimian, Rhydon, and Torterra. Additionally, Dhelmise's ability Steelworker provides it with a 1.5x boost to the power of Heavy Slam and Anchor Shot, allowing the former to OHKO Pokemon such as Braviary and Xatu and heavily dent Vileplume. Dhelmise also has access to Rapid Spin and recovery in Rest and Synthesis, letting it function as a reliable source of entry hazard removal. Unfortunately, Dhelmise is plagued with weaknesses to common attacking types in Dark, Fire, Ice, and Ghost as well as a poor Speed tier, making it easy for Pokemon like Incineroar, Sneasel, Decidueye, and Rotom to revenge kill.\n",
+    "strategies' format": "NU",
+    "strategies": [
+        {
+            "name": "Rapid Spin",
+            "stats": [
+                215,
+                397,
+                236,
+                187,
+                216,
+                141
+            ],
+            "type": [
+                "Ghost",
+                "Grass"
+            ],
+            "usage": "Dhelmise should be brought in on Stealth Rock setters that don't pose a significant threat to it such as Steelix, Rhydon, and Miltank. Look to use Rapid Spin against Pokemon Dhelmise forces out such as Passimian, Heliolisk, and Vaporeon. However, be wary of opposing Ghost-types switching in to prevent a successful Rapid Spin. Utilize Anchor Shot's trapping capabilities to freely switch in the appropriate check to the opponent's Pokemon. This Dhelmise variant can relatively easily switch into Fighting-types like Passimian, Hariyama, and Scrafty, as Colbur Berry reduces the damage taken from a potential Knock Off. Rest should be used when Dhelmise has taken heavy damage or sustained a status ailment like a burn or Toxic poison. If using Synthesis, use it to heal chip damage from resisted hits like Heliolisk's Volt Switch and Sceptile's Giga Drain, but be mindful of Synthesis's low PP.",
+            "moves": [
+                [
+                    "Power Whip"
+                ],
+                [
+                    "Anchor Shot"
+                ],
+                [
+                    "Rapid Spin"
+                ],
+                [
+                    "Synthesis"
+                ]
+            ],
+            "item": [
+                " Steelium Z",
+                " Colbur Berry"
+            ],
+            "ability": [
+                "Steelworker"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                156,
+                252,
+                0,
+                0,
+                0,
+                100
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Choice Band",
+            "stats": [
+                189,
+                397,
+                236,
+                187,
+                216,
+                167
+            ],
+            "type": [
+                "Ghost",
+                "Grass"
+            ],
+            "usage": "Dhelmise has an excellent matchup against stall builds because it finds multiple opportunities to switch in against passive Pokemon like Mega Audino, Miltank, and Pyukumuku, fearing only a potential Toxic. Against more offensive teams, look to pivot Dhelmise in on a resisted hit such as Sceptile's Leaf Storm and then retaliate with an attack. Because of Dhelmise's solid bulk, it can easily be pivoted in on Stealth Rock users like Torterra, Steelix, and Rhydon. Thanks to its Ghost typing, Dhelmise can switch into Close Combat from Pokemon like Passimian and Hariyama, but it must be wary about a potential Knock Off. Because of their sheer strength and utility, all of Dhelmise's moves are easy to spam early-game. Both Power Whip and Heavy Slam heavily dent common switch-ins like Steelix, Incineroar, and Vileplume, while Knock Off cripples Ferroseed and Golbat by removing their Eviolite.",
+            "moves": [
+                [
+                    "Power Whip"
+                ],
+                [
+                    "Heavy Slam",
+                    "Anchor Shot"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Knock Off"
+                ]
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Steelworker"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                52,
+                252,
+                0,
+                0,
+                0,
+                204
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Dark-types",
+        "Flying-types",
+        "Faster Attackers"
+    ],
+    "credits": [
+        "Written by Rabia",
+        "Quality checked by Punchshroom, banks,  and Hootie",
+        "Grammar checked by A Cake Wearing A Hat and CryoGyro"
+    ]
+}

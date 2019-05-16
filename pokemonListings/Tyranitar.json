@@ -1,1 +1,288 @@
-{"name": "Tyranitar", "forms": {"Base": {"base stats": [100, 134, 110, 95, 100, 61], "types": ["Rock", "Dark"], "abilities": ["Sand Stream", "Unnerve"], "tier": ["OU"], "form": "Base"}, "Mega": {"base stats": [100, 164, 150, 95, 120, 71], "types": ["Rock", "Dark"], "abilities": ["Sand Stream"], "tier": ["OU"], "form": "Mega"}}, "overview": "Tyranitar's high Attack stat coupled with powerful, spammable STAB moves in Stone Edge and Crunch makes it a fearsome wallbreaker. Powerful STAB Pursuit lets Tyranitar also serve as one of OU's most threatening trappers. Tyranitar can use its solid bulk and unique typing to check Pokemon such as Latios, Alolan Marowak, Choice-locked Tapu Lele, and Volcarona. Sand Stream is also noteworthy because it allows Tyranitar to support sand sweepers like Excadrill and Mega Garchomp. Finally, Mega Tyranitar can make use of its added titanic bulk and Speed to set up and sweep with Dragon Dance, as well as check dangerous threats such as BoltBeam Magearna, Kyurem-B, and Heatran. Unfortunately, Tyranitar is let down by its Rock / Dark typing, which leaves it vulnerable to many of OU's common types such as Fighting, Ground, and Water. Its STAB attacks are also not as spammable against Mega Mawile, Magearna, and Landorus-T. Another downfall is that Tyranitar's low Speed causes it to be forced out frequently by faster threats.\n", "strategies' format": "OU", "strategies": [{"name": "Stealth Rock", "stats": [278, 469, 336, 203, 276, 200], "type": ["Rock", "Dark"], "usage": "Try to get Mega Tyranitar in as fast as possible to be able to set up Stealth Rock, forcing in common Defoggers that get trapped by Pursuit. After setting up Stealth Rock, you should use Mega Tyranitar to punch holes in the opposing team. Use Pursuit on a predicted switch if it is more beneficial than getting up Stealth Rock or just straight attacking. Also use it whenever Tyranitar is up against Mega Alakazam, Latios, Latias, or Gengar to guarantee Mega Tyranitar KOes them. Mega Tyranitar can switch in on Pokemon such as Kyurem-B and Mega Charizard X because of its added bulk after Mega Evolving.", "moves": [["Stealth Rock"], ["Pursuit"], ["Stone Edge"], ["Fire Punch", "Earthquake"]], "item": [" Tyranitarite"], "ability": ["Sand Stream"], "nature": ["Adamant"], "ev spread": [168, 252, 0, 0, 0, 88], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Assault Vest", "stats": [292, 312, 256, 203, 328, 158], "type": ["Rock", "Dark"], "usage": "Avoid unnecessarily switching Tyranitar into Pokemon aside from the ones that it's needed to check, as it lacks reliable recovery and is prone to getting worn down into range of moves such as Corkscrew Crash from Heatran and Focus Blast from Mega Alakazam. In a similar vein, try to keep entry hazards off the field when switching in Tyranitar so that it doesn't get worn down as quickly and can do its job well. Try to wear down Pokemon such as Mega Latios and Mega Alakazam with your teammates so that you don't have to win a mind game in order to Pursuit trap them. If possible, try to sacrifice an expendable teammate when attempting to trap Mega Alakazam because Focus Blast can 2HKO Tyranitar as it switches in.", "moves": [["Rock Slide"], ["Crunch"], ["Pursuit"], ["Earthquake"]], "item": [" Assault Vest"], "ability": ["Sand Stream"], "nature": ["Careful"], "ev spread": [224, 32, 0, 0, 252, 0], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Choice Band", "stats": [246, 403, 256, 203, 248, 200], "type": ["Rock", "Dark"], "usage": "Choice Band Tyranitar should primarily be used as a wallbreaker due to the incredible damage it can inflict with Stone Edge and Crunch. Pursuit should not be used as frequently because it is situational. As opponents will often be reluctant to switch Pursuit's targets in for fear of getting them trapped, Tyranitar's presence can be used to pressure opponents and keep momentum in your favor. Tyranitar's naturally high special bulk helps it check strong special attackers such as Latios, Tapu Koko and Volcarona; however, Tyranitar must be kept healthy to avoid the KO from a boosted Giga Drain from Volcarona so it can KO with Stone Edge in return. In a pinch, Tyranitar is capable of surviving a +1 Giga Drain from Volcarona from full HP even without sand active.", "moves": [["Stone Edge"], ["Crunch"], ["Pursuit"], ["Earthquake", "Fire Punch"]], "item": [" Choice Band"], "ability": ["Sand Stream"], "nature": ["Adamant"], "ev spread": [40, 252, 0, 0, 48, 168], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Dragon Dance", "stats": [236, 427, 336, 203, 277, 265], "type": ["Rock", "Dark"], "usage": "Mega Tyranitar is best used as a mid- or late-game sweeper, as its longevity can be cut short by damage taken while setting up and sweeping. Prior to setting up, it is important to ensure that certain checks to Mega Tyranitar, such as revenge killers and Pokemon that resist its coverage, are removed and that necessary chip damage has been dealt so Mega Tyranitar can achieve OHKOs more easily. Setting up against offensive teams can be challenging, so it is best to bring Tyranitar in against something it would normally threaten out, such as Latios, Heatran, or Choice-locked Tapu Lele, and proceed to Mega Evolve and boost with Dragon Dance. Bluffing a different item, such as a Choice Band, can make this simpler. Bulkier teams can fall to Mega Tyranitar once its defensive checks have been weakened sufficiently. When facing weather-based teams, it is best to hold off on Mega Evolving Tyranitar as opposed to losing it by setting up early in the game, as it can set sand repeatedly to prevent opposing weather sweepers from becoming dangerous.", "moves": [["Dragon Dance"], ["Stone Edge"], ["Ice Punch"], ["Fire Punch", "Earthquake"]], "item": [" Tyranitarite"], "ability": ["Sand Stream"], "nature": ["Jolly"], "ev spread": [0, 252, 0, 0, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Fighting-types", "Super Effective Coverage", "Ground-types", "Fairy-types", "Steel-types", "Water-types"], "credits": ["Written by JTD783, Jordy, OldAmberPlays,  and LL", "Quality checked by p2, dk,  and Gary", "Grammar checked by frenzyplant and CryoGyro"]}
+{
+    "name": "Tyranitar",
+    "forms": {
+        "Base": {
+            "base stats": [
+                100,
+                134,
+                110,
+                95,
+                100,
+                61
+            ],
+            "types": [
+                "Rock",
+                "Dark"
+            ],
+            "abilities": [
+                "Sand Stream",
+                "Unnerve"
+            ],
+            "tier": [
+                "OU"
+            ],
+            "form": "Base"
+        },
+        "Mega": {
+            "base stats": [
+                100,
+                164,
+                150,
+                95,
+                120,
+                71
+            ],
+            "types": [
+                "Rock",
+                "Dark"
+            ],
+            "abilities": [
+                "Sand Stream"
+            ],
+            "tier": [
+                "OU"
+            ],
+            "form": "Mega"
+        }
+    },
+    "overview": "Tyranitar's high Attack stat coupled with powerful, spammable STAB moves in Stone Edge and Crunch makes it a fearsome wallbreaker. Powerful STAB Pursuit lets Tyranitar also serve as one of OU's most threatening trappers. Tyranitar can use its solid bulk and unique typing to check Pokemon such as Latios, Alolan Marowak, Choice-locked Tapu Lele, and Volcarona. Sand Stream is also noteworthy because it allows Tyranitar to support sand sweepers like Excadrill and Mega Garchomp. Finally, Mega Tyranitar can make use of its added titanic bulk and Speed to set up and sweep with Dragon Dance, as well as check dangerous threats such as BoltBeam Magearna, Kyurem-B, and Heatran. Unfortunately, Tyranitar is let down by its Rock / Dark typing, which leaves it vulnerable to many of OU's common types such as Fighting, Ground, and Water. Its STAB attacks are also not as spammable against Mega Mawile, Magearna, and Landorus-T. Another downfall is that Tyranitar's low Speed causes it to be forced out frequently by faster threats.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Stealth Rock",
+            "stats": [
+                278,
+                469,
+                336,
+                203,
+                276,
+                200
+            ],
+            "type": [
+                "Rock",
+                "Dark"
+            ],
+            "usage": "Try to get Mega Tyranitar in as fast as possible to be able to set up Stealth Rock, forcing in common Defoggers that get trapped by Pursuit. After setting up Stealth Rock, you should use Mega Tyranitar to punch holes in the opposing team. Use Pursuit on a predicted switch if it is more beneficial than getting up Stealth Rock or just straight attacking. Also use it whenever Tyranitar is up against Mega Alakazam, Latios, Latias, or Gengar to guarantee Mega Tyranitar KOes them. Mega Tyranitar can switch in on Pokemon such as Kyurem-B and Mega Charizard X because of its added bulk after Mega Evolving.",
+            "moves": [
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Pursuit"
+                ],
+                [
+                    "Stone Edge"
+                ],
+                [
+                    "Fire Punch",
+                    "Earthquake"
+                ]
+            ],
+            "item": [
+                " Tyranitarite"
+            ],
+            "ability": [
+                "Sand Stream"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                168,
+                252,
+                0,
+                0,
+                0,
+                88
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Assault Vest",
+            "stats": [
+                292,
+                312,
+                256,
+                203,
+                328,
+                158
+            ],
+            "type": [
+                "Rock",
+                "Dark"
+            ],
+            "usage": "Avoid unnecessarily switching Tyranitar into Pokemon aside from the ones that it's needed to check, as it lacks reliable recovery and is prone to getting worn down into range of moves such as Corkscrew Crash from Heatran and Focus Blast from Mega Alakazam. In a similar vein, try to keep entry hazards off the field when switching in Tyranitar so that it doesn't get worn down as quickly and can do its job well. Try to wear down Pokemon such as Mega Latios and Mega Alakazam with your teammates so that you don't have to win a mind game in order to Pursuit trap them. If possible, try to sacrifice an expendable teammate when attempting to trap Mega Alakazam because Focus Blast can 2HKO Tyranitar as it switches in.",
+            "moves": [
+                [
+                    "Rock Slide"
+                ],
+                [
+                    "Crunch"
+                ],
+                [
+                    "Pursuit"
+                ],
+                [
+                    "Earthquake"
+                ]
+            ],
+            "item": [
+                " Assault Vest"
+            ],
+            "ability": [
+                "Sand Stream"
+            ],
+            "nature": [
+                "Careful"
+            ],
+            "ev spread": [
+                224,
+                32,
+                0,
+                0,
+                252,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Choice Band",
+            "stats": [
+                246,
+                403,
+                256,
+                203,
+                248,
+                200
+            ],
+            "type": [
+                "Rock",
+                "Dark"
+            ],
+            "usage": "Choice Band Tyranitar should primarily be used as a wallbreaker due to the incredible damage it can inflict with Stone Edge and Crunch. Pursuit should not be used as frequently because it is situational. As opponents will often be reluctant to switch Pursuit's targets in for fear of getting them trapped, Tyranitar's presence can be used to pressure opponents and keep momentum in your favor. Tyranitar's naturally high special bulk helps it check strong special attackers such as Latios, Tapu Koko and Volcarona; however, Tyranitar must be kept healthy to avoid the KO from a boosted Giga Drain from Volcarona so it can KO with Stone Edge in return. In a pinch, Tyranitar is capable of surviving a +1 Giga Drain from Volcarona from full HP even without sand active.",
+            "moves": [
+                [
+                    "Stone Edge"
+                ],
+                [
+                    "Crunch"
+                ],
+                [
+                    "Pursuit"
+                ],
+                [
+                    "Earthquake",
+                    "Fire Punch"
+                ]
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Sand Stream"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                40,
+                252,
+                0,
+                0,
+                48,
+                168
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Dragon Dance",
+            "stats": [
+                236,
+                427,
+                336,
+                203,
+                277,
+                265
+            ],
+            "type": [
+                "Rock",
+                "Dark"
+            ],
+            "usage": "Mega Tyranitar is best used as a mid- or late-game sweeper, as its longevity can be cut short by damage taken while setting up and sweeping. Prior to setting up, it is important to ensure that certain checks to Mega Tyranitar, such as revenge killers and Pokemon that resist its coverage, are removed and that necessary chip damage has been dealt so Mega Tyranitar can achieve OHKOs more easily. Setting up against offensive teams can be challenging, so it is best to bring Tyranitar in against something it would normally threaten out, such as Latios, Heatran, or Choice-locked Tapu Lele, and proceed to Mega Evolve and boost with Dragon Dance. Bluffing a different item, such as a Choice Band, can make this simpler. Bulkier teams can fall to Mega Tyranitar once its defensive checks have been weakened sufficiently. When facing weather-based teams, it is best to hold off on Mega Evolving Tyranitar as opposed to losing it by setting up early in the game, as it can set sand repeatedly to prevent opposing weather sweepers from becoming dangerous.",
+            "moves": [
+                [
+                    "Dragon Dance"
+                ],
+                [
+                    "Stone Edge"
+                ],
+                [
+                    "Ice Punch"
+                ],
+                [
+                    "Fire Punch",
+                    "Earthquake"
+                ]
+            ],
+            "item": [
+                " Tyranitarite"
+            ],
+            "ability": [
+                "Sand Stream"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                0,
+                0,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Fighting-types",
+        "Super Effective Coverage",
+        "Ground-types",
+        "Fairy-types",
+        "Steel-types",
+        "Water-types"
+    ],
+    "credits": [
+        "Written by JTD783, Jordy, OldAmberPlays,  and LL",
+        "Quality checked by p2, dk,  and Gary",
+        "Grammar checked by frenzyplant and CryoGyro"
+    ]
+}

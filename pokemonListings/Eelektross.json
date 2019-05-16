@@ -1,1 +1,97 @@
-{"name": "Eelektross", "forms": {"Base": {"base stats": [85, 115, 80, 105, 80, 50], "types": ["Electric"], "abilities": ["Levitate"], "tier": ["PU"], "form": "Base"}}, "overview": "Thanks to its good bulk and high power, Eelektross can become a solid pivot with Assault Vest. In particular, it makes for a very strong check to Ludicolo and Froslass. Eelektross's Levitate ability also essentially leaves it with no weaknesses outside of Mold Breaker Earthquake and lets it check, if not outright counter Ground-types such as Golurk and Mudsdale. A fantastic movepool including Giga Drain, Drain Punch, and Flamethrower gives Eelektross reliable options against Regirock, Guzzlord, and Victreebel, and it possesses utility options like Knock Off to support the team. Finally, a strong and slow STAB Volt Switch helps Eelektross be a great pivot. However, Eelektross is worn down far quicker than you think due to a lack of reliable recovery and vulnerability to Toxic. Also, it faces competition as an Electric-type pivot with Lanturn, which has Scald, is notably faster than Pokemon like Modest Aurorus and Adamant Aggron, has access to moves like Heal Bell, a resistance to Fire-type attacks, and an immunity to Electric-type moves, though Lanturn lacks an immunity to Spikes and Toxic Spikes and doesn't have the same offensive presence that Eelektross does, which is a point in its favor.\n", "strategies' format": "PU", "strategies": [{"name": "Assault Vest", "stats": [269, 266, 196, 339, 197, 122], "type": ["Electric"], "usage": "Use Volt Switch when the current matchup isn't much in your favor or if the opponent is about to send in a check such as Audino. Use Giga Drain when you predict an Electric-immune Pokemon like Lanturn or Mudsdale to switch in. Knock Off is often useful, as the removal of items is very annoying for the opposing team, particularly against bulky Pokemon such as those with Eviolite and Assault Vest like Type: Null. However, it is best not to let Eelektross get hit by a Knock Off from an opposing Pokemon, as without Assault Vest it is much less bulky. It's best not to get too reckless with keeping Eelektross in. Keeping it at a high HP is essential to check multiple Pokemon consistently throughout the course of the match, such as against a team with both Swanna and Ludicolo.", "moves": [["Volt Switch"], ["Giga Drain"], ["Flamethrower"], ["Drain Punch", "Knock Off", "Thunderbolt"]], "item": [" Assault Vest"], "ability": ["Levitate"], "nature": ["Quiet", "Modest"], "ev spread": [252, 0, 0, 252, 4, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Strong Physical Attackers", "Status", "Dragon-types", "Specially Defensive Pokemon"], "credits": ["Written by Melons-N-Soda", "Quality checked by Megazard, yogi,  and TONE", "Grammar checked by martha and The Dutch Plumberjack"]}
+{
+    "name": "Eelektross",
+    "forms": {
+        "Base": {
+            "base stats": [
+                85,
+                115,
+                80,
+                105,
+                80,
+                50
+            ],
+            "types": [
+                "Electric"
+            ],
+            "abilities": [
+                "Levitate"
+            ],
+            "tier": [
+                "PU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Thanks to its good bulk and high power, Eelektross can become a solid pivot with Assault Vest. In particular, it makes for a very strong check to Ludicolo and Froslass. Eelektross's Levitate ability also essentially leaves it with no weaknesses outside of Mold Breaker Earthquake and lets it check, if not outright counter Ground-types such as Golurk and Mudsdale. A fantastic movepool including Giga Drain, Drain Punch, and Flamethrower gives Eelektross reliable options against Regirock, Guzzlord, and Victreebel, and it possesses utility options like Knock Off to support the team. Finally, a strong and slow STAB Volt Switch helps Eelektross be a great pivot. However, Eelektross is worn down far quicker than you think due to a lack of reliable recovery and vulnerability to Toxic. Also, it faces competition as an Electric-type pivot with Lanturn, which has Scald, is notably faster than Pokemon like Modest Aurorus and Adamant Aggron, has access to moves like Heal Bell, a resistance to Fire-type attacks, and an immunity to Electric-type moves, though Lanturn lacks an immunity to Spikes and Toxic Spikes and doesn't have the same offensive presence that Eelektross does, which is a point in its favor.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Assault Vest",
+            "stats": [
+                269,
+                266,
+                196,
+                339,
+                197,
+                122
+            ],
+            "type": [
+                "Electric"
+            ],
+            "usage": "Use Volt Switch when the current matchup isn't much in your favor or if the opponent is about to send in a check such as Audino. Use Giga Drain when you predict an Electric-immune Pokemon like Lanturn or Mudsdale to switch in. Knock Off is often useful, as the removal of items is very annoying for the opposing team, particularly against bulky Pokemon such as those with Eviolite and Assault Vest like Type: Null. However, it is best not to let Eelektross get hit by a Knock Off from an opposing Pokemon, as without Assault Vest it is much less bulky. It's best not to get too reckless with keeping Eelektross in. Keeping it at a high HP is essential to check multiple Pokemon consistently throughout the course of the match, such as against a team with both Swanna and Ludicolo.",
+            "moves": [
+                [
+                    "Volt Switch"
+                ],
+                [
+                    "Giga Drain"
+                ],
+                [
+                    "Flamethrower"
+                ],
+                [
+                    "Drain Punch",
+                    "Knock Off",
+                    "Thunderbolt"
+                ]
+            ],
+            "item": [
+                " Assault Vest"
+            ],
+            "ability": [
+                "Levitate"
+            ],
+            "nature": [
+                "Quiet",
+                "Modest"
+            ],
+            "ev spread": [
+                252,
+                0,
+                0,
+                252,
+                4,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Strong Physical Attackers",
+        "Status",
+        "Dragon-types",
+        "Specially Defensive Pokemon"
+    ],
+    "credits": [
+        "Written by Melons-N-Soda",
+        "Quality checked by Megazard, yogi,  and TONE",
+        "Grammar checked by martha and The Dutch Plumberjack"
+    ]
+}

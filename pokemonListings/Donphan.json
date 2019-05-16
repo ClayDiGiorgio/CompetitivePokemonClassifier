@@ -1,1 +1,95 @@
-{"name": "Donphan", "forms": {"Base": {"base stats": [90, 120, 120, 60, 60, 50], "types": ["Ground"], "abilities": ["Sand Veil", "Sturdy"], "tier": ["RU"], "form": "Base"}}, "overview": "With its solid typing and great Attack and Defense, Donphan is a reliable tank in RarelyUsed that can check top threats in the tier such as Zygarde-10%, Noivern, and Tyrantrum. Donphan is also unique in that it has access to Rapid Spin to clear away entry hazards and Ice Shard as a priority move to pick off weakened threats such as Zygarde-10%, Roserade, and Noivern. Despite these solid traits, Donphan's biggest issue is that it is easy to wear down with weak attacks and status conditions thanks to a lack of reliable recovery. This is especially bad considering Donphan has to repeatedly switch into Pokemon it is supposed to check and entry hazards to clear them away, breaking its Sturdy ability every time. Donphan may have a high Attack, but it has issues breaking common defensive Pokemon such as Milotic, Mandibuzz, and Mantine. Donphan's low Speed and Special Defense are easily exploited by Pokemon that can hit it with super effective attacks such as Mega Blastoise, Roserade, and Milotic. While Donphan's typing and bulk allows it to check Rock-, Ground-, and Steel-types, it is still largely outclassed by other entry hazard removers such as Mega Blastoise, Mandibuzz, and Mantine thanks to either stronger offensive presences with Mega Blastoise or better resistances and recovery with Mandibuzz and Mantine. It also has competition as an offensive Ground-type from the likes of Zygarde-10% and Rhyperior. Zygarde-10% is much faster and has a better STAB move with Thousand Arrows, while Rhyperior has a higher Attack and better typing both offensively and defensively.\n", "strategies' format": "RU", "strategies": [{"name": "Offensive Spinner", "stats": [279, 372, 276, 140, 156, 137], "type": ["Ground"], "usage": "Donphan is a Rapid Spinner designed to tank hits from physically attacking Pokemon such as Zygarde-10%, Tyrantrum, and Toxicroak, so it needs to be as healthy as possible throughout the match. This is especially true if the opponent still has an entry hazard setter and if Donphan has a teammate that needs hazard control. Donphan can easily come in on Stealth Rock users that do not threaten it very much, such as Metagross, Registeel, or Tank Rhyperior. It can also come into battle with a slow U-turn or Volt Switch if a teammate has fainted or from an aggressive double switch. From there, Donphan can threaten the opponent out with a powerful Earthquake or revenge kill with Ice Shard if the foe is weakened enough. If the opponent has a Ghost-type Pokemon such as Mismagius or Hoopa and switches them in on Donphan expecting it to go for Rapid Spin, then it is advised to go for Knock Off, as the move does massive damage to these Pokemon, OHKOing Hoopa on the switch and putting Mismagius within Ice Shard KO range. Do not let Donphan take any status conditions. Poison from Toxic severely limits its longevity and the amount of times it can switch in on Pokemon it is supposed to check. Being burned from Will-O-Wisp, meanwhile, makes Donphan lose offensive pressure.", "moves": [["Rapid Spin"], ["Earthquake"], ["Knock Off"], ["Ice Shard"]], "item": [" Leftovers"], "ability": ["Sturdy"], "nature": ["Adamant"], "ev spread": [252, 252, 0, 0, 0, 4], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Residual Damage", "Physically Defensive Pokemon", "Special Attackers", "Water- and Grass-type Pokemon"], "credits": ["Written by JustoonSmitts", "Quality checked by phantom, Averardo,  and zizalith", "Grammar checked by frostration and Electrolyte"]}
+{
+    "name": "Donphan",
+    "forms": {
+        "Base": {
+            "base stats": [
+                90,
+                120,
+                120,
+                60,
+                60,
+                50
+            ],
+            "types": [
+                "Ground"
+            ],
+            "abilities": [
+                "Sand Veil",
+                "Sturdy"
+            ],
+            "tier": [
+                "RU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "With its solid typing and great Attack and Defense, Donphan is a reliable tank in RarelyUsed that can check top threats in the tier such as Zygarde-10%, Noivern, and Tyrantrum. Donphan is also unique in that it has access to Rapid Spin to clear away entry hazards and Ice Shard as a priority move to pick off weakened threats such as Zygarde-10%, Roserade, and Noivern. Despite these solid traits, Donphan's biggest issue is that it is easy to wear down with weak attacks and status conditions thanks to a lack of reliable recovery. This is especially bad considering Donphan has to repeatedly switch into Pokemon it is supposed to check and entry hazards to clear them away, breaking its Sturdy ability every time. Donphan may have a high Attack, but it has issues breaking common defensive Pokemon such as Milotic, Mandibuzz, and Mantine. Donphan's low Speed and Special Defense are easily exploited by Pokemon that can hit it with super effective attacks such as Mega Blastoise, Roserade, and Milotic. While Donphan's typing and bulk allows it to check Rock-, Ground-, and Steel-types, it is still largely outclassed by other entry hazard removers such as Mega Blastoise, Mandibuzz, and Mantine thanks to either stronger offensive presences with Mega Blastoise or better resistances and recovery with Mandibuzz and Mantine. It also has competition as an offensive Ground-type from the likes of Zygarde-10% and Rhyperior. Zygarde-10% is much faster and has a better STAB move with Thousand Arrows, while Rhyperior has a higher Attack and better typing both offensively and defensively.\n",
+    "strategies' format": "RU",
+    "strategies": [
+        {
+            "name": "Offensive Spinner",
+            "stats": [
+                279,
+                372,
+                276,
+                140,
+                156,
+                137
+            ],
+            "type": [
+                "Ground"
+            ],
+            "usage": "Donphan is a Rapid Spinner designed to tank hits from physically attacking Pokemon such as Zygarde-10%, Tyrantrum, and Toxicroak, so it needs to be as healthy as possible throughout the match. This is especially true if the opponent still has an entry hazard setter and if Donphan has a teammate that needs hazard control. Donphan can easily come in on Stealth Rock users that do not threaten it very much, such as Metagross, Registeel, or Tank Rhyperior. It can also come into battle with a slow U-turn or Volt Switch if a teammate has fainted or from an aggressive double switch. From there, Donphan can threaten the opponent out with a powerful Earthquake or revenge kill with Ice Shard if the foe is weakened enough. If the opponent has a Ghost-type Pokemon such as Mismagius or Hoopa and switches them in on Donphan expecting it to go for Rapid Spin, then it is advised to go for Knock Off, as the move does massive damage to these Pokemon, OHKOing Hoopa on the switch and putting Mismagius within Ice Shard KO range. Do not let Donphan take any status conditions. Poison from Toxic severely limits its longevity and the amount of times it can switch in on Pokemon it is supposed to check. Being burned from Will-O-Wisp, meanwhile, makes Donphan lose offensive pressure.",
+            "moves": [
+                [
+                    "Rapid Spin"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Knock Off"
+                ],
+                [
+                    "Ice Shard"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Sturdy"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                252,
+                252,
+                0,
+                0,
+                0,
+                4
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Residual Damage",
+        "Physically Defensive Pokemon",
+        "Special Attackers",
+        "Water- and Grass-type Pokemon"
+    ],
+    "credits": [
+        "Written by JustoonSmitts",
+        "Quality checked by phantom, Averardo,  and zizalith",
+        "Grammar checked by frostration and Electrolyte"
+    ]
+}

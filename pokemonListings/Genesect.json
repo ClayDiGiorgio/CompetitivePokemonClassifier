@@ -1,1 +1,155 @@
-{"name": "Genesect", "forms": {"Base": {"base stats": [71, 120, 95, 120, 95, 99], "types": ["Bug", "Steel"], "abilities": ["Download"], "tier": ["Uber"], "form": "Base"}}, "overview": "Genesect has a nice niche in Doubles OU as a strong offensive pivot with great coverage that can OHKO prominent threats such as Landorus-T, Tapu Lele, and Mega Salamence. It can also dent common Trick Room setters such as Hoopa-U with its STAB U-turn while gaining momentum easily. It is a very good check to Fairy- and Psychic-types such as Hoopa-U and Tapu Lele, as its high Speed allows Genesect to outspeed and hit them hard with its STAB attacks. While Genesect does have a lot going for it, it has a poor matchup against common Steel- and Fire-types like Heatran, Aegislash, and Mega Charizard Y. Genesect's awkward base 99 Speed means that it's often reliant on a Choice Scarf, which makes Genesect very weak to opposing speed control and also locks it into one move, though it does allow Genesect to outspeed most of the unboosted metagame. Despite having good defenses and a solid typing, Genesect's bulk is surprisingly poor; it even struggles to switch into some resisted moves such as Tapu Lele's Psychic, and being a mixed attacker forces it to run a Hasty or Naive nature, further lowering its bulk. This can be somewhat circumvented by opting for an Assault Vest set, but that leaves Genesect slower than many of the threats it wants to check. Overall, Genesect is a solid choice for teams needing a fast answer to Fairy- and Psychic-types.\n", "strategies' format": "Doubles", "strategies": [{"name": "Choice Scarf", "stats": [178, 317, 203, 299, 226, 326], "type": ["Bug", "Steel"], "usage": "U-turn should be used during the early and middle stages of the battle to scout the foe's moves and to punch holes in the opposing team while keeping Genesect healthy for later in the battle. Make the most of U-turn's ability to let you pivot into a good matchup. Genesect makes for an excellent revenge killer due to its high Speed and Download-boosted attacks, but only bring it in on weak resisted attacks or when a teammate has fainted, as Genesect has relatively low bulk. It is important to remember that Genesect is 2HKOed by some of the threats it is meant to check, such as Landorus-T, Mega Salamence, and Tapu Lele.", "moves": [["U-turn"], ["Iron Head"], ["Ice Beam"], ["Flamethrower", "Gunk Shot"]], "item": [" Choice Scarf"], "ability": ["Download"], "nature": ["Hasty"], "ev spread": [0, 164, 0, 92, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Assault Vest", "stats": [178, 324, 203, 299, 226, 319], "type": ["Bug", "Steel"], "usage": "Thanks to the added bulk provided by Assault Vest, Genesect can withstand some hits from Kyurem-B and Tapu Lele and offensively check them. That doesn't mean you should be reckless while using it; if it is your only method of dealing with faster threats like Deoxys-A, Genesect should be kept healthy to check them. It's usually ideal to hit foes with super effective moves, regardless of the boost granted by Download. If Genesect packs Electroweb, keep in mind it shouldn't really be used for damage, but rather for the Speed drop.", "moves": [["U-turn"], ["Iron Head"], ["Ice Beam"], ["Flamethrower", "Gunk Shot", "Electroweb"]], "item": [" Assault Vest"], "ability": ["Download"], "nature": ["Hasty"], "ev spread": [0, 192, 0, 92, 0, 224], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Fire-type Pokemon", "Steel-type Pokemon", "Paralysis, Trick Room, and Tailwind", "Faster Pokemon", "Intimidate"], "credits": ["Written by AuraRayquaza and Lyd", "Quality checked by talkingtree, marilli,  and n10sit", "Grammar checked by talkingtree, Winry,  and The Dutch Plumberjack"]}
+{
+    "name": "Genesect",
+    "forms": {
+        "Base": {
+            "base stats": [
+                71,
+                120,
+                95,
+                120,
+                95,
+                99
+            ],
+            "types": [
+                "Bug",
+                "Steel"
+            ],
+            "abilities": [
+                "Download"
+            ],
+            "tier": [
+                "Uber"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Genesect has a nice niche in Doubles OU as a strong offensive pivot with great coverage that can OHKO prominent threats such as Landorus-T, Tapu Lele, and Mega Salamence. It can also dent common Trick Room setters such as Hoopa-U with its STAB U-turn while gaining momentum easily. It is a very good check to Fairy- and Psychic-types such as Hoopa-U and Tapu Lele, as its high Speed allows Genesect to outspeed and hit them hard with its STAB attacks. While Genesect does have a lot going for it, it has a poor matchup against common Steel- and Fire-types like Heatran, Aegislash, and Mega Charizard Y. Genesect's awkward base 99 Speed means that it's often reliant on a Choice Scarf, which makes Genesect very weak to opposing speed control and also locks it into one move, though it does allow Genesect to outspeed most of the unboosted metagame. Despite having good defenses and a solid typing, Genesect's bulk is surprisingly poor; it even struggles to switch into some resisted moves such as Tapu Lele's Psychic, and being a mixed attacker forces it to run a Hasty or Naive nature, further lowering its bulk. This can be somewhat circumvented by opting for an Assault Vest set, but that leaves Genesect slower than many of the threats it wants to check. Overall, Genesect is a solid choice for teams needing a fast answer to Fairy- and Psychic-types.\n",
+    "strategies' format": "Doubles",
+    "strategies": [
+        {
+            "name": "Choice Scarf",
+            "stats": [
+                178,
+                317,
+                203,
+                299,
+                226,
+                326
+            ],
+            "type": [
+                "Bug",
+                "Steel"
+            ],
+            "usage": "U-turn should be used during the early and middle stages of the battle to scout the foe's moves and to punch holes in the opposing team while keeping Genesect healthy for later in the battle. Make the most of U-turn's ability to let you pivot into a good matchup. Genesect makes for an excellent revenge killer due to its high Speed and Download-boosted attacks, but only bring it in on weak resisted attacks or when a teammate has fainted, as Genesect has relatively low bulk. It is important to remember that Genesect is 2HKOed by some of the threats it is meant to check, such as Landorus-T, Mega Salamence, and Tapu Lele.",
+            "moves": [
+                [
+                    "U-turn"
+                ],
+                [
+                    "Iron Head"
+                ],
+                [
+                    "Ice Beam"
+                ],
+                [
+                    "Flamethrower",
+                    "Gunk Shot"
+                ]
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Download"
+            ],
+            "nature": [
+                "Hasty"
+            ],
+            "ev spread": [
+                0,
+                164,
+                0,
+                92,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Assault Vest",
+            "stats": [
+                178,
+                324,
+                203,
+                299,
+                226,
+                319
+            ],
+            "type": [
+                "Bug",
+                "Steel"
+            ],
+            "usage": "Thanks to the added bulk provided by Assault Vest, Genesect can withstand some hits from Kyurem-B and Tapu Lele and offensively check them. That doesn't mean you should be reckless while using it; if it is your only method of dealing with faster threats like Deoxys-A, Genesect should be kept healthy to check them. It's usually ideal to hit foes with super effective moves, regardless of the boost granted by Download. If Genesect packs Electroweb, keep in mind it shouldn't really be used for damage, but rather for the Speed drop.",
+            "moves": [
+                [
+                    "U-turn"
+                ],
+                [
+                    "Iron Head"
+                ],
+                [
+                    "Ice Beam"
+                ],
+                [
+                    "Flamethrower",
+                    "Gunk Shot",
+                    "Electroweb"
+                ]
+            ],
+            "item": [
+                " Assault Vest"
+            ],
+            "ability": [
+                "Download"
+            ],
+            "nature": [
+                "Hasty"
+            ],
+            "ev spread": [
+                0,
+                192,
+                0,
+                92,
+                0,
+                224
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Fire-type Pokemon",
+        "Steel-type Pokemon",
+        "Paralysis, Trick Room, and Tailwind",
+        "Faster Pokemon",
+        "Intimidate"
+    ],
+    "credits": [
+        "Written by AuraRayquaza and Lyd",
+        "Quality checked by talkingtree, marilli,  and n10sit",
+        "Grammar checked by talkingtree, Winry,  and The Dutch Plumberjack"
+    ]
+}

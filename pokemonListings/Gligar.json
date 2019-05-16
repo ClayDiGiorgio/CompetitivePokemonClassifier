@@ -1,1 +1,101 @@
-{"name": "Gligar", "forms": {"Base": {"base stats": [65, 75, 105, 35, 65, 85], "types": ["Ground", "Flying"], "abilities": ["Hyper Cutter", "Immunity", "Sand Veil"], "tier": ["UU"], "form": "Base"}}, "overview": "Gligar possesses a unique mix of utility and defensive uses that gives it a solid niche in the UU metagame. Its respectable bulk when holding an Eviolite fits well with its wide array of support moves such as Stealth Rock, Defog, U-turn, and Knock Off. Its Ground / Flying typing also leaves it with only two weaknesses, notably providing a resistance to U-turn and immunity to Volt Switch, stopping users like Mega Manectric in their tracks. Additionally, it is one of the best answers to the some of the tier's hard-hitting Fighting-types like Cobalion, Choice-item Infernape, and Choice Band Terrakion. However, Gligar must invest significantly into Defense to handle the aforementioned physical threats, leaving it vulnerable to special wallbreakers like Moltres and Hydreigon, given its lackluster Special Defense stat. Gligar also finds itself more passive than it would prefer, offering opportunities for setup sweepers to start accumulating boosts and muscle past it. Lastly, Gligar's heavy reliance on its Eviolite to maintain its defensive capabilities makes it vulnerable to Knock Off from Pokemon like Krookodile, Scizor, and Zeraora.\n", "strategies' format": "UU", "strategies": [{"name": "Defensive Utility", "stats": [229, 186, 313, 95, 191, 206], "type": ["Ground", "Flying"], "usage": "Gligar is best used early- to mid-game as a bulky pivot capable of either setting Stealth Rock or removing entry hazards with Defog when presented with the opportunity. These opportunities are often found by Gligar switching into threats that it matches up well against like Infernape, Terrakion, Nihilego, and Mega Manectric. Gligar also fares well against bulky Steel-types, most notably when it is running Defog to counteract Stealth Rock setters like Mega Aggron and Cobalion. U-turn can either be used when predicting an opposing switch to gain momentum or when stomaching a hit to bring in a teammate into a favorable position more safely. Keep Gligar healthy if it is necessary in order to keep a threat in check, but play more aggressively with U-turn if health is not a priority. Use Toxic and Knock Off to cripple Pokemon like Swampert, Suicune, and Mantine as they attempt to switch in safely on Gligar. Be wary of Knock Off users such as Krookodile and Alolan Muk, as while Gligar can beat them one-on-one if needed, it heavily relies on its Eviolite to remain as bulky as possible to check the threats it is meant to.", "moves": [["Earthquake"], ["Roost"], ["Defog", "Stealth Rock"], ["U-turn", "Toxic", "Knock Off"]], "item": [" Eviolite"], "ability": ["Immunity"], "nature": ["Impish"], "ev spread": [252, 0, 156, 0, 100, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Water-types", "Special Wallbreakers", "Setup Sweepers", "Knock Off"], "credits": ["Written by Pak", "Quality checked by nuked, Eyan,  and martha", "Grammar checked by talkingtree and The Dutch Plumberjack"]}
+{
+    "name": "Gligar",
+    "forms": {
+        "Base": {
+            "base stats": [
+                65,
+                75,
+                105,
+                35,
+                65,
+                85
+            ],
+            "types": [
+                "Ground",
+                "Flying"
+            ],
+            "abilities": [
+                "Hyper Cutter",
+                "Immunity",
+                "Sand Veil"
+            ],
+            "tier": [
+                "UU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Gligar possesses a unique mix of utility and defensive uses that gives it a solid niche in the UU metagame. Its respectable bulk when holding an Eviolite fits well with its wide array of support moves such as Stealth Rock, Defog, U-turn, and Knock Off. Its Ground / Flying typing also leaves it with only two weaknesses, notably providing a resistance to U-turn and immunity to Volt Switch, stopping users like Mega Manectric in their tracks. Additionally, it is one of the best answers to the some of the tier's hard-hitting Fighting-types like Cobalion, Choice-item Infernape, and Choice Band Terrakion. However, Gligar must invest significantly into Defense to handle the aforementioned physical threats, leaving it vulnerable to special wallbreakers like Moltres and Hydreigon, given its lackluster Special Defense stat. Gligar also finds itself more passive than it would prefer, offering opportunities for setup sweepers to start accumulating boosts and muscle past it. Lastly, Gligar's heavy reliance on its Eviolite to maintain its defensive capabilities makes it vulnerable to Knock Off from Pokemon like Krookodile, Scizor, and Zeraora.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Defensive Utility",
+            "stats": [
+                229,
+                186,
+                313,
+                95,
+                191,
+                206
+            ],
+            "type": [
+                "Ground",
+                "Flying"
+            ],
+            "usage": "Gligar is best used early- to mid-game as a bulky pivot capable of either setting Stealth Rock or removing entry hazards with Defog when presented with the opportunity. These opportunities are often found by Gligar switching into threats that it matches up well against like Infernape, Terrakion, Nihilego, and Mega Manectric. Gligar also fares well against bulky Steel-types, most notably when it is running Defog to counteract Stealth Rock setters like Mega Aggron and Cobalion. U-turn can either be used when predicting an opposing switch to gain momentum or when stomaching a hit to bring in a teammate into a favorable position more safely. Keep Gligar healthy if it is necessary in order to keep a threat in check, but play more aggressively with U-turn if health is not a priority. Use Toxic and Knock Off to cripple Pokemon like Swampert, Suicune, and Mantine as they attempt to switch in safely on Gligar. Be wary of Knock Off users such as Krookodile and Alolan Muk, as while Gligar can beat them one-on-one if needed, it heavily relies on its Eviolite to remain as bulky as possible to check the threats it is meant to.",
+            "moves": [
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Roost"
+                ],
+                [
+                    "Defog",
+                    "Stealth Rock"
+                ],
+                [
+                    "U-turn",
+                    "Toxic",
+                    "Knock Off"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Immunity"
+            ],
+            "nature": [
+                "Impish"
+            ],
+            "ev spread": [
+                252,
+                0,
+                156,
+                0,
+                100,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Water-types",
+        "Special Wallbreakers",
+        "Setup Sweepers",
+        "Knock Off"
+    ],
+    "credits": [
+        "Written by Pak",
+        "Quality checked by nuked, Eyan,  and martha",
+        "Grammar checked by talkingtree and The Dutch Plumberjack"
+    ]
+}

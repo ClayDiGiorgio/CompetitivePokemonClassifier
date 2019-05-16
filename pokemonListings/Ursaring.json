@@ -1,1 +1,97 @@
-{"name": "Ursaring", "forms": {"Base": {"base stats": [90, 130, 75, 75, 75, 55], "types": ["Normal"], "abilities": ["Guts", "Quick Feet", "Unnerve"], "tier": ["Untiered"], "form": "Base"}}, "overview": "A monstrous base Attack stat of 130, access to Swords Dance, and a powerful ability in Guts make Ursaring a force to be reckoned with as a physical wallbreaker. This, combined with its fairly low Speed, makes it a near mandatory member for Trick Room teams as a wallbreaker, making it easier for teammates to clean up. Its bulk is good enough so that it isn't too threatened by priority outside of Mach Punch. However, Ursaring's Speed and mediocre bulk mean that, outside of Trick Room, it's very vulnerable to faster attackers. It also faces competition from other physical Normal-types such as Kangaskhan and Zangoose, which fit on more common playstyles, while Ursaring is usually dedicated to only Trick Room. While it does have a large number of coverage moves, Ursaring finds itself very predictable because it generally chooses the same moves for any set.\n", "strategies' format": "PU", "strategies": [{"name": "Trick Room Wallbreaker", "stats": [279, 394, 186, 186, 187, 103], "type": ["Normal"], "usage": "Ursaring under Trick Room is a dedicated physical wallbreaker, as there aren't many good checks to it that can take its Facade after a boost. Even with a sky-high Attack stat, Ursaring can fail to harm defensive Ghost-types that run Foul Play like Gourgeist-XL and Spiritomb, so it should try to play around those. Ursaring should try to use Swords Dance when coming in on a weak foe like defensive Mesprit or Clefairy, though it should be wary of the rare Knock Off. Because Ursaring is a very prediction-reliant Pokemon and Trick Room is a hyper offensive playstyle, Ursaring should take advantage of the limited turns as much as possible. As its main role is to be a wallbreaker, it should allow a late-game cleaner like Alolan Exeggutor to finish off the other parts of a team.", "moves": [["Swords Dance"], ["Facade"], ["Crunch"], ["Close Combat"]], "item": [" Flame Orb"], "ability": ["Guts"], "nature": ["Brave"], "ev spread": [252, 252, 0, 0, 4, 0], "iv spread": [31, 31, 31, 31, 31, 0]}], "counters": ["Fighting-type Pokemon", "Physical Walls", "Ghost-type Pokemon", "Fake Out and Protect", "Faster Pokemon"], "credits": ["Written by SergioRules", "Quality checked by allstarapology, jklioe,  and yogi", "Grammar checked by martha and The Dutch Plumberjack"]}
+{
+    "name": "Ursaring",
+    "forms": {
+        "Base": {
+            "base stats": [
+                90,
+                130,
+                75,
+                75,
+                75,
+                55
+            ],
+            "types": [
+                "Normal"
+            ],
+            "abilities": [
+                "Guts",
+                "Quick Feet",
+                "Unnerve"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "A monstrous base Attack stat of 130, access to Swords Dance, and a powerful ability in Guts make Ursaring a force to be reckoned with as a physical wallbreaker. This, combined with its fairly low Speed, makes it a near mandatory member for Trick Room teams as a wallbreaker, making it easier for teammates to clean up. Its bulk is good enough so that it isn't too threatened by priority outside of Mach Punch. However, Ursaring's Speed and mediocre bulk mean that, outside of Trick Room, it's very vulnerable to faster attackers. It also faces competition from other physical Normal-types such as Kangaskhan and Zangoose, which fit on more common playstyles, while Ursaring is usually dedicated to only Trick Room. While it does have a large number of coverage moves, Ursaring finds itself very predictable because it generally chooses the same moves for any set.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Trick Room Wallbreaker",
+            "stats": [
+                279,
+                394,
+                186,
+                186,
+                187,
+                103
+            ],
+            "type": [
+                "Normal"
+            ],
+            "usage": "Ursaring under Trick Room is a dedicated physical wallbreaker, as there aren't many good checks to it that can take its Facade after a boost. Even with a sky-high Attack stat, Ursaring can fail to harm defensive Ghost-types that run Foul Play like Gourgeist-XL and Spiritomb, so it should try to play around those. Ursaring should try to use Swords Dance when coming in on a weak foe like defensive Mesprit or Clefairy, though it should be wary of the rare Knock Off. Because Ursaring is a very prediction-reliant Pokemon and Trick Room is a hyper offensive playstyle, Ursaring should take advantage of the limited turns as much as possible. As its main role is to be a wallbreaker, it should allow a late-game cleaner like Alolan Exeggutor to finish off the other parts of a team.",
+            "moves": [
+                [
+                    "Swords Dance"
+                ],
+                [
+                    "Facade"
+                ],
+                [
+                    "Crunch"
+                ],
+                [
+                    "Close Combat"
+                ]
+            ],
+            "item": [
+                " Flame Orb"
+            ],
+            "ability": [
+                "Guts"
+            ],
+            "nature": [
+                "Brave"
+            ],
+            "ev spread": [
+                252,
+                252,
+                0,
+                0,
+                4,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                0
+            ]
+        }
+    ],
+    "counters": [
+        "Fighting-type Pokemon",
+        "Physical Walls",
+        "Ghost-type Pokemon",
+        "Fake Out and Protect",
+        "Faster Pokemon"
+    ],
+    "credits": [
+        "Written by SergioRules",
+        "Quality checked by allstarapology, jklioe,  and yogi",
+        "Grammar checked by martha and The Dutch Plumberjack"
+    ]
+}

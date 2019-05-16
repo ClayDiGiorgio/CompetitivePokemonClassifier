@@ -1,1 +1,209 @@
-{"name": "Braviary", "forms": {"Base": {"base stats": [100, 123, 75, 57, 75, 80], "types": ["Normal", "Flying"], "abilities": ["Defiant", "Keen Eye", "Sheer Force"], "tier": ["NU"], "form": "Base"}}, "overview": "Braviary can effectively perform the role of a wallbreaker, late-game sweeper, or revenge killer thanks to its access to utility moves like Bulk Up and U-turn, above average Speed, and great Attack. In addition, its great coverage between just Brave Bird and Superpower leaves it walled by very few Pokemon, meaning it can be very difficult to answer defensively. Braviary can also provide great support for its team, since U-turn lets it bring in dangerous wallbreakers, while its ability Defiant dissuades and punishes the use of Defog. Additionally, the sheer special bulk of the Substitute + Bulk Up set lets Braviary check Grass-types like Sceptile and Whimsicott as well as other special attackers like Guzzlord and Accelgor. Unfortunately, Bulk Up variants of Braviary are easy to check defensively with Pokemon such as Rhydon and Steelix and rely on moves that cut into their longevity, leaving them more easily revenge killed. Choice Scarf Braviary is harder to revenge kill but is much weaker, since it cannot boost. Braviary also deals with a weakness to Stealth Rock, limiting the number of turns it can safely switch in before having to recover with Roost and thus providing the foe with a free turn. Faster offensive Pokemon like Heliolisk and Mega Glalie also give Braviary problems, as they can easily take advantage of Braviary's lesser Speed and OHKO it.\n", "strategies' format": "NU", "strategies": [{"name": "Offensive Bulk Up", "stats": [236, 345, 187, 135, 186, 284], "type": ["Normal", "Flying"], "usage": "Braviary is best used early- and mid-game to wallbreak for its teammates with its boosted attacks. Braviary gets good opportunities to set up against Pokemon like Torterra, Palossand, and non-Toxic Mega Audino that are incapable of threatening it. Additionally, Braviary can use Roost to repeatedly take advantage of and switch into these Pokemon. However, Braviary can instead opt to just fire off unboosted attacks at switch-ins to weaken them for later, as Brave Bird and Superpower hit incredibly hard even unboosted and doing so lets Braviary more effectively wallbreak mid- to late-game with its Bulk Up-boosted attacks. Braviary should save its Z-Move for Pokemon such as Steelix, Vaporeon, and Weezing that can severely punish Braviary for not OHKOing them. If no opportunities to safely use Bulk Up present themselves, Braviary can try to get an Attack boost by switching into Defog from the likes of Decidueye, Golbat, and Silvally-Steel. However, be careful of switching into Rotom, as it outspeeds Braviary and can punish it with Will-O-Wisp or super effective damage. When using Fightinium Z, Braviary can break Steel- and Rock-types such as Steelix and Rhydon much more reliably for its teammates.", "moves": [["Brave Bird"], ["Superpower"], ["Bulk Up"], ["Roost"]], "item": [" Fightinium Z", " Flyinium Z"], "ability": ["Defiant"], "nature": ["Jolly"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Substitute + Bulk Up", "stats": [299, 282, 186, 135, 226, 242], "type": ["Normal", "Flying"], "usage": "Braviary is best preserved for late-game, as it will struggle to defeat its checks before they are adequately worn down or removed, and it must be healthy to reliably set up. However, Braviary can be pivoted into certain special attacks like Sceptile's Leaf Storm, Alolan Exeggutor's Leaf Storm, and Whimsicott's Moonblast thanks to its good bulk and Roost. Braviary should look to set up Substitute against passive Pokemon incapable of breaking it, such as Palossand, Mega Audino, and Miltank. From there, Braviary can look to use Bulk Up. Although Substitute shields Braviary from status conditions from the likes of Steelix, Vaporeon, and Rotom, it is imperative that Braviary be careful against Golbat. Golbat can badly poison Braviary with Toxic no matter what thanks to its ability Infiltrator. It is also important to keep Braviary at high HP against Choice Specs Heliolisk, as Hyper Voice bypasses Substitute and does a large number.", "moves": [["Substitute"], ["Bulk Up"], ["Brave Bird"], ["Roost"]], "item": [" Leftovers"], "ability": ["Defiant"], "nature": ["Jolly"], "ev spread": [252, 0, 0, 0, 160, 96], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Choice Scarf", "stats": [236, 345, 187, 135, 186, 284], "type": ["Normal", "Flying"], "usage": "Thanks to the Speed boost from Choice Scarf, this Braviary set functions as a great revenge killer for fast threats such as Sceptile, Choice Specs Heliolisk, and Whimsicott. Braviary can also function as a late-game cleaner with its strong STAB attacks once its checks are weakened or removed. Since Defiant provides Braviary with a large Attack boost if it switches into Defog, Braviary should attempt to gain said boost if possible, as the boost makes it nearly impossible to safely switch into. When predicting an opponent to switch to a Pokemon such as Steelix or Rhydon, using Superpower to weaken it for later in the battle is effective in creating the ideal late-game for Braviary. Using U-turn is also an option to bring in a teammate that immediately threatens to KO the foe. Once its checks have been weakened or removed, Braviary can take advantage of its strong STAB attacks to clean up opposing teams.", "moves": [["Brave Bird"], ["Return"], ["U-turn"], ["Superpower"]], "item": [" Choice Scarf"], "ability": ["Defiant"], "nature": ["Jolly"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Rock-types and Steelix", "Electric-types", "Stealth Rock"], "credits": ["Written by Rabia", "Earlier versions by quziel", "Quality checked by banks, quziel,  and Eternally", "Grammar checked by The Dutch Plumberjack and A Cake Wearing A Hat"]}
+{
+    "name": "Braviary",
+    "forms": {
+        "Base": {
+            "base stats": [
+                100,
+                123,
+                75,
+                57,
+                75,
+                80
+            ],
+            "types": [
+                "Normal",
+                "Flying"
+            ],
+            "abilities": [
+                "Defiant",
+                "Keen Eye",
+                "Sheer Force"
+            ],
+            "tier": [
+                "NU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Braviary can effectively perform the role of a wallbreaker, late-game sweeper, or revenge killer thanks to its access to utility moves like Bulk Up and U-turn, above average Speed, and great Attack. In addition, its great coverage between just Brave Bird and Superpower leaves it walled by very few Pokemon, meaning it can be very difficult to answer defensively. Braviary can also provide great support for its team, since U-turn lets it bring in dangerous wallbreakers, while its ability Defiant dissuades and punishes the use of Defog. Additionally, the sheer special bulk of the Substitute + Bulk Up set lets Braviary check Grass-types like Sceptile and Whimsicott as well as other special attackers like Guzzlord and Accelgor. Unfortunately, Bulk Up variants of Braviary are easy to check defensively with Pokemon such as Rhydon and Steelix and rely on moves that cut into their longevity, leaving them more easily revenge killed. Choice Scarf Braviary is harder to revenge kill but is much weaker, since it cannot boost. Braviary also deals with a weakness to Stealth Rock, limiting the number of turns it can safely switch in before having to recover with Roost and thus providing the foe with a free turn. Faster offensive Pokemon like Heliolisk and Mega Glalie also give Braviary problems, as they can easily take advantage of Braviary's lesser Speed and OHKO it.\n",
+    "strategies' format": "NU",
+    "strategies": [
+        {
+            "name": "Offensive Bulk Up",
+            "stats": [
+                236,
+                345,
+                187,
+                135,
+                186,
+                284
+            ],
+            "type": [
+                "Normal",
+                "Flying"
+            ],
+            "usage": "Braviary is best used early- and mid-game to wallbreak for its teammates with its boosted attacks. Braviary gets good opportunities to set up against Pokemon like Torterra, Palossand, and non-Toxic Mega Audino that are incapable of threatening it. Additionally, Braviary can use Roost to repeatedly take advantage of and switch into these Pokemon. However, Braviary can instead opt to just fire off unboosted attacks at switch-ins to weaken them for later, as Brave Bird and Superpower hit incredibly hard even unboosted and doing so lets Braviary more effectively wallbreak mid- to late-game with its Bulk Up-boosted attacks. Braviary should save its Z-Move for Pokemon such as Steelix, Vaporeon, and Weezing that can severely punish Braviary for not OHKOing them. If no opportunities to safely use Bulk Up present themselves, Braviary can try to get an Attack boost by switching into Defog from the likes of Decidueye, Golbat, and Silvally-Steel. However, be careful of switching into Rotom, as it outspeeds Braviary and can punish it with Will-O-Wisp or super effective damage. When using Fightinium Z, Braviary can break Steel- and Rock-types such as Steelix and Rhydon much more reliably for its teammates.",
+            "moves": [
+                [
+                    "Brave Bird"
+                ],
+                [
+                    "Superpower"
+                ],
+                [
+                    "Bulk Up"
+                ],
+                [
+                    "Roost"
+                ]
+            ],
+            "item": [
+                " Fightinium Z",
+                " Flyinium Z"
+            ],
+            "ability": [
+                "Defiant"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Substitute + Bulk Up",
+            "stats": [
+                299,
+                282,
+                186,
+                135,
+                226,
+                242
+            ],
+            "type": [
+                "Normal",
+                "Flying"
+            ],
+            "usage": "Braviary is best preserved for late-game, as it will struggle to defeat its checks before they are adequately worn down or removed, and it must be healthy to reliably set up. However, Braviary can be pivoted into certain special attacks like Sceptile's Leaf Storm, Alolan Exeggutor's Leaf Storm, and Whimsicott's Moonblast thanks to its good bulk and Roost. Braviary should look to set up Substitute against passive Pokemon incapable of breaking it, such as Palossand, Mega Audino, and Miltank. From there, Braviary can look to use Bulk Up. Although Substitute shields Braviary from status conditions from the likes of Steelix, Vaporeon, and Rotom, it is imperative that Braviary be careful against Golbat. Golbat can badly poison Braviary with Toxic no matter what thanks to its ability Infiltrator. It is also important to keep Braviary at high HP against Choice Specs Heliolisk, as Hyper Voice bypasses Substitute and does a large number.",
+            "moves": [
+                [
+                    "Substitute"
+                ],
+                [
+                    "Bulk Up"
+                ],
+                [
+                    "Brave Bird"
+                ],
+                [
+                    "Roost"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Defiant"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                252,
+                0,
+                0,
+                0,
+                160,
+                96
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Choice Scarf",
+            "stats": [
+                236,
+                345,
+                187,
+                135,
+                186,
+                284
+            ],
+            "type": [
+                "Normal",
+                "Flying"
+            ],
+            "usage": "Thanks to the Speed boost from Choice Scarf, this Braviary set functions as a great revenge killer for fast threats such as Sceptile, Choice Specs Heliolisk, and Whimsicott. Braviary can also function as a late-game cleaner with its strong STAB attacks once its checks are weakened or removed. Since Defiant provides Braviary with a large Attack boost if it switches into Defog, Braviary should attempt to gain said boost if possible, as the boost makes it nearly impossible to safely switch into. When predicting an opponent to switch to a Pokemon such as Steelix or Rhydon, using Superpower to weaken it for later in the battle is effective in creating the ideal late-game for Braviary. Using U-turn is also an option to bring in a teammate that immediately threatens to KO the foe. Once its checks have been weakened or removed, Braviary can take advantage of its strong STAB attacks to clean up opposing teams.",
+            "moves": [
+                [
+                    "Brave Bird"
+                ],
+                [
+                    "Return"
+                ],
+                [
+                    "U-turn"
+                ],
+                [
+                    "Superpower"
+                ]
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Defiant"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Rock-types and Steelix",
+        "Electric-types",
+        "Stealth Rock"
+    ],
+    "credits": [
+        "Written by Rabia",
+        "Earlier versions by quziel",
+        "Quality checked by banks, quziel,  and Eternally",
+        "Grammar checked by The Dutch Plumberjack and A Cake Wearing A Hat"
+    ]
+}

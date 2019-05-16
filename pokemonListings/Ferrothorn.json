@@ -1,1 +1,105 @@
-{"name": "Ferrothorn", "forms": {"Base": {"base stats": [74, 94, 131, 54, 116, 20], "types": ["Grass", "Steel"], "abilities": ["Anticipation", "Iron Barbs"], "tier": ["OU"], "form": "Base"}}, "overview": "Ferrothorn is a premier hazard setter in the OU tier, as it has access to both Spikes and Stealth Rock. They are very important in pressuring opposing teams as they switch Pokemon, which is why Ferrothorn is so successful. Ferrothorn can also annoy other teams with moves like Leech Seed and Knock Off, which whittle or cripple opposing Pokemon. Thanks to solid defenses and an excellent Grass / Steel typing that provides plenty of resistances, it finds many opportunities to set up entry hazards or fire off moves to annoy the opposing team. Ferrothorn is naturally a good check to Pokemon such as Tapu Koko, Kingdra, Ash-Greninja, and Mega Swampert, though it is easily worn down by the latter two. While Ferrothorn is a very good Pokemon, it is extremely slow, which hampers its offensive presence, since it will practically always be outsped. Fortunately, it has high-Base Power STAB moves, so it is not completely passive. Ferrothorn is also 4x weak to Fire, so it should be wary of Hidden Power Fire from Pokemon like Greninja, and it is easily forced out by Heatran and other Fire-types.\n", "strategies' format": "OU", "strategies": [{"name": "Hazard Setter", "stats": [247, 224, 304, 144, 358, 40], "type": ["Grass", "Steel"], "usage": "Switch in Ferrothorn on favorable circumstances, like when against weaker Pokemon such as Toxapex or Pokemon that it walls such as Tapu Koko. Use the early turns with Ferrothorn to set up entry hazards, because this pressures the opponent's entire team and in some cases forces in hazard removers. Leech Seed and Knock Off should be used to whittle down threats as they switch in, particularly if you predict big threats to switch in or if Ferrothorn has already set up hazards. Leech Seed should also be used to keep Ferrothorn healthy throughout the match so that it can stick around to check various threats or set up entry hazards again if they get removed. Generally, it is best not to sacrifice Ferrothorn until the opposing hazard remover has been weakened, if one's present at all.", "moves": [["Spikes", "Stealth Rock"], ["Leech Seed"], ["Gyro Ball", "Thunder Wave", "Knock Off"], ["Power Whip", "Protect", "Knock Off"]], "item": [" Leftovers"], "ability": ["Iron Barbs"], "nature": ["Sassy", "Careful"], "ev spread": [252, 0, 24, 0, 232, 0], "iv spread": [31, 31, 31, 31, 31, 0]}], "counters": ["Fire-types", "Electric-types with Fire-type Coverage", "Mega Sableye", "Grass-types", "Fighting-types", "Wallbreakers"], "credits": ["Written by bludz", "Quality checked by Gary, dk,  and Finchinator", "Grammar checked by lotiasite and CryoGyro"]}
+{
+    "name": "Ferrothorn",
+    "forms": {
+        "Base": {
+            "base stats": [
+                74,
+                94,
+                131,
+                54,
+                116,
+                20
+            ],
+            "types": [
+                "Grass",
+                "Steel"
+            ],
+            "abilities": [
+                "Anticipation",
+                "Iron Barbs"
+            ],
+            "tier": [
+                "OU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Ferrothorn is a premier hazard setter in the OU tier, as it has access to both Spikes and Stealth Rock. They are very important in pressuring opposing teams as they switch Pokemon, which is why Ferrothorn is so successful. Ferrothorn can also annoy other teams with moves like Leech Seed and Knock Off, which whittle or cripple opposing Pokemon. Thanks to solid defenses and an excellent Grass / Steel typing that provides plenty of resistances, it finds many opportunities to set up entry hazards or fire off moves to annoy the opposing team. Ferrothorn is naturally a good check to Pokemon such as Tapu Koko, Kingdra, Ash-Greninja, and Mega Swampert, though it is easily worn down by the latter two. While Ferrothorn is a very good Pokemon, it is extremely slow, which hampers its offensive presence, since it will practically always be outsped. Fortunately, it has high-Base Power STAB moves, so it is not completely passive. Ferrothorn is also 4x weak to Fire, so it should be wary of Hidden Power Fire from Pokemon like Greninja, and it is easily forced out by Heatran and other Fire-types.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Hazard Setter",
+            "stats": [
+                247,
+                224,
+                304,
+                144,
+                358,
+                40
+            ],
+            "type": [
+                "Grass",
+                "Steel"
+            ],
+            "usage": "Switch in Ferrothorn on favorable circumstances, like when against weaker Pokemon such as Toxapex or Pokemon that it walls such as Tapu Koko. Use the early turns with Ferrothorn to set up entry hazards, because this pressures the opponent's entire team and in some cases forces in hazard removers. Leech Seed and Knock Off should be used to whittle down threats as they switch in, particularly if you predict big threats to switch in or if Ferrothorn has already set up hazards. Leech Seed should also be used to keep Ferrothorn healthy throughout the match so that it can stick around to check various threats or set up entry hazards again if they get removed. Generally, it is best not to sacrifice Ferrothorn until the opposing hazard remover has been weakened, if one's present at all.",
+            "moves": [
+                [
+                    "Spikes",
+                    "Stealth Rock"
+                ],
+                [
+                    "Leech Seed"
+                ],
+                [
+                    "Gyro Ball",
+                    "Thunder Wave",
+                    "Knock Off"
+                ],
+                [
+                    "Power Whip",
+                    "Protect",
+                    "Knock Off"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Iron Barbs"
+            ],
+            "nature": [
+                "Sassy",
+                "Careful"
+            ],
+            "ev spread": [
+                252,
+                0,
+                24,
+                0,
+                232,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                0
+            ]
+        }
+    ],
+    "counters": [
+        "Fire-types",
+        "Electric-types with Fire-type Coverage",
+        "Mega Sableye",
+        "Grass-types",
+        "Fighting-types",
+        "Wallbreakers"
+    ],
+    "credits": [
+        "Written by bludz",
+        "Quality checked by Gary, dk,  and Finchinator",
+        "Grammar checked by lotiasite and CryoGyro"
+    ]
+}

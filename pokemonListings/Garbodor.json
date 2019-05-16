@@ -1,1 +1,157 @@
-{"name": "Garbodor", "forms": {"Base": {"base stats": [80, 95, 82, 60, 82, 75], "types": ["Poison"], "abilities": ["Aftermath", "Stench", "Weak Armor"], "tier": ["NU"], "form": "Base"}}, "overview": "Garbodor is one of NU's most reliable Spikes setters thanks to its workable bulk, its very useful defensive typing, and its power that allows it to forcibly bypass Xatu. Furthermore, Garbodor's pure Poison typing and above average defensive stats mean it can function as a check to some of NU's most threatening Pokemon in Passimian and Comfey. A wide offensive movepool combined with workable base 95 Attack lets Garbodor threaten Xatu with a STAB Gunk Shot while threatening Pokemon such as Seismitoad and Silvally-Steel with Seed Bomb and Stomping Tantrum. In addition, a utility movepool including Spikes and Toxic Spikes and options such as Explosion and Pain Split gives Garbodor the ability to easily set up entry hazards against an enemy team and either keep them up or keep itself healthy. However, while Gunk Shot is fairly powerful, Garbodor's only good Attack means that it struggles to threaten Pokemon such as Rhydon and Steelix, even with its coverage options. Furthermore, while its bulk is good enough to take resisted hits, Garbodor finds itself taking significant damage from neutral attacks, and it finds itself threatened by coverage moves, taking very heavy damage from Passimian's Earthquake and Whimsicott's Psychic.\n", "strategies' format": "NU", "strategies": [{"name": "Offensive Spikes Setter", "stats": [197, 317, 200, 140, 200, 249], "type": ["Poison"], "usage": "Garbodor is often better off using Gunk Shot if the opponent has a Xatu, as it can immediately bounce back any Spikes Garbodor uses if it switches in correctly. Gunk Shot deals heavy damage to most Pokemon that do not resist it and can be used to buy a turn to use Spikes, for example against Vaporeon, which is often forced to Wish if it switches into Gunk Shot. Garbodor should be brought in often against Grass-types such as Vileplume, as the more turns it has to set up Spikes, the more Garbodor can support its team. Be careful of coverage moves such as Earthquake from Passimian and status moves such as Sleep Powder from Vileplume, as they can leave Garbodor crippled for the rest of a match. Explosion should be used when the opponent is predicted to use either Defog or Rapid Spin, as it stops them from removing entry hazards while also dealing heavy damage. If it's running the correct coverage, an enemy such as Silvally-Steel or Blastoise using Defog or Rapid Spin can often be a free turn for Garbodor to attack.", "moves": [["Gunk Shot"], ["Spikes"], ["Stomping Tantrum", "Toxic Spikes", "Seed Bomb"], ["Explosion"]], "item": [" Toxic Plate", " Black Sludge"], "ability": ["Aftermath"], "nature": ["Adamant", "Jolly"], "ev spread": [4, 252, 0, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Defensive Spikes Setter", "stats": [259, 226, 200, 140, 282, 193], "type": ["Poison"], "usage": "If facing Xatu, don't immediately try to set up Spikes, as an opponent will often try to reflect them or scout which Garbodor set is being run by switching into it. Better options are to use Gunk Shot to damage Xatu or switch out to a teammate that can punish it such as Sneasel or Heliolisk. When against an opponent without Xatu, it is often helpful to immediately set up entry hazards, as it will force the opponent to quickly remove them, or they will consistently take significant damage. Garbodor should generally be brought in against attacks it resists, such as Comfey's Draining Kiss and Passimian's Close Combat, although it should be wary of coverage moves, such as Passimian's Earthquake. Prioritize Spikes over Toxic Spikes if the opponent has a grounded Poison-type such as Vileplume, and generally try to prioritize Toxic Spikes if the opponent's hazard remover is vulnerable to Toxic Spikes or if the opponent has a Pokemon such as Slowking or Dhelmise that needs to be poisoned. Aftermath can be used to deal significant damage to the opponent that KOes Garbodor, so try to keep Garbodor around for the right time once it gets to low HP.", "moves": [["Gunk Shot"], ["Spikes"], ["Toxic Spikes", "Seed Bomb"], ["Pain Split"]], "item": [" Black Sludge", " Rocky Helmet"], "ability": ["Aftermath"], "nature": ["Careful"], "ev spread": [252, 0, 0, 0, 228, 28], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Ground-types", "Xatu", "Entry Hazard Removal", "Super Effective Coverage"], "credits": ["Written by quziel", "Earlier Versions by Nuked", "Quality checked by Rabia, Eternally,  and Yoshi", "Grammar checked by Rabia and The Dutch Plumberjack"]}
+{
+    "name": "Garbodor",
+    "forms": {
+        "Base": {
+            "base stats": [
+                80,
+                95,
+                82,
+                60,
+                82,
+                75
+            ],
+            "types": [
+                "Poison"
+            ],
+            "abilities": [
+                "Aftermath",
+                "Stench",
+                "Weak Armor"
+            ],
+            "tier": [
+                "NU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Garbodor is one of NU's most reliable Spikes setters thanks to its workable bulk, its very useful defensive typing, and its power that allows it to forcibly bypass Xatu. Furthermore, Garbodor's pure Poison typing and above average defensive stats mean it can function as a check to some of NU's most threatening Pokemon in Passimian and Comfey. A wide offensive movepool combined with workable base 95 Attack lets Garbodor threaten Xatu with a STAB Gunk Shot while threatening Pokemon such as Seismitoad and Silvally-Steel with Seed Bomb and Stomping Tantrum. In addition, a utility movepool including Spikes and Toxic Spikes and options such as Explosion and Pain Split gives Garbodor the ability to easily set up entry hazards against an enemy team and either keep them up or keep itself healthy. However, while Gunk Shot is fairly powerful, Garbodor's only good Attack means that it struggles to threaten Pokemon such as Rhydon and Steelix, even with its coverage options. Furthermore, while its bulk is good enough to take resisted hits, Garbodor finds itself taking significant damage from neutral attacks, and it finds itself threatened by coverage moves, taking very heavy damage from Passimian's Earthquake and Whimsicott's Psychic.\n",
+    "strategies' format": "NU",
+    "strategies": [
+        {
+            "name": "Offensive Spikes Setter",
+            "stats": [
+                197,
+                317,
+                200,
+                140,
+                200,
+                249
+            ],
+            "type": [
+                "Poison"
+            ],
+            "usage": "Garbodor is often better off using Gunk Shot if the opponent has a Xatu, as it can immediately bounce back any Spikes Garbodor uses if it switches in correctly. Gunk Shot deals heavy damage to most Pokemon that do not resist it and can be used to buy a turn to use Spikes, for example against Vaporeon, which is often forced to Wish if it switches into Gunk Shot. Garbodor should be brought in often against Grass-types such as Vileplume, as the more turns it has to set up Spikes, the more Garbodor can support its team. Be careful of coverage moves such as Earthquake from Passimian and status moves such as Sleep Powder from Vileplume, as they can leave Garbodor crippled for the rest of a match. Explosion should be used when the opponent is predicted to use either Defog or Rapid Spin, as it stops them from removing entry hazards while also dealing heavy damage. If it's running the correct coverage, an enemy such as Silvally-Steel or Blastoise using Defog or Rapid Spin can often be a free turn for Garbodor to attack.",
+            "moves": [
+                [
+                    "Gunk Shot"
+                ],
+                [
+                    "Spikes"
+                ],
+                [
+                    "Stomping Tantrum",
+                    "Toxic Spikes",
+                    "Seed Bomb"
+                ],
+                [
+                    "Explosion"
+                ]
+            ],
+            "item": [
+                " Toxic Plate",
+                " Black Sludge"
+            ],
+            "ability": [
+                "Aftermath"
+            ],
+            "nature": [
+                "Adamant",
+                "Jolly"
+            ],
+            "ev spread": [
+                4,
+                252,
+                0,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Defensive Spikes Setter",
+            "stats": [
+                259,
+                226,
+                200,
+                140,
+                282,
+                193
+            ],
+            "type": [
+                "Poison"
+            ],
+            "usage": "If facing Xatu, don't immediately try to set up Spikes, as an opponent will often try to reflect them or scout which Garbodor set is being run by switching into it. Better options are to use Gunk Shot to damage Xatu or switch out to a teammate that can punish it such as Sneasel or Heliolisk. When against an opponent without Xatu, it is often helpful to immediately set up entry hazards, as it will force the opponent to quickly remove them, or they will consistently take significant damage. Garbodor should generally be brought in against attacks it resists, such as Comfey's Draining Kiss and Passimian's Close Combat, although it should be wary of coverage moves, such as Passimian's Earthquake. Prioritize Spikes over Toxic Spikes if the opponent has a grounded Poison-type such as Vileplume, and generally try to prioritize Toxic Spikes if the opponent's hazard remover is vulnerable to Toxic Spikes or if the opponent has a Pokemon such as Slowking or Dhelmise that needs to be poisoned. Aftermath can be used to deal significant damage to the opponent that KOes Garbodor, so try to keep Garbodor around for the right time once it gets to low HP.",
+            "moves": [
+                [
+                    "Gunk Shot"
+                ],
+                [
+                    "Spikes"
+                ],
+                [
+                    "Toxic Spikes",
+                    "Seed Bomb"
+                ],
+                [
+                    "Pain Split"
+                ]
+            ],
+            "item": [
+                " Black Sludge",
+                " Rocky Helmet"
+            ],
+            "ability": [
+                "Aftermath"
+            ],
+            "nature": [
+                "Careful"
+            ],
+            "ev spread": [
+                252,
+                0,
+                0,
+                0,
+                228,
+                28
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Ground-types",
+        "Xatu",
+        "Entry Hazard Removal",
+        "Super Effective Coverage"
+    ],
+    "credits": [
+        "Written by quziel",
+        "Earlier Versions by Nuked",
+        "Quality checked by Rabia, Eternally,  and Yoshi",
+        "Grammar checked by Rabia and The Dutch Plumberjack"
+    ]
+}

@@ -1,1 +1,100 @@
-{"name": "Bisharp", "forms": {"Base": {"base stats": [65, 125, 100, 60, 70, 70], "types": ["Dark", "Steel"], "abilities": ["Defiant", "Inner Focus", "Pressure"], "tier": ["UU"], "form": "Base"}}, "overview": "Bisharp's combination of two strong STAB moves, a powerful priority move, and the means to boost its Attack makes it a threatening physical attacker in the OU tier. Dark is one of the most devastating offensive typings in the game, which allows Bisharp to pose a big threat to defensive teams with its powerful Knock Off. In addition to this, Swords Dance + Sucker Punch gives Bisharp a powerful cleaning tool that enables it to also be a pretty threatening Pokemon for offensive teams under the right circumstances. Bisharp's Defiant ability bolsters its sweeping capabilities, gaining an Attack boost any time one of its stats is lowered. Its Dark / Steel typing is also somewhat decent, giving Bisharp resistances to common offensive types such as Dragon, Ice, Flying, and Ghost. On the flip side, Bisharp's relatively low base 70 Speed leaves it outsped by the majority of the offensive metagame, making it heavily reliant on Sucker Punch, a move that can be circumvented if the foe does not use an attacking move. Bisharp is also relatively frail, unable to take most moderately strong attacks if it does not resist them. Also, while Bisharp may only have three weaknesses, they are three of the most common typings in the tier: Fire, Ground, and Fighting.\n", "strategies' format": "OU", "strategies": [{"name": "Swords Dance", "stats": [166, 383, 236, 140, 177, 239], "type": ["Dark", "Steel"], "usage": "One of the first things to note is that if one is using Darkinium Z Bisharp, Sucker Punch has a higher 70 Base Power compared to Knock Off's 65, meaning that using Sucker Punch as the Z-Move will give Dark Hole Eclipse a higher Base Power. It is also worth noting that Z-Moves have neutral priority by default, so using Sucker Punch as the base of the Z-Move will not cause the attack to have +1 priority; it will be neutral priority. Bisharp is used either as an early- and mid-game wallbreaker or as a late-game cleaner. As a wallbreaker, Bisharp can pave the way for another sweeper by using Knock Off or Black Hole Eclipse to weaken or KO a threatening defensive Pokemon. However, sometimes all that is needed is for Bisharp to use Sucker Punch to weaken an offensive threat so that it can then be revenge killed by a teammate. As a late-game cleaner, Bisharp will most likely utilize the combination of Swords Dance and Sucker Punch to sweep through a weakened team. Keep in mind that Bisharp's excellent Defiant ability means that it has the capacity to become a massive threat at any turn, as it gains an Attack boost if any of its stats are lowered. This will often cause Defog users to think twice before removing entry hazards, and Intimidate users such as Landorus-T and Gyarados also have to play carefully around Bisharp, as if they don't, things can get out of hand quickly.", "moves": [["Knock Off"], ["Iron Head"], ["Sucker Punch"], ["Swords Dance"]], "item": [" Darkinium Z", " Black Glasses"], "ability": ["Defiant"], "nature": ["Adamant", "Jolly"], "ev spread": [0, 252, 0, 0, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Fighting-types", "Physically Defensive Pokemon", "Dark-types"], "credits": ["Written by false", "Earlier versions by Vague", "Quality checked by PK Gaming, Gary,  and Finchinator", "Grammar checked by Eien and Fireflame479"]}
+{
+    "name": "Bisharp",
+    "forms": {
+        "Base": {
+            "base stats": [
+                65,
+                125,
+                100,
+                60,
+                70,
+                70
+            ],
+            "types": [
+                "Dark",
+                "Steel"
+            ],
+            "abilities": [
+                "Defiant",
+                "Inner Focus",
+                "Pressure"
+            ],
+            "tier": [
+                "UU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Bisharp's combination of two strong STAB moves, a powerful priority move, and the means to boost its Attack makes it a threatening physical attacker in the OU tier. Dark is one of the most devastating offensive typings in the game, which allows Bisharp to pose a big threat to defensive teams with its powerful Knock Off. In addition to this, Swords Dance + Sucker Punch gives Bisharp a powerful cleaning tool that enables it to also be a pretty threatening Pokemon for offensive teams under the right circumstances. Bisharp's Defiant ability bolsters its sweeping capabilities, gaining an Attack boost any time one of its stats is lowered. Its Dark / Steel typing is also somewhat decent, giving Bisharp resistances to common offensive types such as Dragon, Ice, Flying, and Ghost. On the flip side, Bisharp's relatively low base 70 Speed leaves it outsped by the majority of the offensive metagame, making it heavily reliant on Sucker Punch, a move that can be circumvented if the foe does not use an attacking move. Bisharp is also relatively frail, unable to take most moderately strong attacks if it does not resist them. Also, while Bisharp may only have three weaknesses, they are three of the most common typings in the tier: Fire, Ground, and Fighting.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Swords Dance",
+            "stats": [
+                166,
+                383,
+                236,
+                140,
+                177,
+                239
+            ],
+            "type": [
+                "Dark",
+                "Steel"
+            ],
+            "usage": "One of the first things to note is that if one is using Darkinium Z Bisharp, Sucker Punch has a higher 70 Base Power compared to Knock Off's 65, meaning that using Sucker Punch as the Z-Move will give Dark Hole Eclipse a higher Base Power. It is also worth noting that Z-Moves have neutral priority by default, so using Sucker Punch as the base of the Z-Move will not cause the attack to have +1 priority; it will be neutral priority. Bisharp is used either as an early- and mid-game wallbreaker or as a late-game cleaner. As a wallbreaker, Bisharp can pave the way for another sweeper by using Knock Off or Black Hole Eclipse to weaken or KO a threatening defensive Pokemon. However, sometimes all that is needed is for Bisharp to use Sucker Punch to weaken an offensive threat so that it can then be revenge killed by a teammate. As a late-game cleaner, Bisharp will most likely utilize the combination of Swords Dance and Sucker Punch to sweep through a weakened team. Keep in mind that Bisharp's excellent Defiant ability means that it has the capacity to become a massive threat at any turn, as it gains an Attack boost if any of its stats are lowered. This will often cause Defog users to think twice before removing entry hazards, and Intimidate users such as Landorus-T and Gyarados also have to play carefully around Bisharp, as if they don't, things can get out of hand quickly.",
+            "moves": [
+                [
+                    "Knock Off"
+                ],
+                [
+                    "Iron Head"
+                ],
+                [
+                    "Sucker Punch"
+                ],
+                [
+                    "Swords Dance"
+                ]
+            ],
+            "item": [
+                " Darkinium Z",
+                " Black Glasses"
+            ],
+            "ability": [
+                "Defiant"
+            ],
+            "nature": [
+                "Adamant",
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                0,
+                0,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Fighting-types",
+        "Physically Defensive Pokemon",
+        "Dark-types"
+    ],
+    "credits": [
+        "Written by false",
+        "Earlier versions by Vague",
+        "Quality checked by PK Gaming, Gary,  and Finchinator",
+        "Grammar checked by Eien and Fireflame479"
+    ]
+}

@@ -1,1 +1,98 @@
-{"name": "Duosion", "forms": {"Base": {"base stats": [65, 40, 50, 125, 60, 30], "types": ["Psychic"], "abilities": ["Magic Guard", "Overcoat", "Regenerator"], "tier": [""], "form": "Base"}}, "overview": "Duosion is a niche Calm Mind user thanks to its ability in Magic Guard, which allows it to not be easily worn down through means such as Toxic poison, Leech Seed, and hail, especially alongside its reliable recovery. Duosion's high Special Attack also gives it a solid amount of offensive presence, especially after setting up. However, its low Speed can be problematic, as it forces Duosion to take a hit before setting up, which doesn't pair well with its mediocre bulk even with Eviolite. Other Calm Mind users like Mesprit, Musharna, and Clefairy all share certain traits with Duosion, with the former two being Psychic-types and the latter having Magic Guard, giving Duosion a lot of competition. Mesprit and Musharna don't depend on Eviolite for their bulk, which allows them to hold alternate items, and can serve as consistent Fighting-type checks, but they lack Duosion's longevity. Clefairy is able to switch into many threats and use support moves like Stealth Rock and Thunder Wave throughout the game before setting up but has much lower Special Attack and Defense. Duosion also suffers from having only four moveslots, forcing it to choose between having a better matchup against physical attackers or Dark-types, which both give it trouble otherwise.\n", "strategies' format": "PU", "strategies": [{"name": "Calm Mind", "stats": [229, 104, 218, 287, 156, 96], "type": ["Psychic"], "usage": "Duosion is best utilized as a late-game sweeper, because if not running Signal Beam, it can't start setting up until all Dark-types are KOed. If running Signal Beam, Duosion can use it as a lure to KO on a predicted switch into a Dark-type like Absol, which otherwise beats it one-on-one. However, not running Acid Armor means Duosion also fears physical wallbreakers like Stoutland, so they should also be accounted for. If Duosion is running Acid Armor, it can lure in physical attackers and set up an Acid Armor on the switch. Additionally, aim to KO Pokemon that may be running moves that can put a stop to or greatly cripple Duosion, such as Eelektross's Knock Off, Manectric's Switcheroo, Audino's Encore, Froslass's Taunt, and Mudsdale's Roar. Duosion can be used throughout the game to absorb status moves and take hits from and threaten out certain weaker Pokemon like Altaria. It can use this role as a chance to lure in Dark-types before double switching out to a Dark-type check or to simply wear them down via entry hazards, although Duosion has to watch out for Pursuit in this case. Duosion can also lure Trick and Switcheroo users before switching out in order to make them give away their Choice item to another teammate, potentially giving Duosion a somewhat easier time late-game. Once its threats are out of the way, Duosion can switch in against bulkier Pokemon or not very effective attackers like Altaria and Hitmonchan and force a switch, which it can use as its opportunity to set up. However, when setting up, watch out for strong attackers like Stoutland and Aurorus, as they can fish for critical hits in order to bypass Duosion's defensive boosts.", "moves": [["Psyshock"], ["Calm Mind"], ["Acid Armor", "Signal Beam"], ["Recover"]], "item": [" Eviolite"], "ability": ["Magic Guard"], "nature": ["Bold"], "ev spread": [252, 0, 252, 4, 0, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Dark-types", "Wallbreakers", "Unaware Users", "Eviolite Removal", "Taunt, Encore, and Phazing"], "credits": ["Written by UberSkitty", "Quality checked by yogi, Megazard,  and tondas", "Grammar checked by frostration and The Dutch Plumberjack"]}
+{
+    "name": "Duosion",
+    "forms": {
+        "Base": {
+            "base stats": [
+                65,
+                40,
+                50,
+                125,
+                60,
+                30
+            ],
+            "types": [
+                "Psychic"
+            ],
+            "abilities": [
+                "Magic Guard",
+                "Overcoat",
+                "Regenerator"
+            ],
+            "tier": [
+                ""
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Duosion is a niche Calm Mind user thanks to its ability in Magic Guard, which allows it to not be easily worn down through means such as Toxic poison, Leech Seed, and hail, especially alongside its reliable recovery. Duosion's high Special Attack also gives it a solid amount of offensive presence, especially after setting up. However, its low Speed can be problematic, as it forces Duosion to take a hit before setting up, which doesn't pair well with its mediocre bulk even with Eviolite. Other Calm Mind users like Mesprit, Musharna, and Clefairy all share certain traits with Duosion, with the former two being Psychic-types and the latter having Magic Guard, giving Duosion a lot of competition. Mesprit and Musharna don't depend on Eviolite for their bulk, which allows them to hold alternate items, and can serve as consistent Fighting-type checks, but they lack Duosion's longevity. Clefairy is able to switch into many threats and use support moves like Stealth Rock and Thunder Wave throughout the game before setting up but has much lower Special Attack and Defense. Duosion also suffers from having only four moveslots, forcing it to choose between having a better matchup against physical attackers or Dark-types, which both give it trouble otherwise.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Calm Mind",
+            "stats": [
+                229,
+                104,
+                218,
+                287,
+                156,
+                96
+            ],
+            "type": [
+                "Psychic"
+            ],
+            "usage": "Duosion is best utilized as a late-game sweeper, because if not running Signal Beam, it can't start setting up until all Dark-types are KOed. If running Signal Beam, Duosion can use it as a lure to KO on a predicted switch into a Dark-type like Absol, which otherwise beats it one-on-one. However, not running Acid Armor means Duosion also fears physical wallbreakers like Stoutland, so they should also be accounted for. If Duosion is running Acid Armor, it can lure in physical attackers and set up an Acid Armor on the switch. Additionally, aim to KO Pokemon that may be running moves that can put a stop to or greatly cripple Duosion, such as Eelektross's Knock Off, Manectric's Switcheroo, Audino's Encore, Froslass's Taunt, and Mudsdale's Roar. Duosion can be used throughout the game to absorb status moves and take hits from and threaten out certain weaker Pokemon like Altaria. It can use this role as a chance to lure in Dark-types before double switching out to a Dark-type check or to simply wear them down via entry hazards, although Duosion has to watch out for Pursuit in this case. Duosion can also lure Trick and Switcheroo users before switching out in order to make them give away their Choice item to another teammate, potentially giving Duosion a somewhat easier time late-game. Once its threats are out of the way, Duosion can switch in against bulkier Pokemon or not very effective attackers like Altaria and Hitmonchan and force a switch, which it can use as its opportunity to set up. However, when setting up, watch out for strong attackers like Stoutland and Aurorus, as they can fish for critical hits in order to bypass Duosion's defensive boosts.",
+            "moves": [
+                [
+                    "Psyshock"
+                ],
+                [
+                    "Calm Mind"
+                ],
+                [
+                    "Acid Armor",
+                    "Signal Beam"
+                ],
+                [
+                    "Recover"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Magic Guard"
+            ],
+            "nature": [
+                "Bold"
+            ],
+            "ev spread": [
+                252,
+                0,
+                252,
+                4,
+                0,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Dark-types",
+        "Wallbreakers",
+        "Unaware Users",
+        "Eviolite Removal",
+        "Taunt, Encore, and Phazing"
+    ],
+    "credits": [
+        "Written by UberSkitty",
+        "Quality checked by yogi, Megazard,  and tondas",
+        "Grammar checked by frostration and The Dutch Plumberjack"
+    ]
+}

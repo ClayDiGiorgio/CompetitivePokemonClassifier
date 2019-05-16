@@ -1,1 +1,98 @@
-{"name": "Inkay", "forms": {"Base": {"base stats": [53, 54, 53, 37, 46, 45], "types": ["Dark", "Psychic"], "abilities": ["Contrary", "Infiltrator", "Suction Cups"], "tier": ["LC"], "form": "Base"}}, "overview": "Inkay's ability, Contrary, in combination with the move Superpower allows it to perform as quite a unique sweeper that is able to boost its stats and deal damage at the same time. Furthermore, it has access to STAB Knock Off, allowing it to cripple defensive walls easily, and gets perfect coverage with the aforementioned two moves and Psycho Cut. Inkay has access to some interesting utility options such as Switcheroo and Trick Room as well. However, its 4x weakness to Bug-type moves such as U-turn makes it easy to force out by some of the most common Pokemon in the metagame, mainly Mienfoo and Vullaby. Inkay's lack of reliable recovery and poor base stats make it hard for it to switch into many attacks and remain healthy throughout a match. Inkay's low Speed also forces it to use a Choice Scarf, limiting its use of coverage and STAB options.\n", "strategies' format": "LC", "strategies": [{"name": "Choice Scarf", "stats": [145, 205, 145, 99, 128, 203], "type": ["Dark", "Psychic"], "usage": "Be wary of using Superpower or Psycho Cut if your opponent still has a Ghost- or Dark-type, as they can easily switch in if Inkay is Choice locked. Earlier in the game, be sure to use Knock Off extensively to cripple threats for a potential sweep from Inkay or any other sweeper. Inkay mainly functions as a revenge killer or a wallbreaker with Superpower, but it should almost never be directly switched in, as its pitiful bulk makes it quite frail. If your team has a slow pivot, that should be the primary method of getting Inkay in safely. If your opponent sets up Sticky Web, it may be beneficial to not clear it away, as Sticky Web boosts Inkay's Speed. When predicting your opponent to switch into a very bulky check to Inkay, such as Spritzee or Pumpkaboo-XL, using Knock Off or Switcheroo to cripple them can help Inkay sweep more easily late-game ; however, be careful of using Switcheroo too early, as it greatly cripples Inkay's Speed.", "moves": [["Superpower"], ["Knock Off"], ["Psycho Cut"], ["Switcheroo"]], "item": [" Choice Scarf"], "ability": ["Contrary"], "nature": ["Jolly", "Adamant"], "ev spread": [12, 244, 12, 0, 0, 236], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Fairy-types", "U-turn", "Ghost-types"], "credits": ["Written by Drew", "Quality checked by Hilomilo, Xayah,  and OP", "Grammar checked by The Dutch Plumberjack and Fireflame479"]}
+{
+    "name": "Inkay",
+    "forms": {
+        "Base": {
+            "base stats": [
+                53,
+                54,
+                53,
+                37,
+                46,
+                45
+            ],
+            "types": [
+                "Dark",
+                "Psychic"
+            ],
+            "abilities": [
+                "Contrary",
+                "Infiltrator",
+                "Suction Cups"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Inkay's ability, Contrary, in combination with the move Superpower allows it to perform as quite a unique sweeper that is able to boost its stats and deal damage at the same time. Furthermore, it has access to STAB Knock Off, allowing it to cripple defensive walls easily, and gets perfect coverage with the aforementioned two moves and Psycho Cut. Inkay has access to some interesting utility options such as Switcheroo and Trick Room as well. However, its 4x weakness to Bug-type moves such as U-turn makes it easy to force out by some of the most common Pokemon in the metagame, mainly Mienfoo and Vullaby. Inkay's lack of reliable recovery and poor base stats make it hard for it to switch into many attacks and remain healthy throughout a match. Inkay's low Speed also forces it to use a Choice Scarf, limiting its use of coverage and STAB options.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Choice Scarf",
+            "stats": [
+                145,
+                205,
+                145,
+                99,
+                128,
+                203
+            ],
+            "type": [
+                "Dark",
+                "Psychic"
+            ],
+            "usage": "Be wary of using Superpower or Psycho Cut if your opponent still has a Ghost- or Dark-type, as they can easily switch in if Inkay is Choice locked. Earlier in the game, be sure to use Knock Off extensively to cripple threats for a potential sweep from Inkay or any other sweeper. Inkay mainly functions as a revenge killer or a wallbreaker with Superpower, but it should almost never be directly switched in, as its pitiful bulk makes it quite frail. If your team has a slow pivot, that should be the primary method of getting Inkay in safely. If your opponent sets up Sticky Web, it may be beneficial to not clear it away, as Sticky Web boosts Inkay's Speed. When predicting your opponent to switch into a very bulky check to Inkay, such as Spritzee or Pumpkaboo-XL, using Knock Off or Switcheroo to cripple them can help Inkay sweep more easily late-game ; however, be careful of using Switcheroo too early, as it greatly cripples Inkay's Speed.",
+            "moves": [
+                [
+                    "Superpower"
+                ],
+                [
+                    "Knock Off"
+                ],
+                [
+                    "Psycho Cut"
+                ],
+                [
+                    "Switcheroo"
+                ]
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Contrary"
+            ],
+            "nature": [
+                "Jolly",
+                "Adamant"
+            ],
+            "ev spread": [
+                12,
+                244,
+                12,
+                0,
+                0,
+                236
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Fairy-types",
+        "U-turn",
+        "Ghost-types"
+    ],
+    "credits": [
+        "Written by Drew",
+        "Quality checked by Hilomilo, Xayah,  and OP",
+        "Grammar checked by The Dutch Plumberjack and Fireflame479"
+    ]
+}

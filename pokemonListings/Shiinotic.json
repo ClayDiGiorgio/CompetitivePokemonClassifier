@@ -1,1 +1,99 @@
-{"name": "Shiinotic", "forms": {"Base": {"base stats": [60, 45, 80, 90, 100, 30], "types": ["Grass", "Fairy"], "abilities": ["Effect Spore", "Illuminate", "Rain Dish"], "tier": ["Untiered"], "form": "Base"}}, "overview": "Shiinotic carries a small niche in the PU tier as a strong wallbreaker with access to a spammable, strong STAB move in Moonblast along with a secondary STAB move in Giga Drain and coverage in Hidden Power Fire. This, combined with a solid Grass / Fairy typing, lets it check Water- and Fighting-types such as Hitmonchan and Quagsire. However, a low Speed stat plus mediocre HP and Defense stats means that Shiinotic is prone to being overwhelmed by faster threats such as Stoutland and Skuntank. This, combined with the fact that Shiinotic has an average Special Attack stat, means that it struggles to break past special walls such as Audino and Clefairy. Shiinotic also faces competition from other Grass-type wallbreakers such as Victreebel and Lilligant, which boast higher Special Attack and are faster.\n", "strategies' format": "PU", "strategies": [{"name": "Choice Specs", "stats": [179, 113, 196, 306, 236, 137], "type": ["Grass", "Fairy"], "usage": "Switch Shiinotic in on weaker attacks such as Scald from Pokemon like Quagsire or against Pokemon that can't do much to Shiinotic such as Hitmonchan, Regirock, and Mudsdale. Because of the nature of this set, it's best used as an early-game wallbreaker that spams Moonblast, as it has few drawbacks. Be mindful of what move Shiinotic locks itself into. Locking itself into Giga Drain means that Flying-types such as Dodrio and Oricorio-E can set up on it, whereas locking itself into Hidden Power Fire allows Rock- and Fire-types such as Lycanroc and Simisear to set up as well. If running Spore, you can freely go for it if you predict a Pokemon such as Audino to come in to take a hit to put it to sleep, but be careful of opposing Grass-types such as Lilligant and Sap Sipper Drampa, as they are immune to Spore; however, they cannot directly switch in otherwise.", "moves": [["Moonblast"], ["Giga Drain"], ["Hidden Power Fire"], ["Spore", "Sludge Bomb"]], "item": [" Choice Specs"], "ability": ["Effect Spore"], "nature": ["Modest"], "ev spread": [92, 0, 0, 252, 0, 164], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Faster Pokemon", "Steel-types", "Poison-types", "Specially Defensive Pokemon"], "credits": ["Written by TONE", "Quality checked by tondas, TJ,  and Megazard", "Grammar checked by The Dutch Plumberjack and Fireflame479"]}
+{
+    "name": "Shiinotic",
+    "forms": {
+        "Base": {
+            "base stats": [
+                60,
+                45,
+                80,
+                90,
+                100,
+                30
+            ],
+            "types": [
+                "Grass",
+                "Fairy"
+            ],
+            "abilities": [
+                "Effect Spore",
+                "Illuminate",
+                "Rain Dish"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Shiinotic carries a small niche in the PU tier as a strong wallbreaker with access to a spammable, strong STAB move in Moonblast along with a secondary STAB move in Giga Drain and coverage in Hidden Power Fire. This, combined with a solid Grass / Fairy typing, lets it check Water- and Fighting-types such as Hitmonchan and Quagsire. However, a low Speed stat plus mediocre HP and Defense stats means that Shiinotic is prone to being overwhelmed by faster threats such as Stoutland and Skuntank. This, combined with the fact that Shiinotic has an average Special Attack stat, means that it struggles to break past special walls such as Audino and Clefairy. Shiinotic also faces competition from other Grass-type wallbreakers such as Victreebel and Lilligant, which boast higher Special Attack and are faster.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Choice Specs",
+            "stats": [
+                179,
+                113,
+                196,
+                306,
+                236,
+                137
+            ],
+            "type": [
+                "Grass",
+                "Fairy"
+            ],
+            "usage": "Switch Shiinotic in on weaker attacks such as Scald from Pokemon like Quagsire or against Pokemon that can't do much to Shiinotic such as Hitmonchan, Regirock, and Mudsdale. Because of the nature of this set, it's best used as an early-game wallbreaker that spams Moonblast, as it has few drawbacks. Be mindful of what move Shiinotic locks itself into. Locking itself into Giga Drain means that Flying-types such as Dodrio and Oricorio-E can set up on it, whereas locking itself into Hidden Power Fire allows Rock- and Fire-types such as Lycanroc and Simisear to set up as well. If running Spore, you can freely go for it if you predict a Pokemon such as Audino to come in to take a hit to put it to sleep, but be careful of opposing Grass-types such as Lilligant and Sap Sipper Drampa, as they are immune to Spore; however, they cannot directly switch in otherwise.",
+            "moves": [
+                [
+                    "Moonblast"
+                ],
+                [
+                    "Giga Drain"
+                ],
+                [
+                    "Hidden Power Fire"
+                ],
+                [
+                    "Spore",
+                    "Sludge Bomb"
+                ]
+            ],
+            "item": [
+                " Choice Specs"
+            ],
+            "ability": [
+                "Effect Spore"
+            ],
+            "nature": [
+                "Modest"
+            ],
+            "ev spread": [
+                92,
+                0,
+                0,
+                252,
+                0,
+                164
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Faster Pokemon",
+        "Steel-types",
+        "Poison-types",
+        "Specially Defensive Pokemon"
+    ],
+    "credits": [
+        "Written by TONE",
+        "Quality checked by tondas, TJ,  and Megazard",
+        "Grammar checked by The Dutch Plumberjack and Fireflame479"
+    ]
+}

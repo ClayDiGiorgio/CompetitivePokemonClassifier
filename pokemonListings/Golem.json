@@ -1,1 +1,99 @@
-{"name": "Golem", "forms": {"Base": {"base stats": [80, 120, 130, 55, 65, 45], "types": ["Rock", "Ground"], "abilities": ["Rock Head", "Sand Veil", "Sturdy"], "tier": ["Untiered"], "form": "Base"}}, "overview": "Although Golem does face competition as a lead, it does boast rather impressive offensive presence as a result of its high Attack and unresisted STAB combination, which allow it to more easily pressure certain entry hazard setters and removers such as Qwilfish, Regirock, and Hitmonchan. Unlike most leads, Golem isn't reliant on Focus Sash to do its job because of its ability Sturdy, meaning that it can hold Weakness Policy and potentially augment its offensive presence even further. Additionally, Golem's access to Explosion gives it a powerful means of pressuring removers not to clear the field and immediately generating momentum for its team, while its access to Sucker Punch gives it the ability to threaten more offensive teams as well as compensate for its low Speed. However, Golem tends to be less consistent than other leads such as Omastar, Smeargle, Aurorus, and Crustle due to their access to solid support and utility options in Spikes, Spore, Encore, and Knock Off and their higher Speed. Golem also faces competition from Stealth Rock Aggron despite it not being a lead, as it boasts higher Speed, slightly greater offensive presence because of Head Smash, and access to Taunt. Taunt users like Weezing can easily prevent Golem from setting Stealth Rock because of its low Speed, and it's that same low Speed that can make pressuring removers difficult. Golem is also relatively predictable, as it struggles to reliably deviate much from its main set.\n", "strategies' format": "PU", "strategies": [{"name": "Lead", "stats": [196, 372, 297, 131, 166, 189], "type": ["Rock", "Ground"], "usage": "Golem should almost always be used as a lead, since Sturdy can be difficult to preserve because of entry hazards and gives it the best possible chance of immediately using Stealth Rock. Leading with Golem also gives it an opportunity to heavily damage or KO opposing leads like Crustle. Try to set Stealth Rock as soon as possible in order to instantly begin applying constant pressure to teams. After doing so, Golem should go on to either inflict damage with its powerful STAB moves and Sucker Punch or use Explosion to prevent removers from switching in and clearing the field. Preserve Golem if the opposing team carries a faster Taunt user like Sableye or Misdreavus, since they prevent Golem from fulfilling its role by disallowing the use of Stealth Rock. Both examples can also burn Golem with Will-O-Wisp, with Misdreavus even being immune to both Earthquake and Explosion. Against more offensive users of Taunt like non-Will-O-Wisp Froslass, Golem should go for the KO rather than attempt to set Stealth Rock. Despite being a lead, Golem can be preserved to reliably revenge kill Pokemon on offensive teams like Kangaskhan or if Golem's team is exceptionally weak to any one threat on the opposing team such as Scyther because of Sturdy. Golem can also be preserved to prevent Volt Switch users like Manectric from freely generating momentum before generating its own momentum by setting Stealth Rock. Although Explosion and Sucker Punch are both powerful tools against offensive teams, they can both potentially be exploited by Ghost-types and certain setup sweepers, respectively, meaning that Golem should be careful about using these moves against teams if they have one or the other. Most setup sweepers find directly setting up on Golem difficult if its Sturdy is still intact, however.", "moves": [["Stealth Rock"], ["Earthquake"], ["Stone Edge", "Rock Blast"], ["Explosion", "Sucker Punch"]], "item": [" Weakness Policy"], "ability": ["Sturdy"], "nature": ["Adamant"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Taunt", "Entry Hazard Removal", "Super Effective Attacks"], "credits": ["Written by allstarapology", "Quality checked by UberSkitty, yogi,  and Darkinium", "Grammar checked by The Dutch Plumberjack and lotiasite"]}
+{
+    "name": "Golem",
+    "forms": {
+        "Base": {
+            "base stats": [
+                80,
+                120,
+                130,
+                55,
+                65,
+                45
+            ],
+            "types": [
+                "Rock",
+                "Ground"
+            ],
+            "abilities": [
+                "Rock Head",
+                "Sand Veil",
+                "Sturdy"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Although Golem does face competition as a lead, it does boast rather impressive offensive presence as a result of its high Attack and unresisted STAB combination, which allow it to more easily pressure certain entry hazard setters and removers such as Qwilfish, Regirock, and Hitmonchan. Unlike most leads, Golem isn't reliant on Focus Sash to do its job because of its ability Sturdy, meaning that it can hold Weakness Policy and potentially augment its offensive presence even further. Additionally, Golem's access to Explosion gives it a powerful means of pressuring removers not to clear the field and immediately generating momentum for its team, while its access to Sucker Punch gives it the ability to threaten more offensive teams as well as compensate for its low Speed. However, Golem tends to be less consistent than other leads such as Omastar, Smeargle, Aurorus, and Crustle due to their access to solid support and utility options in Spikes, Spore, Encore, and Knock Off and their higher Speed. Golem also faces competition from Stealth Rock Aggron despite it not being a lead, as it boasts higher Speed, slightly greater offensive presence because of Head Smash, and access to Taunt. Taunt users like Weezing can easily prevent Golem from setting Stealth Rock because of its low Speed, and it's that same low Speed that can make pressuring removers difficult. Golem is also relatively predictable, as it struggles to reliably deviate much from its main set.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Lead",
+            "stats": [
+                196,
+                372,
+                297,
+                131,
+                166,
+                189
+            ],
+            "type": [
+                "Rock",
+                "Ground"
+            ],
+            "usage": "Golem should almost always be used as a lead, since Sturdy can be difficult to preserve because of entry hazards and gives it the best possible chance of immediately using Stealth Rock. Leading with Golem also gives it an opportunity to heavily damage or KO opposing leads like Crustle. Try to set Stealth Rock as soon as possible in order to instantly begin applying constant pressure to teams. After doing so, Golem should go on to either inflict damage with its powerful STAB moves and Sucker Punch or use Explosion to prevent removers from switching in and clearing the field. Preserve Golem if the opposing team carries a faster Taunt user like Sableye or Misdreavus, since they prevent Golem from fulfilling its role by disallowing the use of Stealth Rock. Both examples can also burn Golem with Will-O-Wisp, with Misdreavus even being immune to both Earthquake and Explosion. Against more offensive users of Taunt like non-Will-O-Wisp Froslass, Golem should go for the KO rather than attempt to set Stealth Rock. Despite being a lead, Golem can be preserved to reliably revenge kill Pokemon on offensive teams like Kangaskhan or if Golem's team is exceptionally weak to any one threat on the opposing team such as Scyther because of Sturdy. Golem can also be preserved to prevent Volt Switch users like Manectric from freely generating momentum before generating its own momentum by setting Stealth Rock. Although Explosion and Sucker Punch are both powerful tools against offensive teams, they can both potentially be exploited by Ghost-types and certain setup sweepers, respectively, meaning that Golem should be careful about using these moves against teams if they have one or the other. Most setup sweepers find directly setting up on Golem difficult if its Sturdy is still intact, however.",
+            "moves": [
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Stone Edge",
+                    "Rock Blast"
+                ],
+                [
+                    "Explosion",
+                    "Sucker Punch"
+                ]
+            ],
+            "item": [
+                " Weakness Policy"
+            ],
+            "ability": [
+                "Sturdy"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Taunt",
+        "Entry Hazard Removal",
+        "Super Effective Attacks"
+    ],
+    "credits": [
+        "Written by allstarapology",
+        "Quality checked by UberSkitty, yogi,  and Darkinium",
+        "Grammar checked by The Dutch Plumberjack and lotiasite"
+    ]
+}

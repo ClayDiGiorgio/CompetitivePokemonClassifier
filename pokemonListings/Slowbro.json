@@ -1,1 +1,124 @@
-{"name": "Slowbro", "forms": {"Base": {"base stats": [95, 75, 110, 100, 80, 30], "types": ["Water", "Psychic"], "abilities": ["Oblivious", "Own Tempo", "Regenerator"], "tier": ["RU"], "form": "Base"}, "Mega": {"base stats": [95, 75, 180, 130, 80, 30], "types": ["Water", "Psychic"], "abilities": ["Shell Armor"], "tier": ["RUBL"], "form": "Mega"}}, "overview": "Slowbro is capable of checking or countering a large number of common, highly dangerous Pokemon including Hawlucha, Mega Medicham, Mega Lopunny, Keldeo, and non-Dark Pulse Greninja. Combined with its access to Regenerator and its access to a good utility move in STAB Scald, Slowbro functions as a solid pivot for bulky offensive and balanced teams. That said, Slowbro faces difficulty against a number of metagame trends, namely Ash-Greninja and Tapu Koko's prevalence, and is particularly susceptible to status. This is compounded by its cripplingly low Speed stat, which means that it will often find itself taking a hit before it can move, and its low Special Defense. Consequently, it is hard to justify using Slowbro as a bulky Water-type over options like Toxapex and Alomomola, which fare better versus Pokemon such as Ash-Greninja and have better mixed bulk.\n", "strategies' format": "OU", "strategies": [{"name": "Defensive Pivot", "stats": [288, 167, 308, 236, 237, 96], "type": ["Water", "Psychic"], "usage": "Avoid Toxic from Pokemon such as Heatran, Gliscor, and Toxapex, as this will severely hinder Slowbro's longevity throughout the match. Toxapex can also cripple Slowbro with Toxic Spikes, so make sure that they're removed from the field before bringing Slowbro in. Slowbro doesn't appreciate taking a Knock Off, as losing its Leftovers cripples its longetivity. Don't hesitate to click Scald even on predicted switches, as its 30% burn chance can cripple opposing Grass-types like Tapu Bulu and Kartana, two Pokemon that can beat Slowbro easily if not burned. Use Toxic or Thunder Wave when the opponent has a Pokemon that would be more crippled by Toxic poison or paralysis than a burn, such as Mega Alakazam, Ash-Greninja, Tangrowth, and Tornadus-T. Use Protect against Pokemon that tend to be Choice locked and threaten Slowbro out, such as Ash-Greninja, Magnezone, and Tapu Lele, as them locking into the wrong move can give Slowbro the opportunity to fire off a free attack. It also alleviates prediction against Pursuit trappers like Tyranitar and Weavile. If running Slowbronite, you should not Mega Evolve with Slowbro early into the game, because it needs Regenerator to properly function as a defensive pivot; instead, Slowbro should Mega Evolve once its pivoting capabilities are no longer needed.", "moves": [["Scald"], ["Ice Beam"], ["Slack Off"], ["Flamethrower", "Toxic", "Thunder Wave"]], "item": [" Leftovers", " Slowbronite"], "ability": ["Regenerator"], "nature": ["Bold"], "ev spread": [248, 0, 96, 0, 164, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Electric- and Grass-types", "Ghost- and Dark-types", "Special Attackers", "Super Effective Coverage", "Status"], "credits": ["Written by Martin and Indigo Plateau", "Earlier versions by Vague", "Quality checked by Gary, p2, Subject 18, Jordy, Leo,  and lyd", "Grammar checked by Mr. Uncompetitive, The Dutch Plumberjack,  and martha"]}
+{
+    "name": "Slowbro",
+    "forms": {
+        "Base": {
+            "base stats": [
+                95,
+                75,
+                110,
+                100,
+                80,
+                30
+            ],
+            "types": [
+                "Water",
+                "Psychic"
+            ],
+            "abilities": [
+                "Oblivious",
+                "Own Tempo",
+                "Regenerator"
+            ],
+            "tier": [
+                "RU"
+            ],
+            "form": "Base"
+        },
+        "Mega": {
+            "base stats": [
+                95,
+                75,
+                180,
+                130,
+                80,
+                30
+            ],
+            "types": [
+                "Water",
+                "Psychic"
+            ],
+            "abilities": [
+                "Shell Armor"
+            ],
+            "tier": [
+                "RUBL"
+            ],
+            "form": "Mega"
+        }
+    },
+    "overview": "Slowbro is capable of checking or countering a large number of common, highly dangerous Pokemon including Hawlucha, Mega Medicham, Mega Lopunny, Keldeo, and non-Dark Pulse Greninja. Combined with its access to Regenerator and its access to a good utility move in STAB Scald, Slowbro functions as a solid pivot for bulky offensive and balanced teams. That said, Slowbro faces difficulty against a number of metagame trends, namely Ash-Greninja and Tapu Koko's prevalence, and is particularly susceptible to status. This is compounded by its cripplingly low Speed stat, which means that it will often find itself taking a hit before it can move, and its low Special Defense. Consequently, it is hard to justify using Slowbro as a bulky Water-type over options like Toxapex and Alomomola, which fare better versus Pokemon such as Ash-Greninja and have better mixed bulk.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Defensive Pivot",
+            "stats": [
+                288,
+                167,
+                308,
+                236,
+                237,
+                96
+            ],
+            "type": [
+                "Water",
+                "Psychic"
+            ],
+            "usage": "Avoid Toxic from Pokemon such as Heatran, Gliscor, and Toxapex, as this will severely hinder Slowbro's longevity throughout the match. Toxapex can also cripple Slowbro with Toxic Spikes, so make sure that they're removed from the field before bringing Slowbro in. Slowbro doesn't appreciate taking a Knock Off, as losing its Leftovers cripples its longetivity. Don't hesitate to click Scald even on predicted switches, as its 30% burn chance can cripple opposing Grass-types like Tapu Bulu and Kartana, two Pokemon that can beat Slowbro easily if not burned. Use Toxic or Thunder Wave when the opponent has a Pokemon that would be more crippled by Toxic poison or paralysis than a burn, such as Mega Alakazam, Ash-Greninja, Tangrowth, and Tornadus-T. Use Protect against Pokemon that tend to be Choice locked and threaten Slowbro out, such as Ash-Greninja, Magnezone, and Tapu Lele, as them locking into the wrong move can give Slowbro the opportunity to fire off a free attack. It also alleviates prediction against Pursuit trappers like Tyranitar and Weavile. If running Slowbronite, you should not Mega Evolve with Slowbro early into the game, because it needs Regenerator to properly function as a defensive pivot; instead, Slowbro should Mega Evolve once its pivoting capabilities are no longer needed.",
+            "moves": [
+                [
+                    "Scald"
+                ],
+                [
+                    "Ice Beam"
+                ],
+                [
+                    "Slack Off"
+                ],
+                [
+                    "Flamethrower",
+                    "Toxic",
+                    "Thunder Wave"
+                ]
+            ],
+            "item": [
+                " Leftovers",
+                " Slowbronite"
+            ],
+            "ability": [
+                "Regenerator"
+            ],
+            "nature": [
+                "Bold"
+            ],
+            "ev spread": [
+                248,
+                0,
+                96,
+                0,
+                164,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Electric- and Grass-types",
+        "Ghost- and Dark-types",
+        "Special Attackers",
+        "Super Effective Coverage",
+        "Status"
+    ],
+    "credits": [
+        "Written by Martin and Indigo Plateau",
+        "Earlier versions by Vague",
+        "Quality checked by Gary, p2, Subject 18, Jordy, Leo,  and lyd",
+        "Grammar checked by Mr. Uncompetitive, The Dutch Plumberjack,  and martha"
+    ]
+}

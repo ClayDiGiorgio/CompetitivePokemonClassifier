@@ -1,1 +1,156 @@
-{"name": "Bruxish", "forms": {"Base": {"base stats": [68, 105, 70, 70, 70, 92], "types": ["Water", "Psychic"], "abilities": ["Dazzling", "Strong Jaw", "Wonder Skin"], "tier": ["NUBL"], "form": "Base"}}, "overview": "Bruxish is an extremely potent and threatening attacker in the RU metagame thanks to its plethora of valuable offensive traits. Its high Attack alongside an obscenely powerful STAB- and Strong Jaw-boosted Psychic Fangs allows Bruxish to perfectly complement its access to Swords Dance and decent Speed tier as a sweeper or wallbreaker on offensive teams. Alongside its powerful Psychic Fangs, Bruxish has access to useful STAB priority in the form of Aqua Jet as well as a powerful coverage option in Strong Jaw-boosted Crunch, which further bolsters its offensive presence. Unfortunately, said offensive presence is slightly offset by Bruxish's abysmal bulk, as it will often struggle to survive attacks from Pokemon that it fails to KO, which are quite common in the metagame. Bruxish's Speed, while good, can also hamper it at times, as it is still outsped and heavily threatened by common Pokemon such as Swellow, Flygon, and Shaymin. Bruxish also struggles from four-moveslot syndrome in that it often has to decide between running Crunch or Waterfall, meaning that it will always struggle to break through a certain foe. Lastly, choosing Bruxish's nature can also be a struggle, as Bruxish will slightly lack power with a Jolly nature and be slightly slow with an Adamant nature.\n", "strategies' format": "RU", "strategies": [{"name": "Swords Dance", "stats": [172, 309, 177, 158, 176, 311], "type": ["Water", "Psychic"], "usage": "This set can function in many different ways and consistently be put to good use in matches. It functions as a sweeper once Bruxish's checks have been removed or weakened as well as a wallbreaker against bulkier teams. If Bruxish is attempting a sweep, it is best that faster threats that can take an Aqua Jet such as Shaymin and Virizion are removed, as they will otherwise outspeed and KO Bruxish, thus preventing its sweep. Carriers of powerful priority such as Linoone, Comfey, Honchkrow, and Zygarde-10% are also best removed, as Bruxish's poor bulk alongside the recoil it will take from Life Orb can eventually leave it quite susceptible to being revenge killed. Setup opportunities can be hard to find at times and should thus be capitalized on whenever they appear. Bruxish can set up on defensive Pokemon that won't be able to deal sufficient damage to it, such as Milotic and Bronzong, as well as against Pokemon that it forces out like Diancie, Toxicroak, and Venusaur. Lastly, due to its poor bulk, Bruxish should never try switching into an attack; it should be brought in with slow pivot support or after a teammate has fainted.", "moves": [["Swords Dance"], ["Psychic Fangs"], ["Aqua Jet"], ["Crunch", "Liquidation"]], "item": [" Life Orb"], "ability": ["Strong Jaw"], "nature": ["Jolly", "Adamant"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Choice Band", "stats": [172, 309, 177, 158, 176, 311], "type": ["Water", "Psychic"], "usage": "Due to the nature of Choice Band, this set must be used with careful prediction in order to help Bruxish properly function as a wallbreaker. In order to do this, predicting switches into Pokemon resistant or immune to Psychic Fangs, such as Umbreon and Metagross, and using Liquidation or a coverage option to hit them for sufficient damage is key to Bruxish's success. Once foes resistant or immune to Psychic Fangs have been removed and faster foes have been picked off, Bruxish should feel free to spam Psychic Fangs, as the move's immense power will break through most Pokemon neutral or weak to it quite effectively. Steel- and Dark-types should ideally be removed in order to make full use of this set, as none of Bruxish's coverage options are particularly useful against most defensive Pokemon of these types, which will often severely dent Bruxish while taking hits. Honchkrow, Sneasel, and Drapion are Pokemon that tend to carry Pursuit, which can trap and KO Bruxish. If any of these Pokemon are on the opposing team, Bruxish must be especially careful when using Psychic Fangs, as even if it nets a KO with the move, any of the aforementioned threats can come into play, take no damage, and trap and revenge kill Bruxish with ease.", "moves": [["Psychic Fangs"], ["Aqua Jet"], ["Liquidation"], ["Crunch"]], "item": [" Choice Band"], "ability": ["Strong Jaw"], "nature": ["Jolly", "Adamant"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Dark-types", "Steel-types", "Faster Pokemon and Priority", "Bulky Psychic-types"], "credits": ["Written by Hilomilo", "Quality checked by avocado, Kushalos,  and DTC", "Grammar checked by Fireflame479 and CryoGyro"]}
+{
+    "name": "Bruxish",
+    "forms": {
+        "Base": {
+            "base stats": [
+                68,
+                105,
+                70,
+                70,
+                70,
+                92
+            ],
+            "types": [
+                "Water",
+                "Psychic"
+            ],
+            "abilities": [
+                "Dazzling",
+                "Strong Jaw",
+                "Wonder Skin"
+            ],
+            "tier": [
+                "NUBL"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Bruxish is an extremely potent and threatening attacker in the RU metagame thanks to its plethora of valuable offensive traits. Its high Attack alongside an obscenely powerful STAB- and Strong Jaw-boosted Psychic Fangs allows Bruxish to perfectly complement its access to Swords Dance and decent Speed tier as a sweeper or wallbreaker on offensive teams. Alongside its powerful Psychic Fangs, Bruxish has access to useful STAB priority in the form of Aqua Jet as well as a powerful coverage option in Strong Jaw-boosted Crunch, which further bolsters its offensive presence. Unfortunately, said offensive presence is slightly offset by Bruxish's abysmal bulk, as it will often struggle to survive attacks from Pokemon that it fails to KO, which are quite common in the metagame. Bruxish's Speed, while good, can also hamper it at times, as it is still outsped and heavily threatened by common Pokemon such as Swellow, Flygon, and Shaymin. Bruxish also struggles from four-moveslot syndrome in that it often has to decide between running Crunch or Waterfall, meaning that it will always struggle to break through a certain foe. Lastly, choosing Bruxish's nature can also be a struggle, as Bruxish will slightly lack power with a Jolly nature and be slightly slow with an Adamant nature.\n",
+    "strategies' format": "RU",
+    "strategies": [
+        {
+            "name": "Swords Dance",
+            "stats": [
+                172,
+                309,
+                177,
+                158,
+                176,
+                311
+            ],
+            "type": [
+                "Water",
+                "Psychic"
+            ],
+            "usage": "This set can function in many different ways and consistently be put to good use in matches. It functions as a sweeper once Bruxish's checks have been removed or weakened as well as a wallbreaker against bulkier teams. If Bruxish is attempting a sweep, it is best that faster threats that can take an Aqua Jet such as Shaymin and Virizion are removed, as they will otherwise outspeed and KO Bruxish, thus preventing its sweep. Carriers of powerful priority such as Linoone, Comfey, Honchkrow, and Zygarde-10% are also best removed, as Bruxish's poor bulk alongside the recoil it will take from Life Orb can eventually leave it quite susceptible to being revenge killed. Setup opportunities can be hard to find at times and should thus be capitalized on whenever they appear. Bruxish can set up on defensive Pokemon that won't be able to deal sufficient damage to it, such as Milotic and Bronzong, as well as against Pokemon that it forces out like Diancie, Toxicroak, and Venusaur. Lastly, due to its poor bulk, Bruxish should never try switching into an attack; it should be brought in with slow pivot support or after a teammate has fainted.",
+            "moves": [
+                [
+                    "Swords Dance"
+                ],
+                [
+                    "Psychic Fangs"
+                ],
+                [
+                    "Aqua Jet"
+                ],
+                [
+                    "Crunch",
+                    "Liquidation"
+                ]
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Strong Jaw"
+            ],
+            "nature": [
+                "Jolly",
+                "Adamant"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Choice Band",
+            "stats": [
+                172,
+                309,
+                177,
+                158,
+                176,
+                311
+            ],
+            "type": [
+                "Water",
+                "Psychic"
+            ],
+            "usage": "Due to the nature of Choice Band, this set must be used with careful prediction in order to help Bruxish properly function as a wallbreaker. In order to do this, predicting switches into Pokemon resistant or immune to Psychic Fangs, such as Umbreon and Metagross, and using Liquidation or a coverage option to hit them for sufficient damage is key to Bruxish's success. Once foes resistant or immune to Psychic Fangs have been removed and faster foes have been picked off, Bruxish should feel free to spam Psychic Fangs, as the move's immense power will break through most Pokemon neutral or weak to it quite effectively. Steel- and Dark-types should ideally be removed in order to make full use of this set, as none of Bruxish's coverage options are particularly useful against most defensive Pokemon of these types, which will often severely dent Bruxish while taking hits. Honchkrow, Sneasel, and Drapion are Pokemon that tend to carry Pursuit, which can trap and KO Bruxish. If any of these Pokemon are on the opposing team, Bruxish must be especially careful when using Psychic Fangs, as even if it nets a KO with the move, any of the aforementioned threats can come into play, take no damage, and trap and revenge kill Bruxish with ease.",
+            "moves": [
+                [
+                    "Psychic Fangs"
+                ],
+                [
+                    "Aqua Jet"
+                ],
+                [
+                    "Liquidation"
+                ],
+                [
+                    "Crunch"
+                ]
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Strong Jaw"
+            ],
+            "nature": [
+                "Jolly",
+                "Adamant"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Dark-types",
+        "Steel-types",
+        "Faster Pokemon and Priority",
+        "Bulky Psychic-types"
+    ],
+    "credits": [
+        "Written by Hilomilo",
+        "Quality checked by avocado, Kushalos,  and DTC",
+        "Grammar checked by Fireflame479 and CryoGyro"
+    ]
+}

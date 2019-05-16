@@ -1,1 +1,99 @@
-{"name": "Wooper", "forms": {"Base": {"base stats": [55, 45, 45, 25, 25, 15], "types": ["Water", "Ground"], "abilities": ["Damp", "Unaware", "Water Absorb"], "tier": ["LC"], "form": "Base"}}, "overview": "Wooper's incredible defensive typing in combination with Water Absorb as well as its access to reliable recovery makes it one of the most consistent counters to some of the common Water- and Electric-types in the tier, such as Staryu, Chinchou, and Magnemite, and allows Wooper to consistently wall these threats throughout the game. It also has access to interesting support options such as Yawn, Encore, and Haze. However, Wooper's low offensive stats mean that it can often be setup bait. Its bulk is also low for a defensive Pokemon, especially on the special side, meaning that powerful wallbreakers such as Life Orb Doduo and Abra will easily be able to break it. In addition, both of Wooper's STAB moves are resisted by Grass-types, which also threaten it with a 4x super effective STAB move, meaning that it is easily countered by common Pokemon such as Pumpkaboo-XL and Foongus. Its weakness to Grass also means it has to be very careful of Grass-type coverage on certain Pokemon such as Ponyta and Clamperl that it would otherwise be able to check.\n", "strategies' format": "LC", "strategies": [{"name": "Defensive", "stats": [165, 126, 185, 86, 137, 59], "type": ["Water", "Ground"], "usage": "Always switch Wooper into Water-types it counters, like Chinchou, Skrelp, and Mareanie. Aside from stopping them in their tracks, Wooper will be able to get some of its HP back if it's hit by a Water-type move and also use Recover if it needs to. Also, don't be afraid to switch Wooper into other Pokemon it can take on, such as Magnemite or Ponyta, as they will usually be forced to switch out, allowing Wooper to Recover or potentially cripple a switch-in with a Scald burn. In addition, Wooper can sap momentum from an opponent by switching into Volt Switch from Pokemon like Magnemite and Chinchou. Be wary of Grass-type coverage on certain threats that Wooper would otherwise be able to wall, such as Elekid's Hidden Power Grass or Ponyta's Bloom Doom or Solar Beam. Wooper relies on its Eviolite to take as many hits as it possibly can, and losing it will significantly cripple it; as such, avoid switching into Knock Off users such as Pawniard and Alolan Grimer. Avoid using Scald if the opponent has a Guts user like Timburr, as it will become a significant threat to your team if it gets burned. Yawn can be used on a predicted switch, as it will immediately force the opponent to switch again. This is especially useful if Wooper's team has set up entry hazards, as it will wear down the foe. When Wooper is in against a setup sweeper, it should always use its choice of Yawn or Encore, as it can otherwise easily be set up on. Afterwards, it should usually switch out, since it is unable to significantly threaten common setup sweepers like Nasty Plot Vullaby, while both Yawn and Encore can potentially give a free turn to an ally.", "moves": [["Scald"], ["Recover"], ["Earthquake"], ["Yawn", "Encore"]], "item": [" Eviolite"], "ability": ["Water Absorb"], "nature": ["Sassy"], "ev spread": [76, 0, 236, 0, 156, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Grass-types", "Wallbreakers", "Knock Off", "Status"], "credits": ["Written by Xayah", "Quality checked by Hilomilo, OP,  and Nineage", "Grammar checked by Rakan and Fireflame479"]}
+{
+    "name": "Wooper",
+    "forms": {
+        "Base": {
+            "base stats": [
+                55,
+                45,
+                45,
+                25,
+                25,
+                15
+            ],
+            "types": [
+                "Water",
+                "Ground"
+            ],
+            "abilities": [
+                "Damp",
+                "Unaware",
+                "Water Absorb"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Wooper's incredible defensive typing in combination with Water Absorb as well as its access to reliable recovery makes it one of the most consistent counters to some of the common Water- and Electric-types in the tier, such as Staryu, Chinchou, and Magnemite, and allows Wooper to consistently wall these threats throughout the game. It also has access to interesting support options such as Yawn, Encore, and Haze. However, Wooper's low offensive stats mean that it can often be setup bait. Its bulk is also low for a defensive Pokemon, especially on the special side, meaning that powerful wallbreakers such as Life Orb Doduo and Abra will easily be able to break it. In addition, both of Wooper's STAB moves are resisted by Grass-types, which also threaten it with a 4x super effective STAB move, meaning that it is easily countered by common Pokemon such as Pumpkaboo-XL and Foongus. Its weakness to Grass also means it has to be very careful of Grass-type coverage on certain Pokemon such as Ponyta and Clamperl that it would otherwise be able to check.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Defensive",
+            "stats": [
+                165,
+                126,
+                185,
+                86,
+                137,
+                59
+            ],
+            "type": [
+                "Water",
+                "Ground"
+            ],
+            "usage": "Always switch Wooper into Water-types it counters, like Chinchou, Skrelp, and Mareanie. Aside from stopping them in their tracks, Wooper will be able to get some of its HP back if it's hit by a Water-type move and also use Recover if it needs to. Also, don't be afraid to switch Wooper into other Pokemon it can take on, such as Magnemite or Ponyta, as they will usually be forced to switch out, allowing Wooper to Recover or potentially cripple a switch-in with a Scald burn. In addition, Wooper can sap momentum from an opponent by switching into Volt Switch from Pokemon like Magnemite and Chinchou. Be wary of Grass-type coverage on certain threats that Wooper would otherwise be able to wall, such as Elekid's Hidden Power Grass or Ponyta's Bloom Doom or Solar Beam. Wooper relies on its Eviolite to take as many hits as it possibly can, and losing it will significantly cripple it; as such, avoid switching into Knock Off users such as Pawniard and Alolan Grimer. Avoid using Scald if the opponent has a Guts user like Timburr, as it will become a significant threat to your team if it gets burned. Yawn can be used on a predicted switch, as it will immediately force the opponent to switch again. This is especially useful if Wooper's team has set up entry hazards, as it will wear down the foe. When Wooper is in against a setup sweeper, it should always use its choice of Yawn or Encore, as it can otherwise easily be set up on. Afterwards, it should usually switch out, since it is unable to significantly threaten common setup sweepers like Nasty Plot Vullaby, while both Yawn and Encore can potentially give a free turn to an ally.",
+            "moves": [
+                [
+                    "Scald"
+                ],
+                [
+                    "Recover"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Yawn",
+                    "Encore"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Water Absorb"
+            ],
+            "nature": [
+                "Sassy"
+            ],
+            "ev spread": [
+                76,
+                0,
+                236,
+                0,
+                156,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Grass-types",
+        "Wallbreakers",
+        "Knock Off",
+        "Status"
+    ],
+    "credits": [
+        "Written by Xayah",
+        "Quality checked by Hilomilo, OP,  and Nineage",
+        "Grammar checked by Rakan and Fireflame479"
+    ]
+}

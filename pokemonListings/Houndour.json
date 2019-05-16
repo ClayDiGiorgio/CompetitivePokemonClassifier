@@ -1,1 +1,154 @@
-{"name": "Houndour", "forms": {"Base": {"base stats": [45, 60, 30, 80, 50, 65], "types": ["Dark", "Fire"], "abilities": ["Early Bird", "Flash Fire", "Unnerve"], "tier": ["LC"], "form": "Base"}}, "overview": "Houndour is one of LC's premier wallbreakers with a STAB combination resisted only by the frail Carvanha, opposing Houndour, and the largely unviable Deino. As a result, only a handful of Pokemon are able to switch into Houndour and even less can manage to more than once. STAB Sucker Punch helps Houndour fend off quicker foes as well, helping to augment its only okay Speed. Houndour's typing is quite lackluster defensively, however, as not only is Houndour weak to the ever-common Fighting-, Water-, and Ground-types in the tier, but it is also frail. This means Houndour is frequently forced out if it cannot KO what is in front of it, which is particularly bad because Houndour is weak to Stealth Rock. It also suffers from being weak to Mach Punch, Aqua Jet, and Vacuum Wave, all quite common priority moves.\n", "strategies' format": "LC", "strategies": [{"name": "Life Orb", "stats": [104, 165, 105, 245, 122, 247], "type": ["Dark", "Fire"], "usage": "Houndour best switches in after one of its teammates has been KOed or via a slow U-turn or Volt Switch. Generally, Houndour should avoid switching in on most Pokemon. Some exceptions can be made to Pumpkaboo, Pawniard, and Ponyta, as Houndour is able to check these Pokemon by the virtue of its Dark / Fire typing and access to Flash Fire, yet Houndour can still only switch in once or twice. Outside of these three Pokemon, Houndour should almost never be switched into play. Additionally, Houndour should only be brought into play when it is capable of KOing the opposing Pokemon. Typically, Houndour aims to take advantage of passive Pokemon, such as Pumpkaboo, Foongus, or Ferroseed, to fire off its powerful attacks or get off a Flame Charge to outspeed the opponent's team. If Pursuit is being used, Houndour should switch directly into Pumpkaboo in order to threaten it with Fire Blast and Pursuit trap it.", "moves": [["Fire Blast"], ["Dark Pulse"], ["Sucker Punch"], ["Flame Charge", "Pursuit"]], "item": [" Life Orb"], "ability": ["Flash Fire"], "nature": ["Naive"], "ev spread": [0, 36, 36, 196, 0, 236], "iv spread": [9, 31, 31, 31, 31, 31]}, {"name": "Choice Scarf", "stats": [126, 156, 105, 245, 130, 247], "type": ["Dark", "Fire"], "usage": "Choice Scarf Houndour is a great revenge killer and is usually best used as such. Houndour should avoid switching into attacks, as it is woefully frail. However, it can clean late-game when opposing priority users are removed and teams are aptly weakened with well-placed Knock Offs and hazards. Due to Houndour's naturally high Special Attack and Speed with a Choice Scarf, it is still hard to switch into. Destiny Bond allows Houndour to remove a would-be check or stop a setup sweeper dead in its tracks, though it can be a little predictable.", "moves": [["Fire Blast"], ["Dark Pulse"], ["Pursuit"], ["Destiny Bond", "Snarl"]], "item": [" Choice Scarf"], "ability": ["Flash Fire"], "nature": ["Naive"], "ev spread": [0, 0, 36, 196, 36, 236], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Super Effective Priority", "Bulky Pokemon", "Revenge Killers"], "credits": ["Written by Fiend and Drew", "Quality checked by Rowan, Nineage,  and Xayah", "Grammar checked by GatoDelFuego and Fireflame479"]}
+{
+    "name": "Houndour",
+    "forms": {
+        "Base": {
+            "base stats": [
+                45,
+                60,
+                30,
+                80,
+                50,
+                65
+            ],
+            "types": [
+                "Dark",
+                "Fire"
+            ],
+            "abilities": [
+                "Early Bird",
+                "Flash Fire",
+                "Unnerve"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Houndour is one of LC's premier wallbreakers with a STAB combination resisted only by the frail Carvanha, opposing Houndour, and the largely unviable Deino. As a result, only a handful of Pokemon are able to switch into Houndour and even less can manage to more than once. STAB Sucker Punch helps Houndour fend off quicker foes as well, helping to augment its only okay Speed. Houndour's typing is quite lackluster defensively, however, as not only is Houndour weak to the ever-common Fighting-, Water-, and Ground-types in the tier, but it is also frail. This means Houndour is frequently forced out if it cannot KO what is in front of it, which is particularly bad because Houndour is weak to Stealth Rock. It also suffers from being weak to Mach Punch, Aqua Jet, and Vacuum Wave, all quite common priority moves.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Life Orb",
+            "stats": [
+                104,
+                165,
+                105,
+                245,
+                122,
+                247
+            ],
+            "type": [
+                "Dark",
+                "Fire"
+            ],
+            "usage": "Houndour best switches in after one of its teammates has been KOed or via a slow U-turn or Volt Switch. Generally, Houndour should avoid switching in on most Pokemon. Some exceptions can be made to Pumpkaboo, Pawniard, and Ponyta, as Houndour is able to check these Pokemon by the virtue of its Dark / Fire typing and access to Flash Fire, yet Houndour can still only switch in once or twice. Outside of these three Pokemon, Houndour should almost never be switched into play. Additionally, Houndour should only be brought into play when it is capable of KOing the opposing Pokemon. Typically, Houndour aims to take advantage of passive Pokemon, such as Pumpkaboo, Foongus, or Ferroseed, to fire off its powerful attacks or get off a Flame Charge to outspeed the opponent's team. If Pursuit is being used, Houndour should switch directly into Pumpkaboo in order to threaten it with Fire Blast and Pursuit trap it.",
+            "moves": [
+                [
+                    "Fire Blast"
+                ],
+                [
+                    "Dark Pulse"
+                ],
+                [
+                    "Sucker Punch"
+                ],
+                [
+                    "Flame Charge",
+                    "Pursuit"
+                ]
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Flash Fire"
+            ],
+            "nature": [
+                "Naive"
+            ],
+            "ev spread": [
+                0,
+                36,
+                36,
+                196,
+                0,
+                236
+            ],
+            "iv spread": [
+                9,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Choice Scarf",
+            "stats": [
+                126,
+                156,
+                105,
+                245,
+                130,
+                247
+            ],
+            "type": [
+                "Dark",
+                "Fire"
+            ],
+            "usage": "Choice Scarf Houndour is a great revenge killer and is usually best used as such. Houndour should avoid switching into attacks, as it is woefully frail. However, it can clean late-game when opposing priority users are removed and teams are aptly weakened with well-placed Knock Offs and hazards. Due to Houndour's naturally high Special Attack and Speed with a Choice Scarf, it is still hard to switch into. Destiny Bond allows Houndour to remove a would-be check or stop a setup sweeper dead in its tracks, though it can be a little predictable.",
+            "moves": [
+                [
+                    "Fire Blast"
+                ],
+                [
+                    "Dark Pulse"
+                ],
+                [
+                    "Pursuit"
+                ],
+                [
+                    "Destiny Bond",
+                    "Snarl"
+                ]
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Flash Fire"
+            ],
+            "nature": [
+                "Naive"
+            ],
+            "ev spread": [
+                0,
+                0,
+                36,
+                196,
+                36,
+                236
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Super Effective Priority",
+        "Bulky Pokemon",
+        "Revenge Killers"
+    ],
+    "credits": [
+        "Written by Fiend and Drew",
+        "Quality checked by Rowan, Nineage,  and Xayah",
+        "Grammar checked by GatoDelFuego and Fireflame479"
+    ]
+}

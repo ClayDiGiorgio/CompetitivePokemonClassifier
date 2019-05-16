@@ -1,1 +1,212 @@
-{"name": "Mienfoo", "forms": {"Base": {"base stats": [45, 85, 50, 55, 50, 65], "types": ["Fighting"], "abilities": ["Inner Focus", "Reckless", "Regenerator"], "tier": ["LC"], "form": "Base"}}, "overview": "Mienfoo has a variety of traits that make it one of the best all-around Pokemon in the metagame. Its terrific stat distribution and deep movepool, which includes utility moves such as Knock Off and U-turn and coverage moves such as Poison Jab and Acrobatics, give it the ability to function in a variety of roles, freely customizing its item, EV spread, and choice of moves for the team it is on. Because of its various roles, Mienfoo is quite versatile and difficult to check until its set is revealed. Mienfoo's most common role is that of a pivot, using its good natural bulk, access to U-turn, and Regenerator ability to take a wide range of hits and then bring in a teammate, granting its team momentum instantly while gaining a third of its HP back just by pivoting out. It can also support its team through the use of Knock Off, which removes common defensive items such as Eviolite and Berry Juice to support Mienfoo's teammates. However, Mienfoo is not limited to functioning as a bulky pivot, as it is also able to invest in its Attack and don a Choice Scarf to function as a threatening cleaner in the late-game. In short, Mienfoo's longevity thanks to Regenerator, ability to pivot and support its teammates with U-turn and Knock Off, good stat distribution, and wide support and coverage movepool make it an excellent choice on many teams. Mienfoo's only downside is its own popularity; despite its ability to perform many roles, Mienfoo is pretty consistently defeated by the same Pokemon, including Spritzee, Snubbull, and Foongus, which tend to be quite common because of how prevalent it is.\n", "strategies' format": "LC", "strategies": [{"name": "Bulky Attacker", "stats": [126, 206, 185, 131, 145, 247], "type": ["Fighting"], "usage": "This Mienfoo set should be used as a pivot or a scout, coming in on resisted or weaker neutral hits throughout a battle and pivoting out when its health gets low. Regenerator comes in handy in doing this, as Mienfoo can regain health when it needs to just by coming out of battle. When Mienfoo is in battle, it should use Knock Off as much as possible to wear down the opposing Pokemon and remove items, especially to wear down Mienfoo's checks. Once it needs to recover health, or if a check is predicted to be coming into battle, Mienfoo can use U-turn to switch out while gaining momentum for its team. Its relatively slow U-turn is useful for bringing in frail allies as well. Be careful against opposing Flame Body users such as Ponyta and Larvesta, however, as Mienfoo relies on contact moves, which these Pokemon can come in on and potentially cripple Mienfoo with a burn.", "moves": [["High Jump Kick"], ["U-turn"], ["Knock Off"], ["Fake Out", "Acrobatics", "Drain Punch"]], "item": [" Eviolite"], "ability": ["Regenerator"], "nature": ["Jolly"], "ev spread": [0, 0, 196, 0, 36, 236], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Choice Scarf", "stats": [126, 265, 145, 131, 136, 247], "type": ["Fighting"], "usage": "In the early-game, Mienfoo should use Knock Off and U-turn to weaken foes and bring in checks. As the pivot set is far more common, Mienfoo can often bluff not having a Choice Scarf, which can be used to lure in Pokemon that aim to revenge kill Mienfoo. After foes have been worn down, High Jump Kick should be spammed because it hits extremely hard. However,care should be taken to remove opposing Ghost-types beforehand, as they can hurt Mienfoo significantly by coming in on High Jump Kick. Because Choice Scarf locks Mienfoo into a single move, be careful about picking a move that turns it into setup bait, and keep in mind that Mienfoo can always use U-turn if becoming locked into a single move is an issue. However, in most late-game scenarios, if opposing Ghost-types have been eliminated, locking Mienfoo into High Jump Kick has very few downsides.", "moves": [["High Jump Kick"], ["U-turn"], ["Knock Off"], ["Drain Punch", "Brick Break"]], "item": [" Choice Scarf"], "ability": ["Reckless", "Regenerator"], "nature": ["Jolly"], "ev spread": [0, 236, 36, 0, 0, 236], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Flyinium Z", "stats": [126, 245, 165, 131, 136, 247], "type": ["Fighting"], "usage": "Be careful when using Supersonic Skystrike on predicted switches; it's a one-use move, so play it safe until the threatening Pokemon is on the field. Also, be sure not to reveal Bounce beforehand, as only this set utilizes it; switching into Knock Off can also tip off your opponent that you have a Z-Move, since Z-Crystals can't be removed. Be cautious when using High Jump Kick against teams with a Ghost-type, as they can switch in and force Mienfoo to take crash damage; use Knock Off to punish Ghost-types on the switch in. Be aware that Mienfoo is quite frail due to the lack of an Eviolite and won't be able to switch into attacks as easily as other variants. Otherwise, this Mienfoo can play similarly to pivot variants: coming in on resisted attacks, using U-turn to keep up its health and momentum, and using Knock Off to remove items to help teammates sweep.", "moves": [["Bounce"], ["High Jump Kick", "Drain Punch"], ["Fake Out"], ["Knock Off", "U-turn"]], "item": [" Flyinium Z"], "ability": ["Regenerator", "Reckless"], "nature": ["Jolly"], "ev spread": [0, 156, 116, 0, 0, 236], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Fairy-types", "Poison-types", "Flying-types", "Flame Body", "Abra"], "credits": ["Written by Nineage, Coconut,  and Gummy", "Quality checked by Rowan, Nineage, Xayah, Corporal Levi,  and Hilomilo", "Grammar checked by talkingtree, CryoGyro, Rakan,  and The Dutch Plumberjack"]}
+{
+    "name": "Mienfoo",
+    "forms": {
+        "Base": {
+            "base stats": [
+                45,
+                85,
+                50,
+                55,
+                50,
+                65
+            ],
+            "types": [
+                "Fighting"
+            ],
+            "abilities": [
+                "Inner Focus",
+                "Reckless",
+                "Regenerator"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Mienfoo has a variety of traits that make it one of the best all-around Pokemon in the metagame. Its terrific stat distribution and deep movepool, which includes utility moves such as Knock Off and U-turn and coverage moves such as Poison Jab and Acrobatics, give it the ability to function in a variety of roles, freely customizing its item, EV spread, and choice of moves for the team it is on. Because of its various roles, Mienfoo is quite versatile and difficult to check until its set is revealed. Mienfoo's most common role is that of a pivot, using its good natural bulk, access to U-turn, and Regenerator ability to take a wide range of hits and then bring in a teammate, granting its team momentum instantly while gaining a third of its HP back just by pivoting out. It can also support its team through the use of Knock Off, which removes common defensive items such as Eviolite and Berry Juice to support Mienfoo's teammates. However, Mienfoo is not limited to functioning as a bulky pivot, as it is also able to invest in its Attack and don a Choice Scarf to function as a threatening cleaner in the late-game. In short, Mienfoo's longevity thanks to Regenerator, ability to pivot and support its teammates with U-turn and Knock Off, good stat distribution, and wide support and coverage movepool make it an excellent choice on many teams. Mienfoo's only downside is its own popularity; despite its ability to perform many roles, Mienfoo is pretty consistently defeated by the same Pokemon, including Spritzee, Snubbull, and Foongus, which tend to be quite common because of how prevalent it is.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Bulky Attacker",
+            "stats": [
+                126,
+                206,
+                185,
+                131,
+                145,
+                247
+            ],
+            "type": [
+                "Fighting"
+            ],
+            "usage": "This Mienfoo set should be used as a pivot or a scout, coming in on resisted or weaker neutral hits throughout a battle and pivoting out when its health gets low. Regenerator comes in handy in doing this, as Mienfoo can regain health when it needs to just by coming out of battle. When Mienfoo is in battle, it should use Knock Off as much as possible to wear down the opposing Pokemon and remove items, especially to wear down Mienfoo's checks. Once it needs to recover health, or if a check is predicted to be coming into battle, Mienfoo can use U-turn to switch out while gaining momentum for its team. Its relatively slow U-turn is useful for bringing in frail allies as well. Be careful against opposing Flame Body users such as Ponyta and Larvesta, however, as Mienfoo relies on contact moves, which these Pokemon can come in on and potentially cripple Mienfoo with a burn.",
+            "moves": [
+                [
+                    "High Jump Kick"
+                ],
+                [
+                    "U-turn"
+                ],
+                [
+                    "Knock Off"
+                ],
+                [
+                    "Fake Out",
+                    "Acrobatics",
+                    "Drain Punch"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Regenerator"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                0,
+                196,
+                0,
+                36,
+                236
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Choice Scarf",
+            "stats": [
+                126,
+                265,
+                145,
+                131,
+                136,
+                247
+            ],
+            "type": [
+                "Fighting"
+            ],
+            "usage": "In the early-game, Mienfoo should use Knock Off and U-turn to weaken foes and bring in checks. As the pivot set is far more common, Mienfoo can often bluff not having a Choice Scarf, which can be used to lure in Pokemon that aim to revenge kill Mienfoo. After foes have been worn down, High Jump Kick should be spammed because it hits extremely hard. However,care should be taken to remove opposing Ghost-types beforehand, as they can hurt Mienfoo significantly by coming in on High Jump Kick. Because Choice Scarf locks Mienfoo into a single move, be careful about picking a move that turns it into setup bait, and keep in mind that Mienfoo can always use U-turn if becoming locked into a single move is an issue. However, in most late-game scenarios, if opposing Ghost-types have been eliminated, locking Mienfoo into High Jump Kick has very few downsides.",
+            "moves": [
+                [
+                    "High Jump Kick"
+                ],
+                [
+                    "U-turn"
+                ],
+                [
+                    "Knock Off"
+                ],
+                [
+                    "Drain Punch",
+                    "Brick Break"
+                ]
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Reckless",
+                "Regenerator"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                236,
+                36,
+                0,
+                0,
+                236
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Flyinium Z",
+            "stats": [
+                126,
+                245,
+                165,
+                131,
+                136,
+                247
+            ],
+            "type": [
+                "Fighting"
+            ],
+            "usage": "Be careful when using Supersonic Skystrike on predicted switches; it's a one-use move, so play it safe until the threatening Pokemon is on the field. Also, be sure not to reveal Bounce beforehand, as only this set utilizes it; switching into Knock Off can also tip off your opponent that you have a Z-Move, since Z-Crystals can't be removed. Be cautious when using High Jump Kick against teams with a Ghost-type, as they can switch in and force Mienfoo to take crash damage; use Knock Off to punish Ghost-types on the switch in. Be aware that Mienfoo is quite frail due to the lack of an Eviolite and won't be able to switch into attacks as easily as other variants. Otherwise, this Mienfoo can play similarly to pivot variants: coming in on resisted attacks, using U-turn to keep up its health and momentum, and using Knock Off to remove items to help teammates sweep.",
+            "moves": [
+                [
+                    "Bounce"
+                ],
+                [
+                    "High Jump Kick",
+                    "Drain Punch"
+                ],
+                [
+                    "Fake Out"
+                ],
+                [
+                    "Knock Off",
+                    "U-turn"
+                ]
+            ],
+            "item": [
+                " Flyinium Z"
+            ],
+            "ability": [
+                "Regenerator",
+                "Reckless"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                156,
+                116,
+                0,
+                0,
+                236
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Fairy-types",
+        "Poison-types",
+        "Flying-types",
+        "Flame Body",
+        "Abra"
+    ],
+    "credits": [
+        "Written by Nineage, Coconut,  and Gummy",
+        "Quality checked by Rowan, Nineage, Xayah, Corporal Levi,  and Hilomilo",
+        "Grammar checked by talkingtree, CryoGyro, Rakan,  and The Dutch Plumberjack"
+    ]
+}

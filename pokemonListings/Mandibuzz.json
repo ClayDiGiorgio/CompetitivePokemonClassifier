@@ -1,1 +1,102 @@
-{"name": "Mandibuzz", "forms": {"Base": {"base stats": [110, 65, 105, 55, 95, 80], "types": ["Dark", "Flying"], "abilities": ["Big Pecks", "Overcoat", "Weak Armor"], "tier": ["RU"], "form": "Base"}}, "overview": "Mandibuzz is an effective, if somewhat niche utility Pokemon that is capable of keeping a number of both passive and offensive Pokemon at bay with its combination of good bulk, unique defensive typing, and reliable recovery, allowing it to shut down key threats such as Slowbro, Krookodile, and Celebi. This is further augmented by Mandibuzz's high Speed for a defensive Pokemon, which lets it outspeed and annoy slower Pokemon such as Blissey and Alomomola, as well as its access to Taunt and Toxic to shut down passive counterplay, and Overcoat, which makes it immune to sandstorm damage and Spore from Amoonguss. These traits together make Mandibuzz a nuisance to offensive and defensive teams alike, as generally only super effective or boosted neutral hits can break through it reliably, and it can outspeed most defensive Pokemon and Taunt them before it is hit with a status move. This resilience to a unique array of threats is what sets it apart from Togekiss and Moltres, two other Flying-types commonly utilized on balance and bulky offense. That said, Mandibuzz is nevertheless quite easily overwhelmed due to the ubiquity of offensive threats that can easily exploit it, such as Cobalion and Mega Manectric, as well as the bulky Fairy-types found on many defensive teams that can pressure it despite being slower, such as Sylveon and Florges. It is also extremely vulnerable to faster setup sweepers, such as Suicune, Terrakion, and Togekiss, since it cannot Taunt them before they set up. This sheer passivity is why the aforementioned Togekiss and Moltres are generally better options as Flying-types, as these both have top-notch offensive presence to back up their defensive utility. Lastly, Mandibuzz's typing only has a handful of useful resistances and makes it weak to Stealth Rock, which greatly limits the number of threats that it can beat reliably.\n", "strategies' format": "UU", "strategies": [{"name": "Utility Birb", "stats": [318, 166, 246, 131, 282, 230], "type": ["Dark", "Flying"], "usage": "Be careful to account for Mandibuzz's extreme passivity in offensive matchups, as giving free turns to Pokemon such as Mega Manectric, Cobalion, Primarina, and Togekiss can prove extremely costly to a balance team. Do not carelessly toss it in versus a Scizor with Stealth Rock up, for example. It can come in, however, on a resisted attack from a Pokemon such as Celebi or Krookodile and take that as an opportunity to fire off Toxic or Foul Play. Mandibuzz must be careful to avoid being crippled by Knock Off, too, as losing its Leftovers means it will be 2HKOed by far more threats later on. Due to this passivity, you shouldn't always wait until it is at low HP to use Roost, as this will often lead to it getting KOed before it can move. You should therefore predict when the opponent will attack and use Roost proactively. Thanks to the combination of Taunt, Toxic, and its high Speed for a defensive Pokemon, Mandibuzz can prove a massive headache for defensive teams. Be careful switching it in, though, as it can only do its job with any sort of consistency if it is not statused. Alomomola and Blissey, for example, both almost always carry Toxic, meaning Mandibuzz cannot safely switch in despite beating them one-on-one. Pokemon such as Slowbro, Hippowdon, and Amoonguss are generally safer bets for bringing Mandibuzz in. If the opposing team has any of Swords Dance Lucario, Cobalion, or Terrakion, be cautious when going for Foul Play, as giving them a free Attack boost with Justified would be extremely dangerous.", "moves": [["Foul Play"], ["Taunt"], ["Toxic"], ["Roost"]], "item": [" Leftovers"], "ability": ["Overcoat"], "nature": ["Careful"], "ev spread": [248, 0, 0, 0, 124, 136], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Fairy-types", "Fighting-types", "Electric-types", "Rock-types", "Ice-types", "Strong Wallbreakers", "Taunt", "Status"], "credits": ["Written by eht", "Quality checked by Hilomilo, martha,  and Kink", "Grammar checked by martha and talkingtree"]}
+{
+    "name": "Mandibuzz",
+    "forms": {
+        "Base": {
+            "base stats": [
+                110,
+                65,
+                105,
+                55,
+                95,
+                80
+            ],
+            "types": [
+                "Dark",
+                "Flying"
+            ],
+            "abilities": [
+                "Big Pecks",
+                "Overcoat",
+                "Weak Armor"
+            ],
+            "tier": [
+                "RU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Mandibuzz is an effective, if somewhat niche utility Pokemon that is capable of keeping a number of both passive and offensive Pokemon at bay with its combination of good bulk, unique defensive typing, and reliable recovery, allowing it to shut down key threats such as Slowbro, Krookodile, and Celebi. This is further augmented by Mandibuzz's high Speed for a defensive Pokemon, which lets it outspeed and annoy slower Pokemon such as Blissey and Alomomola, as well as its access to Taunt and Toxic to shut down passive counterplay, and Overcoat, which makes it immune to sandstorm damage and Spore from Amoonguss. These traits together make Mandibuzz a nuisance to offensive and defensive teams alike, as generally only super effective or boosted neutral hits can break through it reliably, and it can outspeed most defensive Pokemon and Taunt them before it is hit with a status move. This resilience to a unique array of threats is what sets it apart from Togekiss and Moltres, two other Flying-types commonly utilized on balance and bulky offense. That said, Mandibuzz is nevertheless quite easily overwhelmed due to the ubiquity of offensive threats that can easily exploit it, such as Cobalion and Mega Manectric, as well as the bulky Fairy-types found on many defensive teams that can pressure it despite being slower, such as Sylveon and Florges. It is also extremely vulnerable to faster setup sweepers, such as Suicune, Terrakion, and Togekiss, since it cannot Taunt them before they set up. This sheer passivity is why the aforementioned Togekiss and Moltres are generally better options as Flying-types, as these both have top-notch offensive presence to back up their defensive utility. Lastly, Mandibuzz's typing only has a handful of useful resistances and makes it weak to Stealth Rock, which greatly limits the number of threats that it can beat reliably.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Utility Birb",
+            "stats": [
+                318,
+                166,
+                246,
+                131,
+                282,
+                230
+            ],
+            "type": [
+                "Dark",
+                "Flying"
+            ],
+            "usage": "Be careful to account for Mandibuzz's extreme passivity in offensive matchups, as giving free turns to Pokemon such as Mega Manectric, Cobalion, Primarina, and Togekiss can prove extremely costly to a balance team. Do not carelessly toss it in versus a Scizor with Stealth Rock up, for example. It can come in, however, on a resisted attack from a Pokemon such as Celebi or Krookodile and take that as an opportunity to fire off Toxic or Foul Play. Mandibuzz must be careful to avoid being crippled by Knock Off, too, as losing its Leftovers means it will be 2HKOed by far more threats later on. Due to this passivity, you shouldn't always wait until it is at low HP to use Roost, as this will often lead to it getting KOed before it can move. You should therefore predict when the opponent will attack and use Roost proactively. Thanks to the combination of Taunt, Toxic, and its high Speed for a defensive Pokemon, Mandibuzz can prove a massive headache for defensive teams. Be careful switching it in, though, as it can only do its job with any sort of consistency if it is not statused. Alomomola and Blissey, for example, both almost always carry Toxic, meaning Mandibuzz cannot safely switch in despite beating them one-on-one. Pokemon such as Slowbro, Hippowdon, and Amoonguss are generally safer bets for bringing Mandibuzz in. If the opposing team has any of Swords Dance Lucario, Cobalion, or Terrakion, be cautious when going for Foul Play, as giving them a free Attack boost with Justified would be extremely dangerous.",
+            "moves": [
+                [
+                    "Foul Play"
+                ],
+                [
+                    "Taunt"
+                ],
+                [
+                    "Toxic"
+                ],
+                [
+                    "Roost"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Overcoat"
+            ],
+            "nature": [
+                "Careful"
+            ],
+            "ev spread": [
+                248,
+                0,
+                0,
+                0,
+                124,
+                136
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Fairy-types",
+        "Fighting-types",
+        "Electric-types",
+        "Rock-types",
+        "Ice-types",
+        "Strong Wallbreakers",
+        "Taunt",
+        "Status"
+    ],
+    "credits": [
+        "Written by eht",
+        "Quality checked by Hilomilo, martha,  and Kink",
+        "Grammar checked by martha and talkingtree"
+    ]
+}

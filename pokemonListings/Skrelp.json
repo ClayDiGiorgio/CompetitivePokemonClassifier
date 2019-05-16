@@ -1,1 +1,100 @@
-{"name": "Skrelp", "forms": {"Base": {"base stats": [50, 60, 60, 60, 60, 30], "types": ["Poison", "Water"], "abilities": ["Adaptability", "Poison Point", "Poison Touch"], "tier": ["LC"], "form": "Base"}}, "overview": "Skrelp is a powerful wallbreaker in the LC metagame due to its good typing, which gives it excellent coverage with just its STAB moves, and Adaptability, which boosts the power of these STAB moves. With those traits coupled with a solid Special Attack stat, Skrelp becomes very difficult to switch into. Defensively, Skrelp has eight resistances, most notably to the common Fighting and Fairy types, which gives it the ability to switch in on common Pokemon and pressure them out with its offensive potential. However, Skrelp is held back offensively by poor Speed, a shallow movepool that leaves it reliant on Hidden Power to hit the Pokemon that otherwise wall it, and a lack of recovery outside of Rest. Defensively, Skrelp faces competition from Mareanie, which has the same typing and comparable defensive stats but can check the same Pokemon more reliably thanks to its ability Regenerator, which forces Skrelp into an offensive role. It is also held back by weaknesses to common Ground- and Electric-type attacks and to Diglett, which can revenge kill it with no possibility of Skrelp switching out.\n", "strategies' format": "LC", "strategies": [{"name": "Special Attacker", "stats": [165, 140, 185, 206, 181, 106], "type": ["Poison", "Water"], "usage": "Skrelp can easily come in on the attacks that it resists, especially against Pokemon such as Spritzee and Timburr that cannot significantly damage it, and then begin to dish out damage against whatever comes in. Early-game, Skrelp can use Toxic Spikes or Scald to spread status and wear down the opposing team's checks and counters. Mid- or late-game, Skrelp can come in and break down the opposing team with powerful attacks. Be cautious when playing against teams using trappers, as these can easily come in after Skrelp gets a KO and remove it from the match. Also be careful about letting Skrelp take super effective, or even powerful neutral attacks, as despite its good defenses it is prone to getting worn down. Skrelp's Hidden Power should usually not be used except against Pokemon that resist both of Skrelp's STAB attacks because Adaptability gives Skrelp such a power boost on its STAB moves.", "moves": [["Sludge Wave"], ["Hydro Pump"], ["Hidden Power Fire", "Hidden Power Psychic"], ["Toxic Spikes", "Scald"]], "item": [" Eviolite"], "ability": ["Adaptability"], "nature": ["Calm"], "ev spread": [116, 0, 116, 200, 36, 40], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Diglett", "Pokemon That Resist Skrelp's STAB Moves", "Specially Defensive Pokemon", "Super Effective Attacks"], "credits": ["Written by Nineage", "Quality checked by Berks, Fiend,  and macle", "Grammar checked by piikachuu and P Squared"]}
+{
+    "name": "Skrelp",
+    "forms": {
+        "Base": {
+            "base stats": [
+                50,
+                60,
+                60,
+                60,
+                60,
+                30
+            ],
+            "types": [
+                "Poison",
+                "Water"
+            ],
+            "abilities": [
+                "Adaptability",
+                "Poison Point",
+                "Poison Touch"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Skrelp is a powerful wallbreaker in the LC metagame due to its good typing, which gives it excellent coverage with just its STAB moves, and Adaptability, which boosts the power of these STAB moves. With those traits coupled with a solid Special Attack stat, Skrelp becomes very difficult to switch into. Defensively, Skrelp has eight resistances, most notably to the common Fighting and Fairy types, which gives it the ability to switch in on common Pokemon and pressure them out with its offensive potential. However, Skrelp is held back offensively by poor Speed, a shallow movepool that leaves it reliant on Hidden Power to hit the Pokemon that otherwise wall it, and a lack of recovery outside of Rest. Defensively, Skrelp faces competition from Mareanie, which has the same typing and comparable defensive stats but can check the same Pokemon more reliably thanks to its ability Regenerator, which forces Skrelp into an offensive role. It is also held back by weaknesses to common Ground- and Electric-type attacks and to Diglett, which can revenge kill it with no possibility of Skrelp switching out.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Special Attacker",
+            "stats": [
+                165,
+                140,
+                185,
+                206,
+                181,
+                106
+            ],
+            "type": [
+                "Poison",
+                "Water"
+            ],
+            "usage": "Skrelp can easily come in on the attacks that it resists, especially against Pokemon such as Spritzee and Timburr that cannot significantly damage it, and then begin to dish out damage against whatever comes in. Early-game, Skrelp can use Toxic Spikes or Scald to spread status and wear down the opposing team's checks and counters. Mid- or late-game, Skrelp can come in and break down the opposing team with powerful attacks. Be cautious when playing against teams using trappers, as these can easily come in after Skrelp gets a KO and remove it from the match. Also be careful about letting Skrelp take super effective, or even powerful neutral attacks, as despite its good defenses it is prone to getting worn down. Skrelp's Hidden Power should usually not be used except against Pokemon that resist both of Skrelp's STAB attacks because Adaptability gives Skrelp such a power boost on its STAB moves.",
+            "moves": [
+                [
+                    "Sludge Wave"
+                ],
+                [
+                    "Hydro Pump"
+                ],
+                [
+                    "Hidden Power Fire",
+                    "Hidden Power Psychic"
+                ],
+                [
+                    "Toxic Spikes",
+                    "Scald"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Adaptability"
+            ],
+            "nature": [
+                "Calm"
+            ],
+            "ev spread": [
+                116,
+                0,
+                116,
+                200,
+                36,
+                40
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Diglett",
+        "Pokemon That Resist Skrelp's STAB Moves",
+        "Specially Defensive Pokemon",
+        "Super Effective Attacks"
+    ],
+    "credits": [
+        "Written by Nineage",
+        "Quality checked by Berks, Fiend,  and macle",
+        "Grammar checked by piikachuu and P Squared"
+    ]
+}

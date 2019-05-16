@@ -1,1 +1,101 @@
-{"name": "Mareanie", "forms": {"Base": {"base stats": [50, 53, 62, 43, 52, 45], "types": ["Poison", "Water"], "abilities": ["Limber", "Merciless", "Regenerator"], "tier": ["LC"], "form": "Base"}}, "overview": "Mareanie's fantastic defensive ability in Regenerator alongside its decent mixed bulk, access to reliable recovery, and typing allow it to function on balanced and defensive teams as a stellar defensive pivot as well as a reliable check to common threats in Mienfoo, Vullaby, Alolan Grimer, and more. Furthermore, Mareanie's expansive utility movepool, consisting of useful options in Haze, Toxic Spikes, and Scald, allows it to discourage setup sweepers and inflict foes with status to stall them out. Despite these perks, Mareanie's poor offensive stats make it quite passive, and its merely decent bulk still leaves it susceptible to the tier's common Electric- and Ground-type attacks as well as especially powerful wallbreakers in Abra and Gastly.\n", "strategies' format": "LC", "strategies": [{"name": "Defensive Pivot", "stats": [185, 130, 185, 145, 181, 126], "type": ["Poison", "Water"], "usage": "Thanks to its Regenerator ability, typing, and good bulk, Mareanie is able to reliably switch into a plethora of fearsome attacks such as Mienfoo's High Jump Kick, Spritzee's Moonblast, and Rufflet's Superpower. Regenerator should be taken advantage of whenever possible, such as when threatened by a powerful attacker like Abra or when you predict a switch to a foe that threatens it. Because of Regenerator, Mareanie should try to avoid using Recover when it doesn't need to in order to preserve momentum. Because Mareanie forces switches against common Pokemon in Mienfoo and Ponyta, it often has access to free turns, which it should use to set up Toxic Spikes, try burning switch-ins with Scald, or recover. Despite its good bulk, Mareanie has glaring weaknesses to Ground-, Psychic-, and Electric-type attacks, which means it should pivot out of Pokemon with these types of attacks to avoid taking severe damage that compromises its tanking capabilities. Don't be conservative about using Haze if running it; it's better for Mareanie to use Haze and have the opponent KO it, as this will allow Mareanie's teammates to safely revenge kill a foe that hasn't accumulated any stat boosts. Mareanie is very reliant on Eviolite, and as a result, must be wary of super effective coverage options from the likes of Mienfoo and Timburr after having its Eviolite removed by Knock Off. Mareanie should also always be wary of Guts Timburr, as it is a prevalent threat that receives an Attack boost from status, thus discouraging the use of any of Mareanie's status-inflicting moves. Lastly, Mareanie should be wary of switching into a pivoting attacker such as Mienfoo or Pancham if Diglett is on the opposing team, as it will trap and KO Mareanie.", "moves": [["Scald"], ["Sludge Bomb"], ["Recover"], ["Knock Off", "Toxic Spikes", "Iron Defense"]], "item": [" Eviolite"], "ability": ["Regenerator"], "nature": ["Calm"], "ev spread": [196, 12, 100, 92, 100, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Powerful Wallbreakers", "Electric-types", "Ground-types", "Croagunk", "Setup Sweepers"], "credits": ["Written by Hilomilo", "Quality checked by Corporal Levi, Xayah,  and Nineage", "Grammar checked by Fireflame479 and CryoGyro"]}
+{
+    "name": "Mareanie",
+    "forms": {
+        "Base": {
+            "base stats": [
+                50,
+                53,
+                62,
+                43,
+                52,
+                45
+            ],
+            "types": [
+                "Poison",
+                "Water"
+            ],
+            "abilities": [
+                "Limber",
+                "Merciless",
+                "Regenerator"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Mareanie's fantastic defensive ability in Regenerator alongside its decent mixed bulk, access to reliable recovery, and typing allow it to function on balanced and defensive teams as a stellar defensive pivot as well as a reliable check to common threats in Mienfoo, Vullaby, Alolan Grimer, and more. Furthermore, Mareanie's expansive utility movepool, consisting of useful options in Haze, Toxic Spikes, and Scald, allows it to discourage setup sweepers and inflict foes with status to stall them out. Despite these perks, Mareanie's poor offensive stats make it quite passive, and its merely decent bulk still leaves it susceptible to the tier's common Electric- and Ground-type attacks as well as especially powerful wallbreakers in Abra and Gastly.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Defensive Pivot",
+            "stats": [
+                185,
+                130,
+                185,
+                145,
+                181,
+                126
+            ],
+            "type": [
+                "Poison",
+                "Water"
+            ],
+            "usage": "Thanks to its Regenerator ability, typing, and good bulk, Mareanie is able to reliably switch into a plethora of fearsome attacks such as Mienfoo's High Jump Kick, Spritzee's Moonblast, and Rufflet's Superpower. Regenerator should be taken advantage of whenever possible, such as when threatened by a powerful attacker like Abra or when you predict a switch to a foe that threatens it. Because of Regenerator, Mareanie should try to avoid using Recover when it doesn't need to in order to preserve momentum. Because Mareanie forces switches against common Pokemon in Mienfoo and Ponyta, it often has access to free turns, which it should use to set up Toxic Spikes, try burning switch-ins with Scald, or recover. Despite its good bulk, Mareanie has glaring weaknesses to Ground-, Psychic-, and Electric-type attacks, which means it should pivot out of Pokemon with these types of attacks to avoid taking severe damage that compromises its tanking capabilities. Don't be conservative about using Haze if running it; it's better for Mareanie to use Haze and have the opponent KO it, as this will allow Mareanie's teammates to safely revenge kill a foe that hasn't accumulated any stat boosts. Mareanie is very reliant on Eviolite, and as a result, must be wary of super effective coverage options from the likes of Mienfoo and Timburr after having its Eviolite removed by Knock Off. Mareanie should also always be wary of Guts Timburr, as it is a prevalent threat that receives an Attack boost from status, thus discouraging the use of any of Mareanie's status-inflicting moves. Lastly, Mareanie should be wary of switching into a pivoting attacker such as Mienfoo or Pancham if Diglett is on the opposing team, as it will trap and KO Mareanie.",
+            "moves": [
+                [
+                    "Scald"
+                ],
+                [
+                    "Sludge Bomb"
+                ],
+                [
+                    "Recover"
+                ],
+                [
+                    "Knock Off",
+                    "Toxic Spikes",
+                    "Iron Defense"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Regenerator"
+            ],
+            "nature": [
+                "Calm"
+            ],
+            "ev spread": [
+                196,
+                12,
+                100,
+                92,
+                100,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Powerful Wallbreakers",
+        "Electric-types",
+        "Ground-types",
+        "Croagunk",
+        "Setup Sweepers"
+    ],
+    "credits": [
+        "Written by Hilomilo",
+        "Quality checked by Corporal Levi, Xayah,  and Nineage",
+        "Grammar checked by Fireflame479 and CryoGyro"
+    ]
+}

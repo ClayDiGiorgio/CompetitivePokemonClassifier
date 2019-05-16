@@ -1,1 +1,99 @@
-{"name": "Aurorus", "forms": {"Base": {"base stats": [123, 77, 72, 99, 92, 58], "types": ["Rock", "Ice"], "abilities": ["Refrigerate", "Snow Warning"], "tier": ["PU"], "form": "Base"}}, "overview": "Aurorus's niche is as a lead for Aurora Veil hyper offense teams. It sets up Stealth Rock and hail, allowing Alolan Sandslash, which it is always partnered with, to set up Aurora Veil itself. Aurorus's typing allows it to deal with most Defog users, such as Mega Altaria, Gliscor, and Hydreigon, well, and its support movepool, featuring Encore and Thunder Wave, allows it to play around those it can't beat. However, an atrocious defensive typing coupled with low Speed leaves Aurorus extremely vulnerable to a lot of Pokemon in the metagame, so it is unable to do much other than function as a one-dimensional suicide lead for Aurora Veil teams.\n", "strategies' format": "UU", "strategies": [{"name": "Aurora Veil Lead", "stats": [282, 171, 180, 297, 221, 236], "type": ["Rock", "Ice"], "usage": "Aurorus should be used as a lead and set up Stealth Rock as early as possible. Against opposing leads that carry Taunt, such as Azelf, attacking them is generally recommended. Lead Kabutops should be OHKOed immediately through a combination of Freeze-Dry and hail; if it attacks, it is unlikely that Aurorus will set up Stealth Rock but neither will your opponent. If it opts to set up Stealth Rock, Aurorus's Focus Sash will remain intact, and it can still set up Stealth Rock on its partners; Alolan Sandslash can likely remove the Stealth Rock on your side of the field later. Aurorus should avoid leading against teams with Breloom, as Breloom can KO it with Bullet Seed despite its Focus Sash and can also prevent Alolan Sandslash from setting up Aurora Veil via Mach Punch. Hidden Power Fire should be used to OHKO Scizor if possible, as Aurora Veil-based teams often lack a good way of dealing with it if setting up Aurora Veil fails. Encore is mainly used to lock opposing Defog and Rapid Spin users into these moves, forcing them to switch out or risk becoming setup fodder. This helps in keeping up Stealth Rock and generating setup opportunities for Aurorus's teammates.", "moves": [["Stealth Rock"], ["Freeze-Dry"], ["Hidden Power Fire", "Blizzard"], ["Encore", "Thunder Wave"]], "item": [" Focus Sash"], "ability": ["Snow Warning"], "nature": ["Timid"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Opposing Weather", "Fighting-types", "Steel-types", "Taunt Users"], "credits": ["Written by Ark", "Quality checked by Pak, Bouff,  and Eyan", "Grammar checked by Mr. Uncompetitive and martha"]}
+{
+    "name": "Aurorus",
+    "forms": {
+        "Base": {
+            "base stats": [
+                123,
+                77,
+                72,
+                99,
+                92,
+                58
+            ],
+            "types": [
+                "Rock",
+                "Ice"
+            ],
+            "abilities": [
+                "Refrigerate",
+                "Snow Warning"
+            ],
+            "tier": [
+                "PU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Aurorus's niche is as a lead for Aurora Veil hyper offense teams. It sets up Stealth Rock and hail, allowing Alolan Sandslash, which it is always partnered with, to set up Aurora Veil itself. Aurorus's typing allows it to deal with most Defog users, such as Mega Altaria, Gliscor, and Hydreigon, well, and its support movepool, featuring Encore and Thunder Wave, allows it to play around those it can't beat. However, an atrocious defensive typing coupled with low Speed leaves Aurorus extremely vulnerable to a lot of Pokemon in the metagame, so it is unable to do much other than function as a one-dimensional suicide lead for Aurora Veil teams.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Aurora Veil Lead",
+            "stats": [
+                282,
+                171,
+                180,
+                297,
+                221,
+                236
+            ],
+            "type": [
+                "Rock",
+                "Ice"
+            ],
+            "usage": "Aurorus should be used as a lead and set up Stealth Rock as early as possible. Against opposing leads that carry Taunt, such as Azelf, attacking them is generally recommended. Lead Kabutops should be OHKOed immediately through a combination of Freeze-Dry and hail; if it attacks, it is unlikely that Aurorus will set up Stealth Rock but neither will your opponent. If it opts to set up Stealth Rock, Aurorus's Focus Sash will remain intact, and it can still set up Stealth Rock on its partners; Alolan Sandslash can likely remove the Stealth Rock on your side of the field later. Aurorus should avoid leading against teams with Breloom, as Breloom can KO it with Bullet Seed despite its Focus Sash and can also prevent Alolan Sandslash from setting up Aurora Veil via Mach Punch. Hidden Power Fire should be used to OHKO Scizor if possible, as Aurora Veil-based teams often lack a good way of dealing with it if setting up Aurora Veil fails. Encore is mainly used to lock opposing Defog and Rapid Spin users into these moves, forcing them to switch out or risk becoming setup fodder. This helps in keeping up Stealth Rock and generating setup opportunities for Aurorus's teammates.",
+            "moves": [
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Freeze-Dry"
+                ],
+                [
+                    "Hidden Power Fire",
+                    "Blizzard"
+                ],
+                [
+                    "Encore",
+                    "Thunder Wave"
+                ]
+            ],
+            "item": [
+                " Focus Sash"
+            ],
+            "ability": [
+                "Snow Warning"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Opposing Weather",
+        "Fighting-types",
+        "Steel-types",
+        "Taunt Users"
+    ],
+    "credits": [
+        "Written by Ark",
+        "Quality checked by Pak, Bouff,  and Eyan",
+        "Grammar checked by Mr. Uncompetitive and martha"
+    ]
+}

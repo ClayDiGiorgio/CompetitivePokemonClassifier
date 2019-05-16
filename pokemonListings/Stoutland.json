@@ -1,1 +1,98 @@
-{"name": "Stoutland", "forms": {"Base": {"base stats": [85, 110, 90, 45, 90, 80], "types": ["Normal"], "abilities": ["Intimidate", "Sand Rush", "Scrappy"], "tier": ["PU"], "form": "Base"}}, "overview": "Stoutland under sand is one of the scariest Pokemon that offensive teams can face. With an Adamant nature and a Choice Band, it hits extremely hard, especially with its STAB Return. It has the coverage to hit Pokemon that resist Return, such as Superpower, Crunch, and Ice Fang, making it very difficult to wall. It also has access to Pursuit, allowing it to trap and revenge kill frailer offensive Pokemon. However, Stoutland needs sand up to function effectively at all, giving it a mandatory partner in Gigalith. It is extremely prediction reliant; if the opponent predicts correctly by switching in Rock-, Steel-, or Ghost-types, Stoutland can be forced out, which loses momentum for the player. Finally, while Stoutland is extremely powerful, it fails to OHKO many offensive threats such as Nidoqueen.\n", "strategies' format": "RU", "strategies": [{"name": "Sand Attacker", "stats": [206, 350, 216, 113, 217, 259], "type": ["Normal"], "usage": "Stoutland can be used to both revenge kill opposing Pokemon and clean up, as with Sand Rush activated, it outspeeds everything in the tier unboosted. It can easily clean up once its checks, mainly Normal-resistant Pokemon, are worn down. Stoutland is very prediction reliant; even though Return is extremely powerful, Rock-, Steel-, and Ghost-types can switch into it at least once, if not more. As a result, go for Superpower or Crunch if predicting one of these Pokemon to switch in in order to severely weaken them. Use Pursuit to trap and revenge kill offensive Pokemon that Stoutland threatens, such as Swellow and Salazzle. Stoutland needs sand up in order effectively revenge kill; as a result, use sand turns wisely. Keep Gigalith healthy so it can set sand for Stoutland throughout the match, and try to switch into Stoutland safely if sand is up every chance you get.", "moves": [["Return"], ["Superpower"], ["Pursuit"], ["Crunch", "Ice Fang"]], "item": [" Choice Band"], "ability": ["Sand Rush"], "nature": ["Adamant"], "ev spread": [0, 252, 0, 0, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Rock-, Steel-, and Ghost-types", "Physically Bulky Pokemon", "Lack of Sand", "Priority", "Gardevoir"], "credits": ["Written by pancake", "Quality checked by avocado, phantom,  and Rakan", "Grammar checked by Fireflame479 and P Squared"]}
+{
+    "name": "Stoutland",
+    "forms": {
+        "Base": {
+            "base stats": [
+                85,
+                110,
+                90,
+                45,
+                90,
+                80
+            ],
+            "types": [
+                "Normal"
+            ],
+            "abilities": [
+                "Intimidate",
+                "Sand Rush",
+                "Scrappy"
+            ],
+            "tier": [
+                "PU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Stoutland under sand is one of the scariest Pokemon that offensive teams can face. With an Adamant nature and a Choice Band, it hits extremely hard, especially with its STAB Return. It has the coverage to hit Pokemon that resist Return, such as Superpower, Crunch, and Ice Fang, making it very difficult to wall. It also has access to Pursuit, allowing it to trap and revenge kill frailer offensive Pokemon. However, Stoutland needs sand up to function effectively at all, giving it a mandatory partner in Gigalith. It is extremely prediction reliant; if the opponent predicts correctly by switching in Rock-, Steel-, or Ghost-types, Stoutland can be forced out, which loses momentum for the player. Finally, while Stoutland is extremely powerful, it fails to OHKO many offensive threats such as Nidoqueen.\n",
+    "strategies' format": "RU",
+    "strategies": [
+        {
+            "name": "Sand Attacker",
+            "stats": [
+                206,
+                350,
+                216,
+                113,
+                217,
+                259
+            ],
+            "type": [
+                "Normal"
+            ],
+            "usage": "Stoutland can be used to both revenge kill opposing Pokemon and clean up, as with Sand Rush activated, it outspeeds everything in the tier unboosted. It can easily clean up once its checks, mainly Normal-resistant Pokemon, are worn down. Stoutland is very prediction reliant; even though Return is extremely powerful, Rock-, Steel-, and Ghost-types can switch into it at least once, if not more. As a result, go for Superpower or Crunch if predicting one of these Pokemon to switch in in order to severely weaken them. Use Pursuit to trap and revenge kill offensive Pokemon that Stoutland threatens, such as Swellow and Salazzle. Stoutland needs sand up in order effectively revenge kill; as a result, use sand turns wisely. Keep Gigalith healthy so it can set sand for Stoutland throughout the match, and try to switch into Stoutland safely if sand is up every chance you get.",
+            "moves": [
+                [
+                    "Return"
+                ],
+                [
+                    "Superpower"
+                ],
+                [
+                    "Pursuit"
+                ],
+                [
+                    "Crunch",
+                    "Ice Fang"
+                ]
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Sand Rush"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                0,
+                252,
+                0,
+                0,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Rock-, Steel-, and Ghost-types",
+        "Physically Bulky Pokemon",
+        "Lack of Sand",
+        "Priority",
+        "Gardevoir"
+    ],
+    "credits": [
+        "Written by pancake",
+        "Quality checked by avocado, phantom,  and Rakan",
+        "Grammar checked by Fireflame479 and P Squared"
+    ]
+}

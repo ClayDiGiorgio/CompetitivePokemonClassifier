@@ -1,1 +1,122 @@
-{"name": "Heracross", "forms": {"Base": {"base stats": [80, 125, 75, 40, 95, 85], "types": ["Bug", "Fighting"], "abilities": ["Guts", "Moxie", "Swarm"], "tier": ["RUBL"], "form": "Base"}, "Mega": {"base stats": [80, 185, 115, 40, 105, 75], "types": ["Bug", "Fighting"], "abilities": ["Skill Link"], "tier": ["UUBL"], "form": "Mega"}}, "overview": "Mega Heracross is one of the most powerful wallbreakers in the tier, being able to dismantle defensive teams with Swords Dance along with its high Attack stat. Having a unique defensive typing along with respectable bulk allows Mega Heracross to check many top-tier offensive threats such as Swords Dance Tapu Bulu and Gliscor as well as act as a solid Dark-type check. On the other hand, Mega Heracross's typing also leaves it weak to common types in Fairy, Flying, and Fire, and both of its STAB moves share common resistances, oftentimes being redundant in terms of coverage. In addition to its common weaknesses, Mega Heracross's poor Speed tier makes it easy to revenge kill for Pokemon like Tapu Lele, Mega Alakazam, and Mega Pinsir. Due to its tendency to fall against faster offensive threats, Mega Heracross tends to struggle against highly offensive teams.\n", "strategies' format": "OU", "strategies": [{"name": "Swords Dance", "stats": [196, 515, 266, 104, 247, 249], "type": ["Bug", "Fighting"], "usage": "Pivot Mega Heracross into Pokemon that don't pose a threat to it, such as Gliscor, Tapu Bulu, and Chansey, early-game so that it can break the opposing team. If running Jolly Heracross, consider not Mega Evolving it prior to KOing Pokemon base-forme Heracross outspeeds that Mega Heracross cannot such as Heatran and Mamoswine. Attempt to chip checks such as Clefable and Toxapex into range of Rock Blast by pressuring them with Pokemon that share them as mutual checks such as Garchomp and Greninja respectively. Avoid using Swords Dance against slower Pokemon that threaten to KO Mega Heracross, such as Z-Move Reuniclus and Magearna, early on, seeing as Mega Heracross's absurd Attack stat means that it will likely put a dent into whatever switches into it anyway.", "moves": [["Swords Dance"], ["Close Combat"], ["Rock Blast"], ["Pin Missile", "Substitute", "Bullet Seed"]], "item": [" Heracronite"], "ability": ["Moxie"], "nature": ["Adamant", "Jolly"], "ev spread": [0, 252, 0, 0, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Flying-types", "Psychic-type Attacks", "Fire-types", "Fairy-types"], "credits": ["Written by LL", "Quality checked by Leo, Jordy,  and lyd", "Grammar checked by The Dutch Plumberjack and GMars"]}
+{
+    "name": "Heracross",
+    "forms": {
+        "Base": {
+            "base stats": [
+                80,
+                125,
+                75,
+                40,
+                95,
+                85
+            ],
+            "types": [
+                "Bug",
+                "Fighting"
+            ],
+            "abilities": [
+                "Guts",
+                "Moxie",
+                "Swarm"
+            ],
+            "tier": [
+                "RUBL"
+            ],
+            "form": "Base"
+        },
+        "Mega": {
+            "base stats": [
+                80,
+                185,
+                115,
+                40,
+                105,
+                75
+            ],
+            "types": [
+                "Bug",
+                "Fighting"
+            ],
+            "abilities": [
+                "Skill Link"
+            ],
+            "tier": [
+                "UUBL"
+            ],
+            "form": "Mega"
+        }
+    },
+    "overview": "Mega Heracross is one of the most powerful wallbreakers in the tier, being able to dismantle defensive teams with Swords Dance along with its high Attack stat. Having a unique defensive typing along with respectable bulk allows Mega Heracross to check many top-tier offensive threats such as Swords Dance Tapu Bulu and Gliscor as well as act as a solid Dark-type check. On the other hand, Mega Heracross's typing also leaves it weak to common types in Fairy, Flying, and Fire, and both of its STAB moves share common resistances, oftentimes being redundant in terms of coverage. In addition to its common weaknesses, Mega Heracross's poor Speed tier makes it easy to revenge kill for Pokemon like Tapu Lele, Mega Alakazam, and Mega Pinsir. Due to its tendency to fall against faster offensive threats, Mega Heracross tends to struggle against highly offensive teams.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Swords Dance",
+            "stats": [
+                196,
+                515,
+                266,
+                104,
+                247,
+                249
+            ],
+            "type": [
+                "Bug",
+                "Fighting"
+            ],
+            "usage": "Pivot Mega Heracross into Pokemon that don't pose a threat to it, such as Gliscor, Tapu Bulu, and Chansey, early-game so that it can break the opposing team. If running Jolly Heracross, consider not Mega Evolving it prior to KOing Pokemon base-forme Heracross outspeeds that Mega Heracross cannot such as Heatran and Mamoswine. Attempt to chip checks such as Clefable and Toxapex into range of Rock Blast by pressuring them with Pokemon that share them as mutual checks such as Garchomp and Greninja respectively. Avoid using Swords Dance against slower Pokemon that threaten to KO Mega Heracross, such as Z-Move Reuniclus and Magearna, early on, seeing as Mega Heracross's absurd Attack stat means that it will likely put a dent into whatever switches into it anyway.",
+            "moves": [
+                [
+                    "Swords Dance"
+                ],
+                [
+                    "Close Combat"
+                ],
+                [
+                    "Rock Blast"
+                ],
+                [
+                    "Pin Missile",
+                    "Substitute",
+                    "Bullet Seed"
+                ]
+            ],
+            "item": [
+                " Heracronite"
+            ],
+            "ability": [
+                "Moxie"
+            ],
+            "nature": [
+                "Adamant",
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                0,
+                0,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Flying-types",
+        "Psychic-type Attacks",
+        "Fire-types",
+        "Fairy-types"
+    ],
+    "credits": [
+        "Written by LL",
+        "Quality checked by Leo, Jordy,  and lyd",
+        "Grammar checked by The Dutch Plumberjack and GMars"
+    ]
+}

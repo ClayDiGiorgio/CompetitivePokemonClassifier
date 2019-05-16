@@ -1,1 +1,96 @@
-{"name": "Bouffalant", "forms": {"Base": {"base stats": [95, 110, 95, 40, 95, 55], "types": ["Normal"], "abilities": ["Reckless", "Sap Sipper", "Soundproof"], "tier": ["Untiered"], "form": "Base"}}, "overview": "Bouffalant carves a small niche in PU thanks to its solid bulk, high base Attack, and access to Sap Sipper, giving it opportunities to set up on Pokemon like Clefairy, break down balance teams, and blanket check Grass-type Pokemon like Lilligant and Victreebel. However, Bouffalant faces heavy competition from other Normal-type wallbreakers such as Stoutland and Kangashan, which are stronger, are faster, and don't struggle as much against bulky walls like Quagsire. Dodrio and Alolan Raticate also serve as better offensive Swords Dance users, while Type: Null and Drampa have better bulk and access to reliable recovery. Additionally, Bouffalant tends to be complete setup bait for Ghost-types like Oricorio-G and Haunter and struggles against prevalent Ghost-types like Sabelye and Jellicent. Furthermore, Bouffalant lacks reliable recovery, meaning it can be worn down quickly between entry hazards and losing HP from setting up Substitute. Its low Speed also means that it will have to take a hit before firing off an attack or setting up a Substitute. Lastly, Bouffalant's Normal typing leaves it with almost no resistances other than an immunity to Grass thanks to Sap Sipper and leaves it weak to common Fighting-types and strong physical attackers that carry super effective coverage moves like Gurdurr, Primeape, Absol, and Aggron.\n", "strategies' format": "PU", "strategies": [{"name": "Substitute + Swords Dance", "stats": [289, 256, 226, 104, 291, 171], "type": ["Normal"], "usage": "Bouffalant should be kept healthy to check Pokemon like Lilligant and aim to set up early- to mid-game. Don't set up Swords Dance or Substitute if you need Bouffalant healthy to take on Lilligant. Bouffalant should be brought in safely if possible with a double switch or via VoltTurn because it often takes damage before it can set up or attack on its own due to its low Speed. Thanks to Sap Sipper, Bouffalant can switch in safely on Grass-type attacks from the likes of Lilligant and Victreebel to gain an Attack boost and force them out. Bouffalant can also use its good special bulk to pivot on weaker special attackers like Mesprit, Lanturn, and Oricorio-E, though it should be wary of switching into Scald from Lanturn, as it can be crippled with a burn. Bouffalant has an easier time at setting up on passive Pokemon such as Gastrodon, Clefairy, and Tangela and Choice-locked Pokemon such as Jellicent locked into Shadow Ball. On forced switches, Bouffalant can also set up either Swords Dance or Substitute. Without access to reliable recovery, Bouffalant can be chipped very easily and therefore should be wary of switching into too many attacks. Bouffalant should also avoid being statused, as it needs to be healthy in order to set up and pivot into special attackers.", "moves": [["Substitute"], ["Swords Dance"], ["Return"], ["Earthquake"]], "item": [" Leftovers"], "ability": ["Sap Sipper"], "nature": ["Careful"], "ev spread": [252, 0, 0, 0, 156, 100], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Ghost-types", "Fighting-types", "Strong Physical Attackers", "Residual Damage"], "credits": ["Written by TJ", "Quality checked by Megazard, tondas,  and TONE", "Grammar checked by The Dutch Plumberjack and Fireflame479"]}
+{
+    "name": "Bouffalant",
+    "forms": {
+        "Base": {
+            "base stats": [
+                95,
+                110,
+                95,
+                40,
+                95,
+                55
+            ],
+            "types": [
+                "Normal"
+            ],
+            "abilities": [
+                "Reckless",
+                "Sap Sipper",
+                "Soundproof"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Bouffalant carves a small niche in PU thanks to its solid bulk, high base Attack, and access to Sap Sipper, giving it opportunities to set up on Pokemon like Clefairy, break down balance teams, and blanket check Grass-type Pokemon like Lilligant and Victreebel. However, Bouffalant faces heavy competition from other Normal-type wallbreakers such as Stoutland and Kangashan, which are stronger, are faster, and don't struggle as much against bulky walls like Quagsire. Dodrio and Alolan Raticate also serve as better offensive Swords Dance users, while Type: Null and Drampa have better bulk and access to reliable recovery. Additionally, Bouffalant tends to be complete setup bait for Ghost-types like Oricorio-G and Haunter and struggles against prevalent Ghost-types like Sabelye and Jellicent. Furthermore, Bouffalant lacks reliable recovery, meaning it can be worn down quickly between entry hazards and losing HP from setting up Substitute. Its low Speed also means that it will have to take a hit before firing off an attack or setting up a Substitute. Lastly, Bouffalant's Normal typing leaves it with almost no resistances other than an immunity to Grass thanks to Sap Sipper and leaves it weak to common Fighting-types and strong physical attackers that carry super effective coverage moves like Gurdurr, Primeape, Absol, and Aggron.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Substitute + Swords Dance",
+            "stats": [
+                289,
+                256,
+                226,
+                104,
+                291,
+                171
+            ],
+            "type": [
+                "Normal"
+            ],
+            "usage": "Bouffalant should be kept healthy to check Pokemon like Lilligant and aim to set up early- to mid-game. Don't set up Swords Dance or Substitute if you need Bouffalant healthy to take on Lilligant. Bouffalant should be brought in safely if possible with a double switch or via VoltTurn because it often takes damage before it can set up or attack on its own due to its low Speed. Thanks to Sap Sipper, Bouffalant can switch in safely on Grass-type attacks from the likes of Lilligant and Victreebel to gain an Attack boost and force them out. Bouffalant can also use its good special bulk to pivot on weaker special attackers like Mesprit, Lanturn, and Oricorio-E, though it should be wary of switching into Scald from Lanturn, as it can be crippled with a burn. Bouffalant has an easier time at setting up on passive Pokemon such as Gastrodon, Clefairy, and Tangela and Choice-locked Pokemon such as Jellicent locked into Shadow Ball. On forced switches, Bouffalant can also set up either Swords Dance or Substitute. Without access to reliable recovery, Bouffalant can be chipped very easily and therefore should be wary of switching into too many attacks. Bouffalant should also avoid being statused, as it needs to be healthy in order to set up and pivot into special attackers.",
+            "moves": [
+                [
+                    "Substitute"
+                ],
+                [
+                    "Swords Dance"
+                ],
+                [
+                    "Return"
+                ],
+                [
+                    "Earthquake"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Sap Sipper"
+            ],
+            "nature": [
+                "Careful"
+            ],
+            "ev spread": [
+                252,
+                0,
+                0,
+                0,
+                156,
+                100
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Ghost-types",
+        "Fighting-types",
+        "Strong Physical Attackers",
+        "Residual Damage"
+    ],
+    "credits": [
+        "Written by TJ",
+        "Quality checked by Megazard, tondas,  and TONE",
+        "Grammar checked by The Dutch Plumberjack and Fireflame479"
+    ]
+}

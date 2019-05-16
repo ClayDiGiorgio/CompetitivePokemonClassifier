@@ -1,1 +1,98 @@
-{"name": "Musharna", "forms": {"Base": {"base stats": [116, 55, 85, 107, 95, 29], "types": ["Psychic"], "abilities": ["Forewarn", "Synchronize", "Telepathy"], "tier": ["Untiered"], "form": "Base"}}, "overview": "Musharna is a decent Pokemon in the tier, as it has solid bulk combined with reliable recovery thanks to Moonlight, which makes it a solid response to Fighting-types such as Hitmonchan and Gurdurr as well as other physical attackers such as Kangaskhan and Floatzel. It does face competition from Mesprit as a Psychic-type, though, due to Mesprit being faster and having more coverage options at its disposal, but Musharna sets itself apart from Mesprit thanks to its higher bulk allowing it to pull off a Calm Mind set more effectively and its access to reliable recovery, which Mesprit lacks, making it a solid wincon in most situations. Musharna's low Speed forces it to take a hit before retaliating, and it can be easily worn down through the means of status as well as entry hazards while also being susceptible to Taunt from Pokemon like Oricorio-G, which prevents Musharna from using Moonlight. It can also be overwhelmed by hard-hitting Pokemon such as Zangoose and Aurorus, which can easily 2HKO Musharna with their STAB attacks.\n", "strategies' format": "PU", "strategies": [{"name": "Calm Mind", "stats": [330, 131, 295, 252, 226, 94], "type": ["Psychic"], "usage": "Musharna should be used to pivot in on weaker attacks from Pokemon such as Gastrodon or resisted hits from Pokemon such as Hitmonchan and proceed to attack with a STAB-boosted Psychic-type move. Be mindful of when you attempt to set up Calm Mind when Pokemon such as Skuntank are still relatively healthy, since they can prevent Musharna from sweeping. Keep Musharna as healthy as possible, as Moonlight only has 8 PP, so try to minimize the amount of times you go for Moonlight, especially when pivoting into neutral attacks from Pokemon such as Kangaskhan. Make sure Musharna is not inflicted with status, which cuts down on its longevity. It is best to set up Calm Mind late-game either when Dark-types or bulkier Pokemon that can take a hit from Musharna are weakened or eliminated by a teammate or against Pokemon that can't do much back to Musharna such as Clefairy.", "moves": [["Calm Mind"], ["Moonlight"], ["Psyshock", "Psychic"], ["Dazzling Gleam"]], "item": [" Fairium Z", " Colbur Berry"], "ability": ["Synchronize"], "nature": ["Bold"], "ev spread": [248, 0, 252, 8, 0, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Dark-types", "Strong Wallbreakers", "Passive Damage", "Steel-types"], "credits": ["Written by TONE", "Quality checked by Megazard, Anty,  and yogi", "Grammar checked by Haund and lotiasite"]}
+{
+    "name": "Musharna",
+    "forms": {
+        "Base": {
+            "base stats": [
+                116,
+                55,
+                85,
+                107,
+                95,
+                29
+            ],
+            "types": [
+                "Psychic"
+            ],
+            "abilities": [
+                "Forewarn",
+                "Synchronize",
+                "Telepathy"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Musharna is a decent Pokemon in the tier, as it has solid bulk combined with reliable recovery thanks to Moonlight, which makes it a solid response to Fighting-types such as Hitmonchan and Gurdurr as well as other physical attackers such as Kangaskhan and Floatzel. It does face competition from Mesprit as a Psychic-type, though, due to Mesprit being faster and having more coverage options at its disposal, but Musharna sets itself apart from Mesprit thanks to its higher bulk allowing it to pull off a Calm Mind set more effectively and its access to reliable recovery, which Mesprit lacks, making it a solid wincon in most situations. Musharna's low Speed forces it to take a hit before retaliating, and it can be easily worn down through the means of status as well as entry hazards while also being susceptible to Taunt from Pokemon like Oricorio-G, which prevents Musharna from using Moonlight. It can also be overwhelmed by hard-hitting Pokemon such as Zangoose and Aurorus, which can easily 2HKO Musharna with their STAB attacks.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Calm Mind",
+            "stats": [
+                330,
+                131,
+                295,
+                252,
+                226,
+                94
+            ],
+            "type": [
+                "Psychic"
+            ],
+            "usage": "Musharna should be used to pivot in on weaker attacks from Pokemon such as Gastrodon or resisted hits from Pokemon such as Hitmonchan and proceed to attack with a STAB-boosted Psychic-type move. Be mindful of when you attempt to set up Calm Mind when Pokemon such as Skuntank are still relatively healthy, since they can prevent Musharna from sweeping. Keep Musharna as healthy as possible, as Moonlight only has 8 PP, so try to minimize the amount of times you go for Moonlight, especially when pivoting into neutral attacks from Pokemon such as Kangaskhan. Make sure Musharna is not inflicted with status, which cuts down on its longevity. It is best to set up Calm Mind late-game either when Dark-types or bulkier Pokemon that can take a hit from Musharna are weakened or eliminated by a teammate or against Pokemon that can't do much back to Musharna such as Clefairy.",
+            "moves": [
+                [
+                    "Calm Mind"
+                ],
+                [
+                    "Moonlight"
+                ],
+                [
+                    "Psyshock",
+                    "Psychic"
+                ],
+                [
+                    "Dazzling Gleam"
+                ]
+            ],
+            "item": [
+                " Fairium Z",
+                " Colbur Berry"
+            ],
+            "ability": [
+                "Synchronize"
+            ],
+            "nature": [
+                "Bold"
+            ],
+            "ev spread": [
+                248,
+                0,
+                252,
+                8,
+                0,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Dark-types",
+        "Strong Wallbreakers",
+        "Passive Damage",
+        "Steel-types"
+    ],
+    "credits": [
+        "Written by TONE",
+        "Quality checked by Megazard, Anty,  and yogi",
+        "Grammar checked by Haund and lotiasite"
+    ]
+}

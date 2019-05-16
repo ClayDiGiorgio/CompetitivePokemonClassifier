@@ -1,1 +1,101 @@
-{"name": "Fletchling", "forms": {"Base": {"base stats": [45, 50, 43, 40, 38, 62], "types": ["Normal", "Flying"], "abilities": ["Big Pecks", "Gale Wings"], "tier": ["LC"], "form": "Base"}}, "overview": "With a good ability and a relatively good movepool, Fletchling theoretically should be one of the best revenge killers in Little Cup as well as a good setup sweeper. Its relatively good offensive stats help it even more with this. However, it's held back by a weakness to Stealth Rock and is mostly outclassed by the many other good Flying-types in the tier. Although it is a shadow of its former self, it still has a niche as a sweeper and revenge killer with its good priority.\n", "strategies' format": "LC", "strategies": [{"name": "Bulky Sweeper", "stats": [126, 203, 145, 104, 112, 205], "type": ["Normal", "Flying"], "usage": "Setting up a Swords Dance on a Pokemon you know cannot OHKO Fletchling is usually a good option, as if Berry Juice is consumed, Fletchling may find an opening to sweep. If Stealth Rock is not up, Fletchling makes for quite a good revenge killer. Conserving Fletchling for the late-game is usually a good idea, as it benefits greatly from opposing Pokemon being weakened. Use U-turn on predicted switches to help gain momentum. Be wary of using Flame Charge on Pokemon that can KO Fletchling, as it isn't a very powerful move. Flame Charge is more suited to getting a hit for a guaranteed KO or being used on a target that's weak to it and isn't weak to Acrobatics such as Ferroseed (be aware that Iron Barbs damage will nullify Gale Wings, however). Don't use Substitute if Berry Juice has been consumed, as you can't get Fletchling back up to full health easily, and when using it, it is a good idea to set up a Swords Dance after doing so. It is almost never a good idea to carelessly switch Fletchling into attacks due to its poor bulk and ruining Gale Wings. However, if Fletchling has already taken damage, switching it back in to activate Berry Juice can have the reverse effect.", "moves": [["Acrobatics"], ["Swords Dance"], ["U-turn", "Flame Charge"], ["Substitute", "Overheat", "Hidden Power Grass"]], "item": [" Berry Juice"], "ability": ["Gale Wings"], "nature": ["Adamant"], "ev spread": [0, 196, 92, 0, 0, 180], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Electric-types", "Rock-types", "Steel-types", "Physically Bulky Pokemon", "Passive Damage"], "credits": ["Written by Drew", "Quality checked by Fiend, OP,  and Coconut", "Grammar checked by The Dutch Plumberjack and CryoGyro"]}
+{
+    "name": "Fletchling",
+    "forms": {
+        "Base": {
+            "base stats": [
+                45,
+                50,
+                43,
+                40,
+                38,
+                62
+            ],
+            "types": [
+                "Normal",
+                "Flying"
+            ],
+            "abilities": [
+                "Big Pecks",
+                "Gale Wings"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "With a good ability and a relatively good movepool, Fletchling theoretically should be one of the best revenge killers in Little Cup as well as a good setup sweeper. Its relatively good offensive stats help it even more with this. However, it's held back by a weakness to Stealth Rock and is mostly outclassed by the many other good Flying-types in the tier. Although it is a shadow of its former self, it still has a niche as a sweeper and revenge killer with its good priority.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Bulky Sweeper",
+            "stats": [
+                126,
+                203,
+                145,
+                104,
+                112,
+                205
+            ],
+            "type": [
+                "Normal",
+                "Flying"
+            ],
+            "usage": "Setting up a Swords Dance on a Pokemon you know cannot OHKO Fletchling is usually a good option, as if Berry Juice is consumed, Fletchling may find an opening to sweep. If Stealth Rock is not up, Fletchling makes for quite a good revenge killer. Conserving Fletchling for the late-game is usually a good idea, as it benefits greatly from opposing Pokemon being weakened. Use U-turn on predicted switches to help gain momentum. Be wary of using Flame Charge on Pokemon that can KO Fletchling, as it isn't a very powerful move. Flame Charge is more suited to getting a hit for a guaranteed KO or being used on a target that's weak to it and isn't weak to Acrobatics such as Ferroseed (be aware that Iron Barbs damage will nullify Gale Wings, however). Don't use Substitute if Berry Juice has been consumed, as you can't get Fletchling back up to full health easily, and when using it, it is a good idea to set up a Swords Dance after doing so. It is almost never a good idea to carelessly switch Fletchling into attacks due to its poor bulk and ruining Gale Wings. However, if Fletchling has already taken damage, switching it back in to activate Berry Juice can have the reverse effect.",
+            "moves": [
+                [
+                    "Acrobatics"
+                ],
+                [
+                    "Swords Dance"
+                ],
+                [
+                    "U-turn",
+                    "Flame Charge"
+                ],
+                [
+                    "Substitute",
+                    "Overheat",
+                    "Hidden Power Grass"
+                ]
+            ],
+            "item": [
+                " Berry Juice"
+            ],
+            "ability": [
+                "Gale Wings"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                0,
+                196,
+                92,
+                0,
+                0,
+                180
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Electric-types",
+        "Rock-types",
+        "Steel-types",
+        "Physically Bulky Pokemon",
+        "Passive Damage"
+    ],
+    "credits": [
+        "Written by Drew",
+        "Quality checked by Fiend, OP,  and Coconut",
+        "Grammar checked by The Dutch Plumberjack and CryoGyro"
+    ]
+}

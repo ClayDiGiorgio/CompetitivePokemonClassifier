@@ -1,1 +1,149 @@
-{"name": "Necrozma", "forms": {"Base": {"base stats": [97, 107, 101, 127, 89, 79], "types": ["Psychic"], "abilities": ["Prism Armor"], "tier": ["RU"], "form": "Base"}}, "overview": "Necrozma's unique traits as both a Stealth Rock setter and wallbreaker allow it to fit well on bulky offensive teams. Its high offensive stats, decent bulk, and access to Stealth Rock make it a good offensive entry hazard setter. Necrozma's ability, Prism Armor, lets it mitigate some of the damage from super effective attacks, contributing to Necrozma's overall longevity throughout the match. Prism Armor also lowers damage from Pursuit, allowing Necrozma to switch more freely. Necrozma's strong STAB move in Photon Geyser hits most neutral targets hard, and with coverage moves such as Heat Wave, Signal Beam, and Ground-type options, it can punish the Dark-, Psychic-, and Steel- types that are immune to or resist its STAB move. However, Necrozma's Psychic typing is not beneficial for it, as it lacks a secondary STAB attack while also being weak to many common Pokemon like Hydreigon, Gengar, and Scizor. Necrozma also has a very mediocre Speed stat, which prevents it from flourishing in the metagame, as it is unable to outspeed maximally invested base 80s and above, such as Mega Altaria, Togekiss, and Mamoswine.\n", "strategies' format": "UU", "strategies": [{"name": "Stealth Rock", "stats": [257, 225, 238, 388, 214, 230], "type": ["Psychic"], "usage": "Necrozma should get Stealth Rock up as soon as possible to punish the many switches that it is able to force due to its threatening movepool. If using Metronome, Necrozma should be used to spam Photon Geyser to force entry hazard removers out of play before setting up Stealth Rock and put pressure on them to prevent them from using Defog. When using Iapapa Berry, be conscious of when Necrozma is low on HP to prevent it from being knocked out before its Berry activates. Carefully using residual damage from weather, status, and entry hazards to your advantage can help Necrozma activate its Berry in a controlled manner if it cannot reliably stay in on a foe's attack. Photon Geyser is powerful and should be used most of the time; however, keep in mind that it has relatively low PP. Status conditions, particularly Toxic poison, can cripple Necrozma and put it on a timer.", "moves": [["Stealth Rock"], ["Photon Geyser"], ["Heat Wave"], ["Signal Beam"]], "item": [" Metronome", " Iapapa Berry"], "ability": ["Prism Armor"], "nature": ["Modest"], "ev spread": [108, 0, 0, 252, 0, 144], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Choice Specs", "stats": [230, 225, 238, 388, 215, 257], "type": ["Psychic"], "usage": "Necrozma can be used as an early-game wallbreaker with its powerful no-drawback STAB attack in Photon Geyser, as it is able to break down teams that lack a sturdy Psychic-resistant or Psychic-immune Pokemon. Necrozma should be used with good prediction, as being able to use the proper coverage moves against common switch-ins to Photon Geyser, such as Scizor, Latias, Hydreigon, and Alolan Muk, can turn the tide of a game in your favor. Necrozma often can be a good lead due to its sheer power, the unpredictability of its set, and its ability to downplay Pursuit trapping thanks to Prism Armor. Necrozma needs to be cautious of Photon Geyser's low PP, as Pokemon with Pressure, such as Suicune, Moltres, and Kyurem, can deplete it quite quickly.", "moves": [["Photon Geyser"], ["Earth Power"], ["Heat Wave"], ["Signal Beam"]], "item": [" Choice Specs"], "ability": ["Prism Armor"], "nature": ["Modest"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Dark-types", "Strong Attackers", "Special Walls", "Faster Threats"], "credits": ["Written by DurzaOffTopic", "Quality checked by dodmen, Kink,  and Sage", "Grammar checked by A Cake Wearing A Hat and Fireflame479"]}
+{
+    "name": "Necrozma",
+    "forms": {
+        "Base": {
+            "base stats": [
+                97,
+                107,
+                101,
+                127,
+                89,
+                79
+            ],
+            "types": [
+                "Psychic"
+            ],
+            "abilities": [
+                "Prism Armor"
+            ],
+            "tier": [
+                "RU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Necrozma's unique traits as both a Stealth Rock setter and wallbreaker allow it to fit well on bulky offensive teams. Its high offensive stats, decent bulk, and access to Stealth Rock make it a good offensive entry hazard setter. Necrozma's ability, Prism Armor, lets it mitigate some of the damage from super effective attacks, contributing to Necrozma's overall longevity throughout the match. Prism Armor also lowers damage from Pursuit, allowing Necrozma to switch more freely. Necrozma's strong STAB move in Photon Geyser hits most neutral targets hard, and with coverage moves such as Heat Wave, Signal Beam, and Ground-type options, it can punish the Dark-, Psychic-, and Steel- types that are immune to or resist its STAB move. However, Necrozma's Psychic typing is not beneficial for it, as it lacks a secondary STAB attack while also being weak to many common Pokemon like Hydreigon, Gengar, and Scizor. Necrozma also has a very mediocre Speed stat, which prevents it from flourishing in the metagame, as it is unable to outspeed maximally invested base 80s and above, such as Mega Altaria, Togekiss, and Mamoswine.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Stealth Rock",
+            "stats": [
+                257,
+                225,
+                238,
+                388,
+                214,
+                230
+            ],
+            "type": [
+                "Psychic"
+            ],
+            "usage": "Necrozma should get Stealth Rock up as soon as possible to punish the many switches that it is able to force due to its threatening movepool. If using Metronome, Necrozma should be used to spam Photon Geyser to force entry hazard removers out of play before setting up Stealth Rock and put pressure on them to prevent them from using Defog. When using Iapapa Berry, be conscious of when Necrozma is low on HP to prevent it from being knocked out before its Berry activates. Carefully using residual damage from weather, status, and entry hazards to your advantage can help Necrozma activate its Berry in a controlled manner if it cannot reliably stay in on a foe's attack. Photon Geyser is powerful and should be used most of the time; however, keep in mind that it has relatively low PP. Status conditions, particularly Toxic poison, can cripple Necrozma and put it on a timer.",
+            "moves": [
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Photon Geyser"
+                ],
+                [
+                    "Heat Wave"
+                ],
+                [
+                    "Signal Beam"
+                ]
+            ],
+            "item": [
+                " Metronome",
+                " Iapapa Berry"
+            ],
+            "ability": [
+                "Prism Armor"
+            ],
+            "nature": [
+                "Modest"
+            ],
+            "ev spread": [
+                108,
+                0,
+                0,
+                252,
+                0,
+                144
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Choice Specs",
+            "stats": [
+                230,
+                225,
+                238,
+                388,
+                215,
+                257
+            ],
+            "type": [
+                "Psychic"
+            ],
+            "usage": "Necrozma can be used as an early-game wallbreaker with its powerful no-drawback STAB attack in Photon Geyser, as it is able to break down teams that lack a sturdy Psychic-resistant or Psychic-immune Pokemon. Necrozma should be used with good prediction, as being able to use the proper coverage moves against common switch-ins to Photon Geyser, such as Scizor, Latias, Hydreigon, and Alolan Muk, can turn the tide of a game in your favor. Necrozma often can be a good lead due to its sheer power, the unpredictability of its set, and its ability to downplay Pursuit trapping thanks to Prism Armor. Necrozma needs to be cautious of Photon Geyser's low PP, as Pokemon with Pressure, such as Suicune, Moltres, and Kyurem, can deplete it quite quickly.",
+            "moves": [
+                [
+                    "Photon Geyser"
+                ],
+                [
+                    "Earth Power"
+                ],
+                [
+                    "Heat Wave"
+                ],
+                [
+                    "Signal Beam"
+                ]
+            ],
+            "item": [
+                " Choice Specs"
+            ],
+            "ability": [
+                "Prism Armor"
+            ],
+            "nature": [
+                "Modest"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Dark-types",
+        "Strong Attackers",
+        "Special Walls",
+        "Faster Threats"
+    ],
+    "credits": [
+        "Written by DurzaOffTopic",
+        "Quality checked by dodmen, Kink,  and Sage",
+        "Grammar checked by A Cake Wearing A Hat and Fireflame479"
+    ]
+}

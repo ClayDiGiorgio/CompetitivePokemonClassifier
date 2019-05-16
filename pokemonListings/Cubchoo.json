@@ -1,1 +1,100 @@
-{"name": "Cubchoo", "forms": {"Base": {"base stats": [55, 70, 40, 60, 40, 40], "types": ["Ice"], "abilities": ["Rattled", "Slush Rush", "Snow Cloak"], "tier": ["LC"], "form": "Base"}}, "overview": "Cubchoo's ability Slush Rush along with its decent offensive stats allows it to be a potent hail sweeper. Cubchoo also has access to Water-type coverage to check Fire-types, which are generally quite threatening to hail teams. However, Cubchoo faces competition from Alolan Sandshrew, which has the same ability along with Rapid Spin and a secondary Steel typing. This leads to Cubchoo being a niche pick for hail teams at best. In addition, its weak STAB attack means it often underperforms despite its high Attack stat. Cubchoo's poor defensive typing and bad defensive stats also leave it weak to many common threats in LC, such as Ponyta and Mienfoo, as well as common priority moves like Timburr's Mach Punch. This bad bulk, coupled with a weakness to Stealth Rock, means it struggles to find opportunities to switch in. Finally, Cubchoo is absolutely useless outside of hail due to its poor Speed stat.\n", "strategies' format": "LC", "strategies": [{"name": "Hail Sweeper", "stats": [165, 225, 116, 165, 104, 181], "type": ["Ice"], "usage": "Only send out Cubchoo when hail has been set up, as it's virtually useless otherwise. Since Cubchoo has so few opportunities to switch in, try and sweep late-game when all of its counters are gone or weakened. Cubchoo should use Surf if you think your opponent is going to switch into a Fire-type; this will cripple it, allowing Cubchoo to outspeed it and grab a KO. Cubchoo is still very frail even with Eviolite, so bring it in with a slow U-turn or Volt Switch from Mienfoo or Magnemite to avoid taking prior damage.", "moves": [["Ice Punch"], ["Superpower"], ["Play Rough"], ["Surf"]], "item": [" Eviolite", " Berry Juice"], "ability": ["Slush Rush"], "nature": ["Naive", "Naughty"], "ev spread": [76, 196, 0, 36, 0, 196], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Physical Walls", "Steel-types", "Hippopotas", "Priority", "Bulky Water-types", "Stealth Rock"], "credits": ["Written by Mega-Pokebattlerz", "Quality checked by Hilomilo, Xayah,  and tahu", "Grammar checked by Sobi, Eyan,  and Fireflame479"]}
+{
+    "name": "Cubchoo",
+    "forms": {
+        "Base": {
+            "base stats": [
+                55,
+                70,
+                40,
+                60,
+                40,
+                40
+            ],
+            "types": [
+                "Ice"
+            ],
+            "abilities": [
+                "Rattled",
+                "Slush Rush",
+                "Snow Cloak"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Cubchoo's ability Slush Rush along with its decent offensive stats allows it to be a potent hail sweeper. Cubchoo also has access to Water-type coverage to check Fire-types, which are generally quite threatening to hail teams. However, Cubchoo faces competition from Alolan Sandshrew, which has the same ability along with Rapid Spin and a secondary Steel typing. This leads to Cubchoo being a niche pick for hail teams at best. In addition, its weak STAB attack means it often underperforms despite its high Attack stat. Cubchoo's poor defensive typing and bad defensive stats also leave it weak to many common threats in LC, such as Ponyta and Mienfoo, as well as common priority moves like Timburr's Mach Punch. This bad bulk, coupled with a weakness to Stealth Rock, means it struggles to find opportunities to switch in. Finally, Cubchoo is absolutely useless outside of hail due to its poor Speed stat.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Hail Sweeper",
+            "stats": [
+                165,
+                225,
+                116,
+                165,
+                104,
+                181
+            ],
+            "type": [
+                "Ice"
+            ],
+            "usage": "Only send out Cubchoo when hail has been set up, as it's virtually useless otherwise. Since Cubchoo has so few opportunities to switch in, try and sweep late-game when all of its counters are gone or weakened. Cubchoo should use Surf if you think your opponent is going to switch into a Fire-type; this will cripple it, allowing Cubchoo to outspeed it and grab a KO. Cubchoo is still very frail even with Eviolite, so bring it in with a slow U-turn or Volt Switch from Mienfoo or Magnemite to avoid taking prior damage.",
+            "moves": [
+                [
+                    "Ice Punch"
+                ],
+                [
+                    "Superpower"
+                ],
+                [
+                    "Play Rough"
+                ],
+                [
+                    "Surf"
+                ]
+            ],
+            "item": [
+                " Eviolite",
+                " Berry Juice"
+            ],
+            "ability": [
+                "Slush Rush"
+            ],
+            "nature": [
+                "Naive",
+                "Naughty"
+            ],
+            "ev spread": [
+                76,
+                196,
+                0,
+                36,
+                0,
+                196
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Physical Walls",
+        "Steel-types",
+        "Hippopotas",
+        "Priority",
+        "Bulky Water-types",
+        "Stealth Rock"
+    ],
+    "credits": [
+        "Written by Mega-Pokebattlerz",
+        "Quality checked by Hilomilo, Xayah,  and tahu",
+        "Grammar checked by Sobi, Eyan,  and Fireflame479"
+    ]
+}

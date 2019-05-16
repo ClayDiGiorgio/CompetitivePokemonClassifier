@@ -1,1 +1,230 @@
-{"name": "Latias", "forms": {"Base": {"base stats": [80, 80, 90, 110, 130, 110], "types": ["Dragon", "Psychic"], "abilities": ["Levitate"], "tier": ["UU"], "form": "Base"}, "Mega": {"base stats": [80, 100, 120, 140, 150, 110], "types": ["Dragon", "Psychic"], "abilities": ["Levitate"], "tier": ["UUBL"], "form": "Mega"}}, "overview": "Latias and its Mega Evolution are solid Pokemon in the OU metagame thanks to a few traits. Mega Latias is incredibly bulky, which, combined with its access to Calm Mind, Recover, and Stored Power, makes it a powerful sweeper. Mega Latias also makes for a solid Defog user because of its typing and access to coverage moves such as Thunderbolt and Ice Beam, allowing it to check and threaten common Stealth Rock users like Landorus-T, Heatran, and Mega Swampert. Latias itself is a niche Choice Scarf user on hyper offensive teams because of its access to Healing Wish, which allows it to completely heal common offensive Pokemon such as Ash-Greninja and Mega Diancie, alongside its ability to check threats to offensive teams such as Keldeo, Mega Lopunny, and Landorus-T thanks to its typing, bulk, and access to Levitate. However, Latias suffers from weaknesses to common types like Fairy, Dark, and Ice, compounded by the high usage of Pokemon such as Magearna, Tapu Lele, Ash-Greninja, and Kyurem-B. Said Dark weakness gives Latias a crippling weakness to Pursuit trappers such as Weavile and Tyranitar, which is often detrimental to the kinds of teams Latias and Mega Latias find themselves on, where its defensive presence is greatly needed. Latias also faces large competition offensively from Latios; Latios is stronger, allowing it to run Z-Move and Soul Dew sets more effectively, but Latias still retains a strong niche with Healing Wish and its superior bulk.\n", "strategies' format": "OU", "strategies": [{"name": "Mega Calm Mind", "stats": [259, 212, 277, 316, 336, 350], "type": ["Dragon", "Psychic"], "usage": "Avoiding Toxic is a top priority because Mega Latias cannot sweep any team when put on a timer, thus timing Substitute or Reflect Type correctly is key for its sucess. Mega Latias should be taking advantage of the Pokemon that it walls, such as Keldeo, some Tapu Koko, Tangrowth, and Mega Charizard Y, to start setting up Calm Minds for a sweep. However, attempting to sweep when a Pokemon such as Magearna, Ash-Greninja, Greninja, or Mega Mawile is still alive is not recommended because these Pokemon possess the ability to OHKO or 2HKO Mega Latias even after a Calm Mind boost. Nonetheless, if Toxic Spikes are on the opponent's field, Mega Latias can stall specially oriented Dark-types such as both Greninja formes and Hoopa-U provided Latias has enough Calm Mind boosts.", "moves": [["Calm Mind"], ["Recover"], ["Stored Power", "Psyshock"], ["Ice Beam"]], "item": [" Latiasite"], "ability": ["Levitate"], "nature": ["Timid"], "ev spread": [252, 0, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Roost + 3 Attacks", "stats": [259, 212, 277, 316, 336, 350], "type": ["Dragon", "Psychic"], "usage": "Try to avoid Toxic from Pokemon like Toxapex, Gastrodon, and Heatran because it puts Mega Latias on a timer and makes it significantly harder for Mega Latias to keep switching in throughout the match. Paralysis is also very crippling and should be avoided as well, as it makes Mega Latias lose its important Speed tier that it uses to check Pokemon like Landorus-T, Gliscor, and Tapu Bulu and also makes it more prone to getting Pursuit trapped by Tyranitar and Mega Tyranitar. Switch Mega Latias in on Pokemon that it can effectively beat such as Kartana, Gliscor, Tangrowth, and Mega Charizard Y. If the opponent has Pokemon like Kartana and Mega Scizor, try to hide Hidden Power Fire for as long as possible to effectively lure them. This doesn't work against Ferrothorn, as it is only 3HKOed, meaning Mega Latias would have to hit it with Hidden Power Fire on the switch in to prevent Ferrothorn from getting much value from Leech Seed. Use Defog on Pokemon that Mega Latias checks such as Tapu Bulu, Gliscor, Landorus-T, and Mega Charizard Y. Remove Dark-types like Tyranitar and Ash-Greninja as soon as possible, as they can severely hinder Mega Latias from doing its job.", "moves": [["Ice Beam"], ["Surf"], ["Hidden Power Fire"], ["Roost"]], "item": [" Latiasite"], "ability": ["Levitate"], "nature": ["Timid"], "ev spread": [252, 0, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Offensive Support", "stats": [196, 176, 217, 319, 296, 350], "type": ["Dragon", "Psychic"], "usage": "Using its great defensive typing and bulk, Latias can be brought directly in on threats that it checks, such as Fire-, Water-, and Grass-types like Mega Charizard Y, Volcarona, Keldeo, and Mega Venusaur. From there, it can go for Draco Meteor, which has great coverage overall and helps it weaken Dragon-resistant Pokemon such as Heatran for a teammate to take advantage of, or use Psyshock against Pokemon like Mega Venusaur. If a Fairy-type is present on the opposing team, Psyshock is generally the best move to go for unless said Fairy-type is Megearna or Mega Mawile, which resist it; in this situation, Latias can double switch into a partner that handles these threats such as Landorus-T. With a Choice Scarf, Latias can be used to revenge kill faster threats such as Greninja, Choice Scarf Garchomp, and Mega Lopunny. If running Defog, take care when switching into attackers that it checks while trying to clear the field of hazards; for example, Mega Charizard Y can 2HKO Latias after Stealth Rock damage along with a little bit of prior damage. Healing Wish should be used whenever Latias is not needed in the match anymore to heal any damage that one of its partners has taken. Healing Wish can also be used to gain momentum; for example, if the opponent has Mega Mawile in against Latias, then Latias can use Healing Wish to bring in a partner such as Garchomp safely.", "moves": [["Draco Meteor"], ["Psyshock"], ["Healing Wish"], ["Defog", "Trick"]], "item": [" Choice Scarf"], "ability": ["Levitate"], "nature": ["Timid"], "ev spread": [0, 0, 4, 252, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Chansey", "Dark-types", "Steel-types", "Fairy-types"], "credits": ["Written by Nuked and Jordy", "Earlier versions by pancake and Eclipse", "Quality checked by Gary, Finchinator, Colonel M, Leo,  and ABR", "Grammar checked by GMars, Mr. Uncompetitive,  and A Cake Wearing A Hat"]}
+{
+    "name": "Latias",
+    "forms": {
+        "Base": {
+            "base stats": [
+                80,
+                80,
+                90,
+                110,
+                130,
+                110
+            ],
+            "types": [
+                "Dragon",
+                "Psychic"
+            ],
+            "abilities": [
+                "Levitate"
+            ],
+            "tier": [
+                "UU"
+            ],
+            "form": "Base"
+        },
+        "Mega": {
+            "base stats": [
+                80,
+                100,
+                120,
+                140,
+                150,
+                110
+            ],
+            "types": [
+                "Dragon",
+                "Psychic"
+            ],
+            "abilities": [
+                "Levitate"
+            ],
+            "tier": [
+                "UUBL"
+            ],
+            "form": "Mega"
+        }
+    },
+    "overview": "Latias and its Mega Evolution are solid Pokemon in the OU metagame thanks to a few traits. Mega Latias is incredibly bulky, which, combined with its access to Calm Mind, Recover, and Stored Power, makes it a powerful sweeper. Mega Latias also makes for a solid Defog user because of its typing and access to coverage moves such as Thunderbolt and Ice Beam, allowing it to check and threaten common Stealth Rock users like Landorus-T, Heatran, and Mega Swampert. Latias itself is a niche Choice Scarf user on hyper offensive teams because of its access to Healing Wish, which allows it to completely heal common offensive Pokemon such as Ash-Greninja and Mega Diancie, alongside its ability to check threats to offensive teams such as Keldeo, Mega Lopunny, and Landorus-T thanks to its typing, bulk, and access to Levitate. However, Latias suffers from weaknesses to common types like Fairy, Dark, and Ice, compounded by the high usage of Pokemon such as Magearna, Tapu Lele, Ash-Greninja, and Kyurem-B. Said Dark weakness gives Latias a crippling weakness to Pursuit trappers such as Weavile and Tyranitar, which is often detrimental to the kinds of teams Latias and Mega Latias find themselves on, where its defensive presence is greatly needed. Latias also faces large competition offensively from Latios; Latios is stronger, allowing it to run Z-Move and Soul Dew sets more effectively, but Latias still retains a strong niche with Healing Wish and its superior bulk.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Mega Calm Mind",
+            "stats": [
+                259,
+                212,
+                277,
+                316,
+                336,
+                350
+            ],
+            "type": [
+                "Dragon",
+                "Psychic"
+            ],
+            "usage": "Avoiding Toxic is a top priority because Mega Latias cannot sweep any team when put on a timer, thus timing Substitute or Reflect Type correctly is key for its sucess. Mega Latias should be taking advantage of the Pokemon that it walls, such as Keldeo, some Tapu Koko, Tangrowth, and Mega Charizard Y, to start setting up Calm Minds for a sweep. However, attempting to sweep when a Pokemon such as Magearna, Ash-Greninja, Greninja, or Mega Mawile is still alive is not recommended because these Pokemon possess the ability to OHKO or 2HKO Mega Latias even after a Calm Mind boost. Nonetheless, if Toxic Spikes are on the opponent's field, Mega Latias can stall specially oriented Dark-types such as both Greninja formes and Hoopa-U provided Latias has enough Calm Mind boosts.",
+            "moves": [
+                [
+                    "Calm Mind"
+                ],
+                [
+                    "Recover"
+                ],
+                [
+                    "Stored Power",
+                    "Psyshock"
+                ],
+                [
+                    "Ice Beam"
+                ]
+            ],
+            "item": [
+                " Latiasite"
+            ],
+            "ability": [
+                "Levitate"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                252,
+                0,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Roost + 3 Attacks",
+            "stats": [
+                259,
+                212,
+                277,
+                316,
+                336,
+                350
+            ],
+            "type": [
+                "Dragon",
+                "Psychic"
+            ],
+            "usage": "Try to avoid Toxic from Pokemon like Toxapex, Gastrodon, and Heatran because it puts Mega Latias on a timer and makes it significantly harder for Mega Latias to keep switching in throughout the match. Paralysis is also very crippling and should be avoided as well, as it makes Mega Latias lose its important Speed tier that it uses to check Pokemon like Landorus-T, Gliscor, and Tapu Bulu and also makes it more prone to getting Pursuit trapped by Tyranitar and Mega Tyranitar. Switch Mega Latias in on Pokemon that it can effectively beat such as Kartana, Gliscor, Tangrowth, and Mega Charizard Y. If the opponent has Pokemon like Kartana and Mega Scizor, try to hide Hidden Power Fire for as long as possible to effectively lure them. This doesn't work against Ferrothorn, as it is only 3HKOed, meaning Mega Latias would have to hit it with Hidden Power Fire on the switch in to prevent Ferrothorn from getting much value from Leech Seed. Use Defog on Pokemon that Mega Latias checks such as Tapu Bulu, Gliscor, Landorus-T, and Mega Charizard Y. Remove Dark-types like Tyranitar and Ash-Greninja as soon as possible, as they can severely hinder Mega Latias from doing its job.",
+            "moves": [
+                [
+                    "Ice Beam"
+                ],
+                [
+                    "Surf"
+                ],
+                [
+                    "Hidden Power Fire"
+                ],
+                [
+                    "Roost"
+                ]
+            ],
+            "item": [
+                " Latiasite"
+            ],
+            "ability": [
+                "Levitate"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                252,
+                0,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Offensive Support",
+            "stats": [
+                196,
+                176,
+                217,
+                319,
+                296,
+                350
+            ],
+            "type": [
+                "Dragon",
+                "Psychic"
+            ],
+            "usage": "Using its great defensive typing and bulk, Latias can be brought directly in on threats that it checks, such as Fire-, Water-, and Grass-types like Mega Charizard Y, Volcarona, Keldeo, and Mega Venusaur. From there, it can go for Draco Meteor, which has great coverage overall and helps it weaken Dragon-resistant Pokemon such as Heatran for a teammate to take advantage of, or use Psyshock against Pokemon like Mega Venusaur. If a Fairy-type is present on the opposing team, Psyshock is generally the best move to go for unless said Fairy-type is Megearna or Mega Mawile, which resist it; in this situation, Latias can double switch into a partner that handles these threats such as Landorus-T. With a Choice Scarf, Latias can be used to revenge kill faster threats such as Greninja, Choice Scarf Garchomp, and Mega Lopunny. If running Defog, take care when switching into attackers that it checks while trying to clear the field of hazards; for example, Mega Charizard Y can 2HKO Latias after Stealth Rock damage along with a little bit of prior damage. Healing Wish should be used whenever Latias is not needed in the match anymore to heal any damage that one of its partners has taken. Healing Wish can also be used to gain momentum; for example, if the opponent has Mega Mawile in against Latias, then Latias can use Healing Wish to bring in a partner such as Garchomp safely.",
+            "moves": [
+                [
+                    "Draco Meteor"
+                ],
+                [
+                    "Psyshock"
+                ],
+                [
+                    "Healing Wish"
+                ],
+                [
+                    "Defog",
+                    "Trick"
+                ]
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Levitate"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                4,
+                252,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Chansey",
+        "Dark-types",
+        "Steel-types",
+        "Fairy-types"
+    ],
+    "credits": [
+        "Written by Nuked and Jordy",
+        "Earlier versions by pancake and Eclipse",
+        "Quality checked by Gary, Finchinator, Colonel M, Leo,  and ABR",
+        "Grammar checked by GMars, Mr. Uncompetitive,  and A Cake Wearing A Hat"
+    ]
+}

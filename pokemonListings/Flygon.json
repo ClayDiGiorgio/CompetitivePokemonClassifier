@@ -1,1 +1,155 @@
-{"name": "Flygon", "forms": {"Base": {"base stats": [80, 100, 80, 80, 80, 100], "types": ["Ground", "Dragon"], "abilities": ["Levitate"], "tier": ["RU"], "form": "Base"}}, "overview": "Flygon is one of the most threatening Pokemon in the RU metagame, able to perform as a setup sweeper, pivot, and revenge killer. It finds a lot of opportunities to set up Dragon Dance due to its ability to force out Rock-, Ground-, and Steel-types like Gigalith, Doublade, and Nidoqueen. It also has an extensive movepool with attacks like Earthquake, Outrage, Iron Tail, U-turn, and Fire Punch, allowing it to threaten a myriad of Pokemon. Thanks to its typing and ability, Flygon possesses a handful of notable resistances, such as to Fire and Rock, and immunities to Electric and Ground; this also means it is very resilient to entry hazards. Despite its excellent typing, Flygon has very average bulk, which means it can struggle to switch into resisted attacks often. Flygon's also rather average Attack stat means that it can be pressured by Pokemon that it should beat like Doublade and Escavalier, which can take an unboosted attack really well and deal considerable damage to Flygon, making it easier to revenge kill later in the match. Lastly, Flygon has a really nasty Ice weakness, meaning it has to be wary of Pokemon like Sneasel and Mega Glalie, and it is also prone to being lured by Pokemon that can run Ice-type moves like Salazzle and Rhyperior.\n", "strategies' format": "RU", "strategies": [{"name": "Dragon Dance", "stats": [196, 328, 196, 176, 197, 299], "type": ["Ground", "Dragon"], "usage": "To make the best use of Flygon's capabilities, it is better to provide it with safe opportunities to switch in through moves like U-turn and Volt Switch and to avoid it taking unnecessary damage, since it appreciates being healthy in order to have an easier time using Dragon Dance. Flygon's typing allows it to force out Pokemon like Gigalith, Doublade, and Rotom-H locked into Overheat or an Electric-type move, so this is where you can find the opportunity to use Dragon Dance. Z-Moves like Tectonic Rage and Devastating Drake are really strong moves despite Flygon's average Attack stat, so make sure to use them in order to get rid of a Pokemon that can be annoying for your team if the opportunity arises. Physically bulky Pokemon like Chesnaught, Gligar, Umbreon, Donphan, and Cresselia must be weakened or removed before attempting to sweep after a Dragon Dance. Due to Flygon's typing, it can be prone to be lured by Ice-type coverage moves, so make sure that Pokemon like Rhyperior aren't running Ice Punch before attempting to set up on them.", "moves": [["Dragon Dance"], ["Earthquake"], ["Outrage"], ["Iron Tail"]], "item": [" Dragonium Z", " Groundium Z"], "ability": ["Levitate"], "nature": ["Adamant", "Jolly"], "ev spread": [0, 252, 0, 0, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Choice Scarf", "stats": [196, 299, 196, 176, 197, 328], "type": ["Ground", "Dragon"], "usage": "Flygon makes for a reliable Choice Scarf user thanks to its ability to gain and preserve offensive momentum with U-turn throughout the match, so make sure to consistently use this move at the start of a match. Due to Flygon's good combination of STAB moves alone, it can be a reliable revenge killer, being able to pick off many offensive Pokemon, and it can even sweep weakened teams in the late-game, so always look out for that possibility. Due to its relatively average Attack stat, Flygon is much more useful as a fast pivot, so repeatedly using U-turn in order to chip down opposing Pokemon and support your team through the pivoting is encouraged. The user must be careful of locking Flygon into Outrage early in the match, as despite being a reliable Choice Scarf user, Flygon isn't exceptionally strong; a mistimed Outrage could mean losing your Flygon in the process. Using Dragon Claw instead of Outrage to revenge kill weakened Pokemon or if opposing Fairy-types are still around is recommended so you can switch Flygon out. Lastly, make sure to only use Defog if you really need to get rid of Stealth Rock or Spikes or if Flygon is against a Pokemon that it can force out, as a misplay like this can be a huge momentum killer and could result in a KOed Flygon.", "moves": [["U-turn"], ["Outrage"], ["Earthquake"], ["Dragon Claw", "Defog"]], "item": [" Choice Scarf"], "ability": ["Levitate"], "nature": ["Jolly"], "ev spread": [0, 252, 0, 0, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Bronzong", "Fairy-types", "Bulky Water-types", "Physically Defensive Pokemon", "Ice-types"], "credits": ["Written by Mr Aldo", "Quality checked by Arifeen, Avocado,  and Rakan", "Grammar checked by P Squared and Eyan"]}
+{
+    "name": "Flygon",
+    "forms": {
+        "Base": {
+            "base stats": [
+                80,
+                100,
+                80,
+                80,
+                80,
+                100
+            ],
+            "types": [
+                "Ground",
+                "Dragon"
+            ],
+            "abilities": [
+                "Levitate"
+            ],
+            "tier": [
+                "RU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Flygon is one of the most threatening Pokemon in the RU metagame, able to perform as a setup sweeper, pivot, and revenge killer. It finds a lot of opportunities to set up Dragon Dance due to its ability to force out Rock-, Ground-, and Steel-types like Gigalith, Doublade, and Nidoqueen. It also has an extensive movepool with attacks like Earthquake, Outrage, Iron Tail, U-turn, and Fire Punch, allowing it to threaten a myriad of Pokemon. Thanks to its typing and ability, Flygon possesses a handful of notable resistances, such as to Fire and Rock, and immunities to Electric and Ground; this also means it is very resilient to entry hazards. Despite its excellent typing, Flygon has very average bulk, which means it can struggle to switch into resisted attacks often. Flygon's also rather average Attack stat means that it can be pressured by Pokemon that it should beat like Doublade and Escavalier, which can take an unboosted attack really well and deal considerable damage to Flygon, making it easier to revenge kill later in the match. Lastly, Flygon has a really nasty Ice weakness, meaning it has to be wary of Pokemon like Sneasel and Mega Glalie, and it is also prone to being lured by Pokemon that can run Ice-type moves like Salazzle and Rhyperior.\n",
+    "strategies' format": "RU",
+    "strategies": [
+        {
+            "name": "Dragon Dance",
+            "stats": [
+                196,
+                328,
+                196,
+                176,
+                197,
+                299
+            ],
+            "type": [
+                "Ground",
+                "Dragon"
+            ],
+            "usage": "To make the best use of Flygon's capabilities, it is better to provide it with safe opportunities to switch in through moves like U-turn and Volt Switch and to avoid it taking unnecessary damage, since it appreciates being healthy in order to have an easier time using Dragon Dance. Flygon's typing allows it to force out Pokemon like Gigalith, Doublade, and Rotom-H locked into Overheat or an Electric-type move, so this is where you can find the opportunity to use Dragon Dance. Z-Moves like Tectonic Rage and Devastating Drake are really strong moves despite Flygon's average Attack stat, so make sure to use them in order to get rid of a Pokemon that can be annoying for your team if the opportunity arises. Physically bulky Pokemon like Chesnaught, Gligar, Umbreon, Donphan, and Cresselia must be weakened or removed before attempting to sweep after a Dragon Dance. Due to Flygon's typing, it can be prone to be lured by Ice-type coverage moves, so make sure that Pokemon like Rhyperior aren't running Ice Punch before attempting to set up on them.",
+            "moves": [
+                [
+                    "Dragon Dance"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Outrage"
+                ],
+                [
+                    "Iron Tail"
+                ]
+            ],
+            "item": [
+                " Dragonium Z",
+                " Groundium Z"
+            ],
+            "ability": [
+                "Levitate"
+            ],
+            "nature": [
+                "Adamant",
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                0,
+                0,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Choice Scarf",
+            "stats": [
+                196,
+                299,
+                196,
+                176,
+                197,
+                328
+            ],
+            "type": [
+                "Ground",
+                "Dragon"
+            ],
+            "usage": "Flygon makes for a reliable Choice Scarf user thanks to its ability to gain and preserve offensive momentum with U-turn throughout the match, so make sure to consistently use this move at the start of a match. Due to Flygon's good combination of STAB moves alone, it can be a reliable revenge killer, being able to pick off many offensive Pokemon, and it can even sweep weakened teams in the late-game, so always look out for that possibility. Due to its relatively average Attack stat, Flygon is much more useful as a fast pivot, so repeatedly using U-turn in order to chip down opposing Pokemon and support your team through the pivoting is encouraged. The user must be careful of locking Flygon into Outrage early in the match, as despite being a reliable Choice Scarf user, Flygon isn't exceptionally strong; a mistimed Outrage could mean losing your Flygon in the process. Using Dragon Claw instead of Outrage to revenge kill weakened Pokemon or if opposing Fairy-types are still around is recommended so you can switch Flygon out. Lastly, make sure to only use Defog if you really need to get rid of Stealth Rock or Spikes or if Flygon is against a Pokemon that it can force out, as a misplay like this can be a huge momentum killer and could result in a KOed Flygon.",
+            "moves": [
+                [
+                    "U-turn"
+                ],
+                [
+                    "Outrage"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Dragon Claw",
+                    "Defog"
+                ]
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Levitate"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                0,
+                0,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Bronzong",
+        "Fairy-types",
+        "Bulky Water-types",
+        "Physically Defensive Pokemon",
+        "Ice-types"
+    ],
+    "credits": [
+        "Written by Mr Aldo",
+        "Quality checked by Arifeen, Avocado,  and Rakan",
+        "Grammar checked by P Squared and Eyan"
+    ]
+}

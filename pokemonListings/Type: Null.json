@@ -1,1 +1,149 @@
-{"name": "Type: Null", "forms": {"Base": {"base stats": [95, 95, 95, 95, 95, 59], "types": ["Normal"], "abilities": ["Battle Armor"], "tier": [""], "form": "Base"}}, "overview": "Type: Null is one of the bulkiest Pokemon in PU, blanket checking special attackers such as Alolan Raichu, Mesprit, Swanna, and Jynx. It also has usable physical bulk that not only can be boosted further by Iron Defense but also allows it to check weaker physical attackers like Skuntank, Floatzel, and Alolan Dugtrio. Although Type: Null's base Speed sits on the lower end of the spectrum, its access to U-turn lets it use said Speed to act as a slow and bulky pivot that creates many opportunities for teammates to be safely brought into the field. Alternatively, Swords Dance makes Type: Null a potent late-game sweeper that uses its defenses to set up with ease, with Battle Armor also coming into play by preventing critical hits, enhancing its sweeping opportunities. Type: Null's nature as a sturdy RestTalk user also makes it very reliable as a status absorber for its team. Unfortunately, Type: Null's reliance on its STAB attacks makes it dependent on Pursuit support to remove Ghost-types, and its Fighting weakness leaves it checked by powerful Pokemon like Gurdurr and Primeape. Furthermore, Eviolite is integral for checking stronger special attackers like Choice Specs Drampa and Aurorus, making Type: Null susceptible to Knock Off and Trick. Type: Null is often on the defensive when it needs to heal, allowing users of Taunt to easily stop it when it tries to use Rest. While it can beat certain Rock- and Steel-types due to them eventually being overpowered by boosted Return and outlasted by Type: Null's recovery, notable exceptions include Lycanroc, Omastar, Carracosta, and Aggron, which can all either use it as setup fodder or break through it firsthand. It can also face competition with other late-game sweepers like Calm Mind Spiritomb and Curse Quagsire, both of which have different typing or abilities that give them resistances or immunities that Type: Null lacks. Regardless, Type: Null is a nice bulky team player with decent role compression for a wide range of playstyles.\n", "strategies' format": "PU", "strategies": [{"name": "Bulky Pivot", "stats": [289, 226, 228, 203, 316, 154], "type": ["Normal"], "usage": "Type: Null should pivot into strong special attackers and users of status-inducing moves like Jynx, Lanturn, Swanna, and Altaria. Beyond that, generating momentum is Type: Null's other key role; U-turn is safe to use on predicted switches to avoid unfavorable matchups against either bulky Pokemon like Regirock and Qwilfish or Fighting-types that comfortably take Return like Gurdurr. From there, it should use that opportunity to get in wallbreakers or Pokemon that can threaten them out. In other cases, Return can be nice for consistent damage when not a lot of Pokemon that resist it are left. Using Rest when Type: Null is weakened is important to keep it healthy to check special attackers, force switches, and pivot around as much as it can. When asleep, finding opportunities to burn sleep turns is recommended, which can be done against the large number of Pokemon that Type: Null is not significantly damaged by. It is often able to safely use Sleep Talk without being too passive, as it can sometimes pivot out with U-turn. Lastly, Type: Null should be wary of foes like Mesprit with Knock Off or Trick and should play around users Taunt sparingly, as they can punish attempts to use Rest.", "moves": [["U-turn"], ["Return"], ["Rest"], ["Sleep Talk"]], "item": [" Eviolite"], "ability": ["Battle Armor"], "nature": ["Careful"], "ev spread": [252, 0, 8, 0, 248, 0], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Swords Dance", "stats": [289, 226, 228, 203, 316, 154], "type": ["Normal"], "usage": "Type: Null should prioritize on its defensive role of blanket checking special attackers like Jynx, Simisear, and Silvally-Dragon. Given Type: Null's ability to absorb status, pivoting into potential status-inducing moves from Pokemon like Jynx and Alolan Dugtrio early-game can alleviate pressure for teammates. Swords Dance can be used in many situations, whether it's to beat passive Pokemon like Clefairy and Altaria, take advantage of forced switches from special attackers, or attempt a late-game sweep. One must avoid attempting to sweep if Ghost-types are present, however. Luring in Ghost types via double switching and then Pursuit trapping them with partners like Skuntank can net a key advantage that can pave the way for a sweep. Capitalize on Fighting-type switch-ins by gradually weakening them down with repeated use of Return. Using Rest when Type: Null is low on health is always important to maintain opportunities to sweep and to check special attackers. It helps whenever possible to scout for Knock Off on Pokemon Type: Null is supposed to check, like Clefairy and Mesprit, as having its item removed drastically reduces its durability. Iron Defense can be great for outlasting checks like Hitmonchan and Aggron as well taking on the likes of Stoutland better, but be wary about giving up free turns, as sets without Sleep Talk are more prone to having their helplessness taken advantage of.", "moves": [["Swords Dance"], ["Return"], ["Rest"], ["Sleep Talk", "Iron Defense"]], "item": [" Eviolite"], "ability": ["Battle Armor"], "nature": ["Careful"], "ev spread": [252, 0, 8, 0, 248, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Ghost-types", "Fighting-types", "Rock- and Steel-types", "Loss of Eviolite"], "credits": ["Written by jklioe", "Quality checked by Taskr, Darkinium,  and allstarapology", "Grammar checked by The Dutch Plumberjack and A Cake Wearing A Hat"]}
+{
+    "name": "Type: Null",
+    "forms": {
+        "Base": {
+            "base stats": [
+                95,
+                95,
+                95,
+                95,
+                95,
+                59
+            ],
+            "types": [
+                "Normal"
+            ],
+            "abilities": [
+                "Battle Armor"
+            ],
+            "tier": [
+                ""
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Type: Null is one of the bulkiest Pokemon in PU, blanket checking special attackers such as Alolan Raichu, Mesprit, Swanna, and Jynx. It also has usable physical bulk that not only can be boosted further by Iron Defense but also allows it to check weaker physical attackers like Skuntank, Floatzel, and Alolan Dugtrio. Although Type: Null's base Speed sits on the lower end of the spectrum, its access to U-turn lets it use said Speed to act as a slow and bulky pivot that creates many opportunities for teammates to be safely brought into the field. Alternatively, Swords Dance makes Type: Null a potent late-game sweeper that uses its defenses to set up with ease, with Battle Armor also coming into play by preventing critical hits, enhancing its sweeping opportunities. Type: Null's nature as a sturdy RestTalk user also makes it very reliable as a status absorber for its team. Unfortunately, Type: Null's reliance on its STAB attacks makes it dependent on Pursuit support to remove Ghost-types, and its Fighting weakness leaves it checked by powerful Pokemon like Gurdurr and Primeape. Furthermore, Eviolite is integral for checking stronger special attackers like Choice Specs Drampa and Aurorus, making Type: Null susceptible to Knock Off and Trick. Type: Null is often on the defensive when it needs to heal, allowing users of Taunt to easily stop it when it tries to use Rest. While it can beat certain Rock- and Steel-types due to them eventually being overpowered by boosted Return and outlasted by Type: Null's recovery, notable exceptions include Lycanroc, Omastar, Carracosta, and Aggron, which can all either use it as setup fodder or break through it firsthand. It can also face competition with other late-game sweepers like Calm Mind Spiritomb and Curse Quagsire, both of which have different typing or abilities that give them resistances or immunities that Type: Null lacks. Regardless, Type: Null is a nice bulky team player with decent role compression for a wide range of playstyles.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Bulky Pivot",
+            "stats": [
+                289,
+                226,
+                228,
+                203,
+                316,
+                154
+            ],
+            "type": [
+                "Normal"
+            ],
+            "usage": "Type: Null should pivot into strong special attackers and users of status-inducing moves like Jynx, Lanturn, Swanna, and Altaria. Beyond that, generating momentum is Type: Null's other key role; U-turn is safe to use on predicted switches to avoid unfavorable matchups against either bulky Pokemon like Regirock and Qwilfish or Fighting-types that comfortably take Return like Gurdurr. From there, it should use that opportunity to get in wallbreakers or Pokemon that can threaten them out. In other cases, Return can be nice for consistent damage when not a lot of Pokemon that resist it are left. Using Rest when Type: Null is weakened is important to keep it healthy to check special attackers, force switches, and pivot around as much as it can. When asleep, finding opportunities to burn sleep turns is recommended, which can be done against the large number of Pokemon that Type: Null is not significantly damaged by. It is often able to safely use Sleep Talk without being too passive, as it can sometimes pivot out with U-turn. Lastly, Type: Null should be wary of foes like Mesprit with Knock Off or Trick and should play around users Taunt sparingly, as they can punish attempts to use Rest.",
+            "moves": [
+                [
+                    "U-turn"
+                ],
+                [
+                    "Return"
+                ],
+                [
+                    "Rest"
+                ],
+                [
+                    "Sleep Talk"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Battle Armor"
+            ],
+            "nature": [
+                "Careful"
+            ],
+            "ev spread": [
+                252,
+                0,
+                8,
+                0,
+                248,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Swords Dance",
+            "stats": [
+                289,
+                226,
+                228,
+                203,
+                316,
+                154
+            ],
+            "type": [
+                "Normal"
+            ],
+            "usage": "Type: Null should prioritize on its defensive role of blanket checking special attackers like Jynx, Simisear, and Silvally-Dragon. Given Type: Null's ability to absorb status, pivoting into potential status-inducing moves from Pokemon like Jynx and Alolan Dugtrio early-game can alleviate pressure for teammates. Swords Dance can be used in many situations, whether it's to beat passive Pokemon like Clefairy and Altaria, take advantage of forced switches from special attackers, or attempt a late-game sweep. One must avoid attempting to sweep if Ghost-types are present, however. Luring in Ghost types via double switching and then Pursuit trapping them with partners like Skuntank can net a key advantage that can pave the way for a sweep. Capitalize on Fighting-type switch-ins by gradually weakening them down with repeated use of Return. Using Rest when Type: Null is low on health is always important to maintain opportunities to sweep and to check special attackers. It helps whenever possible to scout for Knock Off on Pokemon Type: Null is supposed to check, like Clefairy and Mesprit, as having its item removed drastically reduces its durability. Iron Defense can be great for outlasting checks like Hitmonchan and Aggron as well taking on the likes of Stoutland better, but be wary about giving up free turns, as sets without Sleep Talk are more prone to having their helplessness taken advantage of.",
+            "moves": [
+                [
+                    "Swords Dance"
+                ],
+                [
+                    "Return"
+                ],
+                [
+                    "Rest"
+                ],
+                [
+                    "Sleep Talk",
+                    "Iron Defense"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Battle Armor"
+            ],
+            "nature": [
+                "Careful"
+            ],
+            "ev spread": [
+                252,
+                0,
+                8,
+                0,
+                248,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Ghost-types",
+        "Fighting-types",
+        "Rock- and Steel-types",
+        "Loss of Eviolite"
+    ],
+    "credits": [
+        "Written by jklioe",
+        "Quality checked by Taskr, Darkinium,  and allstarapology",
+        "Grammar checked by The Dutch Plumberjack and A Cake Wearing A Hat"
+    ]
+}

@@ -1,1 +1,119 @@
-{"name": "Manectric", "forms": {"Base": {"base stats": [70, 75, 60, 105, 60, 105], "types": ["Electric"], "abilities": ["Lightning Rod", "Minus", "Static"], "tier": ["PU"], "form": "Base"}, "Mega": {"base stats": [70, 75, 80, 135, 80, 135], "types": ["Electric"], "abilities": ["Intimidate"], "tier": ["UU"], "form": "Mega"}}, "overview": "Mega Manectric's high Speed, decent Special Attack, and access to Fire-type coverage make it very threatening to offensive builds. Mega Manectric can also use Volt Switch effectively to produce momentum, rack up entry hazard damage, and let wallbreaking teammates switch in freely. With Intimidate, Mega Manectric comfortably revenge kills two of the most dangerous Mega Evolutions in the tier, Mega Mawile and Mega Pinsir.\nHowever, even with its access to Fire-type coverage, Mega Manectric still faces competition with Tapu Koko, which not only has a more powerful Thunderbolt but also has access to U-turn to gain momentum more reliably, as it does not have to worry about Ground-types. Tapu Koko even has access to Taunt to pressure bulkier playstyles itself rather than relying on teammates, has the ability to run an item, and does not take up the Mega slot. Mega Manectric itself is checked by common defensive threats in the metagame such as Assault Vest Tangrowth and Amoonguss. Couple this with the fact that it can be trapped by Tyranitar, and Mega Manectric is, in practice, not the threat it can be. Furthermore, Mega Manectric's nature of coming in repetitively makes it vulnerable to entry hazards, as the consistent chip damage prevents it from performing and places it in range to be KOed by various priority attacks.\n", "strategies' format": "OU", "strategies": [{"name": "Offensive Pivot", "stats": [176, 167, 196, 369, 197, 405], "type": ["Electric"], "usage": "Mega Manectric should spam Volt Switch early- and mid-game to rack up entry hazard damage and pressure its initial switch-ins. Depending on the matchup, Mega Manectric may be a natural threat, so use its fantastic coverage to pressure the opposing team. Mega Manectric should limit the number of times it comes in on entry hazards so it can survive priority attacks later in the game. Use Mega Manectric to check Pokemon such as Mega Pinsir and Mega Scizor, as it can do this well because of its access to Intimidate. Mega Manectric produces a lot of momentum, but Manectric itself cannot come in freely due to its poor bulk. Because of this, use double switches to bring it in because Manectric will have to be played aggressively if it wants to control the pace of the game. Try not to mindlessly spam Volt Switch if there is an opposing Alolan Marowak or Ground-type that walls Mega Manectric, such as Mega Swampert or Gastrodon, as a lot of momentum will be lost if Volt Switch fails.", "moves": [["Volt Switch"], ["Thunderbolt"], ["Overheat", "Flamethrower"], ["Hidden Power Ice"]], "item": [" Manectite"], "ability": ["Lightning Rod"], "nature": ["Timid"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Specially Defensive Pokemon", "Grass-types", "Ground-types", "Alolan Marowak", "Dragon-types", "Faster Pokemon"], "credits": ["Written by Vertex", "Quality checked by Gary, p2,  and Subject 18", "Grammar checked by The Dutch Plumberjack and frenzyplant"]}
+{
+    "name": "Manectric",
+    "forms": {
+        "Base": {
+            "base stats": [
+                70,
+                75,
+                60,
+                105,
+                60,
+                105
+            ],
+            "types": [
+                "Electric"
+            ],
+            "abilities": [
+                "Lightning Rod",
+                "Minus",
+                "Static"
+            ],
+            "tier": [
+                "PU"
+            ],
+            "form": "Base"
+        },
+        "Mega": {
+            "base stats": [
+                70,
+                75,
+                80,
+                135,
+                80,
+                135
+            ],
+            "types": [
+                "Electric"
+            ],
+            "abilities": [
+                "Intimidate"
+            ],
+            "tier": [
+                "UU"
+            ],
+            "form": "Mega"
+        }
+    },
+    "overview": "Mega Manectric's high Speed, decent Special Attack, and access to Fire-type coverage make it very threatening to offensive builds. Mega Manectric can also use Volt Switch effectively to produce momentum, rack up entry hazard damage, and let wallbreaking teammates switch in freely. With Intimidate, Mega Manectric comfortably revenge kills two of the most dangerous Mega Evolutions in the tier, Mega Mawile and Mega Pinsir.\nHowever, even with its access to Fire-type coverage, Mega Manectric still faces competition with Tapu Koko, which not only has a more powerful Thunderbolt but also has access to U-turn to gain momentum more reliably, as it does not have to worry about Ground-types. Tapu Koko even has access to Taunt to pressure bulkier playstyles itself rather than relying on teammates, has the ability to run an item, and does not take up the Mega slot. Mega Manectric itself is checked by common defensive threats in the metagame such as Assault Vest Tangrowth and Amoonguss. Couple this with the fact that it can be trapped by Tyranitar, and Mega Manectric is, in practice, not the threat it can be. Furthermore, Mega Manectric's nature of coming in repetitively makes it vulnerable to entry hazards, as the consistent chip damage prevents it from performing and places it in range to be KOed by various priority attacks.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Offensive Pivot",
+            "stats": [
+                176,
+                167,
+                196,
+                369,
+                197,
+                405
+            ],
+            "type": [
+                "Electric"
+            ],
+            "usage": "Mega Manectric should spam Volt Switch early- and mid-game to rack up entry hazard damage and pressure its initial switch-ins. Depending on the matchup, Mega Manectric may be a natural threat, so use its fantastic coverage to pressure the opposing team. Mega Manectric should limit the number of times it comes in on entry hazards so it can survive priority attacks later in the game. Use Mega Manectric to check Pokemon such as Mega Pinsir and Mega Scizor, as it can do this well because of its access to Intimidate. Mega Manectric produces a lot of momentum, but Manectric itself cannot come in freely due to its poor bulk. Because of this, use double switches to bring it in because Manectric will have to be played aggressively if it wants to control the pace of the game. Try not to mindlessly spam Volt Switch if there is an opposing Alolan Marowak or Ground-type that walls Mega Manectric, such as Mega Swampert or Gastrodon, as a lot of momentum will be lost if Volt Switch fails.",
+            "moves": [
+                [
+                    "Volt Switch"
+                ],
+                [
+                    "Thunderbolt"
+                ],
+                [
+                    "Overheat",
+                    "Flamethrower"
+                ],
+                [
+                    "Hidden Power Ice"
+                ]
+            ],
+            "item": [
+                " Manectite"
+            ],
+            "ability": [
+                "Lightning Rod"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Specially Defensive Pokemon",
+        "Grass-types",
+        "Ground-types",
+        "Alolan Marowak",
+        "Dragon-types",
+        "Faster Pokemon"
+    ],
+    "credits": [
+        "Written by Vertex",
+        "Quality checked by Gary, p2,  and Subject 18",
+        "Grammar checked by The Dutch Plumberjack and frenzyplant"
+    ]
+}

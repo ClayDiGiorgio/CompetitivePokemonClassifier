@@ -1,1 +1,214 @@
-{"name": "Tirtouga", "forms": {"Base": {"base stats": [54, 78, 103, 53, 45, 22], "types": ["Water", "Rock"], "abilities": ["Solid Rock", "Sturdy", "Swift Swim"], "tier": ["LC"], "form": "Base"}}, "overview": "Tirtouga's typing, abilities, and stats allow it to perform both offensive and defensive roles well in the Little Cup metagame. Its access to Shell Smash, two great abilities in Sturdy and Solid Rock, powerful STAB moves in Stone Edge and Waterfall, STAB priority in Aqua Jet, and good coverage options in Zen Headbutt and Earthquake can turn Tirtouga into a strong late-game sweeper, while its Rock / Water typing, great defensive ability Solid Rock, and high Defense stat also allows it to check many prominent threats in the metagame such as Doduo, Rufflet, Vullaby, Pawniard, and Ponyta. In addition, Tirtouga can also support its team with moves like Stealth Rock and Knock Off; however, Tirtouga's offensive sets struggle because of its very low Speed stat, meaning it can be revenge killed by faster Choice Scarf users such as Mienfoo and Chinchou. It's also weak to common priority moves in Mach Punch and Vacuum Wave, making it even easier to revenge kill after lowering its defenses with Shell Smash. On the defensive side, Tirtouga lacks recovery, meaning it is prone to being worn down. It also has a big weakness to common Grass-types such as Snivy, Pumpkaboo-XL, and Cottonee.\n", "strategies' format": "LC", "strategies": [{"name": "Defensive", "stats": [185, 205, 265, 127, 181, 85], "type": ["Water", "Rock"], "usage": "Since this set lacks recovery of any kind, always be wary of being worn down. As such, try to keep Tirtouga healthy in order to check the Pokemon it needs to, such as Doduo and Vullaby. If the opponent lacks a Pokemon that you need Tirtouga for, this set can focus on setting up Stealth Rock as much as possible. Against such an opponent, leading with Tirtouga in order to set up Stealth Rock as soon as possible is a good option. It is also a good idea to use Knock Off to soften up switch-ins for other teammates.", "moves": [["Stealth Rock"], ["Stone Edge"], ["Knock Off"], ["Aqua Jet", "Liquidation"]], "item": [" Eviolite"], "ability": ["Solid Rock"], "nature": ["Careful"], "ev spread": [164, 52, 92, 0, 156, 20], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Solid Rock Smash", "stats": [145, 225, 265, 127, 145, 137], "type": ["Water", "Rock"], "usage": "Early-and mid-game, this Tirtouga set can be used to check Fire- and Flying-types, as its good bulk allows it to retain enough HP to attempt a late-game sweep. Still, you should focus on eventually setting up a Shell Smash. In addition to Fire- and Flying-types, this Tirtouga set can also set up on some traditional Tirtouga checks, such as Mienfoo and physical attacking Croagunk, thanks to Solid Rock. However, this is usually not recommended, as Tirtouga will still take significant damage from them, making it easier to be revenge killed by fast Choice Scarf users and priority users. Before setting up, opposing priority users such as Timburr and Pawniard should be removed, as they can easily stop Tirtouga's sweep. Despite Solid Rock, Tirtouga still has to be very careful of Grass-type moves.", "moves": [["Shell Smash"], ["Waterfall", "Aqua Jet"], ["Stone Edge"], ["Zen Headbutt", "Earthquake"]], "item": [" Eviolite"], "ability": ["Solid Rock"], "nature": ["Jolly", "Adamant"], "ev spread": [4, 132, 92, 0, 76, 180], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Sturdy Smash", "stats": [144, 245, 265, 127, 126, 137], "type": ["Water", "Rock"], "usage": "Tirtouga should mainly be used late-game to set up a Shell Smash and clean up a weakened team when its counters have been removed. Always try to remain at full HP in order to activate Sturdy, as it will give Tirtouga a much easier time setting up. This can be achieved by removing entry hazards and bringing Tirtouga in on free switches through use of a slow Volt Switch or U-turn. If Sturdy is intact and Tirtouga is still holding its Berry Juice, it can set up on anything that it can OHKO after a boost, such as Vullaby, Mudbray, and Chinchou, or on passive Pokemon, such as Bronzor and Spritzee. Usually, it will take one hit while setting up, which will make it consume its Berry Juice to heal it back up to full HP while gaining a Shell Smash boost. Since Tirtouga has a big weakness to Grass-type moves, it has to be wary of Grass-type coverage on Pokemon such as Abra and Ponyta if its Sturdy is broken. If Tirtouga has set up Shell Smash without losing its Sturdy or its Berry Juice, it can opt to go for a second Shell Smash, as this will usually secure the sweep, since Tirtouga will then outspeed even the fastest Choice Scarf users and be able to OHKO even some of the bulkiest Pokemon in the metagame, such as Foongus. Always make sure priority users such as Timburr and Pawniard are removed before setting up a Shell Smash, as they can relatively easily stop Tirtouga's sweep.", "moves": [["Shell Smash"], ["Waterfall", "Aqua Jet"], ["Stone Edge"], ["Zen Headbutt", "Earthquake"]], "item": [" Berry Juice"], "ability": ["Sturdy"], "nature": ["Jolly"], "ev spread": [0, 212, 92, 0, 0, 180], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Grass-types", "Fighting-types", "Choice Scarf Users", "Entry Hazards"], "credits": ["Written by Xayah", "Quality checked by himeringo, Hilomilo,  and Nineage", "Grammar checked by Fireflame479 and Rakan"]}
+{
+    "name": "Tirtouga",
+    "forms": {
+        "Base": {
+            "base stats": [
+                54,
+                78,
+                103,
+                53,
+                45,
+                22
+            ],
+            "types": [
+                "Water",
+                "Rock"
+            ],
+            "abilities": [
+                "Solid Rock",
+                "Sturdy",
+                "Swift Swim"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Tirtouga's typing, abilities, and stats allow it to perform both offensive and defensive roles well in the Little Cup metagame. Its access to Shell Smash, two great abilities in Sturdy and Solid Rock, powerful STAB moves in Stone Edge and Waterfall, STAB priority in Aqua Jet, and good coverage options in Zen Headbutt and Earthquake can turn Tirtouga into a strong late-game sweeper, while its Rock / Water typing, great defensive ability Solid Rock, and high Defense stat also allows it to check many prominent threats in the metagame such as Doduo, Rufflet, Vullaby, Pawniard, and Ponyta. In addition, Tirtouga can also support its team with moves like Stealth Rock and Knock Off; however, Tirtouga's offensive sets struggle because of its very low Speed stat, meaning it can be revenge killed by faster Choice Scarf users such as Mienfoo and Chinchou. It's also weak to common priority moves in Mach Punch and Vacuum Wave, making it even easier to revenge kill after lowering its defenses with Shell Smash. On the defensive side, Tirtouga lacks recovery, meaning it is prone to being worn down. It also has a big weakness to common Grass-types such as Snivy, Pumpkaboo-XL, and Cottonee.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Defensive",
+            "stats": [
+                185,
+                205,
+                265,
+                127,
+                181,
+                85
+            ],
+            "type": [
+                "Water",
+                "Rock"
+            ],
+            "usage": "Since this set lacks recovery of any kind, always be wary of being worn down. As such, try to keep Tirtouga healthy in order to check the Pokemon it needs to, such as Doduo and Vullaby. If the opponent lacks a Pokemon that you need Tirtouga for, this set can focus on setting up Stealth Rock as much as possible. Against such an opponent, leading with Tirtouga in order to set up Stealth Rock as soon as possible is a good option. It is also a good idea to use Knock Off to soften up switch-ins for other teammates.",
+            "moves": [
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Stone Edge"
+                ],
+                [
+                    "Knock Off"
+                ],
+                [
+                    "Aqua Jet",
+                    "Liquidation"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Solid Rock"
+            ],
+            "nature": [
+                "Careful"
+            ],
+            "ev spread": [
+                164,
+                52,
+                92,
+                0,
+                156,
+                20
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Solid Rock Smash",
+            "stats": [
+                145,
+                225,
+                265,
+                127,
+                145,
+                137
+            ],
+            "type": [
+                "Water",
+                "Rock"
+            ],
+            "usage": "Early-and mid-game, this Tirtouga set can be used to check Fire- and Flying-types, as its good bulk allows it to retain enough HP to attempt a late-game sweep. Still, you should focus on eventually setting up a Shell Smash. In addition to Fire- and Flying-types, this Tirtouga set can also set up on some traditional Tirtouga checks, such as Mienfoo and physical attacking Croagunk, thanks to Solid Rock. However, this is usually not recommended, as Tirtouga will still take significant damage from them, making it easier to be revenge killed by fast Choice Scarf users and priority users. Before setting up, opposing priority users such as Timburr and Pawniard should be removed, as they can easily stop Tirtouga's sweep. Despite Solid Rock, Tirtouga still has to be very careful of Grass-type moves.",
+            "moves": [
+                [
+                    "Shell Smash"
+                ],
+                [
+                    "Waterfall",
+                    "Aqua Jet"
+                ],
+                [
+                    "Stone Edge"
+                ],
+                [
+                    "Zen Headbutt",
+                    "Earthquake"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Solid Rock"
+            ],
+            "nature": [
+                "Jolly",
+                "Adamant"
+            ],
+            "ev spread": [
+                4,
+                132,
+                92,
+                0,
+                76,
+                180
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Sturdy Smash",
+            "stats": [
+                144,
+                245,
+                265,
+                127,
+                126,
+                137
+            ],
+            "type": [
+                "Water",
+                "Rock"
+            ],
+            "usage": "Tirtouga should mainly be used late-game to set up a Shell Smash and clean up a weakened team when its counters have been removed. Always try to remain at full HP in order to activate Sturdy, as it will give Tirtouga a much easier time setting up. This can be achieved by removing entry hazards and bringing Tirtouga in on free switches through use of a slow Volt Switch or U-turn. If Sturdy is intact and Tirtouga is still holding its Berry Juice, it can set up on anything that it can OHKO after a boost, such as Vullaby, Mudbray, and Chinchou, or on passive Pokemon, such as Bronzor and Spritzee. Usually, it will take one hit while setting up, which will make it consume its Berry Juice to heal it back up to full HP while gaining a Shell Smash boost. Since Tirtouga has a big weakness to Grass-type moves, it has to be wary of Grass-type coverage on Pokemon such as Abra and Ponyta if its Sturdy is broken. If Tirtouga has set up Shell Smash without losing its Sturdy or its Berry Juice, it can opt to go for a second Shell Smash, as this will usually secure the sweep, since Tirtouga will then outspeed even the fastest Choice Scarf users and be able to OHKO even some of the bulkiest Pokemon in the metagame, such as Foongus. Always make sure priority users such as Timburr and Pawniard are removed before setting up a Shell Smash, as they can relatively easily stop Tirtouga's sweep.",
+            "moves": [
+                [
+                    "Shell Smash"
+                ],
+                [
+                    "Waterfall",
+                    "Aqua Jet"
+                ],
+                [
+                    "Stone Edge"
+                ],
+                [
+                    "Zen Headbutt",
+                    "Earthquake"
+                ]
+            ],
+            "item": [
+                " Berry Juice"
+            ],
+            "ability": [
+                "Sturdy"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                212,
+                92,
+                0,
+                0,
+                180
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Grass-types",
+        "Fighting-types",
+        "Choice Scarf Users",
+        "Entry Hazards"
+    ],
+    "credits": [
+        "Written by Xayah",
+        "Quality checked by himeringo, Hilomilo,  and Nineage",
+        "Grammar checked by Fireflame479 and Rakan"
+    ]
+}

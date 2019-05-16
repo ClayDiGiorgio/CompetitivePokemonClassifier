@@ -1,1 +1,98 @@
-{"name": "Venomoth", "forms": {"Base": {"base stats": [70, 65, 60, 90, 75, 90], "types": ["Bug", "Poison"], "abilities": ["Shield Dust", "Tinted Lens", "Wonder Skin"], "tier": ["RUBL"], "form": "Base"}}, "overview": "Albeit uncommon, Venomoth is among UU's most potent sweepers thanks to its access to Quiver Dance, Sleep Powder, and an amazing ability in Tinted Lens, which severely limits its checks. The advent of Z-Moves allows Venomoth to further bolster its sweeping prowess, as it can use Savage Spin-Out to break past Pokemon capable of tanking a +1 Bug Buzz like Scizor, Gliscor, and Terrakion. Venomoth also possesses key resistances to the tier's common Fairy- and Fighting-type attacks, which grants it plentiful opportunities to force switches and set up. Unfortunately, despite its useful resistances, Venomoth's typing also leaves it with a Stealth Rock weakness and with vulnerabilities to common attack types in Fire, Flying, and Psychic. Venomoth is also cursed with horrid bulk, which can complicate setup and leave it vulnerable to common Choice Scarf users in Infernape, Krookodile, and Terrakion. Venomoth can also struggle due to its occasionally underwhelming power after one Quiver Dance boost, which may leave it reliant on setting up a second time or using its Z-Move too early.\n", "strategies' format": "UU", "strategies": [{"name": "Quiver Dance", "stats": [176, 149, 156, 279, 187, 306], "type": ["Bug", "Poison"], "usage": "Venomoth's best function is as a sweeper on offensive teams due to its ability to break past multiple archetypes. In order for it to begin sweeping, it is best that Pokemon that 4x resist its STAB attacks, such as Klefki and Cobalion, and specially bulky Pokemon like Blissey are removed or considerably weakened. If the opponent has a Choice Scarf user that can outpace Venomoth at +1 like Infernape or Krookodile, it is crucial for Venomoth to try to get two Quiver Dance boosts by using Sleep Powder. However, trying to wallbreak as much as possible before being revenge killed is a lesser yet plausible option. Due to its frailty, Venomoth is best brought into play via slow pivot support or after a teammate has fainted. It should be brought in against a Pokemon that it forces out like Togekiss or a Choice-locked Fighting-type and set up with Quiver Dance as they switch out. From there, Venomoth should use Sleep Powder to immobilize whatever foe was brought in against it and take another turn to set up afterward. However, between the possibility of the foe waking up immediately after being immobilized and Sleep Powder's shaky accuracy, it should be noted that Quiver Dance can only be set up twice about 50% of the time.", "moves": [["Quiver Dance"], ["Sleep Powder"], ["Bug Buzz"], ["Sludge Bomb"]], "item": [" Buginium Z"], "ability": ["Tinted Lens"], "nature": ["Timid"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Priority", "Pokemon that 4x Resist Bug", "Blissey", "Physically Offensive Choice Scarf Users"], "credits": ["Written by Hilomilo", "Quality checked by SmashBrosBrawl, Amaroq,  and dodmen", "Grammar checked by Eyan and The Dutch Plumberjack"]}
+{
+    "name": "Venomoth",
+    "forms": {
+        "Base": {
+            "base stats": [
+                70,
+                65,
+                60,
+                90,
+                75,
+                90
+            ],
+            "types": [
+                "Bug",
+                "Poison"
+            ],
+            "abilities": [
+                "Shield Dust",
+                "Tinted Lens",
+                "Wonder Skin"
+            ],
+            "tier": [
+                "RUBL"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Albeit uncommon, Venomoth is among UU's most potent sweepers thanks to its access to Quiver Dance, Sleep Powder, and an amazing ability in Tinted Lens, which severely limits its checks. The advent of Z-Moves allows Venomoth to further bolster its sweeping prowess, as it can use Savage Spin-Out to break past Pokemon capable of tanking a +1 Bug Buzz like Scizor, Gliscor, and Terrakion. Venomoth also possesses key resistances to the tier's common Fairy- and Fighting-type attacks, which grants it plentiful opportunities to force switches and set up. Unfortunately, despite its useful resistances, Venomoth's typing also leaves it with a Stealth Rock weakness and with vulnerabilities to common attack types in Fire, Flying, and Psychic. Venomoth is also cursed with horrid bulk, which can complicate setup and leave it vulnerable to common Choice Scarf users in Infernape, Krookodile, and Terrakion. Venomoth can also struggle due to its occasionally underwhelming power after one Quiver Dance boost, which may leave it reliant on setting up a second time or using its Z-Move too early.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Quiver Dance",
+            "stats": [
+                176,
+                149,
+                156,
+                279,
+                187,
+                306
+            ],
+            "type": [
+                "Bug",
+                "Poison"
+            ],
+            "usage": "Venomoth's best function is as a sweeper on offensive teams due to its ability to break past multiple archetypes. In order for it to begin sweeping, it is best that Pokemon that 4x resist its STAB attacks, such as Klefki and Cobalion, and specially bulky Pokemon like Blissey are removed or considerably weakened. If the opponent has a Choice Scarf user that can outpace Venomoth at +1 like Infernape or Krookodile, it is crucial for Venomoth to try to get two Quiver Dance boosts by using Sleep Powder. However, trying to wallbreak as much as possible before being revenge killed is a lesser yet plausible option. Due to its frailty, Venomoth is best brought into play via slow pivot support or after a teammate has fainted. It should be brought in against a Pokemon that it forces out like Togekiss or a Choice-locked Fighting-type and set up with Quiver Dance as they switch out. From there, Venomoth should use Sleep Powder to immobilize whatever foe was brought in against it and take another turn to set up afterward. However, between the possibility of the foe waking up immediately after being immobilized and Sleep Powder's shaky accuracy, it should be noted that Quiver Dance can only be set up twice about 50% of the time.",
+            "moves": [
+                [
+                    "Quiver Dance"
+                ],
+                [
+                    "Sleep Powder"
+                ],
+                [
+                    "Bug Buzz"
+                ],
+                [
+                    "Sludge Bomb"
+                ]
+            ],
+            "item": [
+                " Buginium Z"
+            ],
+            "ability": [
+                "Tinted Lens"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Priority",
+        "Pokemon that 4x Resist Bug",
+        "Blissey",
+        "Physically Offensive Choice Scarf Users"
+    ],
+    "credits": [
+        "Written by Hilomilo",
+        "Quality checked by SmashBrosBrawl, Amaroq,  and dodmen",
+        "Grammar checked by Eyan and The Dutch Plumberjack"
+    ]
+}

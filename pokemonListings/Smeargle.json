@@ -1,1 +1,96 @@
-{"name": "Smeargle", "forms": {"Base": {"base stats": [55, 20, 35, 20, 45, 75], "types": ["Normal"], "abilities": ["Moody", "Own Tempo", "Technician"], "tier": ["Untiered"], "form": "Base"}}, "overview": "Smeargle is one of the premier lead Pokemon in the tier due to its access to almost all moves, including useful support moves such as Spore, Sticky Web, and Stealth Rock. The combination of Spore and Nuzzle makes Smeargle very difficult to check without either something being crippled or entry hazards being set. Smeargle's Speed tier is also decent, allowing it to outpace common Stealth Rock setters such as Aurorus and Golurk, although it still is slower than a large part of the metagame, including two other Sticky Web setters, Masquerain and Leavanny. Smeargle's pitiful offensive and defensive stats prevent it from performing any roles outside of a suicide lead without extreme support. This, in turn, makes it only usable on hyper offensive playstyles, as it is not bulky enough for any other roles and is almost useless once its Focus Sash has been broken. Due to its reliance on status moves, Smeargle is very susceptible to Taunt from Pokemon like Floatzel and Skuntank and is completely shut down by them unless carrying Magic Coat. It also faces competition from Leavanny and Masquerain, which are faster and have actual offensive pressure. However, Smeargle has a much better support movepool, including access to Spore and Stealth Rock. Competition from Shuckle is also detrimental, as, even though Smeargle does have access to Spore and Magic Coat, Shuckle has fantastic defenses alongside Sturdy, meaning it can function on more defensive teams while also not fearing Taunt as much, thanks to Mental Herb.\n", "strategies' format": "PU", "strategies": [{"name": "Sticky Web Lead", "stats": [208, 76, 106, 68, 128, 273], "type": ["Normal"], "usage": "Due to its lackluster offensive and defensive presence, Smeargle is used solely as a suicide lead, getting up entry hazards to support its teammates. Smeargle should almost always prioritize Sticky Web over Stealth Rock, as the former supports the hyper offensive teams that it's usually found on better. This is especially true against Choice Scarf users like Abomasnow and Aurorus, which outspeed Smeargle and knock it out with a combination of Blizzard and hail damage. In order to do this, Smeargle should use Spore on opposing Pokemon to get up as many hazards as it can and cripple the target. Alternatively, Nuzzle should be used against threatening Pokemon that are immune to Spore or can be revenge killed by a partner if slowed. Nuzzle can also be useful later in the game versus setup sweepers like Floatzel and Lycanroc, if Smeargle's Focus Sash is kept intact from earlier, preventing them from sweeping. Taunt users like Sableye and Skuntank should be looked out for, as all three completely shut down and make Smeargle useless during the early game. This prompts either another lead to be used or a mind game to be played with Magic Coat against all three. Based on certain matchups, Sticky Web has no real use if the opposing team is slower than yours already, such as playing against Trick Room or stall teams, meaning that Stealth Rock or Taunt should be used instead.", "moves": [["Sticky Web"], ["Stealth Rock"], ["Spore"], ["Nuzzle", "Taunt"]], "item": [" Focus Sash"], "ability": ["Own Tempo"], "nature": ["Jolly"], "ev spread": [248, 0, 0, 0, 8, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Taunt", "Faster Pokemon", "Flying-types and Levitate Users"], "credits": ["Written by yogi", "Quality checked by allstarapology, UberSkitty,  and Megazard", "Grammar checked by The Dutch Plumberjack and A Cake Wearing A Hat"]}
+{
+    "name": "Smeargle",
+    "forms": {
+        "Base": {
+            "base stats": [
+                55,
+                20,
+                35,
+                20,
+                45,
+                75
+            ],
+            "types": [
+                "Normal"
+            ],
+            "abilities": [
+                "Moody",
+                "Own Tempo",
+                "Technician"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Smeargle is one of the premier lead Pokemon in the tier due to its access to almost all moves, including useful support moves such as Spore, Sticky Web, and Stealth Rock. The combination of Spore and Nuzzle makes Smeargle very difficult to check without either something being crippled or entry hazards being set. Smeargle's Speed tier is also decent, allowing it to outpace common Stealth Rock setters such as Aurorus and Golurk, although it still is slower than a large part of the metagame, including two other Sticky Web setters, Masquerain and Leavanny. Smeargle's pitiful offensive and defensive stats prevent it from performing any roles outside of a suicide lead without extreme support. This, in turn, makes it only usable on hyper offensive playstyles, as it is not bulky enough for any other roles and is almost useless once its Focus Sash has been broken. Due to its reliance on status moves, Smeargle is very susceptible to Taunt from Pokemon like Floatzel and Skuntank and is completely shut down by them unless carrying Magic Coat. It also faces competition from Leavanny and Masquerain, which are faster and have actual offensive pressure. However, Smeargle has a much better support movepool, including access to Spore and Stealth Rock. Competition from Shuckle is also detrimental, as, even though Smeargle does have access to Spore and Magic Coat, Shuckle has fantastic defenses alongside Sturdy, meaning it can function on more defensive teams while also not fearing Taunt as much, thanks to Mental Herb.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Sticky Web Lead",
+            "stats": [
+                208,
+                76,
+                106,
+                68,
+                128,
+                273
+            ],
+            "type": [
+                "Normal"
+            ],
+            "usage": "Due to its lackluster offensive and defensive presence, Smeargle is used solely as a suicide lead, getting up entry hazards to support its teammates. Smeargle should almost always prioritize Sticky Web over Stealth Rock, as the former supports the hyper offensive teams that it's usually found on better. This is especially true against Choice Scarf users like Abomasnow and Aurorus, which outspeed Smeargle and knock it out with a combination of Blizzard and hail damage. In order to do this, Smeargle should use Spore on opposing Pokemon to get up as many hazards as it can and cripple the target. Alternatively, Nuzzle should be used against threatening Pokemon that are immune to Spore or can be revenge killed by a partner if slowed. Nuzzle can also be useful later in the game versus setup sweepers like Floatzel and Lycanroc, if Smeargle's Focus Sash is kept intact from earlier, preventing them from sweeping. Taunt users like Sableye and Skuntank should be looked out for, as all three completely shut down and make Smeargle useless during the early game. This prompts either another lead to be used or a mind game to be played with Magic Coat against all three. Based on certain matchups, Sticky Web has no real use if the opposing team is slower than yours already, such as playing against Trick Room or stall teams, meaning that Stealth Rock or Taunt should be used instead.",
+            "moves": [
+                [
+                    "Sticky Web"
+                ],
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Spore"
+                ],
+                [
+                    "Nuzzle",
+                    "Taunt"
+                ]
+            ],
+            "item": [
+                " Focus Sash"
+            ],
+            "ability": [
+                "Own Tempo"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                248,
+                0,
+                0,
+                0,
+                8,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Taunt",
+        "Faster Pokemon",
+        "Flying-types and Levitate Users"
+    ],
+    "credits": [
+        "Written by yogi",
+        "Quality checked by allstarapology, UberSkitty,  and Megazard",
+        "Grammar checked by The Dutch Plumberjack and A Cake Wearing A Hat"
+    ]
+}

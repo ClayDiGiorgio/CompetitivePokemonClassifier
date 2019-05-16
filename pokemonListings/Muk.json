@@ -1,1 +1,156 @@
-{"name": "Muk", "forms": {"Base": {"base stats": [105, 105, 75, 65, 100, 50], "types": ["Poison"], "abilities": ["Poison Touch", "Stench", "Sticky Hold"], "tier": ["Untiered"], "form": "Base"}}, "overview": "Muk carves a niche in the metagame as a capable bulky setup sweeper thanks to its access to Curse, managing to separate itself from other bulky setup sweepers like Spiritomb and Type: Null because of its inability to be crippled by Trick, Switcheroo, and Knock Off, courtesy of its ability Sticky Hold. Muk can also serve as a decent check to certain threatening special attackers such as Lilligant, Clefairy, Floatzel, and Pyroar due to its high special bulk, with its typing also allowing it to absorb Toxic Spikes. Because of its high Attack, powerful STAB Gunk Shot, access to Shadow Sneak to slightly mitigate its low Speed, and expansive coverage in moves such as Fire Punch, Ice Punch, and Explosion allowing it to threaten Pokemon like Mawile, Claydol, and Weezing, Muk is also capable of pulling off a Choice Band set, standing apart from Skuntank due to its higher Attack and Special Defense as well as its ability to more reliably switch into Clefairy. However, Muk still faces a decent amount of competition as both a setup sweeper and an offensive Poison-type. Curse Muk requires a lot more support to work than other bulky setup sweepers like Spiritomb, Type: Null, and Lurantis, while Skuntank tends to outperform Choice Band Muk due to its higher Speed, secondary Dark typing that allows it to threaten Ghost- and Psychic-types, and greater utility. Muk's typing isn't very good offensively, and it struggles to break through certain Steel-, Ground-, and Ghost-types like Aggron, Mudsdale, and Spiritomb because of this. Choice Band Muk is also relatively easy to exploit because of how common bulkier Pokemon like Qwilfish and Weezing are. Despite Shadow Sneak slightly mitigating Muk's low Speed, it will still often have to take a hit before dishing one out in response. Finally, Muk is vulnerable to strong physical attackers like Kingler and Zangoose because of its low Defense.\n", "strategies' format": "PU", "strategies": [{"name": "Rest + Sleep Talk", "stats": [309, 247, 186, 149, 328, 136], "type": ["Poison"], "usage": "Early-game, Muk should primarily be used to sponge special attacks from Pokemon like Floatzel and Swanna due to its high special bulk as well as pivot into Knock Off and Toxic from Pokemon such as Eelektross and Audino. Do not attempt to set up until all Steel-types have been removed, as they are immune to Muk's only attacking move. Muk should also wait until bulky Ghost- and Ground-types like Sableye and Mudsdale as well as Taunt users like Weezing have been removed. After Muk's checks and counters have been removed, it should attempt to use Curse against passive foes like Audino and Clefairy that cannot do much to it in return, as well as weaker special attackers like Manectric. Avoid Encore and Taunt from Pokemon such as Audino and Skuntank, since both moves render Muk completely useless. Take advantage of Sleep Talk and Muk's enhanced special bulk by switching it into special attackers with sleep-inducing moves like Lilligant and Victreebel.", "moves": [["Curse"], ["Poison Jab"], ["Rest"], ["Sleep Talk"]], "item": [" Black Sludge"], "ability": ["Sticky Hold"], "nature": ["Careful"], "ev spread": [252, 4, 0, 0, 252, 0], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Choice Band", "stats": [301, 339, 186, 149, 236, 145], "type": ["Poison"], "usage": "This set is geared towards wallbreaking and should mainly be used to punch holes in teams early- or mid-game. It is important to note that Muk isn't very powerful when it isn't either using Gunk Shot or hitting a foe super effectively, which can hamper its ability to wallbreak. Due to Muk being Choice-locked, prediction plays a heavy part in its success; for example, should Muk predict a Ground-type like Mudsdale to switch in, it should use Ice Punch, and if it predicts Qwilfish to switch in, it should use Thunder Punch. Once all Poison-resistant and -immune Pokemon have been removed, Muk should prioritize using Gunk Shot, as there will be very little to prevent it from doing so by this point. Against teams relying solely on Pokemon like Weezing and Skuntank to check Poison-types, it is safer to simply chip away at them with Gunk Shot. Recklessly switching Muk into attacks is ill-advised due to its lack of recovery and only middling bulk, though it can switch in on certain special attackers like Eelektross as well as certain passive Pokemon like Clefairy. Refrain from using Explosion until you are certain that Muk has served its purpose and wish to heavily damage Pokemon that aren't Ghost-type, since Muk can only use it once.", "moves": [["Gunk Shot"], ["Shadow Sneak"], ["Thunder Punch", "Fire Punch"], ["Ice Punch", "Explosion"]], "item": [" Choice Band"], "ability": ["Sticky Hold", "Poison Touch"], "nature": ["Adamant"], "ev spread": [220, 252, 0, 0, 0, 36], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Weezing", "Ground-types", "Steel-types", "Psychic-types", "Bulky Ghost-types", "Strong Attackers", "Rock-types"], "credits": ["Written by allstarapology", "Quality checked by yogi, jklioe,  and 2xTheTap", "Grammar checked by martha and A Cake Wearing A Hat"]}
+{
+    "name": "Muk",
+    "forms": {
+        "Base": {
+            "base stats": [
+                105,
+                105,
+                75,
+                65,
+                100,
+                50
+            ],
+            "types": [
+                "Poison"
+            ],
+            "abilities": [
+                "Poison Touch",
+                "Stench",
+                "Sticky Hold"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Muk carves a niche in the metagame as a capable bulky setup sweeper thanks to its access to Curse, managing to separate itself from other bulky setup sweepers like Spiritomb and Type: Null because of its inability to be crippled by Trick, Switcheroo, and Knock Off, courtesy of its ability Sticky Hold. Muk can also serve as a decent check to certain threatening special attackers such as Lilligant, Clefairy, Floatzel, and Pyroar due to its high special bulk, with its typing also allowing it to absorb Toxic Spikes. Because of its high Attack, powerful STAB Gunk Shot, access to Shadow Sneak to slightly mitigate its low Speed, and expansive coverage in moves such as Fire Punch, Ice Punch, and Explosion allowing it to threaten Pokemon like Mawile, Claydol, and Weezing, Muk is also capable of pulling off a Choice Band set, standing apart from Skuntank due to its higher Attack and Special Defense as well as its ability to more reliably switch into Clefairy. However, Muk still faces a decent amount of competition as both a setup sweeper and an offensive Poison-type. Curse Muk requires a lot more support to work than other bulky setup sweepers like Spiritomb, Type: Null, and Lurantis, while Skuntank tends to outperform Choice Band Muk due to its higher Speed, secondary Dark typing that allows it to threaten Ghost- and Psychic-types, and greater utility. Muk's typing isn't very good offensively, and it struggles to break through certain Steel-, Ground-, and Ghost-types like Aggron, Mudsdale, and Spiritomb because of this. Choice Band Muk is also relatively easy to exploit because of how common bulkier Pokemon like Qwilfish and Weezing are. Despite Shadow Sneak slightly mitigating Muk's low Speed, it will still often have to take a hit before dishing one out in response. Finally, Muk is vulnerable to strong physical attackers like Kingler and Zangoose because of its low Defense.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Rest + Sleep Talk",
+            "stats": [
+                309,
+                247,
+                186,
+                149,
+                328,
+                136
+            ],
+            "type": [
+                "Poison"
+            ],
+            "usage": "Early-game, Muk should primarily be used to sponge special attacks from Pokemon like Floatzel and Swanna due to its high special bulk as well as pivot into Knock Off and Toxic from Pokemon such as Eelektross and Audino. Do not attempt to set up until all Steel-types have been removed, as they are immune to Muk's only attacking move. Muk should also wait until bulky Ghost- and Ground-types like Sableye and Mudsdale as well as Taunt users like Weezing have been removed. After Muk's checks and counters have been removed, it should attempt to use Curse against passive foes like Audino and Clefairy that cannot do much to it in return, as well as weaker special attackers like Manectric. Avoid Encore and Taunt from Pokemon such as Audino and Skuntank, since both moves render Muk completely useless. Take advantage of Sleep Talk and Muk's enhanced special bulk by switching it into special attackers with sleep-inducing moves like Lilligant and Victreebel.",
+            "moves": [
+                [
+                    "Curse"
+                ],
+                [
+                    "Poison Jab"
+                ],
+                [
+                    "Rest"
+                ],
+                [
+                    "Sleep Talk"
+                ]
+            ],
+            "item": [
+                " Black Sludge"
+            ],
+            "ability": [
+                "Sticky Hold"
+            ],
+            "nature": [
+                "Careful"
+            ],
+            "ev spread": [
+                252,
+                4,
+                0,
+                0,
+                252,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Choice Band",
+            "stats": [
+                301,
+                339,
+                186,
+                149,
+                236,
+                145
+            ],
+            "type": [
+                "Poison"
+            ],
+            "usage": "This set is geared towards wallbreaking and should mainly be used to punch holes in teams early- or mid-game. It is important to note that Muk isn't very powerful when it isn't either using Gunk Shot or hitting a foe super effectively, which can hamper its ability to wallbreak. Due to Muk being Choice-locked, prediction plays a heavy part in its success; for example, should Muk predict a Ground-type like Mudsdale to switch in, it should use Ice Punch, and if it predicts Qwilfish to switch in, it should use Thunder Punch. Once all Poison-resistant and -immune Pokemon have been removed, Muk should prioritize using Gunk Shot, as there will be very little to prevent it from doing so by this point. Against teams relying solely on Pokemon like Weezing and Skuntank to check Poison-types, it is safer to simply chip away at them with Gunk Shot. Recklessly switching Muk into attacks is ill-advised due to its lack of recovery and only middling bulk, though it can switch in on certain special attackers like Eelektross as well as certain passive Pokemon like Clefairy. Refrain from using Explosion until you are certain that Muk has served its purpose and wish to heavily damage Pokemon that aren't Ghost-type, since Muk can only use it once.",
+            "moves": [
+                [
+                    "Gunk Shot"
+                ],
+                [
+                    "Shadow Sneak"
+                ],
+                [
+                    "Thunder Punch",
+                    "Fire Punch"
+                ],
+                [
+                    "Ice Punch",
+                    "Explosion"
+                ]
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Sticky Hold",
+                "Poison Touch"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                220,
+                252,
+                0,
+                0,
+                0,
+                36
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Weezing",
+        "Ground-types",
+        "Steel-types",
+        "Psychic-types",
+        "Bulky Ghost-types",
+        "Strong Attackers",
+        "Rock-types"
+    ],
+    "credits": [
+        "Written by allstarapology",
+        "Quality checked by yogi, jklioe,  and 2xTheTap",
+        "Grammar checked by martha and A Cake Wearing A Hat"
+    ]
+}

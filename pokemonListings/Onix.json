@@ -1,1 +1,156 @@
-{"name": "Onix", "forms": {"Base": {"base stats": [35, 45, 160, 30, 45, 70], "types": ["Rock", "Ground"], "abilities": ["Rock Head", "Sturdy", "Weak Armor"], "tier": ["LC"], "form": "Base"}}, "overview": "Onix is arguably the best Stealth Rock user in Little Cup, and for very good reason. Its ability Sturdy essentially guarantees that it sets up Stealth Rock and helps give it multiple chances to do so. It also has the highest Defense stat in the tier by far, although it struggles to utilize it due to its abysmal defensive typing that gives it many weaknesses and a vulnerability to entry hazards, which can cripple it extremely.\n", "strategies' format": "LC", "strategies": [{"name": "SturdyJuice", "stats": [125, 185, 356, 86, 126, 247], "type": ["Rock", "Ground"], "usage": "Onix works as an amazing lead due to its ability Sturdy against other leads such as Dwebble. With a drop in Mienfoo leads, it has become even better. Treating Onix as just a suicide lead is never a good idea, however, as it can be useful in all stages of the game. Onix can also be conserved for stopping common sweepers such as Omanyte and Zigzagoon late-game, but your team should usually already have a check for these, and Onix should only be used if all other checks are gone. Keeping Sturdy intact is usually useful, but Onix can be a good switch-in to many Flying- and Electric-types.", "moves": [["Stealth Rock"], ["Rock Blast"], ["Earthquake"], ["Endure", "Taunt"]], "item": [" Berry Juice"], "ability": ["Sturdy"], "nature": ["Jolly"], "ev spread": [76, 236, 0, 0, 0, 196], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Weak Armor", "stats": [125, 185, 356, 86, 126, 247], "type": ["Rock", "Ground"], "usage": "Although Weak Armor Onix appears very similar to the Sturdy set at first glance, the two sets play very differently from each other. This set is one of the best answers to Flying-types in the metagame thanks to its typing and massive Defense stat; do not be afraid to freely switch Onix into the likes of Vullaby and Doduo. Take advantage of the Speed boost Weak Armor can provide to revenge kill opposing sweepers such as Shell Smash Dwebble, set up an emergency Stealth Rock, or take out a threat with Explosion. With prediction, this set can even beat a slightly weakened Staryu by staying in on a predicted Rapid Spin and using Earthquake twice.", "moves": [["Stealth Rock"], ["Rock Blast"], ["Earthquake"], ["Explosion", "Protect"]], "item": [" Eviolite"], "ability": ["Weak Armor"], "nature": ["Jolly"], "ev spread": [76, 236, 0, 0, 0, 196], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Ground-types", "Multi-hit Moves", "Fighting-types", "Staryu", "Grass-types"], "credits": ["Written by tahu and Drew", "Quality checked by OP, Fiend, Rowan, Corporal Levi, Xayah,  and Nineage", "Grammar checked by Kris, CryoGyro, Fireflame479,  and P Squared"]}
+{
+    "name": "Onix",
+    "forms": {
+        "Base": {
+            "base stats": [
+                35,
+                45,
+                160,
+                30,
+                45,
+                70
+            ],
+            "types": [
+                "Rock",
+                "Ground"
+            ],
+            "abilities": [
+                "Rock Head",
+                "Sturdy",
+                "Weak Armor"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Onix is arguably the best Stealth Rock user in Little Cup, and for very good reason. Its ability Sturdy essentially guarantees that it sets up Stealth Rock and helps give it multiple chances to do so. It also has the highest Defense stat in the tier by far, although it struggles to utilize it due to its abysmal defensive typing that gives it many weaknesses and a vulnerability to entry hazards, which can cripple it extremely.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "SturdyJuice",
+            "stats": [
+                125,
+                185,
+                356,
+                86,
+                126,
+                247
+            ],
+            "type": [
+                "Rock",
+                "Ground"
+            ],
+            "usage": "Onix works as an amazing lead due to its ability Sturdy against other leads such as Dwebble. With a drop in Mienfoo leads, it has become even better. Treating Onix as just a suicide lead is never a good idea, however, as it can be useful in all stages of the game. Onix can also be conserved for stopping common sweepers such as Omanyte and Zigzagoon late-game, but your team should usually already have a check for these, and Onix should only be used if all other checks are gone. Keeping Sturdy intact is usually useful, but Onix can be a good switch-in to many Flying- and Electric-types.",
+            "moves": [
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Rock Blast"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Endure",
+                    "Taunt"
+                ]
+            ],
+            "item": [
+                " Berry Juice"
+            ],
+            "ability": [
+                "Sturdy"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                76,
+                236,
+                0,
+                0,
+                0,
+                196
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Weak Armor",
+            "stats": [
+                125,
+                185,
+                356,
+                86,
+                126,
+                247
+            ],
+            "type": [
+                "Rock",
+                "Ground"
+            ],
+            "usage": "Although Weak Armor Onix appears very similar to the Sturdy set at first glance, the two sets play very differently from each other. This set is one of the best answers to Flying-types in the metagame thanks to its typing and massive Defense stat; do not be afraid to freely switch Onix into the likes of Vullaby and Doduo. Take advantage of the Speed boost Weak Armor can provide to revenge kill opposing sweepers such as Shell Smash Dwebble, set up an emergency Stealth Rock, or take out a threat with Explosion. With prediction, this set can even beat a slightly weakened Staryu by staying in on a predicted Rapid Spin and using Earthquake twice.",
+            "moves": [
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Rock Blast"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Explosion",
+                    "Protect"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Weak Armor"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                76,
+                236,
+                0,
+                0,
+                0,
+                196
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Ground-types",
+        "Multi-hit Moves",
+        "Fighting-types",
+        "Staryu",
+        "Grass-types"
+    ],
+    "credits": [
+        "Written by tahu and Drew",
+        "Quality checked by OP, Fiend, Rowan, Corporal Levi, Xayah,  and Nineage",
+        "Grammar checked by Kris, CryoGyro, Fireflame479,  and P Squared"
+    ]
+}

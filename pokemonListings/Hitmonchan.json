@@ -1,1 +1,154 @@
-{"name": "Hitmonchan", "forms": {"Base": {"base stats": [50, 105, 79, 35, 110, 76], "types": ["Fighting"], "abilities": ["Inner Focus", "Iron Fist", "Keen Eye"], "tier": ["PU"], "form": "Base"}}, "overview": "Hitmonchan's constant offensive presence and good utility options let it provide it solid role compression. Its utility lies in its access to Rapid Spin combined with its ability to pressure Stealth Rock users such as Carracosta and Regirock, and it can act as a blanket check to many of the tier's special attackers due to its considerable amount of Special Defense that can be further augmented by Assault Vest. Although it lacks recovery, it can circumstantially mitigate this with its main attacking move, Drain Punch. Hitmonchan's main flaws lie in its low Defense and its inability to reliably deal with Pokemon that have a typing advantage against it, making it prone to being pressured by Pokemon like Mesprit, Scyther, and Silvally-Fairy. When faced with bulky Ghost-types such as Sableye, Spiritomb, and Gourgeist-XL, it struggles to remove entry hazards and must fear Will-O-Wisp, while faster Ghost-types such as Oricorio-G can outspeed and easily OHKO it. Furthermore, while it resists Stealth Rock, it is vulnerable to other forms of hazards from Pokemon that take it on well, like Qwilfish's Toxic Spikes.\n", "strategies' format": "PU", "strategies": [{"name": "Assault Vest", "stats": [175, 332, 194, 95, 256, 220], "type": ["Fighting"], "usage": "Assault Vest Hitmonchan is able to use its increased bulk to switch into a myriad of special attackers such as Ludicolo, Omastar, and Eelektross, but against particularly strong special attackers such as Choice Specs Aurorus and Drampa, Hitmonchan should not be treated as a reliable switch-in because it can often only come in on a strong STAB move once. Once it has switched into an attack, Hitmonchan can retaliate by hitting the majority of physically frail or Fighting-weak targets for a significant amount of damage with Drain Punch, or it can use Mach Punch to pick off faster targets if they are within range of being KOed by the attack. Otherwise, Rapid Spin will usually be the first move used when entry hazards are up. If the opposing team is running a bulky spinblocker such as Sableye or Spiritomb, it is often better to double switch because Hitmonchan has few options for wearing them down, but against more offensive or coverage-weak Ghost-types like Froslass, Golurk, and Haunter, it is often ideal to use said coverage when you predict them to switch in. Hitmonchan should avoid taking on bulky Poison- and Psychic-types such as Qwilfish and Mesprit if they're healthy due to its lack of good damage output against them, instead opting to double switch against them as well.", "moves": [["Drain Punch"], ["Mach Punch"], ["Thunder Punch", "Stone Edge"], ["Rapid Spin"]], "item": [" Assault Vest"], "ability": ["Iron Fist"], "nature": ["Adamant"], "ev spread": [156, 224, 0, 0, 0, 128], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Physical Attacker", "stats": [136, 339, 194, 95, 257, 251], "type": ["Fighting"], "usage": "This set is much more adept at revenge killing, so Hitmonchan should opt to use Mach Punch as a powerful tool against faster Pokemon such as Lycanroc and Kangaskhan. Due to the power added by Life Orb, predicting switch-ins that are hit hard by its coverage, such as Froslass and Jellicent, is more rewarding because they are more easily pressured. Removing entry hazards is still key, but keep in mind that this set is a bit more vulnerable to being punished due to Life Orb recoil and lack of bulk. If there are no entry hazards on the field, Hitmonchan should focus on hitting as hard as possible, revenge killing whenever necessary, and double switching to catch Pokemon that try to take advantage of it, like Mesprit and Qwilfish.", "moves": [["Drain Punch"], ["Mach Punch"], ["Stone Edge", "Thunder Punch"], ["Rapid Spin"]], "item": [" Life Orb"], "ability": ["Iron Fist"], "nature": ["Adamant"], "ev spread": [0, 252, 0, 0, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Ghost-types", "Psychic-types", "Fairy-types", "Flying-types", "Physically Bulky Pokemon", "Strong Physical Attackers"], "credits": ["Written by jklioe", "Quality checked by Many, yogi,  and Megazard", "Grammar checked by CryoGyro and The Dutch Plumberjack"]}
+{
+    "name": "Hitmonchan",
+    "forms": {
+        "Base": {
+            "base stats": [
+                50,
+                105,
+                79,
+                35,
+                110,
+                76
+            ],
+            "types": [
+                "Fighting"
+            ],
+            "abilities": [
+                "Inner Focus",
+                "Iron Fist",
+                "Keen Eye"
+            ],
+            "tier": [
+                "PU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Hitmonchan's constant offensive presence and good utility options let it provide it solid role compression. Its utility lies in its access to Rapid Spin combined with its ability to pressure Stealth Rock users such as Carracosta and Regirock, and it can act as a blanket check to many of the tier's special attackers due to its considerable amount of Special Defense that can be further augmented by Assault Vest. Although it lacks recovery, it can circumstantially mitigate this with its main attacking move, Drain Punch. Hitmonchan's main flaws lie in its low Defense and its inability to reliably deal with Pokemon that have a typing advantage against it, making it prone to being pressured by Pokemon like Mesprit, Scyther, and Silvally-Fairy. When faced with bulky Ghost-types such as Sableye, Spiritomb, and Gourgeist-XL, it struggles to remove entry hazards and must fear Will-O-Wisp, while faster Ghost-types such as Oricorio-G can outspeed and easily OHKO it. Furthermore, while it resists Stealth Rock, it is vulnerable to other forms of hazards from Pokemon that take it on well, like Qwilfish's Toxic Spikes.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Assault Vest",
+            "stats": [
+                175,
+                332,
+                194,
+                95,
+                256,
+                220
+            ],
+            "type": [
+                "Fighting"
+            ],
+            "usage": "Assault Vest Hitmonchan is able to use its increased bulk to switch into a myriad of special attackers such as Ludicolo, Omastar, and Eelektross, but against particularly strong special attackers such as Choice Specs Aurorus and Drampa, Hitmonchan should not be treated as a reliable switch-in because it can often only come in on a strong STAB move once. Once it has switched into an attack, Hitmonchan can retaliate by hitting the majority of physically frail or Fighting-weak targets for a significant amount of damage with Drain Punch, or it can use Mach Punch to pick off faster targets if they are within range of being KOed by the attack. Otherwise, Rapid Spin will usually be the first move used when entry hazards are up. If the opposing team is running a bulky spinblocker such as Sableye or Spiritomb, it is often better to double switch because Hitmonchan has few options for wearing them down, but against more offensive or coverage-weak Ghost-types like Froslass, Golurk, and Haunter, it is often ideal to use said coverage when you predict them to switch in. Hitmonchan should avoid taking on bulky Poison- and Psychic-types such as Qwilfish and Mesprit if they're healthy due to its lack of good damage output against them, instead opting to double switch against them as well.",
+            "moves": [
+                [
+                    "Drain Punch"
+                ],
+                [
+                    "Mach Punch"
+                ],
+                [
+                    "Thunder Punch",
+                    "Stone Edge"
+                ],
+                [
+                    "Rapid Spin"
+                ]
+            ],
+            "item": [
+                " Assault Vest"
+            ],
+            "ability": [
+                "Iron Fist"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                156,
+                224,
+                0,
+                0,
+                0,
+                128
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Physical Attacker",
+            "stats": [
+                136,
+                339,
+                194,
+                95,
+                257,
+                251
+            ],
+            "type": [
+                "Fighting"
+            ],
+            "usage": "This set is much more adept at revenge killing, so Hitmonchan should opt to use Mach Punch as a powerful tool against faster Pokemon such as Lycanroc and Kangaskhan. Due to the power added by Life Orb, predicting switch-ins that are hit hard by its coverage, such as Froslass and Jellicent, is more rewarding because they are more easily pressured. Removing entry hazards is still key, but keep in mind that this set is a bit more vulnerable to being punished due to Life Orb recoil and lack of bulk. If there are no entry hazards on the field, Hitmonchan should focus on hitting as hard as possible, revenge killing whenever necessary, and double switching to catch Pokemon that try to take advantage of it, like Mesprit and Qwilfish.",
+            "moves": [
+                [
+                    "Drain Punch"
+                ],
+                [
+                    "Mach Punch"
+                ],
+                [
+                    "Stone Edge",
+                    "Thunder Punch"
+                ],
+                [
+                    "Rapid Spin"
+                ]
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Iron Fist"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                0,
+                252,
+                0,
+                0,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Ghost-types",
+        "Psychic-types",
+        "Fairy-types",
+        "Flying-types",
+        "Physically Bulky Pokemon",
+        "Strong Physical Attackers"
+    ],
+    "credits": [
+        "Written by jklioe",
+        "Quality checked by Many, yogi,  and Megazard",
+        "Grammar checked by CryoGyro and The Dutch Plumberjack"
+    ]
+}

@@ -1,1 +1,101 @@
-{"name": "Tangela", "forms": {"Base": {"base stats": [65, 55, 115, 100, 40, 60], "types": ["Grass"], "abilities": ["Chlorophyll", "Leaf Guard", "Regenerator"], "tier": ["PU"], "form": "Base"}}, "overview": "Tangela carves its niche in the RU tier due to a stellar Eviolite-boosted Defense stat that allows it to check dangerous offensive Pokemon, such as Zygarde-10%, Barbaracle, and Feraligatr. Its great bulk also allows it to pivot into the likes of Lycanroc-D, Tyrantrum, and Metagross. Its pivoting capabilities are further enhanced by access to Regenerator, Leech Seed, and Synthesis, alongside several support moves like Knock Off and Sleep Powder, which allow Tangela to keep itself useful and be a huge annoyance during a match. However, despite having an unmatched pivoting potential, Tangela faces competition from many other Grass-type options, like Virizion, Shaymin, and Roserade, which offer different support options and pose greater threats due to better offensive stats and movepools. While having a pure Grass typing can help Tangela check opposing Water- and Electric-types, its abysmal Special Defense stat makes it hard to check the likes of Mega Blastoise, Milotic, and Raikou, which can deliver a powerful hit with coverage in Ice Beam and Signal Beam. The abundance of Poison- and Fire-types in the tier is also a great hindrance for Tangela's viability; Ninetales, Salazzle, Roserade, Drapion, and Toxicroak can take advantage of its general passivity to switch into it and fire off powerful moves. Tangela's pivoting capability is also severely hampered by Toxic, which is not a problem for other Grass-types such as Shaymin and Roserade that can mitigate status ailments with their access to Natural Cure or Poison typing. Likewise, entry hazards are very hurtful for Tangela, since they reduce Regenerator\u2019s healing considerably when it enters the field. Knock Off is another major concern for Tangela, as it reduces its defensive stats considerably. Machamp, Donphan, and Tsareena are examples of Pokemon able to remove Tangela's Eviolite, which makes them harder to check.\n", "strategies' format": "RU", "strategies": [{"name": "Defensive Pivot", "stats": [229, 131, 322, 259, 130, 156], "type": ["Grass"], "usage": "Knock Off is Tangela's most useful tool and must be used constantly to remove items from its switch-ins and identify potential Z-Move users. Sleep Powder should be used against more threatening Pokemon on the switch, such as Salazzle, Honchkrow, and Noivern, to limit your opponent's options. Due to its access to Regenerator, Tangela can switch into dangerous physical attackers such as Choice Band Tyrantrum and Choice Band Metagross to scout their moves and make switching into them easier. Be aware of Pokemon that can run Toxic to cripple Tangela, such as Donphan and Choice Band Zygarde-10%. Tangela should not stay in on special attackers such as Gardevoir and Raikou because of its bad Special Defense stat. While Leaf Storm is a very powerful STAB move and should be used frequently, be careful about its Special Attack drop, since it can allow opposing Pokemon to set up way more easily against it, such as Linoone, Virizion, and even Zygarde-10%.", "moves": [["Leaf Storm"], ["Knock Off"], ["Leech Seed", "Sleep Powder"], ["Sludge Bomb", "Hidden Power Ice", "Hidden Power Flying"]], "item": [" Eviolite"], "ability": ["Regenerator"], "nature": ["Bold"], "ev spread": [252, 0, 108, 92, 56, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Special Attackers", "Fire-types", "Flying-types", "Grass-types", "Residual Damage", "Knock Off and Trick Users"], "credits": ["Written by Yay", "Quality checked by zizalith, roman,  and Averardo", "Grammar checked by The Dutch Plumberjack and Fireflame479"]}
+{
+    "name": "Tangela",
+    "forms": {
+        "Base": {
+            "base stats": [
+                65,
+                55,
+                115,
+                100,
+                40,
+                60
+            ],
+            "types": [
+                "Grass"
+            ],
+            "abilities": [
+                "Chlorophyll",
+                "Leaf Guard",
+                "Regenerator"
+            ],
+            "tier": [
+                "PU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Tangela carves its niche in the RU tier due to a stellar Eviolite-boosted Defense stat that allows it to check dangerous offensive Pokemon, such as Zygarde-10%, Barbaracle, and Feraligatr. Its great bulk also allows it to pivot into the likes of Lycanroc-D, Tyrantrum, and Metagross. Its pivoting capabilities are further enhanced by access to Regenerator, Leech Seed, and Synthesis, alongside several support moves like Knock Off and Sleep Powder, which allow Tangela to keep itself useful and be a huge annoyance during a match. However, despite having an unmatched pivoting potential, Tangela faces competition from many other Grass-type options, like Virizion, Shaymin, and Roserade, which offer different support options and pose greater threats due to better offensive stats and movepools. While having a pure Grass typing can help Tangela check opposing Water- and Electric-types, its abysmal Special Defense stat makes it hard to check the likes of Mega Blastoise, Milotic, and Raikou, which can deliver a powerful hit with coverage in Ice Beam and Signal Beam. The abundance of Poison- and Fire-types in the tier is also a great hindrance for Tangela's viability; Ninetales, Salazzle, Roserade, Drapion, and Toxicroak can take advantage of its general passivity to switch into it and fire off powerful moves. Tangela's pivoting capability is also severely hampered by Toxic, which is not a problem for other Grass-types such as Shaymin and Roserade that can mitigate status ailments with their access to Natural Cure or Poison typing. Likewise, entry hazards are very hurtful for Tangela, since they reduce Regenerator\u2019s healing considerably when it enters the field. Knock Off is another major concern for Tangela, as it reduces its defensive stats considerably. Machamp, Donphan, and Tsareena are examples of Pokemon able to remove Tangela's Eviolite, which makes them harder to check.\n",
+    "strategies' format": "RU",
+    "strategies": [
+        {
+            "name": "Defensive Pivot",
+            "stats": [
+                229,
+                131,
+                322,
+                259,
+                130,
+                156
+            ],
+            "type": [
+                "Grass"
+            ],
+            "usage": "Knock Off is Tangela's most useful tool and must be used constantly to remove items from its switch-ins and identify potential Z-Move users. Sleep Powder should be used against more threatening Pokemon on the switch, such as Salazzle, Honchkrow, and Noivern, to limit your opponent's options. Due to its access to Regenerator, Tangela can switch into dangerous physical attackers such as Choice Band Tyrantrum and Choice Band Metagross to scout their moves and make switching into them easier. Be aware of Pokemon that can run Toxic to cripple Tangela, such as Donphan and Choice Band Zygarde-10%. Tangela should not stay in on special attackers such as Gardevoir and Raikou because of its bad Special Defense stat. While Leaf Storm is a very powerful STAB move and should be used frequently, be careful about its Special Attack drop, since it can allow opposing Pokemon to set up way more easily against it, such as Linoone, Virizion, and even Zygarde-10%.",
+            "moves": [
+                [
+                    "Leaf Storm"
+                ],
+                [
+                    "Knock Off"
+                ],
+                [
+                    "Leech Seed",
+                    "Sleep Powder"
+                ],
+                [
+                    "Sludge Bomb",
+                    "Hidden Power Ice",
+                    "Hidden Power Flying"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Regenerator"
+            ],
+            "nature": [
+                "Bold"
+            ],
+            "ev spread": [
+                252,
+                0,
+                108,
+                92,
+                56,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Special Attackers",
+        "Fire-types",
+        "Flying-types",
+        "Grass-types",
+        "Residual Damage",
+        "Knock Off and Trick Users"
+    ],
+    "credits": [
+        "Written by Yay",
+        "Quality checked by zizalith, roman,  and Averardo",
+        "Grammar checked by The Dutch Plumberjack and Fireflame479"
+    ]
+}

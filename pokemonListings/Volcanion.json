@@ -1,1 +1,97 @@
-{"name": "Volcanion", "forms": {"Base": {"base stats": [80, 110, 120, 130, 90, 70], "types": ["Fire", "Water"], "abilities": ["Water Absorb"], "tier": ["UU"], "form": "Base"}}, "overview": "Volcanion's great offensive typing and high Special Attack stat make it a solid balance breaker. Water Absorb allows it to take full advantage of Toxapex, a staple on many balance teams, as well as pressure offensive Water-types such as Greninja and Keldeo. Volcanion also has access to a unique and powerful move in Steam Eruption, which is very hard to reliably switch into due to its high Base Power and 30% burn chance. Unfortunately, Volcanion's mediocre Speed stat puts it below most offensive Pokemon, such as Landorus-T, Tapu Bulu, and even Mega Tyranitar, and its vulnerability to entry hazards is also a huge problem because it heavily limits the number of times it can come in safely. Lastly, Volcanion faces a lot of competition from many other balance breakers, such as Kyurem-B, Kartana, Heatran, and Hoopa-U.\n", "strategies' format": "OU", "strategies": [{"name": "Substitute", "stats": [196, 230, 277, 359, 216, 262], "type": ["Fire", "Water"], "usage": "Bring Volcanion directly into passive Pokemon that can't really threaten it, such as Toxapex, Mew, Clefable, and Ferrothorn. If choosing to hard switch into Toxapex, make sure Toxic Spikes aren't present on your side of the field, as otherwise Volcanion can be stalled out by Toxapex. Use Substitute as much as possible against balanced teams if Volcanion can afford to, because these teams usually struggle to deal with it behind a Substitute. Against offensive teams, it's usually best to just spam Steam Eruption on whatever comes in and only get Volcanion in on free switches via momentum. Try not to hard switch Volcanion into a predicted Hydro Pump or Scald from Greninja or Keldeo, because if you are incorrect, Volcanion is going to take a lot of unnecessary damage. If attempting to burn something with Steam Eruption, be wary of its low PP because Pokemon like Mew can potentially stall out Volcanion with Soft-Boiled otherwise.", "moves": [["Substitute"], ["Steam Eruption"], ["Flamethrower"], ["Earth Power"]], "item": [" Leftovers", " Waterium Z"], "ability": ["Water Absorb"], "nature": ["Timid"], "ev spread": [0, 0, 4, 252, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Chansey", "Bulky Water-types", "Dragon-types", "Faster Offensive Pokemon"], "credits": ["Written by Gary", "Quality checked by Leo, GMars,  and Colonel M", "Grammar checked by Eyan and The Dutch Plumberjack"]}
+{
+    "name": "Volcanion",
+    "forms": {
+        "Base": {
+            "base stats": [
+                80,
+                110,
+                120,
+                130,
+                90,
+                70
+            ],
+            "types": [
+                "Fire",
+                "Water"
+            ],
+            "abilities": [
+                "Water Absorb"
+            ],
+            "tier": [
+                "UU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Volcanion's great offensive typing and high Special Attack stat make it a solid balance breaker. Water Absorb allows it to take full advantage of Toxapex, a staple on many balance teams, as well as pressure offensive Water-types such as Greninja and Keldeo. Volcanion also has access to a unique and powerful move in Steam Eruption, which is very hard to reliably switch into due to its high Base Power and 30% burn chance. Unfortunately, Volcanion's mediocre Speed stat puts it below most offensive Pokemon, such as Landorus-T, Tapu Bulu, and even Mega Tyranitar, and its vulnerability to entry hazards is also a huge problem because it heavily limits the number of times it can come in safely. Lastly, Volcanion faces a lot of competition from many other balance breakers, such as Kyurem-B, Kartana, Heatran, and Hoopa-U.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Substitute",
+            "stats": [
+                196,
+                230,
+                277,
+                359,
+                216,
+                262
+            ],
+            "type": [
+                "Fire",
+                "Water"
+            ],
+            "usage": "Bring Volcanion directly into passive Pokemon that can't really threaten it, such as Toxapex, Mew, Clefable, and Ferrothorn. If choosing to hard switch into Toxapex, make sure Toxic Spikes aren't present on your side of the field, as otherwise Volcanion can be stalled out by Toxapex. Use Substitute as much as possible against balanced teams if Volcanion can afford to, because these teams usually struggle to deal with it behind a Substitute. Against offensive teams, it's usually best to just spam Steam Eruption on whatever comes in and only get Volcanion in on free switches via momentum. Try not to hard switch Volcanion into a predicted Hydro Pump or Scald from Greninja or Keldeo, because if you are incorrect, Volcanion is going to take a lot of unnecessary damage. If attempting to burn something with Steam Eruption, be wary of its low PP because Pokemon like Mew can potentially stall out Volcanion with Soft-Boiled otherwise.",
+            "moves": [
+                [
+                    "Substitute"
+                ],
+                [
+                    "Steam Eruption"
+                ],
+                [
+                    "Flamethrower"
+                ],
+                [
+                    "Earth Power"
+                ]
+            ],
+            "item": [
+                " Leftovers",
+                " Waterium Z"
+            ],
+            "ability": [
+                "Water Absorb"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                4,
+                252,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Chansey",
+        "Bulky Water-types",
+        "Dragon-types",
+        "Faster Offensive Pokemon"
+    ],
+    "credits": [
+        "Written by Gary",
+        "Quality checked by Leo, GMars,  and Colonel M",
+        "Grammar checked by Eyan and The Dutch Plumberjack"
+    ]
+}

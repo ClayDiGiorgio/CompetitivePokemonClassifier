@@ -1,1 +1,118 @@
-{"name": "Gallade", "forms": {"Base": {"base stats": [68, 125, 65, 65, 115, 80], "types": ["Psychic", "Fighting"], "abilities": ["Justified", "Steadfast"], "tier": ["PUBL"], "form": "Base"}, "Mega": {"base stats": [68, 165, 95, 65, 115, 110], "types": ["Psychic", "Fighting"], "abilities": ["Inner Focus"], "tier": ["UUBL"], "form": "Mega"}}, "overview": "Mega Gallade is a decent wallbreaker thanks to its high Attack stat paired with its strong STAB moves and useful coverage moves in Knock Off and Ice Punch. Having access to Swords Dance allows Mega Gallade to boost its Attack stat to even higher levels, which can make it difficult for defensive teams to take on. Knock Off is particularly useful for pressuring bulky Psychic-types that other Fighting-types such as Mega Medicham tend to struggle with. Mega Gallade's good Speed tier allows it to outspeed foes such as Kartana, Garchomp, Mega Medicham, and Tapu Lele, giving it an edge against some offensive teams. Its decent bulk, notably in Special Defense, gives it setup opportunities against a majority of defensive Pokemon. It also allows Mega Gallade to take a hit from certain offensive threats in a pinch. Unfortunately, it faces competition from other Fighting-types like Mega Medicham, which doesn't rely on setup in order to beat bulkier teams, and Mega Heracross, which has an easier time against stall teams as well as a more useful defensive typing. Despite the fact that its bulk isn't terrible, Mega Gallade's poor defensive typing means it's still prone to being revenge killed by a bunch of common faster Pokemon such as Tornadus-T as well as most Choice Scarf users; this is especially true after a Defense drop from Close Combat.\n", "strategies' format": "OU", "strategies": [{"name": "Swords Dance", "stats": [172, 429, 227, 149, 266, 350], "type": ["Psychic", "Fighting"], "usage": "Mega Gallade is best used early- to mid-game to break through defensive cores; however, thanks to its solid Speed tier, it can also be used to clean late-game. Be careful when switching it in, as taking too much damage early on can limit its ability to wallbreak. Status conditions, especially paralysis and burn, also limit Mega Gallade's wallbreaking ability, so avoid directly switching it into foes like Rotom-W, Heatran, and Toxapex. It'll also struggle to use Swords Dance safely if it's continuously being worn down. For these reasons, Mega Gallade should be brought in through aggressive switches or VoltTurn support from teammates. Use Swords Dance against weaker defensive Pokemon or on forced switches. It's best to set up if a boost is needed to threaten a predicted defensive switch in such as Reuniclus or Clefable. If an offensive pivot such as Tornadus-T or Choice Scarf Landorus-T is predicted, hitting them hard with the appropriate move or removing their item with Knock Off is recommended. Knock Off can be spammed early-game against most teams to chip down certain checks and counters, especially since most Pokemon holding a Mega Stone or Z-Crystal won't want to switch in. Mega Gallade's decent Special Defense means it can take attacks like Moonblast from Clefable and Tapu Fini or multiple Ice Beams from Mega Latias and set up against them, trading its health to weaken them for a teammate. Similarly, it can take a hit from offensive foes such as Greninja and Mega Alakazam, sacrificing most of its health to remove or weaken them. However, this should only be done if Mega Gallade's health is no longer needed.", "moves": [["Swords Dance"], ["Close Combat"], ["Zen Headbutt"], ["Knock Off"]], "item": [" Galladite"], "ability": ["Justified"], "nature": ["Jolly"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Physically Defensive Pokemon", "Faster Pokemon", "Mega Sableye"], "credits": ["Written by DKM", "Earlier versions by Gary", "Quality checked by Colonel M, Hootie, Finchinator, Jordy, lyd,  and talah", "Grammar checked by The Dutch Plumberjack, lotiasite, GMars,  and Fireflame479"]}
+{
+    "name": "Gallade",
+    "forms": {
+        "Base": {
+            "base stats": [
+                68,
+                125,
+                65,
+                65,
+                115,
+                80
+            ],
+            "types": [
+                "Psychic",
+                "Fighting"
+            ],
+            "abilities": [
+                "Justified",
+                "Steadfast"
+            ],
+            "tier": [
+                "PUBL"
+            ],
+            "form": "Base"
+        },
+        "Mega": {
+            "base stats": [
+                68,
+                165,
+                95,
+                65,
+                115,
+                110
+            ],
+            "types": [
+                "Psychic",
+                "Fighting"
+            ],
+            "abilities": [
+                "Inner Focus"
+            ],
+            "tier": [
+                "UUBL"
+            ],
+            "form": "Mega"
+        }
+    },
+    "overview": "Mega Gallade is a decent wallbreaker thanks to its high Attack stat paired with its strong STAB moves and useful coverage moves in Knock Off and Ice Punch. Having access to Swords Dance allows Mega Gallade to boost its Attack stat to even higher levels, which can make it difficult for defensive teams to take on. Knock Off is particularly useful for pressuring bulky Psychic-types that other Fighting-types such as Mega Medicham tend to struggle with. Mega Gallade's good Speed tier allows it to outspeed foes such as Kartana, Garchomp, Mega Medicham, and Tapu Lele, giving it an edge against some offensive teams. Its decent bulk, notably in Special Defense, gives it setup opportunities against a majority of defensive Pokemon. It also allows Mega Gallade to take a hit from certain offensive threats in a pinch. Unfortunately, it faces competition from other Fighting-types like Mega Medicham, which doesn't rely on setup in order to beat bulkier teams, and Mega Heracross, which has an easier time against stall teams as well as a more useful defensive typing. Despite the fact that its bulk isn't terrible, Mega Gallade's poor defensive typing means it's still prone to being revenge killed by a bunch of common faster Pokemon such as Tornadus-T as well as most Choice Scarf users; this is especially true after a Defense drop from Close Combat.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Swords Dance",
+            "stats": [
+                172,
+                429,
+                227,
+                149,
+                266,
+                350
+            ],
+            "type": [
+                "Psychic",
+                "Fighting"
+            ],
+            "usage": "Mega Gallade is best used early- to mid-game to break through defensive cores; however, thanks to its solid Speed tier, it can also be used to clean late-game. Be careful when switching it in, as taking too much damage early on can limit its ability to wallbreak. Status conditions, especially paralysis and burn, also limit Mega Gallade's wallbreaking ability, so avoid directly switching it into foes like Rotom-W, Heatran, and Toxapex. It'll also struggle to use Swords Dance safely if it's continuously being worn down. For these reasons, Mega Gallade should be brought in through aggressive switches or VoltTurn support from teammates. Use Swords Dance against weaker defensive Pokemon or on forced switches. It's best to set up if a boost is needed to threaten a predicted defensive switch in such as Reuniclus or Clefable. If an offensive pivot such as Tornadus-T or Choice Scarf Landorus-T is predicted, hitting them hard with the appropriate move or removing their item with Knock Off is recommended. Knock Off can be spammed early-game against most teams to chip down certain checks and counters, especially since most Pokemon holding a Mega Stone or Z-Crystal won't want to switch in. Mega Gallade's decent Special Defense means it can take attacks like Moonblast from Clefable and Tapu Fini or multiple Ice Beams from Mega Latias and set up against them, trading its health to weaken them for a teammate. Similarly, it can take a hit from offensive foes such as Greninja and Mega Alakazam, sacrificing most of its health to remove or weaken them. However, this should only be done if Mega Gallade's health is no longer needed.",
+            "moves": [
+                [
+                    "Swords Dance"
+                ],
+                [
+                    "Close Combat"
+                ],
+                [
+                    "Zen Headbutt"
+                ],
+                [
+                    "Knock Off"
+                ]
+            ],
+            "item": [
+                " Galladite"
+            ],
+            "ability": [
+                "Justified"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Physically Defensive Pokemon",
+        "Faster Pokemon",
+        "Mega Sableye"
+    ],
+    "credits": [
+        "Written by DKM",
+        "Earlier versions by Gary",
+        "Quality checked by Colonel M, Hootie, Finchinator, Jordy, lyd,  and talah",
+        "Grammar checked by The Dutch Plumberjack, lotiasite, GMars,  and Fireflame479"
+    ]
+}

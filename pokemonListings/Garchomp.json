@@ -1,1 +1,233 @@
-{"name": "Garchomp", "forms": {"Base": {"base stats": [108, 130, 95, 80, 85, 102], "types": ["Dragon", "Ground"], "abilities": ["Rough Skin", "Sand Veil"], "tier": ["OU"], "form": "Base"}, "Mega": {"base stats": [108, 170, 115, 120, 95, 92], "types": ["Dragon", "Ground"], "abilities": ["Sand Force"], "tier": ["OU"], "form": "Mega"}}, "overview": "Thanks to its access to Swords Dance, solid coverage moves, and good Speed and Attack stats, Garchomp is a strong wallbreaker capable of threatening the majority of the tier. Its ability to put pressure on most Defoggers such as Tornadus-T and Zapdos by virtue of its Z-Move also makes it a reliable entry hazard setter. In a defensive role, Garchomp is capable of checking numerous threats, such as Heatran, Mega Scizor, and Hawlucha, either dealing with them completely or at least crippling them with the combination of Rough Skin and Rocky Helmet. This set's role compression doesn't stop there, though, as it also can set up Stealth Rock and pressure opposing Defoggers with Toxic while phazing setup sweepers with Roar or Dragon Tail. Mega Garchomp's added bulk and firepower under sand makes it a formidable wallbreaker, hitting anything with its STAB and coverage moves hard while finding many opportunities to set up with Swords Dance. Unfortunately, Garchomp faces competition in its roles. Defensively, Gliscor can be a better choice on some teams, as it can be a better check to non-offensive Heatran, has a reliable recovery move in Roost, and can either set up or remove hazards from the field. Also, Mega Garchomp, while being a powerful wallbreaker, faces huge competition from its normal forme and other Mega Evolutions, since the Speed that Mega Garchomp loses when it Mega Evolves can be troublesome. Upon Mega Evolving, it becomes slower than Tapu Lele and Hydreigon, two Pokemon that can be dealt with its non-Mega Speed stat.\n", "strategies' format": "OU", "strategies": [{"name": "Offensive Stealth Rock", "stats": [252, 359, 226, 176, 207, 333], "type": ["Dragon", "Ground"], "usage": "Try to set up Stealth Rock on a predicted switch, since Garchomp forces a lot of switches and threatens to OHKO most entry hazard removers. Continental Crush should be used after Swords Dance has been set up to break through Pokemon such as Tapu Bulu, Landorus-T, and Celesteela; however, the latter two require some chip damage before they go down to the Z-Move. Even unboosted, Stone Edge still puts a lot of pressure against the likes of Tornadus-T and Zapdos, so it's unnecessary to waste the Z-Move if there are other relevant targets. If needed, Garchomp can be used to check Heatran and Magnezone, but it risks losing its wallbreaking potential with losing HP and a possible status condition.", "moves": [["Stealth Rock"], ["Earthquake"], ["Stone Edge"], ["Swords Dance"]], "item": [" Rockium Z"], "ability": ["Rough Skin"], "nature": ["Jolly"], "ev spread": [0, 252, 0, 0, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Tank", "stats": [315, 296, 227, 176, 206, 333], "type": ["Dragon", "Ground"], "usage": "It's recommended to set up Stealth Rock against foes that Garchomp forces out, such as Heatran and Magnezone, in order to set the entry hazard up without taking damage. Stacking chip damage by using Roar  with Stealth Rock up is useful for putting targets into KO range from Garchomp's teammates, so using these moves is usually a good early-game strategy. Pivoting Garchomp in on predicted weak moves such as Ferrothorn's Power Whip and Mega Lopunny's Fake Out is a good way to chip a good portion of HP from them, and Fire Blast can KO Ferrothorn if it was weakened a bit before. Garchomp can function as a last-ditch effort to stop setup sweepers such as Kartana and Mega Pinsir, as both only threaten to OHKO Garchomp with Leaf Blade or Return, leaving them in range of priority moves such as Ash-Greninja's Water Shuriken with the chip damage from Rough Skin + Rocky Helmet. Punishing U-turn users that lack reliable recovery like Landorus-T and Choice Scarf Greninja can be useful in the long run, weakening them for Garchomp's teammates. However, beware of Ice-type coverage from them, since it can weaken or OHKO Garchomp.", "moves": [["Stealth Rock"], ["Earthquake"], ["Fire Blast", "Roar"], ["Toxic"]], "item": [" Rocky Helmet"], "ability": ["Rough Skin"], "nature": ["Jolly"], "ev spread": [252, 0, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Mega Swords Dance", "stats": [252, 439, 266, 248, 227, 311], "type": ["Dragon", "Ground"], "usage": "Mega Garchomp functions as an early- or mid-game wallbreaker, weakening or eliminating opposing bulky Pokemon such as Landorus-T and Ferrothorn for its teammates. If the opposing team has a Pokemon that regular Garchomp outspeeds and its Mega forme doesn't like Kyurem-B or Tapu Lele, wait on Mega Evolving until this threat is gone. When using Tyranitar or Hippowdon as partners, try to keep sand up in order for Mega Garchomp to do heavy damage against, if not OHKO, Tapu Bulu and Celesteela with +2 Stone Edge. Maintaining a Sand Force-boosted Stone Edge is also good to wear down Landorus-T more easily, which is a very frequent Mega Garchomp switch-in.", "moves": [["Swords Dance"], ["Earthquake"], ["Stone Edge"], ["Substitute", "Fire Fang"]], "item": [" Garchompite"], "ability": ["Rough Skin", "Sand Veil"], "nature": ["Jolly"], "ev spread": [0, 252, 0, 0, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Ice-type Moves and Pokemon", "Fairy-type Pokemon", "Faster Offensive Pokemon", "Skarmory", "Physically Defensive Pokemon"], "credits": ["Written by OldAmberPlays", "Earlier versions by AJB, false,  and PK Gaming", "Quality checked by Jordy, lyd,  and Leo", "Grammar checked by martha, The Dutch Plumberjack,  and GMars"]}
+{
+    "name": "Garchomp",
+    "forms": {
+        "Base": {
+            "base stats": [
+                108,
+                130,
+                95,
+                80,
+                85,
+                102
+            ],
+            "types": [
+                "Dragon",
+                "Ground"
+            ],
+            "abilities": [
+                "Rough Skin",
+                "Sand Veil"
+            ],
+            "tier": [
+                "OU"
+            ],
+            "form": "Base"
+        },
+        "Mega": {
+            "base stats": [
+                108,
+                170,
+                115,
+                120,
+                95,
+                92
+            ],
+            "types": [
+                "Dragon",
+                "Ground"
+            ],
+            "abilities": [
+                "Sand Force"
+            ],
+            "tier": [
+                "OU"
+            ],
+            "form": "Mega"
+        }
+    },
+    "overview": "Thanks to its access to Swords Dance, solid coverage moves, and good Speed and Attack stats, Garchomp is a strong wallbreaker capable of threatening the majority of the tier. Its ability to put pressure on most Defoggers such as Tornadus-T and Zapdos by virtue of its Z-Move also makes it a reliable entry hazard setter. In a defensive role, Garchomp is capable of checking numerous threats, such as Heatran, Mega Scizor, and Hawlucha, either dealing with them completely or at least crippling them with the combination of Rough Skin and Rocky Helmet. This set's role compression doesn't stop there, though, as it also can set up Stealth Rock and pressure opposing Defoggers with Toxic while phazing setup sweepers with Roar or Dragon Tail. Mega Garchomp's added bulk and firepower under sand makes it a formidable wallbreaker, hitting anything with its STAB and coverage moves hard while finding many opportunities to set up with Swords Dance. Unfortunately, Garchomp faces competition in its roles. Defensively, Gliscor can be a better choice on some teams, as it can be a better check to non-offensive Heatran, has a reliable recovery move in Roost, and can either set up or remove hazards from the field. Also, Mega Garchomp, while being a powerful wallbreaker, faces huge competition from its normal forme and other Mega Evolutions, since the Speed that Mega Garchomp loses when it Mega Evolves can be troublesome. Upon Mega Evolving, it becomes slower than Tapu Lele and Hydreigon, two Pokemon that can be dealt with its non-Mega Speed stat.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Offensive Stealth Rock",
+            "stats": [
+                252,
+                359,
+                226,
+                176,
+                207,
+                333
+            ],
+            "type": [
+                "Dragon",
+                "Ground"
+            ],
+            "usage": "Try to set up Stealth Rock on a predicted switch, since Garchomp forces a lot of switches and threatens to OHKO most entry hazard removers. Continental Crush should be used after Swords Dance has been set up to break through Pokemon such as Tapu Bulu, Landorus-T, and Celesteela; however, the latter two require some chip damage before they go down to the Z-Move. Even unboosted, Stone Edge still puts a lot of pressure against the likes of Tornadus-T and Zapdos, so it's unnecessary to waste the Z-Move if there are other relevant targets. If needed, Garchomp can be used to check Heatran and Magnezone, but it risks losing its wallbreaking potential with losing HP and a possible status condition.",
+            "moves": [
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Stone Edge"
+                ],
+                [
+                    "Swords Dance"
+                ]
+            ],
+            "item": [
+                " Rockium Z"
+            ],
+            "ability": [
+                "Rough Skin"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                0,
+                0,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Tank",
+            "stats": [
+                315,
+                296,
+                227,
+                176,
+                206,
+                333
+            ],
+            "type": [
+                "Dragon",
+                "Ground"
+            ],
+            "usage": "It's recommended to set up Stealth Rock against foes that Garchomp forces out, such as Heatran and Magnezone, in order to set the entry hazard up without taking damage. Stacking chip damage by using Roar  with Stealth Rock up is useful for putting targets into KO range from Garchomp's teammates, so using these moves is usually a good early-game strategy. Pivoting Garchomp in on predicted weak moves such as Ferrothorn's Power Whip and Mega Lopunny's Fake Out is a good way to chip a good portion of HP from them, and Fire Blast can KO Ferrothorn if it was weakened a bit before. Garchomp can function as a last-ditch effort to stop setup sweepers such as Kartana and Mega Pinsir, as both only threaten to OHKO Garchomp with Leaf Blade or Return, leaving them in range of priority moves such as Ash-Greninja's Water Shuriken with the chip damage from Rough Skin + Rocky Helmet. Punishing U-turn users that lack reliable recovery like Landorus-T and Choice Scarf Greninja can be useful in the long run, weakening them for Garchomp's teammates. However, beware of Ice-type coverage from them, since it can weaken or OHKO Garchomp.",
+            "moves": [
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Fire Blast",
+                    "Roar"
+                ],
+                [
+                    "Toxic"
+                ]
+            ],
+            "item": [
+                " Rocky Helmet"
+            ],
+            "ability": [
+                "Rough Skin"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                252,
+                0,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Mega Swords Dance",
+            "stats": [
+                252,
+                439,
+                266,
+                248,
+                227,
+                311
+            ],
+            "type": [
+                "Dragon",
+                "Ground"
+            ],
+            "usage": "Mega Garchomp functions as an early- or mid-game wallbreaker, weakening or eliminating opposing bulky Pokemon such as Landorus-T and Ferrothorn for its teammates. If the opposing team has a Pokemon that regular Garchomp outspeeds and its Mega forme doesn't like Kyurem-B or Tapu Lele, wait on Mega Evolving until this threat is gone. When using Tyranitar or Hippowdon as partners, try to keep sand up in order for Mega Garchomp to do heavy damage against, if not OHKO, Tapu Bulu and Celesteela with +2 Stone Edge. Maintaining a Sand Force-boosted Stone Edge is also good to wear down Landorus-T more easily, which is a very frequent Mega Garchomp switch-in.",
+            "moves": [
+                [
+                    "Swords Dance"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Stone Edge"
+                ],
+                [
+                    "Substitute",
+                    "Fire Fang"
+                ]
+            ],
+            "item": [
+                " Garchompite"
+            ],
+            "ability": [
+                "Rough Skin",
+                "Sand Veil"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                0,
+                0,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Ice-type Moves and Pokemon",
+        "Fairy-type Pokemon",
+        "Faster Offensive Pokemon",
+        "Skarmory",
+        "Physically Defensive Pokemon"
+    ],
+    "credits": [
+        "Written by OldAmberPlays",
+        "Earlier versions by AJB, false,  and PK Gaming",
+        "Quality checked by Jordy, lyd,  and Leo",
+        "Grammar checked by martha, The Dutch Plumberjack,  and GMars"
+    ]
+}

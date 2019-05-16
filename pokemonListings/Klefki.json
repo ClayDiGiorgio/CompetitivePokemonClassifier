@@ -1,1 +1,99 @@
-{"name": "Klefki", "forms": {"Base": {"base stats": [57, 80, 91, 80, 87, 75], "types": ["Steel", "Fairy"], "abilities": ["Magician", "Prankster"], "tier": ["UU"], "form": "Base"}}, "overview": "Klefki's massive utility movepool alongside its Prankster ability makes it a premier support Pokemon in the UU metagame and the best user of Spikes by far. Its amazing defensive typing alongside access to moves like Thunder Wave and Magnet Rise allows it to very adequately check top-tier threats, such as Mega Aerodactyl, Latias, Mega Beedrill, and Hydreigon. Klefki also possesses a lot of flexibility in terms of which moves it can opt to run, which, alongside its ability to set up Spikes, allows it to fit very comfortably on offensive and balanced teams alike. Unfortunately, Klefki lacks recovery, which in tandem with its subpar bulk leaves it prone to being worn down, thus preventing it from reliably checking foes it aims to check from time to time. Klefki also lacks an offensive presence, which leaves it reliant on hitting foes super effectively to avoid being too passive.\n", "strategies' format": "UU", "strategies": [{"name": "Support", "stats": [212, 196, 218, 176, 300, 188], "type": ["Steel", "Fairy"], "usage": "Klefki should look to set up Spikes early-game, as this will effectively deal good chip damage to foes throughout the course of the match. If setting up Spikes early on proves to be a monumental task, Klefki should try coming in on a foe that it can adequately tank hits from, such as Choice-locked Hydreigon or Togekiss, as this will create an opportunity to easily set at least a layer or two. Once Spikes is set, Klefki should be preserved for later on instead of being sacrificed, as it can work as an emergency check to various fast sweepers due to priority Thunder Wave and Toxic. Thunder Wave should be used against offensive threats that Klefki can tank at least one hit from, such as Mega Aerodactyl, Mega Pidgeot, Latias, and Starmie, as the paralysis will cripple them for the remainder of the match. Due to Klefki's passive nature, it should look to use Toxic to cripple various Pokemon that try setting up on it like Latias or, if it isn't using Toxic, switch out into a Pokemon capable of taking care of the sweeper it has invited in so as not to generate more free turns. Klefki should only look to attack against threats that it's capable of adequately damaging, such as Mega Sceptile, or, if it's using Foul Play, against Pokemon that try using it as setup bait, such as Scizor. If Magnet Rise is being run, Klefki should use it against Ground-types like Krookodile and Nidoqueen and Pokemon that often carry Ground-type coverage, like Mega Aerodactyl, in order to blanket check them and reliably set up Spikes.", "moves": [["Spikes"], ["Thunder Wave"], ["Toxic", "Magnet Rise"], ["Play Rough"]], "item": [" Leftovers"], "ability": ["Prankster"], "nature": ["Careful"], "ev spread": [248, 0, 0, 0, 252, 8], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Fire-types", "Ground-types", "Taunt", "Defensive Pokemon", "Electric-types"], "credits": ["Written by Hilomilo", "Quality checked by Bouff, A Cake Wearing A Hat,  and Eyan", "Grammar checked by The Dutch Plumberjack and martha"]}
+{
+    "name": "Klefki",
+    "forms": {
+        "Base": {
+            "base stats": [
+                57,
+                80,
+                91,
+                80,
+                87,
+                75
+            ],
+            "types": [
+                "Steel",
+                "Fairy"
+            ],
+            "abilities": [
+                "Magician",
+                "Prankster"
+            ],
+            "tier": [
+                "UU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Klefki's massive utility movepool alongside its Prankster ability makes it a premier support Pokemon in the UU metagame and the best user of Spikes by far. Its amazing defensive typing alongside access to moves like Thunder Wave and Magnet Rise allows it to very adequately check top-tier threats, such as Mega Aerodactyl, Latias, Mega Beedrill, and Hydreigon. Klefki also possesses a lot of flexibility in terms of which moves it can opt to run, which, alongside its ability to set up Spikes, allows it to fit very comfortably on offensive and balanced teams alike. Unfortunately, Klefki lacks recovery, which in tandem with its subpar bulk leaves it prone to being worn down, thus preventing it from reliably checking foes it aims to check from time to time. Klefki also lacks an offensive presence, which leaves it reliant on hitting foes super effectively to avoid being too passive.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Support",
+            "stats": [
+                212,
+                196,
+                218,
+                176,
+                300,
+                188
+            ],
+            "type": [
+                "Steel",
+                "Fairy"
+            ],
+            "usage": "Klefki should look to set up Spikes early-game, as this will effectively deal good chip damage to foes throughout the course of the match. If setting up Spikes early on proves to be a monumental task, Klefki should try coming in on a foe that it can adequately tank hits from, such as Choice-locked Hydreigon or Togekiss, as this will create an opportunity to easily set at least a layer or two. Once Spikes is set, Klefki should be preserved for later on instead of being sacrificed, as it can work as an emergency check to various fast sweepers due to priority Thunder Wave and Toxic. Thunder Wave should be used against offensive threats that Klefki can tank at least one hit from, such as Mega Aerodactyl, Mega Pidgeot, Latias, and Starmie, as the paralysis will cripple them for the remainder of the match. Due to Klefki's passive nature, it should look to use Toxic to cripple various Pokemon that try setting up on it like Latias or, if it isn't using Toxic, switch out into a Pokemon capable of taking care of the sweeper it has invited in so as not to generate more free turns. Klefki should only look to attack against threats that it's capable of adequately damaging, such as Mega Sceptile, or, if it's using Foul Play, against Pokemon that try using it as setup bait, such as Scizor. If Magnet Rise is being run, Klefki should use it against Ground-types like Krookodile and Nidoqueen and Pokemon that often carry Ground-type coverage, like Mega Aerodactyl, in order to blanket check them and reliably set up Spikes.",
+            "moves": [
+                [
+                    "Spikes"
+                ],
+                [
+                    "Thunder Wave"
+                ],
+                [
+                    "Toxic",
+                    "Magnet Rise"
+                ],
+                [
+                    "Play Rough"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Prankster"
+            ],
+            "nature": [
+                "Careful"
+            ],
+            "ev spread": [
+                248,
+                0,
+                0,
+                0,
+                252,
+                8
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Fire-types",
+        "Ground-types",
+        "Taunt",
+        "Defensive Pokemon",
+        "Electric-types"
+    ],
+    "credits": [
+        "Written by Hilomilo",
+        "Quality checked by Bouff, A Cake Wearing A Hat,  and Eyan",
+        "Grammar checked by The Dutch Plumberjack and martha"
+    ]
+}

@@ -1,1 +1,97 @@
-{"name": "Goldeen", "forms": {"Base": {"base stats": [45, 67, 60, 35, 50, 63], "types": ["Water"], "abilities": ["Lightning Rod", "Swift Swim", "Water Veil"], "tier": ["LC"], "form": "Base"}}, "overview": "Goldeen has a fantastic ability in Lightning Rod, allowing it to be a great check to Electric-types such as Chinchou and Magnemite; it can also directly threaten them with Drill Run, making it one of the best stops to Volt Switch in the metagame. Its Water typing provides it with useful resistances to Water-, Ice-, and Steel-type attacks, which are commonly run as coverage by LC's premier Volt Switch users. Goldeen's movepool has useful options such as Knock Off, Megahorn, and specifically Bounce, which can be used alongside a Flyinium Z to let Goldeen lure in and KO Grass- and Fighting-types. Goldeen's good Attack and Speed allow it to put some offensive pressure on the opposing team. However, Goldeen generally faces competition as a physically offensive Water-type from the likes of Corphish, which has extremely strong STAB attacks thanks to Adaptability and access to Dragon Dance and Swords Dance, and Carvanha, which hits harder, more consistently breaks through Grass-types, and has Speed Boost to outpace normally faster Pokemon. Goldeen's bad bulk also doesn't help its case, as it takes massive damage from powerful neutral hits and will almost always get OHKOed by super effective attacks. Finally, Goldeen lacks a good way to hit bulky Water- and Flying-types as well as Grass- and Fighting-types after Supersonic Skystrike has been used up, meaning that it can be walled fairly easily by Pokemon like Timburr and Foongus.\n", "strategies' format": "LC", "strategies": [{"name": "Supersonic Skystrike", "stats": [126, 225, 156, 95, 145, 247], "type": ["Water"], "usage": "Goldeen should often be switched into Electric-types, as its poor bulk prevents it from switching into much else. Supersonic Skystrike should be used carefully due to its one-time-use nature. If there are no Fighting- or Grass-types on the opponent's team, you can use Supersonic Skystrike as a powerful attack to break walls down. Before using Supersonic Skystrike, it is best to use Knock Off to remove a potential Eviolite on the foe you'd like to hit with the move. As most Electric-types will switch out of Goldeen, you should use Knock Off when you predict a switch to remove the foe's item. If you predict a switch into a bulkier foe like Foongus or Timburr, you should Knock Off so that you can follow up with a Supersonic Skystrike. However, Goldeen should be wary when trying to check Elekid in case of Hidden Power Grass, which has a slight chance of OHKOing Goldeen, meaning it must stay healthy throughout the match if it wants to reliably check Elekid. Knock Off should be used early- and mid-game in order to cripple the opponent's Pokemon. Goldeen should avoid getting worn down, as it will struggle to check the things it needs to if it is significantly weakened.", "moves": [["Bounce"], ["Waterfall"], ["Drill Run"], ["Knock Off"]], "item": [" Flyinium Z"], "ability": ["Lightning Rod"], "nature": ["Jolly"], "ev spread": [0, 220, 0, 0, 36, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Ferroseed", "Other Grass-types", "Bulky Water-types", "Status", "Entry Hazards"], "credits": ["Written by MeepBard", "Quality checked by Hilomilo, Xayah,  and Berks", "Grammar checked by The Dutch Plumberjack and CryoGyro"]}
+{
+    "name": "Goldeen",
+    "forms": {
+        "Base": {
+            "base stats": [
+                45,
+                67,
+                60,
+                35,
+                50,
+                63
+            ],
+            "types": [
+                "Water"
+            ],
+            "abilities": [
+                "Lightning Rod",
+                "Swift Swim",
+                "Water Veil"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Goldeen has a fantastic ability in Lightning Rod, allowing it to be a great check to Electric-types such as Chinchou and Magnemite; it can also directly threaten them with Drill Run, making it one of the best stops to Volt Switch in the metagame. Its Water typing provides it with useful resistances to Water-, Ice-, and Steel-type attacks, which are commonly run as coverage by LC's premier Volt Switch users. Goldeen's movepool has useful options such as Knock Off, Megahorn, and specifically Bounce, which can be used alongside a Flyinium Z to let Goldeen lure in and KO Grass- and Fighting-types. Goldeen's good Attack and Speed allow it to put some offensive pressure on the opposing team. However, Goldeen generally faces competition as a physically offensive Water-type from the likes of Corphish, which has extremely strong STAB attacks thanks to Adaptability and access to Dragon Dance and Swords Dance, and Carvanha, which hits harder, more consistently breaks through Grass-types, and has Speed Boost to outpace normally faster Pokemon. Goldeen's bad bulk also doesn't help its case, as it takes massive damage from powerful neutral hits and will almost always get OHKOed by super effective attacks. Finally, Goldeen lacks a good way to hit bulky Water- and Flying-types as well as Grass- and Fighting-types after Supersonic Skystrike has been used up, meaning that it can be walled fairly easily by Pokemon like Timburr and Foongus.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Supersonic Skystrike",
+            "stats": [
+                126,
+                225,
+                156,
+                95,
+                145,
+                247
+            ],
+            "type": [
+                "Water"
+            ],
+            "usage": "Goldeen should often be switched into Electric-types, as its poor bulk prevents it from switching into much else. Supersonic Skystrike should be used carefully due to its one-time-use nature. If there are no Fighting- or Grass-types on the opponent's team, you can use Supersonic Skystrike as a powerful attack to break walls down. Before using Supersonic Skystrike, it is best to use Knock Off to remove a potential Eviolite on the foe you'd like to hit with the move. As most Electric-types will switch out of Goldeen, you should use Knock Off when you predict a switch to remove the foe's item. If you predict a switch into a bulkier foe like Foongus or Timburr, you should Knock Off so that you can follow up with a Supersonic Skystrike. However, Goldeen should be wary when trying to check Elekid in case of Hidden Power Grass, which has a slight chance of OHKOing Goldeen, meaning it must stay healthy throughout the match if it wants to reliably check Elekid. Knock Off should be used early- and mid-game in order to cripple the opponent's Pokemon. Goldeen should avoid getting worn down, as it will struggle to check the things it needs to if it is significantly weakened.",
+            "moves": [
+                [
+                    "Bounce"
+                ],
+                [
+                    "Waterfall"
+                ],
+                [
+                    "Drill Run"
+                ],
+                [
+                    "Knock Off"
+                ]
+            ],
+            "item": [
+                " Flyinium Z"
+            ],
+            "ability": [
+                "Lightning Rod"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                220,
+                0,
+                0,
+                36,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Ferroseed",
+        "Other Grass-types",
+        "Bulky Water-types",
+        "Status",
+        "Entry Hazards"
+    ],
+    "credits": [
+        "Written by MeepBard",
+        "Quality checked by Hilomilo, Xayah,  and Berks",
+        "Grammar checked by The Dutch Plumberjack and CryoGyro"
+    ]
+}

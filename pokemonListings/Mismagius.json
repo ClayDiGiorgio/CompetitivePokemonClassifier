@@ -1,1 +1,95 @@
-{"name": "Mismagius", "forms": {"Base": {"base stats": [60, 60, 60, 105, 105, 105], "types": ["Ghost"], "abilities": ["Levitate"], "tier": ["NU"], "form": "Base"}}, "overview": "Ghost is an uncommon but potent attacking type, and Mismagius's Speed and access to Nasty Plot make it a premier offensive Ghost-type in the tier. Coupled with solid neutral coverage and a Z-Move of its choice, this combination lets Mismagius take advantage of the tier's shortage of Pokemon resistant or immune to Ghost to pick apart common balance cores. Its ability Levitate allows it to avoid entry hazards such as Spikes, Toxic Spikes, and Sticky Web as well as handily check Nidoqueen and certain variants of Curse Snorlax. Unfortunately, Mismagius's raw strength is rather low, and it is reliant on Nasty Plot-boosted attacks or Z-Moves to do effective damage. Its effectiveness is also compromised by a mediocre defensive stat spread, with low physical bulk and basically zero special resistances, which can make setup or even survival difficult, as it risks being 2HKOed at worst by every invested neutral attack, rendering it especially vulnerable to faster attackers. Furthermore, Mismagius must compete with other setup attackers such as Virizion, Bewear, Meloetta, and Toxicroak, which boast stallbreaking ability while possessing either comparable Speed, greater immediate power, or better defensive utility. However, Mismagius can still make use of its immunities and type coverage to harass most bulky Pokemon such as U-turn Gligar, Registeel, Milotic, physically defensive Mandibuzz, and Mantine.\n", "strategies' format": "RU", "strategies": [{"name": "Nasty Plot", "stats": [156, 140, 158, 308, 246, 339], "type": ["Ghost"], "usage": "Mismagius's best chance to set up Nasty Plot usually comes in the form of walls that it can scare out or Pokemon that cannot threaten it as it sets up, such as Bronzong, Cresselia, Registeel, Mantine, Gligar, and RestTalk Snorlax. Mismagius can use either Taunt or Substitute to neutralize most of the aforementioned Pokemon to begin breaking through the opponent's defensive backbone. Mismagius is also one of the few offensive Pokemon that can set up on Nidoqueen. Because Mismagius's longevity can be lacking, it would be unwise to hold on to its Z-Move for longer than necessary, and using it at the right moment can be crucial in softening up a threat or forcing a switch while racking up entry hazard damage. While Mismagius doesn't have too much to fear from most Pursuit users due to the threat of its +2 Z-Move, it would be ideal to remove them before Mismagius sets up so that Mismagius doesn't have to use its Z-Move prematurely.", "moves": [["Nasty Plot"], ["Shadow Ball"], ["Thunderbolt"], ["Taunt", "Substitute"]], "item": [" Ghostium Z", " Electrium Z"], "ability": ["Levitate"], "nature": ["Timid"], "ev spread": [0, 0, 8, 248, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Pursuit", "Bulky Normal-type Pokemon", "Faster Attackers"], "credits": ["Written by Punchshroom", "Quality checked by roman, teachable,  and Eternally", "Grammar checked by Electrolyte and The Dutch Plumberjack"]}
+{
+    "name": "Mismagius",
+    "forms": {
+        "Base": {
+            "base stats": [
+                60,
+                60,
+                60,
+                105,
+                105,
+                105
+            ],
+            "types": [
+                "Ghost"
+            ],
+            "abilities": [
+                "Levitate"
+            ],
+            "tier": [
+                "NU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Ghost is an uncommon but potent attacking type, and Mismagius's Speed and access to Nasty Plot make it a premier offensive Ghost-type in the tier. Coupled with solid neutral coverage and a Z-Move of its choice, this combination lets Mismagius take advantage of the tier's shortage of Pokemon resistant or immune to Ghost to pick apart common balance cores. Its ability Levitate allows it to avoid entry hazards such as Spikes, Toxic Spikes, and Sticky Web as well as handily check Nidoqueen and certain variants of Curse Snorlax. Unfortunately, Mismagius's raw strength is rather low, and it is reliant on Nasty Plot-boosted attacks or Z-Moves to do effective damage. Its effectiveness is also compromised by a mediocre defensive stat spread, with low physical bulk and basically zero special resistances, which can make setup or even survival difficult, as it risks being 2HKOed at worst by every invested neutral attack, rendering it especially vulnerable to faster attackers. Furthermore, Mismagius must compete with other setup attackers such as Virizion, Bewear, Meloetta, and Toxicroak, which boast stallbreaking ability while possessing either comparable Speed, greater immediate power, or better defensive utility. However, Mismagius can still make use of its immunities and type coverage to harass most bulky Pokemon such as U-turn Gligar, Registeel, Milotic, physically defensive Mandibuzz, and Mantine.\n",
+    "strategies' format": "RU",
+    "strategies": [
+        {
+            "name": "Nasty Plot",
+            "stats": [
+                156,
+                140,
+                158,
+                308,
+                246,
+                339
+            ],
+            "type": [
+                "Ghost"
+            ],
+            "usage": "Mismagius's best chance to set up Nasty Plot usually comes in the form of walls that it can scare out or Pokemon that cannot threaten it as it sets up, such as Bronzong, Cresselia, Registeel, Mantine, Gligar, and RestTalk Snorlax. Mismagius can use either Taunt or Substitute to neutralize most of the aforementioned Pokemon to begin breaking through the opponent's defensive backbone. Mismagius is also one of the few offensive Pokemon that can set up on Nidoqueen. Because Mismagius's longevity can be lacking, it would be unwise to hold on to its Z-Move for longer than necessary, and using it at the right moment can be crucial in softening up a threat or forcing a switch while racking up entry hazard damage. While Mismagius doesn't have too much to fear from most Pursuit users due to the threat of its +2 Z-Move, it would be ideal to remove them before Mismagius sets up so that Mismagius doesn't have to use its Z-Move prematurely.",
+            "moves": [
+                [
+                    "Nasty Plot"
+                ],
+                [
+                    "Shadow Ball"
+                ],
+                [
+                    "Thunderbolt"
+                ],
+                [
+                    "Taunt",
+                    "Substitute"
+                ]
+            ],
+            "item": [
+                " Ghostium Z",
+                " Electrium Z"
+            ],
+            "ability": [
+                "Levitate"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                8,
+                248,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Pursuit",
+        "Bulky Normal-type Pokemon",
+        "Faster Attackers"
+    ],
+    "credits": [
+        "Written by Punchshroom",
+        "Quality checked by roman, teachable,  and Eternally",
+        "Grammar checked by Electrolyte and The Dutch Plumberjack"
+    ]
+}

@@ -1,1 +1,97 @@
-{"name": "Mankey", "forms": {"Base": {"base stats": [40, 80, 35, 35, 45, 70], "types": ["Fighting"], "abilities": ["Anger Point", "Defiant", "Vital Spirit"], "tier": ["LC"], "form": "Base"}}, "overview": "Mankey is a revenge killer whose main niche over other Fighting-types is its access to Gunk Shot, which allows it to significantly damage Fairy-types, and Close Combat, which is one of the strongest Fighting-type moves. It also has other coverage moves such as Earthquake to hit Poison-types and Ice Punch to hit Foongus and Pumpkaboo, and a pivoting tool in U-turn, allowing Mankey to gain momentum, all of which are backed up by a great Attack stat and the respectable 17 Speed tier. Thanks to Defiant, it is also able to gain +2 Attack whenever it is affected by Sticky Web, Defog, or Intimidate. However, Mankey cannot take hits and is vulnerable to priority attacks due to its poor bulk, which is only amplified after Close Combat's defense drops. It faces heavy competition from other Fighting-types, primarily Mienfoo, as it is able to perform Mankey's role of a revenge killer far more consistently. In addition, Mankey's lack of Knock Off means that it has a tough time getting past Ghost-types, and while Defiant is a good ability, it is very situational and hard to make use of with Mankey's low bulk.\n", "strategies' format": "LC", "strategies": [{"name": "Choice Scarf", "stats": [125, 245, 125, 95, 126, 247], "type": ["Fighting"], "usage": "Bring Mankey in safely via a slow U-turn or Volt Switch or after a KO, as it is very frail and can't afford to take a hit. Once Mankey is in, use it as a revenge killer or cleaner with its Choice Scarf-boosted Speed and high-powered moves. Predict well, and don't get locked into a move the foe is immune to, such as Close Combat on a Ghost-type or Gunk Shot on a Steel-type, as that makes Mankey's team lose all momentum. U-turn is usually a safe option that switches Mankey out after dealing some damage, which is great for scouting and gaining momentum. If you predict that the foe is going to use Defog, you can switch Mankey in to get an Attack boost, making Mankey very dangerous. This is very risky, however, as most Defoggers such as Vullaby are Flying-types and can OHKO Mankey.", "moves": [["Close Combat"], ["Gunk Shot"], ["U-turn"], ["Earthquake"]], "item": [" Choice Scarf"], "ability": ["Defiant"], "nature": ["Jolly", "Adamant"], "ev spread": [36, 196, 76, 0, 0, 196], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Ghost-types", "Poison-types", "Flying-types", "Psychic-types"], "credits": ["Written by crusty", "Quality checked by Xayah, tahu,  and Hilomilo", "Grammar checked by Fireflame479 and Rakan"]}
+{
+    "name": "Mankey",
+    "forms": {
+        "Base": {
+            "base stats": [
+                40,
+                80,
+                35,
+                35,
+                45,
+                70
+            ],
+            "types": [
+                "Fighting"
+            ],
+            "abilities": [
+                "Anger Point",
+                "Defiant",
+                "Vital Spirit"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Mankey is a revenge killer whose main niche over other Fighting-types is its access to Gunk Shot, which allows it to significantly damage Fairy-types, and Close Combat, which is one of the strongest Fighting-type moves. It also has other coverage moves such as Earthquake to hit Poison-types and Ice Punch to hit Foongus and Pumpkaboo, and a pivoting tool in U-turn, allowing Mankey to gain momentum, all of which are backed up by a great Attack stat and the respectable 17 Speed tier. Thanks to Defiant, it is also able to gain +2 Attack whenever it is affected by Sticky Web, Defog, or Intimidate. However, Mankey cannot take hits and is vulnerable to priority attacks due to its poor bulk, which is only amplified after Close Combat's defense drops. It faces heavy competition from other Fighting-types, primarily Mienfoo, as it is able to perform Mankey's role of a revenge killer far more consistently. In addition, Mankey's lack of Knock Off means that it has a tough time getting past Ghost-types, and while Defiant is a good ability, it is very situational and hard to make use of with Mankey's low bulk.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Choice Scarf",
+            "stats": [
+                125,
+                245,
+                125,
+                95,
+                126,
+                247
+            ],
+            "type": [
+                "Fighting"
+            ],
+            "usage": "Bring Mankey in safely via a slow U-turn or Volt Switch or after a KO, as it is very frail and can't afford to take a hit. Once Mankey is in, use it as a revenge killer or cleaner with its Choice Scarf-boosted Speed and high-powered moves. Predict well, and don't get locked into a move the foe is immune to, such as Close Combat on a Ghost-type or Gunk Shot on a Steel-type, as that makes Mankey's team lose all momentum. U-turn is usually a safe option that switches Mankey out after dealing some damage, which is great for scouting and gaining momentum. If you predict that the foe is going to use Defog, you can switch Mankey in to get an Attack boost, making Mankey very dangerous. This is very risky, however, as most Defoggers such as Vullaby are Flying-types and can OHKO Mankey.",
+            "moves": [
+                [
+                    "Close Combat"
+                ],
+                [
+                    "Gunk Shot"
+                ],
+                [
+                    "U-turn"
+                ],
+                [
+                    "Earthquake"
+                ]
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Defiant"
+            ],
+            "nature": [
+                "Jolly",
+                "Adamant"
+            ],
+            "ev spread": [
+                36,
+                196,
+                76,
+                0,
+                0,
+                196
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Ghost-types",
+        "Poison-types",
+        "Flying-types",
+        "Psychic-types"
+    ],
+    "credits": [
+        "Written by crusty",
+        "Quality checked by Xayah, tahu,  and Hilomilo",
+        "Grammar checked by Fireflame479 and Rakan"
+    ]
+}

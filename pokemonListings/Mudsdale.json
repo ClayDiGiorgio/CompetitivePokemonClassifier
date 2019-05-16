@@ -1,1 +1,208 @@
-{"name": "Mudsdale", "forms": {"Base": {"base stats": [100, 125, 100, 55, 85, 35], "types": ["Ground"], "abilities": ["Inner Focus", "Own Tempo", "Stamina"], "tier": ["PU"], "form": "Base"}}, "overview": "Mudsdale is a great defensive Stealth Rock setter, using its solid bulk, Stamina, and Ground typing to keep massive threats such as Aggron, Lycanroc, Kangaskhan, Scyther, and Alolan Raichu in check. Because of Mudsdale's high Attack and powerful STAB Earthquake, it has decent offensive presence and is far less passive than other defensive Stealth Rock setters like Regirock and Clefairy are. Mudsdale's usable coverage options and previously mentioned high Attack also allow it to function as a decent wallbreaker with Choice Band. However, Mudsdale suffers from a low Speed of 35, meaning that it will likely take damage before it can use an attack. Its excellent Ground typing also comes with weaknesses to common types such as Water, Grass, and Ice. Mudsdale lacks recovery besides Rest and a potential Figy Berry, meaning that despite its good bulk and ability, it is prone to getting worn down by repeated attacks, status, and entry hazards. Finally, with an overall shallow movepool, Mudsdale is also fairly predictable and is considered a mediocre wallbreaker despite its high Attack, as all of its moves can easily be played around.\n", "strategies' format": "PU", "strategies": [{"name": "Stealth Rock", "stats": [299, 349, 268, 131, 206, 106], "type": ["Ground"], "usage": "Mudsdale should be used throughout the game to switch into physical or resisted attacks from Pokemon like Scyther, Skuntank, and Aggron. However, it has to watch out for status-inflicting moves like Alolan Dugtrio's Toxic, and other utility moves such as Gurdurr's Knock Off. Mudsdale can switch into moves such as Kangaskhan's Fake Out and Hitmonchan's Rapid Spin to receive a relatively free Defense boost from Stamina and supply chip damage if running Rocky Helmet. It can also absorb Volt Switch from Pokemon such as Manectric, stopping them from switching, but still has to watch out for coverage and utility moves. Stay wary of how easily Mudsdale can be worn down if constantly switching in to take hits, especially if layers of Spikes or Toxic Spikes are on the field. When brought in against Pokemon that are threatened by it, Mudsdale will often force a switch. You can use this as an opportunity to set up Stealth Rock, allowing it to start chipping the opposing team. If Stealth Rock is already up, you can use Toxic on predicted switch-ins like Tangela and Eelektross, double switch to an ideal matchup to gain momentum, or use Roar for chip damage. However, it is notable that while Roar may put you in an ideal matchup, it can also favor the opponent by bringing in a threat to Mudsdale such as Victreebel or Poliwrath instead. While Rock Slide may usually be your best option against Flying-types such as Oricorio-G and Swanna, they will often use Roost if at low health, losing their Rock weakness in the process. They also lose their Ground immunity, however, which you can use to create mind games or even potentially KO them with Earthquake. Protect can be used throughout the match to get Leftovers recovery, wear foes down with Toxic, waste turns of weather and Trick Room, and scout Choice item users such as Drampa, but the opponent can use predictable Protect as a free switch. Setup sweepers like Omastar and Alolan Sandslash can also use Protect or a predicted switch as a chance to set up, so an option is to instead use Roar or go for the KO, although at the risk of them instead simply attacking.", "moves": [["Stealth Rock"], ["Earthquake"], ["Toxic"], ["Rock Slide", "Protect"]], "item": [" Leftovers", " Figy Berry"], "ability": ["Stamina"], "nature": ["Adamant"], "ev spread": [252, 128, 128, 0, 0, 0], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Choice Band", "stats": [269, 383, 236, 131, 206, 137], "type": ["Ground"], "usage": "Mudsdale is best used as an early-game wallbreaker to do heavy damage to bulkier Pokemon so that the rest of its team can clean late-game. It functions as a stop to Volt Switch with its Ground typing but has to be cautious of super effective coverage that many Electric-types carry. Its Stamina ability can also be used to help it take on physical attackers like Kangaskhan and Hitmonchan fairly well. If Mudsdale is used in the later portion of a game, it will want to come in on something fairly weak and just try to get off as much damage as possible. It should be wary of locking itself into a move if a Pokemon with a resistance or an immunity to that move is still on the opposing team.", "moves": [["Earthquake"], ["Heavy Slam"], ["Rock Slide"], ["Close Combat", "Toxic"]], "item": [" Choice Band"], "ability": ["Stamina"], "nature": ["Adamant"], "ev spread": [132, 252, 0, 0, 0, 124], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "RestTalk", "stats": [299, 286, 268, 131, 261, 106], "type": ["Ground"], "usage": "RestTalk Mudsdale should be used as a switch-in to physical threats such as Aggron and Kangaskhan, as its Stamina ability makes it very difficult to take down while Rocky Helmet can chip away at them. It also acts as a decent VoltTurn check with its immunity to Electric moves. This set struggles against Taunt users, especially those immune to Earthquake like Oricorio-E, unless it has Rock Slide over Toxic. Having Rest means that Mudsdale can switch into other status moves like Will-O-Wisp and Toxic for its teammates and have little to worry about, as it can just use Rest to heal later.", "moves": [["Earthquake"], ["Toxic", "Rock Slide"], ["Rest"], ["Sleep Talk"]], "item": [" Leftovers", " Rocky Helmet"], "ability": ["Stamina"], "nature": ["Careful"], "ev spread": [252, 0, 128, 0, 128, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Water- and Grass-types", "Ice-types", "Strong Special Attackers"], "credits": ["Written by SergioRules and UberSkitty", "Quality checked by Megazard, yogi, TONE,  and allstarapology", "Grammar checked by The Dutch Plumberjack, Fireflame479,  and CryoGyro"]}
+{
+    "name": "Mudsdale",
+    "forms": {
+        "Base": {
+            "base stats": [
+                100,
+                125,
+                100,
+                55,
+                85,
+                35
+            ],
+            "types": [
+                "Ground"
+            ],
+            "abilities": [
+                "Inner Focus",
+                "Own Tempo",
+                "Stamina"
+            ],
+            "tier": [
+                "PU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Mudsdale is a great defensive Stealth Rock setter, using its solid bulk, Stamina, and Ground typing to keep massive threats such as Aggron, Lycanroc, Kangaskhan, Scyther, and Alolan Raichu in check. Because of Mudsdale's high Attack and powerful STAB Earthquake, it has decent offensive presence and is far less passive than other defensive Stealth Rock setters like Regirock and Clefairy are. Mudsdale's usable coverage options and previously mentioned high Attack also allow it to function as a decent wallbreaker with Choice Band. However, Mudsdale suffers from a low Speed of 35, meaning that it will likely take damage before it can use an attack. Its excellent Ground typing also comes with weaknesses to common types such as Water, Grass, and Ice. Mudsdale lacks recovery besides Rest and a potential Figy Berry, meaning that despite its good bulk and ability, it is prone to getting worn down by repeated attacks, status, and entry hazards. Finally, with an overall shallow movepool, Mudsdale is also fairly predictable and is considered a mediocre wallbreaker despite its high Attack, as all of its moves can easily be played around.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Stealth Rock",
+            "stats": [
+                299,
+                349,
+                268,
+                131,
+                206,
+                106
+            ],
+            "type": [
+                "Ground"
+            ],
+            "usage": "Mudsdale should be used throughout the game to switch into physical or resisted attacks from Pokemon like Scyther, Skuntank, and Aggron. However, it has to watch out for status-inflicting moves like Alolan Dugtrio's Toxic, and other utility moves such as Gurdurr's Knock Off. Mudsdale can switch into moves such as Kangaskhan's Fake Out and Hitmonchan's Rapid Spin to receive a relatively free Defense boost from Stamina and supply chip damage if running Rocky Helmet. It can also absorb Volt Switch from Pokemon such as Manectric, stopping them from switching, but still has to watch out for coverage and utility moves. Stay wary of how easily Mudsdale can be worn down if constantly switching in to take hits, especially if layers of Spikes or Toxic Spikes are on the field. When brought in against Pokemon that are threatened by it, Mudsdale will often force a switch. You can use this as an opportunity to set up Stealth Rock, allowing it to start chipping the opposing team. If Stealth Rock is already up, you can use Toxic on predicted switch-ins like Tangela and Eelektross, double switch to an ideal matchup to gain momentum, or use Roar for chip damage. However, it is notable that while Roar may put you in an ideal matchup, it can also favor the opponent by bringing in a threat to Mudsdale such as Victreebel or Poliwrath instead. While Rock Slide may usually be your best option against Flying-types such as Oricorio-G and Swanna, they will often use Roost if at low health, losing their Rock weakness in the process. They also lose their Ground immunity, however, which you can use to create mind games or even potentially KO them with Earthquake. Protect can be used throughout the match to get Leftovers recovery, wear foes down with Toxic, waste turns of weather and Trick Room, and scout Choice item users such as Drampa, but the opponent can use predictable Protect as a free switch. Setup sweepers like Omastar and Alolan Sandslash can also use Protect or a predicted switch as a chance to set up, so an option is to instead use Roar or go for the KO, although at the risk of them instead simply attacking.",
+            "moves": [
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Toxic"
+                ],
+                [
+                    "Rock Slide",
+                    "Protect"
+                ]
+            ],
+            "item": [
+                " Leftovers",
+                " Figy Berry"
+            ],
+            "ability": [
+                "Stamina"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                252,
+                128,
+                128,
+                0,
+                0,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Choice Band",
+            "stats": [
+                269,
+                383,
+                236,
+                131,
+                206,
+                137
+            ],
+            "type": [
+                "Ground"
+            ],
+            "usage": "Mudsdale is best used as an early-game wallbreaker to do heavy damage to bulkier Pokemon so that the rest of its team can clean late-game. It functions as a stop to Volt Switch with its Ground typing but has to be cautious of super effective coverage that many Electric-types carry. Its Stamina ability can also be used to help it take on physical attackers like Kangaskhan and Hitmonchan fairly well. If Mudsdale is used in the later portion of a game, it will want to come in on something fairly weak and just try to get off as much damage as possible. It should be wary of locking itself into a move if a Pokemon with a resistance or an immunity to that move is still on the opposing team.",
+            "moves": [
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Heavy Slam"
+                ],
+                [
+                    "Rock Slide"
+                ],
+                [
+                    "Close Combat",
+                    "Toxic"
+                ]
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Stamina"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                132,
+                252,
+                0,
+                0,
+                0,
+                124
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "RestTalk",
+            "stats": [
+                299,
+                286,
+                268,
+                131,
+                261,
+                106
+            ],
+            "type": [
+                "Ground"
+            ],
+            "usage": "RestTalk Mudsdale should be used as a switch-in to physical threats such as Aggron and Kangaskhan, as its Stamina ability makes it very difficult to take down while Rocky Helmet can chip away at them. It also acts as a decent VoltTurn check with its immunity to Electric moves. This set struggles against Taunt users, especially those immune to Earthquake like Oricorio-E, unless it has Rock Slide over Toxic. Having Rest means that Mudsdale can switch into other status moves like Will-O-Wisp and Toxic for its teammates and have little to worry about, as it can just use Rest to heal later.",
+            "moves": [
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Toxic",
+                    "Rock Slide"
+                ],
+                [
+                    "Rest"
+                ],
+                [
+                    "Sleep Talk"
+                ]
+            ],
+            "item": [
+                " Leftovers",
+                " Rocky Helmet"
+            ],
+            "ability": [
+                "Stamina"
+            ],
+            "nature": [
+                "Careful"
+            ],
+            "ev spread": [
+                252,
+                0,
+                128,
+                0,
+                128,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Water- and Grass-types",
+        "Ice-types",
+        "Strong Special Attackers"
+    ],
+    "credits": [
+        "Written by SergioRules and UberSkitty",
+        "Quality checked by Megazard, yogi, TONE,  and allstarapology",
+        "Grammar checked by The Dutch Plumberjack, Fireflame479,  and CryoGyro"
+    ]
+}

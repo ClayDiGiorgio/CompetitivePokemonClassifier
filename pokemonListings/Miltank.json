@@ -1,1 +1,98 @@
-{"name": "Miltank", "forms": {"Base": {"base stats": [95, 80, 105, 40, 70, 100], "types": ["Normal"], "abilities": ["Sap Sipper", "Scrappy", "Thick Fat"], "tier": ["NU"], "form": "Base"}}, "overview": "Miltank serves as a Stealth Rock setter in the NU metagame. What differentiates it from other setters such as Steelix and Rhydon is its access to reliable recovery in Milk Drink, helping it keep Stealth Rock up more reliably in the long run. Furthermore, Miltank's Thick Fat makes it a reliable check to Ice- and Fire-type Pokemon like Mega Glalie, Sneasel, and Delphox. Its naturally solid bulk and good Speed stat mean it can also serve as a reliable answer to the likes of Comfey, Guzzlord and Vikavolt. Miltank's offensive stats and movepool are quite lackluster, though, so it is very passive. Furthermore, Xatu puts a complete stop to Miltank thanks to its Magic Bounce while also chipping it with Rocky Helmet if Miltank uses Seismic Toss.\n", "strategies' format": "NU", "strategies": [{"name": "Specially Defensive", "stats": [289, 176, 246, 116, 258, 241], "type": ["Normal"], "usage": "Use Miltank to set Stealth Rock throughout the game. Aim to set it up as early as possible to get an early advantage. If you face a Xatu, try to pressure it offensively or trap it with a Pursuit trapper if you are running one. Miltank can also check common special attackers like Alolan Exeggutor, Guzzlord, and Comfey on a reliable basis. Keep Miltank healthy with Milk Drink so it can't be broken by the likes of Delphox and Nasty Plot Slowking. Try to hit threats to your team with Toxic to chip them. Use Seismic Toss to damage opposing Stealth Rock setters and other Pokemon without reliable recovery.", "moves": [["Stealth Rock"], ["Seismic Toss"], ["Milk Drink"], ["Toxic"]], "item": [" Leftovers"], "ability": ["Thick Fat"], "nature": ["Calm"], "ev spread": [252, 0, 0, 0, 236, 20], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Xatu", "Taunt", "Fighting-types", "Ghost-types", "Toxic-resistant Pokemon", "Toxic users"], "credits": ["Written by neomon", "Quality checked by kay, Rabia,  and Espeonage.", "Grammar checked by The Dutch Plumberjack and CryoGyro"]}
+{
+    "name": "Miltank",
+    "forms": {
+        "Base": {
+            "base stats": [
+                95,
+                80,
+                105,
+                40,
+                70,
+                100
+            ],
+            "types": [
+                "Normal"
+            ],
+            "abilities": [
+                "Sap Sipper",
+                "Scrappy",
+                "Thick Fat"
+            ],
+            "tier": [
+                "NU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Miltank serves as a Stealth Rock setter in the NU metagame. What differentiates it from other setters such as Steelix and Rhydon is its access to reliable recovery in Milk Drink, helping it keep Stealth Rock up more reliably in the long run. Furthermore, Miltank's Thick Fat makes it a reliable check to Ice- and Fire-type Pokemon like Mega Glalie, Sneasel, and Delphox. Its naturally solid bulk and good Speed stat mean it can also serve as a reliable answer to the likes of Comfey, Guzzlord and Vikavolt. Miltank's offensive stats and movepool are quite lackluster, though, so it is very passive. Furthermore, Xatu puts a complete stop to Miltank thanks to its Magic Bounce while also chipping it with Rocky Helmet if Miltank uses Seismic Toss.\n",
+    "strategies' format": "NU",
+    "strategies": [
+        {
+            "name": "Specially Defensive",
+            "stats": [
+                289,
+                176,
+                246,
+                116,
+                258,
+                241
+            ],
+            "type": [
+                "Normal"
+            ],
+            "usage": "Use Miltank to set Stealth Rock throughout the game. Aim to set it up as early as possible to get an early advantage. If you face a Xatu, try to pressure it offensively or trap it with a Pursuit trapper if you are running one. Miltank can also check common special attackers like Alolan Exeggutor, Guzzlord, and Comfey on a reliable basis. Keep Miltank healthy with Milk Drink so it can't be broken by the likes of Delphox and Nasty Plot Slowking. Try to hit threats to your team with Toxic to chip them. Use Seismic Toss to damage opposing Stealth Rock setters and other Pokemon without reliable recovery.",
+            "moves": [
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Seismic Toss"
+                ],
+                [
+                    "Milk Drink"
+                ],
+                [
+                    "Toxic"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Thick Fat"
+            ],
+            "nature": [
+                "Calm"
+            ],
+            "ev spread": [
+                252,
+                0,
+                0,
+                0,
+                236,
+                20
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Xatu",
+        "Taunt",
+        "Fighting-types",
+        "Ghost-types",
+        "Toxic-resistant Pokemon",
+        "Toxic users"
+    ],
+    "credits": [
+        "Written by neomon",
+        "Quality checked by kay, Rabia,  and Espeonage.",
+        "Grammar checked by The Dutch Plumberjack and CryoGyro"
+    ]
+}

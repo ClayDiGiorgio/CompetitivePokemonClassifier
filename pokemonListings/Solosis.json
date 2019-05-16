@@ -1,1 +1,96 @@
-{"name": "Solosis", "forms": {"Base": {"base stats": [45, 30, 40, 105, 50, 20], "types": ["Psychic"], "abilities": ["Magic Guard", "Overcoat", "Regenerator"], "tier": ["LC"], "form": "Base"}}, "overview": "Although Solosis is almost completely overshadowed by Abra as an offensive Psychic-type, it finds a small niche for itself on dedicated Trick Room teams as an offensive Trick Room setter due to its horrendous Speed and huge Special Attack stat, tying with Abra for the highest Special Attack stat in the tier. Solosis is also blessed with an excellent ability in Magic Guard, which allows it to avoid all passive damage, and has access to Thunder, which lets it nail Vullaby for much higher damage than other Psychic-types are able to. However, Trick Room teams aren't particularly reliable or consistent in Little Cup, and Solosis's middling bulk and mediocre defensive typing mean it may struggle to justify use on Trick Room teams over alternate setters like Spritzee. In addition, Solosis's overreliance on Trick Room being active to sweep makes it almost useless outside of Trick Room teams due to its lacking Speed. Most teams should use Abra for their wallbreaking needs.\n", "strategies' format": "LC", "strategies": [{"name": "Offensive Trick Room", "stats": [186, 66, 115, 335, 135, 40], "type": ["Psychic"], "usage": "Solosis should always prioritize setting Trick Room before starting to break through the opponent's team. Solosis should ideally avoid switching directly into attacks so that it has enough HP to set up Trick Room, since it is rather frail. Instead, it should come in after a teammate faints or through the help of a pivot. Steel- and Dark-types should be weakened or KOed before Solosis attempts to sweep if at all possible, since at high HP, they can prevent Solosis from sweeping.", "moves": [["Trick Room"], ["Psychic"], ["Thunder"], ["Hidden Power Fighting"]], "item": [" Electrium Z", " Life Orb"], "ability": ["Magic Guard"], "nature": ["Quiet"], "ev spread": [240, 0, 0, 240, 0, 0], "iv spread": [31, 1, 30, 30, 30, 0]}], "counters": ["Stalling Out Trick Room Turns", "Dark-types", "Steel-types"], "credits": ["Written by zizalith and Merritt", "Quality checked by Fiend, Coconut,  and Nineage", "Grammar checked by A Cake Wearing A Hat and frostration"]}
+{
+    "name": "Solosis",
+    "forms": {
+        "Base": {
+            "base stats": [
+                45,
+                30,
+                40,
+                105,
+                50,
+                20
+            ],
+            "types": [
+                "Psychic"
+            ],
+            "abilities": [
+                "Magic Guard",
+                "Overcoat",
+                "Regenerator"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Although Solosis is almost completely overshadowed by Abra as an offensive Psychic-type, it finds a small niche for itself on dedicated Trick Room teams as an offensive Trick Room setter due to its horrendous Speed and huge Special Attack stat, tying with Abra for the highest Special Attack stat in the tier. Solosis is also blessed with an excellent ability in Magic Guard, which allows it to avoid all passive damage, and has access to Thunder, which lets it nail Vullaby for much higher damage than other Psychic-types are able to. However, Trick Room teams aren't particularly reliable or consistent in Little Cup, and Solosis's middling bulk and mediocre defensive typing mean it may struggle to justify use on Trick Room teams over alternate setters like Spritzee. In addition, Solosis's overreliance on Trick Room being active to sweep makes it almost useless outside of Trick Room teams due to its lacking Speed. Most teams should use Abra for their wallbreaking needs.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Offensive Trick Room",
+            "stats": [
+                186,
+                66,
+                115,
+                335,
+                135,
+                40
+            ],
+            "type": [
+                "Psychic"
+            ],
+            "usage": "Solosis should always prioritize setting Trick Room before starting to break through the opponent's team. Solosis should ideally avoid switching directly into attacks so that it has enough HP to set up Trick Room, since it is rather frail. Instead, it should come in after a teammate faints or through the help of a pivot. Steel- and Dark-types should be weakened or KOed before Solosis attempts to sweep if at all possible, since at high HP, they can prevent Solosis from sweeping.",
+            "moves": [
+                [
+                    "Trick Room"
+                ],
+                [
+                    "Psychic"
+                ],
+                [
+                    "Thunder"
+                ],
+                [
+                    "Hidden Power Fighting"
+                ]
+            ],
+            "item": [
+                " Electrium Z",
+                " Life Orb"
+            ],
+            "ability": [
+                "Magic Guard"
+            ],
+            "nature": [
+                "Quiet"
+            ],
+            "ev spread": [
+                240,
+                0,
+                0,
+                240,
+                0,
+                0
+            ],
+            "iv spread": [
+                31,
+                1,
+                30,
+                30,
+                30,
+                0
+            ]
+        }
+    ],
+    "counters": [
+        "Stalling Out Trick Room Turns",
+        "Dark-types",
+        "Steel-types"
+    ],
+    "credits": [
+        "Written by zizalith and Merritt",
+        "Quality checked by Fiend, Coconut,  and Nineage",
+        "Grammar checked by A Cake Wearing A Hat and frostration"
+    ]
+}

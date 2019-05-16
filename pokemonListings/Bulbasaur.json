@@ -1,1 +1,99 @@
-{"name": "Bulbasaur", "forms": {"Base": {"base stats": [45, 49, 49, 65, 65, 45], "types": ["Grass", "Poison"], "abilities": ["Chlorophyll", "Overgrow"], "tier": ["LC"], "form": "Base"}}, "overview": "Bulbasaur is a potent sweeper in the LC metagame, as Z-Celebrate allows it to clean mid- or late-game and sweep unprepared teams with ease. Additionally, its Z-Celebrate-boosted bulk and access to Sleep Powder allow it to take some hits from strong Pokemon or immobilize them after setting up, since its good defensive typing gives it some key resistances, such as Fighting, Fairy, and Water. Unfortunately, Bulbasaur is frail and weak without the Z-Celebrate boosts, and it lacks setup opportunities against most of the Pokemon in the metagame since it is weak to common types such as Psychic and Flying. Bulbasaur also has a bad movepool and has to rely on Hidden Power Fire to do significant damage to Steel- and Poison-types, even with a Z-Celebrate boost, which can only be obtained once. Bulbasaur is also outsped by common Choice Scarf users such as Doduo and Rufflet. Bulbasaur also faces competition with Pumpkaboo-S, as both can use Z-Moves to boost all of their stats, and Z-Trick-or-Treat is obviously more useful than Z-Celebrate.\n", "strategies' format": "LC", "strategies": [{"name": "Z-Celebrate Sweeper", "stats": [126, 120, 145, 226, 166, 186], "type": ["Grass", "Poison"], "usage": "Bulbasaur is best used as a late-game sweeper or as a cleaner, so try to find setup opportunities against passive or slower Pokemon, such as Spritzee, Snubbull, and Timburr, by immobilizing them with Sleep Powder if Bulbasaur uses it on its set. Avoid setting up when your opponent has Pokemon that will eventually stop Bulbasaur, such as Steel-types and revenge killers. When playing against Pokemon that can check Bulbasaur effectively after a boost, use Sleep Powder to shut them down, but remember that Bulbasaur should stay healthy before it sets up. This includes avoiding status such as paralysis. Lastly, remove phazers such as Mareanie before setting up, as Bulbasaur is completely useless without the boosts provided by Z-Celebrate.", "moves": [["Celebrate"], ["Sludge Bomb"], ["Giga Drain"], ["Hidden Power Fire", "Sleep Powder"]], "item": [" Normalium Z"], "ability": ["Chlorophyll"], "nature": ["Modest"], "ev spread": [0, 0, 44, 160, 0, 240], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Fire-types", "Flying-types", "Bulky Steel-types", "Revenge Killers", "Poison-types"], "credits": ["Written by Highways", "Quality checked by Hilomilo, Xayah,  and Corporal Levi", "Grammar checked by GatoDelFuego and CryoGyro"]}
+{
+    "name": "Bulbasaur",
+    "forms": {
+        "Base": {
+            "base stats": [
+                45,
+                49,
+                49,
+                65,
+                65,
+                45
+            ],
+            "types": [
+                "Grass",
+                "Poison"
+            ],
+            "abilities": [
+                "Chlorophyll",
+                "Overgrow"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Bulbasaur is a potent sweeper in the LC metagame, as Z-Celebrate allows it to clean mid- or late-game and sweep unprepared teams with ease. Additionally, its Z-Celebrate-boosted bulk and access to Sleep Powder allow it to take some hits from strong Pokemon or immobilize them after setting up, since its good defensive typing gives it some key resistances, such as Fighting, Fairy, and Water. Unfortunately, Bulbasaur is frail and weak without the Z-Celebrate boosts, and it lacks setup opportunities against most of the Pokemon in the metagame since it is weak to common types such as Psychic and Flying. Bulbasaur also has a bad movepool and has to rely on Hidden Power Fire to do significant damage to Steel- and Poison-types, even with a Z-Celebrate boost, which can only be obtained once. Bulbasaur is also outsped by common Choice Scarf users such as Doduo and Rufflet. Bulbasaur also faces competition with Pumpkaboo-S, as both can use Z-Moves to boost all of their stats, and Z-Trick-or-Treat is obviously more useful than Z-Celebrate.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Z-Celebrate Sweeper",
+            "stats": [
+                126,
+                120,
+                145,
+                226,
+                166,
+                186
+            ],
+            "type": [
+                "Grass",
+                "Poison"
+            ],
+            "usage": "Bulbasaur is best used as a late-game sweeper or as a cleaner, so try to find setup opportunities against passive or slower Pokemon, such as Spritzee, Snubbull, and Timburr, by immobilizing them with Sleep Powder if Bulbasaur uses it on its set. Avoid setting up when your opponent has Pokemon that will eventually stop Bulbasaur, such as Steel-types and revenge killers. When playing against Pokemon that can check Bulbasaur effectively after a boost, use Sleep Powder to shut them down, but remember that Bulbasaur should stay healthy before it sets up. This includes avoiding status such as paralysis. Lastly, remove phazers such as Mareanie before setting up, as Bulbasaur is completely useless without the boosts provided by Z-Celebrate.",
+            "moves": [
+                [
+                    "Celebrate"
+                ],
+                [
+                    "Sludge Bomb"
+                ],
+                [
+                    "Giga Drain"
+                ],
+                [
+                    "Hidden Power Fire",
+                    "Sleep Powder"
+                ]
+            ],
+            "item": [
+                " Normalium Z"
+            ],
+            "ability": [
+                "Chlorophyll"
+            ],
+            "nature": [
+                "Modest"
+            ],
+            "ev spread": [
+                0,
+                0,
+                44,
+                160,
+                0,
+                240
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Fire-types",
+        "Flying-types",
+        "Bulky Steel-types",
+        "Revenge Killers",
+        "Poison-types"
+    ],
+    "credits": [
+        "Written by Highways",
+        "Quality checked by Hilomilo, Xayah,  and Corporal Levi",
+        "Grammar checked by GatoDelFuego and CryoGyro"
+    ]
+}

@@ -1,1 +1,156 @@
-{"name": "Azumarill", "forms": {"Base": {"base stats": [100, 50, 80, 60, 80, 50], "types": ["Water", "Fairy"], "abilities": ["Huge Power", "Sap Sipper", "Thick Fat"], "tier": ["UUBL"], "form": "Base"}}, "overview": "Azumarill is a decent sweeper in the OU metagame with the combination of Belly Drum, Aqua Jet, and its ability Huge Power. Its access to Knock Off also allows it muscle past common defensive Pokemon such as Toxapex and Ferrothorn at +6. Azumarill's Water / Fairy typing offers excellent STAB coverage and useful resistances to Dragon-, Dark-, Fire-, and Fighting-type attacks, which gives it plenty of setup opportunities. Unfortunately, Azumarill suffers from a lackluster Speed stat, which, despite its adequate natural bulk, leaves it vulnerable to faster Aqua Jet resists such as Kartana, Kyurem-B, Mega Venusaur, and Tapu Bulu. The prevalence of Psychic Terrain can also be a problem for Azumarill, as its low Speed will frequently force it to rely on using Aqua Jet.\n", "strategies' format": "OU", "strategies": [{"name": "Belly Drum", "stats": [237, 218, 196, 140, 196, 199], "type": ["Water", "Fairy"], "usage": "This set should aim to clean up late-game when Aqua Jet-resists such as Mega Venusaur, Kyurem-B, and Kartana are weakened or eliminated.  Tapu Lele is another threat, as the Psychic Terrain makes Aqua Jet useless. Z-Belly Drum is a very useful tool since it restores Azumarill's health to a 100% before set up. This allows Azumarill to set up on Pokemon such as defensive Zapdos and Mega Alakazam if needed.", "moves": [["Belly Drum"], ["Aqua Jet"], ["Play Rough"], ["Knock Off"]], "item": [" Normalium Z", " Sitrus Berry"], "ability": ["Huge Power"], "nature": ["Adamant"], "ev spread": [4, 252, 0, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Perish Trap", "stats": [299, 122, 196, 156, 278, 143], "type": ["Water", "Fairy"], "usage": "Azumarill lures and traps troublesome defensive Pokemon that typically switch into it such as Toxapex, Ferrothorn, and Tangrowth. Thus, avoid taking chip damage so as to not reveal Azumarill's set before trapping them. Azumarill should always use Whirlpool if you think the opponent is going to send something that can be trapped. Anything else can prompt the foe to immediately switch out so in order to avoid getting trapped. Once a Pokemon has been trapped by Whirlpool, immediately use Perish Song to put it on a timer, and use Protect the turn after that. It's usually a good idea to attempt to use Protect a second time in order to stop Azumarill from taking any extra damage. Even though it's likely to fail, there's very little else Azumarill can do in this situation, since it's facing a Pokemon that's just about to be KOed. Once the Perish Song counter is on its last turn, simply switch to something that can take the opposing Pokemon's last move. If you don't need to trap anything, don't hesitate to send Azumarill in on Pokemon it walls such as Greninja, Kartana, and Tapu Bulu. Azumarill hates being statused and dislikes losing its item, so avoid keeping it in on Pokemon that commonly carry Toxic, Will-O-Wisp, or Knock Off. However, don't be afraid to do so if it means trapping a troublesome Pokemon such as Toxapex if Azumarill will not be needed too much for the rest of the battle. Entry hazards should be off the field before you send Azumarill in; Toxic Spikes are especially troublesome. Azumarill isn't particularly bulky and lacks reliable recovery, so make sure to keep it healthy throughout the match, especially if you need it to trap something.", "moves": [["Perish Song"], ["Whirlpool"], ["Protect"], ["Toxic", "Hidden Power Fire"]], "item": [" Leftovers", " Iapapa Berry"], "ability": ["Sap Sipper"], "nature": ["Calm"], "ev spread": [252, 0, 0, 0, 228, 28], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Aqua Jet-resistant Pokemon", "Tapu Lele", "Powerful Attackers"], "credits": ["Written by Hilomilo and Albacore", "Earlier versions by thejewishgiraffe", "Quality checked by PK Gaming, DennisEG, Finchinator, Leo,  and GMars", "Grammar checked by P Squared, CryoGyro, A Cake Wearing A Hat,  and The Dutch Plumberjack"]}
+{
+    "name": "Azumarill",
+    "forms": {
+        "Base": {
+            "base stats": [
+                100,
+                50,
+                80,
+                60,
+                80,
+                50
+            ],
+            "types": [
+                "Water",
+                "Fairy"
+            ],
+            "abilities": [
+                "Huge Power",
+                "Sap Sipper",
+                "Thick Fat"
+            ],
+            "tier": [
+                "UUBL"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Azumarill is a decent sweeper in the OU metagame with the combination of Belly Drum, Aqua Jet, and its ability Huge Power. Its access to Knock Off also allows it muscle past common defensive Pokemon such as Toxapex and Ferrothorn at +6. Azumarill's Water / Fairy typing offers excellent STAB coverage and useful resistances to Dragon-, Dark-, Fire-, and Fighting-type attacks, which gives it plenty of setup opportunities. Unfortunately, Azumarill suffers from a lackluster Speed stat, which, despite its adequate natural bulk, leaves it vulnerable to faster Aqua Jet resists such as Kartana, Kyurem-B, Mega Venusaur, and Tapu Bulu. The prevalence of Psychic Terrain can also be a problem for Azumarill, as its low Speed will frequently force it to rely on using Aqua Jet.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Belly Drum",
+            "stats": [
+                237,
+                218,
+                196,
+                140,
+                196,
+                199
+            ],
+            "type": [
+                "Water",
+                "Fairy"
+            ],
+            "usage": "This set should aim to clean up late-game when Aqua Jet-resists such as Mega Venusaur, Kyurem-B, and Kartana are weakened or eliminated.  Tapu Lele is another threat, as the Psychic Terrain makes Aqua Jet useless. Z-Belly Drum is a very useful tool since it restores Azumarill's health to a 100% before set up. This allows Azumarill to set up on Pokemon such as defensive Zapdos and Mega Alakazam if needed.",
+            "moves": [
+                [
+                    "Belly Drum"
+                ],
+                [
+                    "Aqua Jet"
+                ],
+                [
+                    "Play Rough"
+                ],
+                [
+                    "Knock Off"
+                ]
+            ],
+            "item": [
+                " Normalium Z",
+                " Sitrus Berry"
+            ],
+            "ability": [
+                "Huge Power"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                4,
+                252,
+                0,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Perish Trap",
+            "stats": [
+                299,
+                122,
+                196,
+                156,
+                278,
+                143
+            ],
+            "type": [
+                "Water",
+                "Fairy"
+            ],
+            "usage": "Azumarill lures and traps troublesome defensive Pokemon that typically switch into it such as Toxapex, Ferrothorn, and Tangrowth. Thus, avoid taking chip damage so as to not reveal Azumarill's set before trapping them. Azumarill should always use Whirlpool if you think the opponent is going to send something that can be trapped. Anything else can prompt the foe to immediately switch out so in order to avoid getting trapped. Once a Pokemon has been trapped by Whirlpool, immediately use Perish Song to put it on a timer, and use Protect the turn after that. It's usually a good idea to attempt to use Protect a second time in order to stop Azumarill from taking any extra damage. Even though it's likely to fail, there's very little else Azumarill can do in this situation, since it's facing a Pokemon that's just about to be KOed. Once the Perish Song counter is on its last turn, simply switch to something that can take the opposing Pokemon's last move. If you don't need to trap anything, don't hesitate to send Azumarill in on Pokemon it walls such as Greninja, Kartana, and Tapu Bulu. Azumarill hates being statused and dislikes losing its item, so avoid keeping it in on Pokemon that commonly carry Toxic, Will-O-Wisp, or Knock Off. However, don't be afraid to do so if it means trapping a troublesome Pokemon such as Toxapex if Azumarill will not be needed too much for the rest of the battle. Entry hazards should be off the field before you send Azumarill in; Toxic Spikes are especially troublesome. Azumarill isn't particularly bulky and lacks reliable recovery, so make sure to keep it healthy throughout the match, especially if you need it to trap something.",
+            "moves": [
+                [
+                    "Perish Song"
+                ],
+                [
+                    "Whirlpool"
+                ],
+                [
+                    "Protect"
+                ],
+                [
+                    "Toxic",
+                    "Hidden Power Fire"
+                ]
+            ],
+            "item": [
+                " Leftovers",
+                " Iapapa Berry"
+            ],
+            "ability": [
+                "Sap Sipper"
+            ],
+            "nature": [
+                "Calm"
+            ],
+            "ev spread": [
+                252,
+                0,
+                0,
+                0,
+                228,
+                28
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Aqua Jet-resistant Pokemon",
+        "Tapu Lele",
+        "Powerful Attackers"
+    ],
+    "credits": [
+        "Written by Hilomilo and Albacore",
+        "Earlier versions by thejewishgiraffe",
+        "Quality checked by PK Gaming, DennisEG, Finchinator, Leo,  and GMars",
+        "Grammar checked by P Squared, CryoGyro, A Cake Wearing A Hat,  and The Dutch Plumberjack"
+    ]
+}

@@ -1,1 +1,98 @@
-{"name": "Gastrodon", "forms": {"Base": {"base stats": [111, 83, 68, 92, 82, 39], "types": ["Water", "Ground"], "abilities": ["Sand Force", "Sticky Hold", "Storm Drain"], "tier": ["PU"], "form": "Base"}}, "overview": "By virtue of Gastrodon's modest defenses, solid defensive typing that leaves it with only one weakness, and access to a reliable recovery move, it finds its niche in OU as an answer to special attackers like Heatran, Tapu Koko, Greninja, Magearna, and Mega Diancie. However, some of these Pokemon such as Heatran and Tapu Koko possess ways of getting around Gastrodon. While it being a Ground-type that isn't weak to Hidden Power Ice is already a great boon, Storm Drain only adds to its defensive qualities, making it a great answer to Water-types in general, as well as to rain sweepers like Kingdra and Ash-Greninja. Gastrodon faces competition from Toxapex, which is another bulky Water-type also capable of checking Ash-Greninja and Kingdra and providing Toxic Spikes or Knock Off support. Furthermore, Toxapex also has better overall bulk and access to Regenerator, which makes it less of a momentum drain than Gastrodon. It also struggles with mediocre bulk, especially physically, which makes it difficult for it to take hits from anything besides the special threats it checks.\n", "strategies' format": "OU", "strategies": [{"name": "Specially Defensive", "stats": [320, 202, 174, 220, 289, 102], "type": ["Water", "Ground"], "usage": "Using Gastrodon is pretty straightforward, as it basically boils down to using Recover to keep Gastrodon's HP high and using attacks and Toxic on the turns where Recover isn't necessary. Gastrodon can switch into special threats such as Heatran, Tapu Koko, Tornadus-T, and Greninja quite freely and heal off the damage, firing off Scald and Toxic to wear down bulkier foes. It's also a safe answer to common Volt Switch users like Tapu Koko, Magnezone, Zapdos, Rotom-W, and Magearna, and it can easily switch in and block their attempts at gaining momentum or heal off the damage from their main attacks. When using Gastrodon, be wary of Toxic on defensive Pokemon that Gastrodon would otherwise check, such as Heatran. Similarly, scouting for Grass moves can be beneficial, such as Bloom Doom on Heatran.", "moves": [["Scald"], ["Recover"], ["Toxic"], ["Earthquake"]], "item": [" Leftovers"], "ability": ["Storm Drain"], "nature": ["Sassy"], "ev spread": [248, 0, 8, 0, 252, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Grass-types", "Pokemon with Grass-type Coverage", "Strong Wallbreakers", "Setup Sweepers"], "credits": ["Written by readytolose", "Quality checked by PK Gaming, Colonel M, Subject 18,  and Hootie", "Grammar checked by P Squared and The Dutch Plumberjack"]}
+{
+    "name": "Gastrodon",
+    "forms": {
+        "Base": {
+            "base stats": [
+                111,
+                83,
+                68,
+                92,
+                82,
+                39
+            ],
+            "types": [
+                "Water",
+                "Ground"
+            ],
+            "abilities": [
+                "Sand Force",
+                "Sticky Hold",
+                "Storm Drain"
+            ],
+            "tier": [
+                "PU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "By virtue of Gastrodon's modest defenses, solid defensive typing that leaves it with only one weakness, and access to a reliable recovery move, it finds its niche in OU as an answer to special attackers like Heatran, Tapu Koko, Greninja, Magearna, and Mega Diancie. However, some of these Pokemon such as Heatran and Tapu Koko possess ways of getting around Gastrodon. While it being a Ground-type that isn't weak to Hidden Power Ice is already a great boon, Storm Drain only adds to its defensive qualities, making it a great answer to Water-types in general, as well as to rain sweepers like Kingdra and Ash-Greninja. Gastrodon faces competition from Toxapex, which is another bulky Water-type also capable of checking Ash-Greninja and Kingdra and providing Toxic Spikes or Knock Off support. Furthermore, Toxapex also has better overall bulk and access to Regenerator, which makes it less of a momentum drain than Gastrodon. It also struggles with mediocre bulk, especially physically, which makes it difficult for it to take hits from anything besides the special threats it checks.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Specially Defensive",
+            "stats": [
+                320,
+                202,
+                174,
+                220,
+                289,
+                102
+            ],
+            "type": [
+                "Water",
+                "Ground"
+            ],
+            "usage": "Using Gastrodon is pretty straightforward, as it basically boils down to using Recover to keep Gastrodon's HP high and using attacks and Toxic on the turns where Recover isn't necessary. Gastrodon can switch into special threats such as Heatran, Tapu Koko, Tornadus-T, and Greninja quite freely and heal off the damage, firing off Scald and Toxic to wear down bulkier foes. It's also a safe answer to common Volt Switch users like Tapu Koko, Magnezone, Zapdos, Rotom-W, and Magearna, and it can easily switch in and block their attempts at gaining momentum or heal off the damage from their main attacks. When using Gastrodon, be wary of Toxic on defensive Pokemon that Gastrodon would otherwise check, such as Heatran. Similarly, scouting for Grass moves can be beneficial, such as Bloom Doom on Heatran.",
+            "moves": [
+                [
+                    "Scald"
+                ],
+                [
+                    "Recover"
+                ],
+                [
+                    "Toxic"
+                ],
+                [
+                    "Earthquake"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Storm Drain"
+            ],
+            "nature": [
+                "Sassy"
+            ],
+            "ev spread": [
+                248,
+                0,
+                8,
+                0,
+                252,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Grass-types",
+        "Pokemon with Grass-type Coverage",
+        "Strong Wallbreakers",
+        "Setup Sweepers"
+    ],
+    "credits": [
+        "Written by readytolose",
+        "Quality checked by PK Gaming, Colonel M, Subject 18,  and Hootie",
+        "Grammar checked by P Squared and The Dutch Plumberjack"
+    ]
+}

@@ -1,1 +1,154 @@
-{"name": "Snover", "forms": {"Base": {"base stats": [60, 62, 50, 62, 60, 40], "types": ["Grass", "Ice"], "abilities": ["Snow Warning", "Soundproof"], "tier": ["LC"], "form": "Base"}}, "overview": "Snover is one of the best hail setters due to its ability Snow Warning automatically setting it upon switching in. Alongside the hail support it provides, it has a good synergy with Alolan Sandshrew, which benefits from the hail. Snover also has access to powerful moves such as Blizzard, which has perfect accuracy in hail and can do massive damage; Giga Drain, which does reasonable STAB damage and provides a form of recovery; and Ice Shard, which can clean off weakened Pokemon. With a Choice Scarf, Snover can outspeed almost all of the unboosted metagame and take out a variety of different Pokemon such as Water-, Ground-, and Flying-types. Snover's Grass / Ice typing leaves it very weak to the common Fighting-type Pokemon and Stealth Rock and the majority of its setters. Snover also faces competition from the two other hail setters, Alolan Vulpix and Amaura, which can set up Aurora Veil and Stealth Rock, respectively. However, Snover differences itself from the other two hail setters due to being able to recover health with Giga Drain, and it can also clean weakened Pokemon with priority moves as well, which are traits that Amaura and Alolan Vulpix don't have. Snover may have Hidden Power Ground, but it mostly cannot KO its checks in a one-on-one situation unless it hits them on an expected switch, so it lacks reliable coverage.\n", "strategies' format": "LC", "strategies": [{"name": "Choice Scarf", "stats": [156, 186, 136, 206, 140, 182], "type": ["Grass", "Ice"], "usage": "Snover is a moderate sweeper that should be sent in early-game to weaken its checks, which are mostly important pivots, so that if they're eliminated, it would be easier for Snover's teammates to sweep. When all of the Pokemon that resist Blizzard such as Fire- and Steel-types are eliminated, Snover can freely spam Blizzard to inflict heavy damage neutrally or super effectively. Snover can switch into resisted moves from Pokemon that don't have any good moves to check it with, and then Snover can revenge kill them if they don't switch out, although Snover needs to be extremely wary of coverage moves because it is rather frail. Snover can use this method against most Chinchou variants, but Snover needs to watch out for Ice Beam. Snover shouldn't directly use Hidden Power Ground against one of its checks in a one-on-one situation because it will most likely lose; however, if they are frail enough, Snover can 2HKO them if it hits them on the switch and outspeeds them later.", "moves": [["Blizzard"], ["Giga Drain"], ["Ice Shard"], ["Hidden Power Ground", "Hidden Power Fire"]], "item": [" Choice Scarf"], "ability": ["Snow Warning"], "nature": ["Naive"], "ev spread": [0, 104, 0, 184, 0, 200], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Balanced Pivot", "stats": [165, 186, 146, 226, 186, 104], "type": ["Grass", "Ice"], "usage": "With its balance between defense and offense, Snover can be used as a pivot and switch into Pokemon that it resists and possibly take them out with super effective STAB moves. Pokemon that Snover can switch into and take out include Staryu and Chinchou, although Snover needs to watch out for the latter's Ice Beam if they run it. Snover should not be carelessly pivoted because if its switches into Knock Off, it loses an important portion of its bulk and is left more vulnerable, allowing it to be KOed by its faster checks. Snover should also be careful when pivoting, as the opponent can predict Snover switching in and hit it with a super effective coverage move; unexpected status moves are also risky to switch into, so be careful when pivoting Snover, and beware for status and coverage moves. As the Choice Scarf set is more commonly known and used, Snover can bluff being Choice-locked and surprise the opposing Pokemon that resists the previously used move with an other super effective move; an example of this is if Snover uses Blizzard when Staryu switches in and then surprises Staryu with Giga Drain. Snover should only use Hidden Power Ground if it predicts that one of its checks are going to switch in so it can deal super effective damage, although if Snover cannot outspeed that check, it needs to switch out because it will get KOed. You should never use Hidden Power Ground in a one-on-one situation against Snover's checks because mostly all of them can easily take a Hidden Power Ground and KO Snover.", "moves": [["Blizzard"], ["Giga Drain"], ["Ice Shard"], ["Hidden Power Ground"]], "item": [" Eviolite"], "ability": ["Snow Warning"], "nature": ["Quiet"], "ev spread": [36, 104, 40, 184, 120, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Fire-types", "Steel-types", "Bulky Fighting-types", "Flying-types", "Stealth Rock"], "credits": ["Written by Conni", "Quality checked by Xayah, Hilomilo,  and Corporal Levi", "Grammar checked by Winry and Fireflame479"]}
+{
+    "name": "Snover",
+    "forms": {
+        "Base": {
+            "base stats": [
+                60,
+                62,
+                50,
+                62,
+                60,
+                40
+            ],
+            "types": [
+                "Grass",
+                "Ice"
+            ],
+            "abilities": [
+                "Snow Warning",
+                "Soundproof"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Snover is one of the best hail setters due to its ability Snow Warning automatically setting it upon switching in. Alongside the hail support it provides, it has a good synergy with Alolan Sandshrew, which benefits from the hail. Snover also has access to powerful moves such as Blizzard, which has perfect accuracy in hail and can do massive damage; Giga Drain, which does reasonable STAB damage and provides a form of recovery; and Ice Shard, which can clean off weakened Pokemon. With a Choice Scarf, Snover can outspeed almost all of the unboosted metagame and take out a variety of different Pokemon such as Water-, Ground-, and Flying-types. Snover's Grass / Ice typing leaves it very weak to the common Fighting-type Pokemon and Stealth Rock and the majority of its setters. Snover also faces competition from the two other hail setters, Alolan Vulpix and Amaura, which can set up Aurora Veil and Stealth Rock, respectively. However, Snover differences itself from the other two hail setters due to being able to recover health with Giga Drain, and it can also clean weakened Pokemon with priority moves as well, which are traits that Amaura and Alolan Vulpix don't have. Snover may have Hidden Power Ground, but it mostly cannot KO its checks in a one-on-one situation unless it hits them on an expected switch, so it lacks reliable coverage.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Choice Scarf",
+            "stats": [
+                156,
+                186,
+                136,
+                206,
+                140,
+                182
+            ],
+            "type": [
+                "Grass",
+                "Ice"
+            ],
+            "usage": "Snover is a moderate sweeper that should be sent in early-game to weaken its checks, which are mostly important pivots, so that if they're eliminated, it would be easier for Snover's teammates to sweep. When all of the Pokemon that resist Blizzard such as Fire- and Steel-types are eliminated, Snover can freely spam Blizzard to inflict heavy damage neutrally or super effectively. Snover can switch into resisted moves from Pokemon that don't have any good moves to check it with, and then Snover can revenge kill them if they don't switch out, although Snover needs to be extremely wary of coverage moves because it is rather frail. Snover can use this method against most Chinchou variants, but Snover needs to watch out for Ice Beam. Snover shouldn't directly use Hidden Power Ground against one of its checks in a one-on-one situation because it will most likely lose; however, if they are frail enough, Snover can 2HKO them if it hits them on the switch and outspeeds them later.",
+            "moves": [
+                [
+                    "Blizzard"
+                ],
+                [
+                    "Giga Drain"
+                ],
+                [
+                    "Ice Shard"
+                ],
+                [
+                    "Hidden Power Ground",
+                    "Hidden Power Fire"
+                ]
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Snow Warning"
+            ],
+            "nature": [
+                "Naive"
+            ],
+            "ev spread": [
+                0,
+                104,
+                0,
+                184,
+                0,
+                200
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Balanced Pivot",
+            "stats": [
+                165,
+                186,
+                146,
+                226,
+                186,
+                104
+            ],
+            "type": [
+                "Grass",
+                "Ice"
+            ],
+            "usage": "With its balance between defense and offense, Snover can be used as a pivot and switch into Pokemon that it resists and possibly take them out with super effective STAB moves. Pokemon that Snover can switch into and take out include Staryu and Chinchou, although Snover needs to watch out for the latter's Ice Beam if they run it. Snover should not be carelessly pivoted because if its switches into Knock Off, it loses an important portion of its bulk and is left more vulnerable, allowing it to be KOed by its faster checks. Snover should also be careful when pivoting, as the opponent can predict Snover switching in and hit it with a super effective coverage move; unexpected status moves are also risky to switch into, so be careful when pivoting Snover, and beware for status and coverage moves. As the Choice Scarf set is more commonly known and used, Snover can bluff being Choice-locked and surprise the opposing Pokemon that resists the previously used move with an other super effective move; an example of this is if Snover uses Blizzard when Staryu switches in and then surprises Staryu with Giga Drain. Snover should only use Hidden Power Ground if it predicts that one of its checks are going to switch in so it can deal super effective damage, although if Snover cannot outspeed that check, it needs to switch out because it will get KOed. You should never use Hidden Power Ground in a one-on-one situation against Snover's checks because mostly all of them can easily take a Hidden Power Ground and KO Snover.",
+            "moves": [
+                [
+                    "Blizzard"
+                ],
+                [
+                    "Giga Drain"
+                ],
+                [
+                    "Ice Shard"
+                ],
+                [
+                    "Hidden Power Ground"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Snow Warning"
+            ],
+            "nature": [
+                "Quiet"
+            ],
+            "ev spread": [
+                36,
+                104,
+                40,
+                184,
+                120,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Fire-types",
+        "Steel-types",
+        "Bulky Fighting-types",
+        "Flying-types",
+        "Stealth Rock"
+    ],
+    "credits": [
+        "Written by Conni",
+        "Quality checked by Xayah, Hilomilo,  and Corporal Levi",
+        "Grammar checked by Winry and Fireflame479"
+    ]
+}

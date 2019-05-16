@@ -1,1 +1,102 @@
-{"name": "Jellicent", "forms": {"Base": {"base stats": [100, 60, 70, 85, 105, 60], "types": ["Water", "Ghost"], "abilities": ["Cursed Body", "Damp", "Water Absorb"], "tier": ["PU"], "form": "Base"}}, "overview": "Jellicent's primary role is a defensive spinblocker and a stallbreaker for balance and occasionally bulky offense. It has a great supportive movepool with access to Taunt, Scald, Will-O-Wisp and Hex; Will-O-Wisp is particularly useful for its ability to reliably cripple physical attackers and chip foes in general. With access to reliable recovery in Recover, Jellicent sets itself apart from other bulky Water-types in the tier, such as Suicune and Empoleon. It also has a unique Ghost / Water typing and great bulk, allowing it to check many Fighting-types, such as Cobalion and Infernape, and Steel-types, such as Scizor. Water Absorb allows Jellicent to pivot in on a large range of Water-type Pokemon, such as Tentacruel and Volcanion. Despite that, Jellicent's weakness to Dark leaves it with a crippling weakness to Pursuit, Knock Off, and Dark-type moves in general from Pokemon like Krookodile, Hydreigon, Scizor, and Bisharp. In addition, the popularity of VoltTurn-based teams, combined with Jellicent's weakness to Volt Switch users, such as Rotom-C and Mega Manectric, is detrimental for it. Jellicent's Speed doesn't help it either; it is a bit slow and, as a result, is shut down by faster Taunt users, such as Kommo-o. With investment, however, it can still outspeed and Taunt many defensive threats, such as Alomomola and Blissey.\n", "strategies' format": "UU", "strategies": [{"name": "Physically Defensive", "stats": [299, 140, 251, 206, 246, 167], "type": ["Water", "Ghost"], "usage": "Switch in Jellicent on physical attackers it is designed to beat, such as Scizor, Mega Aerodactyl, and Cobalion. Use Taunt against slower Pokemon that may try to beat Jellicent by crippling it with status or take advantage of it to set up hazards, such as Blissey and Alomomola. Its immunity to Water-type moves also allows Jellicent to switch in to opposing Water-types, such as Tentacruel, Alomomola, and Starmie, but you should be wary of Toxic from the former two and Thunderbolt from the latter. Take advantage of Jellicent's Ghost typing to spinblock effectively by pivoting into Rapid Spin users, such as Tentacruel and Starmie. Afterwards, afflicting the foe with status or double switching to a Pokemon that threatens out the aforementioned spinblockers are both great plays. Thanks to its naturally high Special Defense, Jellicent can switch in on weak or neutral special hits, such as defensive Sylveon's Hyper Voice and Volcanion's Earth Power. Jellicent is a huge threat to defensive teams if played correctly, as it can spam Taunt against them and continually chip slower Pokemon. Keep in mind that Jellicent's low Speed means that it often has to tank two hits when switching in. It can be worn down by Scizor and Cobalion repetitively using U-turn or Volt Switch, respectively, on Jellicent's switch-in to them, especially if Jellicent holds a Colbur Berry and not Leftovers. While it has access to reliable recovery, it is important to keep it away from status, especially Toxic, so it can continually tank hits and stallbreak must be played around, as they can cripple Jellicent by giving it a Choice item.", "moves": [["Hex", "Scald"], ["Taunt"], ["Will-O-Wisp"], ["Recover"]], "item": [" Leftovers", " Colbur Berry"], "ability": ["Water Absorb"], "nature": ["Bold"], "ev spread": [252, 0, 212, 0, 0, 44], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Grass-types", "Electric-types", "Residual Damage", "Dark-types", "Status-resistant Attackers", "Fast Clerics"], "credits": ["Written by Amane Misa", "Quality checked by Eyan, Hilomilo,  and Hikari", "Grammar checked by martha and The Dutch Plumberjack"]}
+{
+    "name": "Jellicent",
+    "forms": {
+        "Base": {
+            "base stats": [
+                100,
+                60,
+                70,
+                85,
+                105,
+                60
+            ],
+            "types": [
+                "Water",
+                "Ghost"
+            ],
+            "abilities": [
+                "Cursed Body",
+                "Damp",
+                "Water Absorb"
+            ],
+            "tier": [
+                "PU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Jellicent's primary role is a defensive spinblocker and a stallbreaker for balance and occasionally bulky offense. It has a great supportive movepool with access to Taunt, Scald, Will-O-Wisp and Hex; Will-O-Wisp is particularly useful for its ability to reliably cripple physical attackers and chip foes in general. With access to reliable recovery in Recover, Jellicent sets itself apart from other bulky Water-types in the tier, such as Suicune and Empoleon. It also has a unique Ghost / Water typing and great bulk, allowing it to check many Fighting-types, such as Cobalion and Infernape, and Steel-types, such as Scizor. Water Absorb allows Jellicent to pivot in on a large range of Water-type Pokemon, such as Tentacruel and Volcanion. Despite that, Jellicent's weakness to Dark leaves it with a crippling weakness to Pursuit, Knock Off, and Dark-type moves in general from Pokemon like Krookodile, Hydreigon, Scizor, and Bisharp. In addition, the popularity of VoltTurn-based teams, combined with Jellicent's weakness to Volt Switch users, such as Rotom-C and Mega Manectric, is detrimental for it. Jellicent's Speed doesn't help it either; it is a bit slow and, as a result, is shut down by faster Taunt users, such as Kommo-o. With investment, however, it can still outspeed and Taunt many defensive threats, such as Alomomola and Blissey.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Physically Defensive",
+            "stats": [
+                299,
+                140,
+                251,
+                206,
+                246,
+                167
+            ],
+            "type": [
+                "Water",
+                "Ghost"
+            ],
+            "usage": "Switch in Jellicent on physical attackers it is designed to beat, such as Scizor, Mega Aerodactyl, and Cobalion. Use Taunt against slower Pokemon that may try to beat Jellicent by crippling it with status or take advantage of it to set up hazards, such as Blissey and Alomomola. Its immunity to Water-type moves also allows Jellicent to switch in to opposing Water-types, such as Tentacruel, Alomomola, and Starmie, but you should be wary of Toxic from the former two and Thunderbolt from the latter. Take advantage of Jellicent's Ghost typing to spinblock effectively by pivoting into Rapid Spin users, such as Tentacruel and Starmie. Afterwards, afflicting the foe with status or double switching to a Pokemon that threatens out the aforementioned spinblockers are both great plays. Thanks to its naturally high Special Defense, Jellicent can switch in on weak or neutral special hits, such as defensive Sylveon's Hyper Voice and Volcanion's Earth Power. Jellicent is a huge threat to defensive teams if played correctly, as it can spam Taunt against them and continually chip slower Pokemon. Keep in mind that Jellicent's low Speed means that it often has to tank two hits when switching in. It can be worn down by Scizor and Cobalion repetitively using U-turn or Volt Switch, respectively, on Jellicent's switch-in to them, especially if Jellicent holds a Colbur Berry and not Leftovers. While it has access to reliable recovery, it is important to keep it away from status, especially Toxic, so it can continually tank hits and stallbreak must be played around, as they can cripple Jellicent by giving it a Choice item.",
+            "moves": [
+                [
+                    "Hex",
+                    "Scald"
+                ],
+                [
+                    "Taunt"
+                ],
+                [
+                    "Will-O-Wisp"
+                ],
+                [
+                    "Recover"
+                ]
+            ],
+            "item": [
+                " Leftovers",
+                " Colbur Berry"
+            ],
+            "ability": [
+                "Water Absorb"
+            ],
+            "nature": [
+                "Bold"
+            ],
+            "ev spread": [
+                252,
+                0,
+                212,
+                0,
+                0,
+                44
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Grass-types",
+        "Electric-types",
+        "Residual Damage",
+        "Dark-types",
+        "Status-resistant Attackers",
+        "Fast Clerics"
+    ],
+    "credits": [
+        "Written by Amane Misa",
+        "Quality checked by Eyan, Hilomilo,  and Hikari",
+        "Grammar checked by martha and The Dutch Plumberjack"
+    ]
+}

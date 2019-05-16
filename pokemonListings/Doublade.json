@@ -1,1 +1,101 @@
-{"name": "Doublade", "forms": {"Base": {"base stats": [59, 110, 150, 45, 49, 35], "types": ["Steel", "Ghost"], "abilities": ["No Guard"], "tier": ["UU"], "form": "Base"}}, "overview": "Doublade presents a unique pick for teams in the UU metagame as both a solid defensive pivot and a late-game sweeper. Doublade's defensive prowess stem from its monstrous Defense stat, access to Eviolite, and fantastic defensive typing. Its Ghost / Steel typing possesses nine resistances and three immunities, letting it check common threats such as Mega Aerodactyl, Latias, and Cobalion. Its respectable base 110 Attack and access to Swords Dance and STAB Shadow Sneak also make Doublade a formidable late-game sweeper, provided that its strong checks and counters have been weakened or removed. To counteract its fantastic physical bulk, however, Doublade's HP and Special Defense stats are much lower than it would prefer, leaving it to only rely on its typing to stomach strong special hits like Calm Mind Latias's +1 Devastating Drake. While it does possess a plethora of resistances, Doublade finds itself weak to common attacking types in Ground, Fire, and Dark, letting Pokemon such as Earthquake Terrakion, Fire Blast Mega Altaria, and Knock Off Scizor muscle past it after prior damage. Doublade's weakness to Dark-type moves also notably leaves it weak to Pursuit and Knock Off. The former often means that it is too weak to act as a defensive pivot, while the latter removes its Eviolite, hindering its overall bulk. Doublade also lacks any form of reliable recovery, meaning it is easily worn down by entry hazards and other damage accumulated throughout a match. Finally, Doublade has no use for its ability, No Guard, and it also makes opposing inaccurate moves like Fire Blast and Hydro Pump always hit.\n", "strategies' format": "UU", "strategies": [{"name": "Swords Dance", "stats": [214, 350, 336, 126, 138, 67], "type": ["Steel", "Ghost"], "usage": "Bring Doublade in on Pokemon like Mega Aerodactyl, Cobalion, and Scizor that it fares well against in order to either throw out a free attack or set up a Swords Dance. Weaken or remove Doublade's main counters in Water- and Dark-types like Alomomola and Hydreigon before attempting to sweep with Doublade late-game. Doublade can also be used as a revenge killer, picking off weakened foes like Latias and Starmie with Shadow Sneak. Scout for super effective coverage moves such as Mega Altaria's Fire Blast and Scizor's Knock Off to avoid unnecessary damage. Keep Doublade as healthy as possible if it is needed to check multiple foes or if it has a good chance to clean up late-game. Remove opposing entry hazards, specifically Spikes, with a teammate whenever possible, as they severely hinder Doublade's longevity. Doublade can also be used early- to mid-game to soften a Pokemon like Hydreigon with Gyro Ball to aid teammates and ease its attempts to sweep late-game. If possible, do not let Doublade get hit by Knock Off, as it relies on Eviolite for much of its bulk.", "moves": [["Swords Dance"], ["Gyro Ball", "Iron Head"], ["Shadow Claw", "Sacred Sword"], ["Shadow Sneak"]], "item": [" Eviolite"], "ability": ["No Guard"], "nature": ["Brave", "Adamant"], "ev spread": [240, 252, 0, 0, 16, 0], "iv spread": [31, 31, 31, 31, 31, 0]}], "counters": ["Bulky Water-types", "Dark-types", "Ground-types", "Powerful Special Attackers", "Knock Off"], "credits": ["Written by Pak", "Earlier versions by MiyoKa", "Quality checked by Cynde, Nuked,  and Eyan", "Grammar checked by A Cake Wearing A Hat and martha"]}
+{
+    "name": "Doublade",
+    "forms": {
+        "Base": {
+            "base stats": [
+                59,
+                110,
+                150,
+                45,
+                49,
+                35
+            ],
+            "types": [
+                "Steel",
+                "Ghost"
+            ],
+            "abilities": [
+                "No Guard"
+            ],
+            "tier": [
+                "UU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Doublade presents a unique pick for teams in the UU metagame as both a solid defensive pivot and a late-game sweeper. Doublade's defensive prowess stem from its monstrous Defense stat, access to Eviolite, and fantastic defensive typing. Its Ghost / Steel typing possesses nine resistances and three immunities, letting it check common threats such as Mega Aerodactyl, Latias, and Cobalion. Its respectable base 110 Attack and access to Swords Dance and STAB Shadow Sneak also make Doublade a formidable late-game sweeper, provided that its strong checks and counters have been weakened or removed. To counteract its fantastic physical bulk, however, Doublade's HP and Special Defense stats are much lower than it would prefer, leaving it to only rely on its typing to stomach strong special hits like Calm Mind Latias's +1 Devastating Drake. While it does possess a plethora of resistances, Doublade finds itself weak to common attacking types in Ground, Fire, and Dark, letting Pokemon such as Earthquake Terrakion, Fire Blast Mega Altaria, and Knock Off Scizor muscle past it after prior damage. Doublade's weakness to Dark-type moves also notably leaves it weak to Pursuit and Knock Off. The former often means that it is too weak to act as a defensive pivot, while the latter removes its Eviolite, hindering its overall bulk. Doublade also lacks any form of reliable recovery, meaning it is easily worn down by entry hazards and other damage accumulated throughout a match. Finally, Doublade has no use for its ability, No Guard, and it also makes opposing inaccurate moves like Fire Blast and Hydro Pump always hit.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Swords Dance",
+            "stats": [
+                214,
+                350,
+                336,
+                126,
+                138,
+                67
+            ],
+            "type": [
+                "Steel",
+                "Ghost"
+            ],
+            "usage": "Bring Doublade in on Pokemon like Mega Aerodactyl, Cobalion, and Scizor that it fares well against in order to either throw out a free attack or set up a Swords Dance. Weaken or remove Doublade's main counters in Water- and Dark-types like Alomomola and Hydreigon before attempting to sweep with Doublade late-game. Doublade can also be used as a revenge killer, picking off weakened foes like Latias and Starmie with Shadow Sneak. Scout for super effective coverage moves such as Mega Altaria's Fire Blast and Scizor's Knock Off to avoid unnecessary damage. Keep Doublade as healthy as possible if it is needed to check multiple foes or if it has a good chance to clean up late-game. Remove opposing entry hazards, specifically Spikes, with a teammate whenever possible, as they severely hinder Doublade's longevity. Doublade can also be used early- to mid-game to soften a Pokemon like Hydreigon with Gyro Ball to aid teammates and ease its attempts to sweep late-game. If possible, do not let Doublade get hit by Knock Off, as it relies on Eviolite for much of its bulk.",
+            "moves": [
+                [
+                    "Swords Dance"
+                ],
+                [
+                    "Gyro Ball",
+                    "Iron Head"
+                ],
+                [
+                    "Shadow Claw",
+                    "Sacred Sword"
+                ],
+                [
+                    "Shadow Sneak"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "No Guard"
+            ],
+            "nature": [
+                "Brave",
+                "Adamant"
+            ],
+            "ev spread": [
+                240,
+                252,
+                0,
+                0,
+                16,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                0
+            ]
+        }
+    ],
+    "counters": [
+        "Bulky Water-types",
+        "Dark-types",
+        "Ground-types",
+        "Powerful Special Attackers",
+        "Knock Off"
+    ],
+    "credits": [
+        "Written by Pak",
+        "Earlier versions by MiyoKa",
+        "Quality checked by Cynde, Nuked,  and Eyan",
+        "Grammar checked by A Cake Wearing A Hat and martha"
+    ]
+}

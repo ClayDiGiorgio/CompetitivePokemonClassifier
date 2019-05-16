@@ -1,1 +1,98 @@
-{"name": "Treecko", "forms": {"Base": {"base stats": [40, 45, 35, 65, 55, 70], "types": ["Grass"], "abilities": ["Overgrow", "Unburden"], "tier": ["LC"], "form": "Base"}}, "overview": "Treecko has a unique niche on offensive teams thanks to its Unburden ability. This allows Treecko to set up Swords Dance, usually take a hit, and consume Berry Juice afterward, thus doubling its Speed and becoming a threatening late-game sweeper. Alongside Treecko's fantastic ability and access to Swords Dance are plenty of useful coverage options, including Acrobatics, Drain Punch, and Rock Slide. Unfortunately, Treecko is extremely frail with a poor defensive typing and is thus vulnerable to super effective attacks, powerful offensive Pokemon, and strong priority. Treecko is also extremely weak before a Swords Dance boost, meaning that it is quite reliant on the move to do any notable damage. It can still struggle to break past some bulky threats after a boost, such as Spritzee, Vullaby, Mareanie, and Foongus, as it isn't extremely powerful even after using Swords Dance. Unburden can also be a rather situational ability in that it only activates once, meaning that upon setting up, Treecko will put itself in an all-or-nothing situation. Treecko also suffers from a slight case of four-moveslot syndrome, as its choice of coverage will either prevent it from hurting Fire- and Poison-types if it uses Acrobatics or from hurting Grass- and Fighting-types if it uses Rock Slide. Lastly, the strenuous team support Treecko requires to sweep can cause the teams built around it to be matchup reliant.\n", "strategies' format": "LC", "strategies": [{"name": "Swords Dance", "stats": [145, 181, 145, 149, 146, 185], "type": ["Grass"], "usage": "Treecko functions best as a late-game cleaner after its checks, like Ponyta, Vullaby, and Alolan Grimer, have been either removed or weakened. Before said checks are taken care of, it is important that Treecko doesn't take any chip damage so as not to activate Unburden too early. It should also refrain from getting hit with Knock Off in order to prevent the early activation of Unburden. Setting up is a rather tricky task for Treecko, as it should often try doing so against a foe whose coverage can whittle it into range of Berry Juice consumption but won't OHKO it. Chinchou, Drilbur, and Surskit all carry super effective coverage that won't flat-out OHKO Treecko, which makes these threats decent setup targets. U-turn users like Mienfoo and Vullaby can also bring Treecko into range of Berry Juice consumption, though some, such as Larvesta and Rufflet, can OHKO Treecko it with the move. Another setup strategy that is much less risky is using Swords Dance against foes with generally weak attacks, like Spritzee and Onix. Treecko will often be relying on Memento support, meaning that some Pokemon that carry super effective STAB attacks can also make decent setup targets with lowered offenses. Examples include Foongus, Croagunk, and Larvesta.", "moves": [["Swords Dance"], ["Bullet Seed"], ["Drain Punch"], ["Acrobatics", "Rock Slide"]], "item": [" Berry Juice"], "ability": ["Unburden"], "nature": ["Adamant"], "ev spread": [116, 156, 156, 0, 0, 36], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Ponyta", "Poison-types", "Spritzee and Snubbull", "Flying-types", "Status", "Strong Priority"], "credits": ["Written by Hilomilo", "Quality checked by Xayah, Berks,  and Nineage", "Grammar checked by The Dutch Plumberjack and martha"]}
+{
+    "name": "Treecko",
+    "forms": {
+        "Base": {
+            "base stats": [
+                40,
+                45,
+                35,
+                65,
+                55,
+                70
+            ],
+            "types": [
+                "Grass"
+            ],
+            "abilities": [
+                "Overgrow",
+                "Unburden"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Treecko has a unique niche on offensive teams thanks to its Unburden ability. This allows Treecko to set up Swords Dance, usually take a hit, and consume Berry Juice afterward, thus doubling its Speed and becoming a threatening late-game sweeper. Alongside Treecko's fantastic ability and access to Swords Dance are plenty of useful coverage options, including Acrobatics, Drain Punch, and Rock Slide. Unfortunately, Treecko is extremely frail with a poor defensive typing and is thus vulnerable to super effective attacks, powerful offensive Pokemon, and strong priority. Treecko is also extremely weak before a Swords Dance boost, meaning that it is quite reliant on the move to do any notable damage. It can still struggle to break past some bulky threats after a boost, such as Spritzee, Vullaby, Mareanie, and Foongus, as it isn't extremely powerful even after using Swords Dance. Unburden can also be a rather situational ability in that it only activates once, meaning that upon setting up, Treecko will put itself in an all-or-nothing situation. Treecko also suffers from a slight case of four-moveslot syndrome, as its choice of coverage will either prevent it from hurting Fire- and Poison-types if it uses Acrobatics or from hurting Grass- and Fighting-types if it uses Rock Slide. Lastly, the strenuous team support Treecko requires to sweep can cause the teams built around it to be matchup reliant.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Swords Dance",
+            "stats": [
+                145,
+                181,
+                145,
+                149,
+                146,
+                185
+            ],
+            "type": [
+                "Grass"
+            ],
+            "usage": "Treecko functions best as a late-game cleaner after its checks, like Ponyta, Vullaby, and Alolan Grimer, have been either removed or weakened. Before said checks are taken care of, it is important that Treecko doesn't take any chip damage so as not to activate Unburden too early. It should also refrain from getting hit with Knock Off in order to prevent the early activation of Unburden. Setting up is a rather tricky task for Treecko, as it should often try doing so against a foe whose coverage can whittle it into range of Berry Juice consumption but won't OHKO it. Chinchou, Drilbur, and Surskit all carry super effective coverage that won't flat-out OHKO Treecko, which makes these threats decent setup targets. U-turn users like Mienfoo and Vullaby can also bring Treecko into range of Berry Juice consumption, though some, such as Larvesta and Rufflet, can OHKO Treecko it with the move. Another setup strategy that is much less risky is using Swords Dance against foes with generally weak attacks, like Spritzee and Onix. Treecko will often be relying on Memento support, meaning that some Pokemon that carry super effective STAB attacks can also make decent setup targets with lowered offenses. Examples include Foongus, Croagunk, and Larvesta.",
+            "moves": [
+                [
+                    "Swords Dance"
+                ],
+                [
+                    "Bullet Seed"
+                ],
+                [
+                    "Drain Punch"
+                ],
+                [
+                    "Acrobatics",
+                    "Rock Slide"
+                ]
+            ],
+            "item": [
+                " Berry Juice"
+            ],
+            "ability": [
+                "Unburden"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                116,
+                156,
+                156,
+                0,
+                0,
+                36
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Ponyta",
+        "Poison-types",
+        "Spritzee and Snubbull",
+        "Flying-types",
+        "Status",
+        "Strong Priority"
+    ],
+    "credits": [
+        "Written by Hilomilo",
+        "Quality checked by Xayah, Berks,  and Nineage",
+        "Grammar checked by The Dutch Plumberjack and martha"
+    ]
+}

@@ -1,1 +1,155 @@
-{"name": "Regirock", "forms": {"Base": {"base stats": [80, 100, 200, 50, 100, 50], "types": ["Rock"], "abilities": ["Clear Body", "Sturdy"], "tier": ["PU"], "form": "Base"}}, "overview": "Regirock's immense physical bulk and useful resistances to Normal-, Flying-, and Poison-type attacks from common Pokemon such as Kangaskhan, Oricorio-E, and Skuntank allow it many opportunities to cripple foes with Toxic or support its teammates by setting up Stealth Rock. Furthermore, given its access to Sunny Day and a useful ability in Sturdy that allows it to set up the move consistently, Regirock is adept in providing support to weather-based sweepers that are dependent on Chlorophyll being activated, making it an essential component of Sunny Day-based teams. Regirock is not without fault, however: its low Speed stat and weakness to ubiquitous Water-, Ground-, Grass-, and Fighting-type coverage moves leave it easily checked by offensive Pokemon like Floatzel, Golurk, Shiftry, and Hitmonchan. Additionally, its inherently passive nature as a defensive Stealth Rock setter means that it can be overly reliant on Toxic to deal significant damage to Pokemon that have a type advantage over Regirock like Gastrodon. Regirock's lack of reliable recovery and vulnerability to entry hazards are detrimental to its longevity, which can in turn disallow Regirock to switch into the Pokemon that it is meant to check. Nevertheless, Regirock still holds a niche as one of the best Stealth Rock setters in the tier due to its excellent bulk and pure Rock typing.\n", "strategies' format": "PU", "strategies": [{"name": "Stealth Rock", "stats": [259, 236, 529, 122, 255, 136], "type": ["Rock"], "usage": "Use Regirock's massive Defense stat and Rock typing to pivot into resisted attacks from Pokemon like Kangaskhan and physically offensive Skuntank in order to set up Stealth Rock. If Stealth Rock is already on the field, Regirock can use this opportunity to attack or to weaken its switch-ins with Toxic. Even with Special Defense investment, Regirock can still be overrun by powerful wallbreakers such as Choice Specs Drampa so it is best to either use Protect to ease prediction against these Pokemon or switch out altogether. It is generally good practice with Regirock to switch out against incoming status moves, as effects like Toxic will severely reduce its longevity and consequently disallow Regirock to switch into the Pokemon that it was meant to check. Protect should be used when Regirock either has an opportunity to stall out foes afflicted with Toxic or is at risk of being KOed. However, be careful of using Protect too often, given its frequent use can supply Regirock's foes with free turns to set up and sweep or to lay entry hazards that would be detrimental to Regirock's longevity.", "moves": [["Stealth Rock"], ["Rock Slide", "Stone Edge"], ["Earthquake", "Drain Punch"], ["Toxic", "Protect"]], "item": [" Leftovers"], "ability": ["Clear Body"], "nature": ["Impish"], "ev spread": [252, 0, 180, 0, 76, 0], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Sunny Day", "stats": [259, 328, 437, 122, 236, 136], "type": ["Rock"], "usage": "Given that Sturdy is key to successfully setting up with Stealth Rock and Sunny Day, Regirock should be brought out early-game before the opponent can deactivate the ability via entry hazards. Switch Regirock out of Pokemon like Sableye and Jellicent that can either burn it with Will-O-Wisp or prevent it from supporting its teammates via Taunt. The momentum Regirock's Explosion provides is conducive to bringing in frail Chlorophyll sweepers like Victreebel and Shiftry for free, and it is generally a more effective method than hard switching into resisted attacks for starting a sweep. Regirock should use Explosion on the turn immediately following Sunny Day in order to maximize the number of turns its teammates can operate with sun in play, unless Regirock should be kept alive to combat Normal- or Flying-types like Kangaskhan and Oricorio-E. Kangaskhan in particular is important for sun teams to beat, as it wastes turns of Sunny Day via Fake Out. It can be advantageous to prioritize Sunny Day's use over Stealth Rock or vice versa; it is best to determine first whether the opposing team is weaker to sun sweepers or Stealth Rock and act accordingly. Sunny Day also has some defensive utility in matchups against offensive Water-types, as it reduces the damage of Water-type moves for Regirock and its Fire-type teammates.", "moves": [["Sunny Day"], ["Stealth Rock"], ["Explosion"], ["Stone Edge"]], "item": [" Heat Rock"], "ability": ["Sturdy"], "nature": ["Adamant"], "ev spread": [252, 252, 4, 0, 0, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Water-types", "Grass-types", "Ground-types", "Fighting-types", "Special Wallbreakers", "Faster Taunt Users", "Residual Damage"], "credits": ["Written by love chants and 2xTheTap", "Quality checked by Megazard, 2xTheTap,  and yogi", "Grammar checked by The Dutch Plumberjack and Fireflame479"]}
+{
+    "name": "Regirock",
+    "forms": {
+        "Base": {
+            "base stats": [
+                80,
+                100,
+                200,
+                50,
+                100,
+                50
+            ],
+            "types": [
+                "Rock"
+            ],
+            "abilities": [
+                "Clear Body",
+                "Sturdy"
+            ],
+            "tier": [
+                "PU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Regirock's immense physical bulk and useful resistances to Normal-, Flying-, and Poison-type attacks from common Pokemon such as Kangaskhan, Oricorio-E, and Skuntank allow it many opportunities to cripple foes with Toxic or support its teammates by setting up Stealth Rock. Furthermore, given its access to Sunny Day and a useful ability in Sturdy that allows it to set up the move consistently, Regirock is adept in providing support to weather-based sweepers that are dependent on Chlorophyll being activated, making it an essential component of Sunny Day-based teams. Regirock is not without fault, however: its low Speed stat and weakness to ubiquitous Water-, Ground-, Grass-, and Fighting-type coverage moves leave it easily checked by offensive Pokemon like Floatzel, Golurk, Shiftry, and Hitmonchan. Additionally, its inherently passive nature as a defensive Stealth Rock setter means that it can be overly reliant on Toxic to deal significant damage to Pokemon that have a type advantage over Regirock like Gastrodon. Regirock's lack of reliable recovery and vulnerability to entry hazards are detrimental to its longevity, which can in turn disallow Regirock to switch into the Pokemon that it is meant to check. Nevertheless, Regirock still holds a niche as one of the best Stealth Rock setters in the tier due to its excellent bulk and pure Rock typing.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Stealth Rock",
+            "stats": [
+                259,
+                236,
+                529,
+                122,
+                255,
+                136
+            ],
+            "type": [
+                "Rock"
+            ],
+            "usage": "Use Regirock's massive Defense stat and Rock typing to pivot into resisted attacks from Pokemon like Kangaskhan and physically offensive Skuntank in order to set up Stealth Rock. If Stealth Rock is already on the field, Regirock can use this opportunity to attack or to weaken its switch-ins with Toxic. Even with Special Defense investment, Regirock can still be overrun by powerful wallbreakers such as Choice Specs Drampa so it is best to either use Protect to ease prediction against these Pokemon or switch out altogether. It is generally good practice with Regirock to switch out against incoming status moves, as effects like Toxic will severely reduce its longevity and consequently disallow Regirock to switch into the Pokemon that it was meant to check. Protect should be used when Regirock either has an opportunity to stall out foes afflicted with Toxic or is at risk of being KOed. However, be careful of using Protect too often, given its frequent use can supply Regirock's foes with free turns to set up and sweep or to lay entry hazards that would be detrimental to Regirock's longevity.",
+            "moves": [
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Rock Slide",
+                    "Stone Edge"
+                ],
+                [
+                    "Earthquake",
+                    "Drain Punch"
+                ],
+                [
+                    "Toxic",
+                    "Protect"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Clear Body"
+            ],
+            "nature": [
+                "Impish"
+            ],
+            "ev spread": [
+                252,
+                0,
+                180,
+                0,
+                76,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Sunny Day",
+            "stats": [
+                259,
+                328,
+                437,
+                122,
+                236,
+                136
+            ],
+            "type": [
+                "Rock"
+            ],
+            "usage": "Given that Sturdy is key to successfully setting up with Stealth Rock and Sunny Day, Regirock should be brought out early-game before the opponent can deactivate the ability via entry hazards. Switch Regirock out of Pokemon like Sableye and Jellicent that can either burn it with Will-O-Wisp or prevent it from supporting its teammates via Taunt. The momentum Regirock's Explosion provides is conducive to bringing in frail Chlorophyll sweepers like Victreebel and Shiftry for free, and it is generally a more effective method than hard switching into resisted attacks for starting a sweep. Regirock should use Explosion on the turn immediately following Sunny Day in order to maximize the number of turns its teammates can operate with sun in play, unless Regirock should be kept alive to combat Normal- or Flying-types like Kangaskhan and Oricorio-E. Kangaskhan in particular is important for sun teams to beat, as it wastes turns of Sunny Day via Fake Out. It can be advantageous to prioritize Sunny Day's use over Stealth Rock or vice versa; it is best to determine first whether the opposing team is weaker to sun sweepers or Stealth Rock and act accordingly. Sunny Day also has some defensive utility in matchups against offensive Water-types, as it reduces the damage of Water-type moves for Regirock and its Fire-type teammates.",
+            "moves": [
+                [
+                    "Sunny Day"
+                ],
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Explosion"
+                ],
+                [
+                    "Stone Edge"
+                ]
+            ],
+            "item": [
+                " Heat Rock"
+            ],
+            "ability": [
+                "Sturdy"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                252,
+                252,
+                4,
+                0,
+                0,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Water-types",
+        "Grass-types",
+        "Ground-types",
+        "Fighting-types",
+        "Special Wallbreakers",
+        "Faster Taunt Users",
+        "Residual Damage"
+    ],
+    "credits": [
+        "Written by love chants and 2xTheTap",
+        "Quality checked by Megazard, 2xTheTap,  and yogi",
+        "Grammar checked by The Dutch Plumberjack and Fireflame479"
+    ]
+}

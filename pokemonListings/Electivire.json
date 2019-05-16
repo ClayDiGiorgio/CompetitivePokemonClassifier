@@ -1,1 +1,98 @@
-{"name": "Electivire", "forms": {"Base": {"base stats": [75, 123, 67, 95, 85, 95], "types": ["Electric"], "abilities": ["Motor Drive", "Vital Spirit"], "tier": ["Untiered"], "form": "Base"}}, "overview": "Electivire is a mixed wallbreaker with great coverage options and a Speed tier that permits it to outspeed and revenge kill common slower wallbreakers like Omastar, Oricorio-G, and Aurorus. Since there are so many different possibilities in terms of sets and coverage moves, Electivire can be unpredictable, though many of its options aren't usually as viable. Despite its offensive prowess, its frailty and middling Speed make it susceptible to faster attackers such as Lycanroc, Choice Scarf users like Primeape and Togedemaru, and priority moves such as Zangoose's Quick Attack and Skuntank's Sucker Punch. Regardless of its tremendous Attack, it struggles to break through physical walls, thus forcing it to rely on its weaker Special Attack in some cases. Since its Special Attack is nothing to write home about, it relies on super effective moves specifically designed to break its checks, thus failing to handle those neutral to its attacks such as Clefairy and defensive Spiritomb. It also faces harsh competition from fellow Electric-types, the most noteworthy being Eelektross, which totally eclipses Electivire besides having much lower Speed and lacking niche coverage moves like Earthquake. Other arguably better Electric-types include Alolan Raichu, which can break down its counters with Nasty Plot boosts, and Togedemaru, which can check Clefairy and can outpace base 95s that Electivire runs the risk of having to Speed tie with such as Haunter and Jynx.\n", "strategies' format": "PU", "strategies": [{"name": "Mixed Attacker", "stats": [186, 283, 170, 289, 185, 317], "type": ["Electric"], "usage": "Electivire should primarily be used as a revenge killer and wallbreaker. It can quickly dispose of slower threats such as Skuntank and Aurorus after a bit of prior damage while using super effective moves to get past bulkier Pokemon like Lanturn. Given its tendency to be worn down easily by Life Orb recoil and entry hazard damage, Electivire should be used rather sparingly. Try to bring it in freely after a teammate has fainted or on a free switch-in from U-turn or Volt Switch, as its lackluster overall bulk inhibits its ability to switch into neutral attacks. Electivire can be an effective offensive pivot if it is running Volt Switch, as it can pivot out of unfavorable matchups against tanks like Musharna. Since Electivire has varied super effective coverage, it can often force the opponent to switch, which is an ideal opportunity to create offensive momentum. When brought into a Pokemon that it checks, try to predict by going for the appropriate coverage move that could possibly OHKO or 2HKO the switch-in. For instance, if the opponent plans to bring in Manectric to absorb an Electric-type attack, go for Earthquake instead to get the KO. If running Motor Drive, anticipate and come in on Volt Switch from pivots such as Lanturn and Manectric, disrupting the momentum and simultaneously boosting Electivire's Speed. In contrast, Vital Spirit can be utilized to protect a fellow team member from a Sleep Powder from Lilligant and Lovely Kiss from Jynx.", "moves": [["Volt Switch", "Thunderbolt"], ["Flamethrower"], ["Earthquake"], ["Focus Blast", "Ice Punch"]], "item": [" Life Orb"], "ability": ["Motor Drive", "Vital Spirit"], "nature": ["Naive"], "ev spread": [0, 4, 0, 252, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Specially Defensive Pokemon", "Ground-types", "Faster Pokemon", "Priority Moves"], "credits": ["Written by m3p0", "Quality checked by yogi, allstarapology,  and Megazard", "Grammar checked by The Dutch Plumberjack and martha"]}
+{
+    "name": "Electivire",
+    "forms": {
+        "Base": {
+            "base stats": [
+                75,
+                123,
+                67,
+                95,
+                85,
+                95
+            ],
+            "types": [
+                "Electric"
+            ],
+            "abilities": [
+                "Motor Drive",
+                "Vital Spirit"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Electivire is a mixed wallbreaker with great coverage options and a Speed tier that permits it to outspeed and revenge kill common slower wallbreakers like Omastar, Oricorio-G, and Aurorus. Since there are so many different possibilities in terms of sets and coverage moves, Electivire can be unpredictable, though many of its options aren't usually as viable. Despite its offensive prowess, its frailty and middling Speed make it susceptible to faster attackers such as Lycanroc, Choice Scarf users like Primeape and Togedemaru, and priority moves such as Zangoose's Quick Attack and Skuntank's Sucker Punch. Regardless of its tremendous Attack, it struggles to break through physical walls, thus forcing it to rely on its weaker Special Attack in some cases. Since its Special Attack is nothing to write home about, it relies on super effective moves specifically designed to break its checks, thus failing to handle those neutral to its attacks such as Clefairy and defensive Spiritomb. It also faces harsh competition from fellow Electric-types, the most noteworthy being Eelektross, which totally eclipses Electivire besides having much lower Speed and lacking niche coverage moves like Earthquake. Other arguably better Electric-types include Alolan Raichu, which can break down its counters with Nasty Plot boosts, and Togedemaru, which can check Clefairy and can outpace base 95s that Electivire runs the risk of having to Speed tie with such as Haunter and Jynx.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Mixed Attacker",
+            "stats": [
+                186,
+                283,
+                170,
+                289,
+                185,
+                317
+            ],
+            "type": [
+                "Electric"
+            ],
+            "usage": "Electivire should primarily be used as a revenge killer and wallbreaker. It can quickly dispose of slower threats such as Skuntank and Aurorus after a bit of prior damage while using super effective moves to get past bulkier Pokemon like Lanturn. Given its tendency to be worn down easily by Life Orb recoil and entry hazard damage, Electivire should be used rather sparingly. Try to bring it in freely after a teammate has fainted or on a free switch-in from U-turn or Volt Switch, as its lackluster overall bulk inhibits its ability to switch into neutral attacks. Electivire can be an effective offensive pivot if it is running Volt Switch, as it can pivot out of unfavorable matchups against tanks like Musharna. Since Electivire has varied super effective coverage, it can often force the opponent to switch, which is an ideal opportunity to create offensive momentum. When brought into a Pokemon that it checks, try to predict by going for the appropriate coverage move that could possibly OHKO or 2HKO the switch-in. For instance, if the opponent plans to bring in Manectric to absorb an Electric-type attack, go for Earthquake instead to get the KO. If running Motor Drive, anticipate and come in on Volt Switch from pivots such as Lanturn and Manectric, disrupting the momentum and simultaneously boosting Electivire's Speed. In contrast, Vital Spirit can be utilized to protect a fellow team member from a Sleep Powder from Lilligant and Lovely Kiss from Jynx.",
+            "moves": [
+                [
+                    "Volt Switch",
+                    "Thunderbolt"
+                ],
+                [
+                    "Flamethrower"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Focus Blast",
+                    "Ice Punch"
+                ]
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Motor Drive",
+                "Vital Spirit"
+            ],
+            "nature": [
+                "Naive"
+            ],
+            "ev spread": [
+                0,
+                4,
+                0,
+                252,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Specially Defensive Pokemon",
+        "Ground-types",
+        "Faster Pokemon",
+        "Priority Moves"
+    ],
+    "credits": [
+        "Written by m3p0",
+        "Quality checked by yogi, allstarapology,  and Megazard",
+        "Grammar checked by The Dutch Plumberjack and martha"
+    ]
+}

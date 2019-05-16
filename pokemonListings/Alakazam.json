@@ -1,1 +1,176 @@
-{"name": "Alakazam", "forms": {"Base": {"base stats": [55, 50, 45, 135, 95, 120], "types": ["Psychic"], "abilities": ["Inner Focus", "Magic Guard", "Synchronize"], "tier": ["UUBL"], "form": "Base"}, "Mega": {"base stats": [55, 50, 65, 175, 105, 150], "types": ["Psychic"], "abilities": ["Trace"], "tier": ["OU"], "form": "Mega"}}, "overview": "Alakazam is a notable threat to the OU metagame due to the valuable offensive niche it holds. Mega Alakazam is a fantastic special wallbreaker and sweeper, as its great Speed means it is outsped only by some Choice Scarf users. It also possesses the highest Special Attack stat in the tier as well as a useful ability in Trace, which lets it copy a plethora of useful abilities. It can trace Flash Fire and Levitate, letting it wall Heatran and Mega Latios lacking Draco Meteor, respectively. Regenerator can be traced from the likes of Toxapex, Tangrowth, and Tornadus-T to keep Mega Alakazam healthy. And even other situational abilities like Swift Swim, Beast Boost, and Soul-Heart can be occasionally copied. However, Mega Alakazam to some extent struggles to hurt some bulkier teams due to the presence of Magearna, Celesteela, and Ferrothorn. Regular Alakazam's niche lies in its access to Magic Guard, which allows it to run a Life Orb set that, just like its mega forme, can switch into threats like Heatran reliably and force them out. Unfortunately, Alakazam and Mega Alakazam are both extremely frail and are thus extremely vulnerable to Choice Scarf users and priority, which are both quite common. They also are susceptible to common attacks in Pursuit, U-turn, and Knock Off.\n", "strategies' format": "OU", "strategies": [{"name": "Special Sweeper", "stats": [146, 122, 167, 449, 246, 438], "type": ["Psychic"], "usage": "Due to its high Special Attack and Speed, Mega Alakazam's best use is as a late-game sweeper on balanced and offensive teams that can also wallbreak earlier on in a match. If it's attempting a sweep, it is important for opposing Pokemon to be weakened by teammates or residual damage to ensure that Mega Alakazam can clean properly. Priority users like Mega Mawile, Mega Scizor, and Mega Pinsir should be removed before sweeping is attempted due to Mega Alakazam's frailty; Choice Scarf users like Landorus-T, Greninja, and Keldeo should be scouted out and removed as well for similar reasons. Pokemon that are capable of adequately checking Mega Alakazam, such as Magearna, Celesteela, and Assault Vest Tangrowth, should also be removed so that it can sweep successfully.", "moves": [["Psychic"], ["Focus Blast"], ["Recover"], ["Shadow Ball", "Calm Mind", "Knock Off"]], "item": [" Alakazite"], "ability": ["Magic Guard"], "nature": ["Timid"], "ev spread": [0, 0, 4, 252, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Life Orb", "stats": [146, 122, 126, 369, 227, 372], "type": ["Psychic"], "usage": "First and foremost, Alakazam is very frail, so make sure that it's pivoted in via VoltTurn or free switches for the most part. However, Alakazam can be pivoted into special attackers like Toxapex. Make sure to scout for Choice Scarf users like Kartana that Alakazam normally beats before trying to take them on to prevent unnecessarily losing Alakazam early on in the match. Finally, it's usually best to prioritize attacking the foe over healing Alakazam unless there is a threat on the opposing team like Heatran that Alakazam needs to consistently pivot into throughout the match.", "moves": [["Psychic"], ["Focus Blast"], ["Shadow Ball"], ["Hidden Power Fire", "Hidden Power Ice"]], "item": [" Life Orb"], "ability": ["Magic Guard"], "nature": ["Timid"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Priority", "Steel-types", "Bulky Psychic-types", "Dark-types", "Pursuit", "Chansey", "Choice Scarf Users"], "credits": ["Written by Hilomilo and LL", "Quality checked by Gary, Subject 18,  and p2", "Grammar checked by GatoDelFuego and P Squared"]}
+{
+    "name": "Alakazam",
+    "forms": {
+        "Base": {
+            "base stats": [
+                55,
+                50,
+                45,
+                135,
+                95,
+                120
+            ],
+            "types": [
+                "Psychic"
+            ],
+            "abilities": [
+                "Inner Focus",
+                "Magic Guard",
+                "Synchronize"
+            ],
+            "tier": [
+                "UUBL"
+            ],
+            "form": "Base"
+        },
+        "Mega": {
+            "base stats": [
+                55,
+                50,
+                65,
+                175,
+                105,
+                150
+            ],
+            "types": [
+                "Psychic"
+            ],
+            "abilities": [
+                "Trace"
+            ],
+            "tier": [
+                "OU"
+            ],
+            "form": "Mega"
+        }
+    },
+    "overview": "Alakazam is a notable threat to the OU metagame due to the valuable offensive niche it holds. Mega Alakazam is a fantastic special wallbreaker and sweeper, as its great Speed means it is outsped only by some Choice Scarf users. It also possesses the highest Special Attack stat in the tier as well as a useful ability in Trace, which lets it copy a plethora of useful abilities. It can trace Flash Fire and Levitate, letting it wall Heatran and Mega Latios lacking Draco Meteor, respectively. Regenerator can be traced from the likes of Toxapex, Tangrowth, and Tornadus-T to keep Mega Alakazam healthy. And even other situational abilities like Swift Swim, Beast Boost, and Soul-Heart can be occasionally copied. However, Mega Alakazam to some extent struggles to hurt some bulkier teams due to the presence of Magearna, Celesteela, and Ferrothorn. Regular Alakazam's niche lies in its access to Magic Guard, which allows it to run a Life Orb set that, just like its mega forme, can switch into threats like Heatran reliably and force them out. Unfortunately, Alakazam and Mega Alakazam are both extremely frail and are thus extremely vulnerable to Choice Scarf users and priority, which are both quite common. They also are susceptible to common attacks in Pursuit, U-turn, and Knock Off.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Special Sweeper",
+            "stats": [
+                146,
+                122,
+                167,
+                449,
+                246,
+                438
+            ],
+            "type": [
+                "Psychic"
+            ],
+            "usage": "Due to its high Special Attack and Speed, Mega Alakazam's best use is as a late-game sweeper on balanced and offensive teams that can also wallbreak earlier on in a match. If it's attempting a sweep, it is important for opposing Pokemon to be weakened by teammates or residual damage to ensure that Mega Alakazam can clean properly. Priority users like Mega Mawile, Mega Scizor, and Mega Pinsir should be removed before sweeping is attempted due to Mega Alakazam's frailty; Choice Scarf users like Landorus-T, Greninja, and Keldeo should be scouted out and removed as well for similar reasons. Pokemon that are capable of adequately checking Mega Alakazam, such as Magearna, Celesteela, and Assault Vest Tangrowth, should also be removed so that it can sweep successfully.",
+            "moves": [
+                [
+                    "Psychic"
+                ],
+                [
+                    "Focus Blast"
+                ],
+                [
+                    "Recover"
+                ],
+                [
+                    "Shadow Ball",
+                    "Calm Mind",
+                    "Knock Off"
+                ]
+            ],
+            "item": [
+                " Alakazite"
+            ],
+            "ability": [
+                "Magic Guard"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                4,
+                252,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Life Orb",
+            "stats": [
+                146,
+                122,
+                126,
+                369,
+                227,
+                372
+            ],
+            "type": [
+                "Psychic"
+            ],
+            "usage": "First and foremost, Alakazam is very frail, so make sure that it's pivoted in via VoltTurn or free switches for the most part. However, Alakazam can be pivoted into special attackers like Toxapex. Make sure to scout for Choice Scarf users like Kartana that Alakazam normally beats before trying to take them on to prevent unnecessarily losing Alakazam early on in the match. Finally, it's usually best to prioritize attacking the foe over healing Alakazam unless there is a threat on the opposing team like Heatran that Alakazam needs to consistently pivot into throughout the match.",
+            "moves": [
+                [
+                    "Psychic"
+                ],
+                [
+                    "Focus Blast"
+                ],
+                [
+                    "Shadow Ball"
+                ],
+                [
+                    "Hidden Power Fire",
+                    "Hidden Power Ice"
+                ]
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Magic Guard"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Priority",
+        "Steel-types",
+        "Bulky Psychic-types",
+        "Dark-types",
+        "Pursuit",
+        "Chansey",
+        "Choice Scarf Users"
+    ],
+    "credits": [
+        "Written by Hilomilo and LL",
+        "Quality checked by Gary, Subject 18,  and p2",
+        "Grammar checked by GatoDelFuego and P Squared"
+    ]
+}

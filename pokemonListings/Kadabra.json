@@ -1,1 +1,98 @@
-{"name": "Kadabra", "forms": {"Base": {"base stats": [40, 35, 30, 120, 70, 105], "types": ["Psychic"], "abilities": ["Inner Focus", "Magic Guard", "Synchronize"], "tier": [""], "form": "Base"}}, "overview": "Kadabra is an excellent revenge killer in the PU tier. In contrast to other Psychic-types such as Mesprit and Musharna that offer good defensive utility, Kadabra's main niche comes with its unique ability to check many offensive threats with Magic Guard and Counter. Kadabra's Focus Sash cannot be broken by residual damage due to its ability, which makes it very reliable at revenge killing. Its base 105 Speed tier is decent in PU, as it lets Kadabra outspeed Pokemon like Jynx, Swanna, and the Silvally formes, but it isn't amazing either, as Kadabra can also be outsped by important threats such as Liepard and Lycanroc. Kadabra's main drawback comes from its terrible defensive stats, meaning it cannot switch into any type of attack; this makes Kadabra hard to fit on any archetype other than hyper offense.\n", "strategies' format": "PU", "strategies": [{"name": "Focus Sash Revenge Killer", "stats": [117, 95, 96, 339, 176, 339], "type": ["Psychic"], "usage": "Kadabra should be used as a means to stop the opposing Pokemon from sweeping, so keeping its Focus Sash intact is vital. Kadabra's terrible defensive stats mean you do not want it to take any kind of hit if the Focus Sash is broken. Be careful in choosing which Pokemon you want to save Kadabra's Focus Sash for, as using it up on the wrong Pokemon can mean your opponent is able to sweep with something else. Counter is a great move to use if you think the foe is going to use a physical attack, as it basically guarantees the OHKO back due to Kadabra's terrible Defense. Kadabra can also use Counter against Pursuit trappers such as Skuntank, which is great for teammates to capitalize on with Toxic Spikes and other entry hazards. While Kadabra should be reserved for revenge killing boosted threats in match-ups against offensive teams, it can sometimes find opportunities to come onto the field by switching into more passive Pokemon like Weezing when they are predicted to use status moves such as Leech Seed and Will-O-Wisp that will not harm Kadabra.", "moves": [["Psychic"], ["Counter"], ["Taunt", "Shadow Ball", "Thunder Wave"], ["Dazzling Gleam"]], "item": [" Focus Sash"], "ability": ["Magic Guard"], "nature": ["Timid"], "ev spread": [4, 0, 0, 252, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Bulky Steel-types", "Dark-types", "Faster Pokemon", "Priority Users"], "credits": ["Written by Taskr", "Quality checked by 2xTheTap, Megazard,  and yogi", "Grammar checked by Haund and The Dutch Plumberjack"]}
+{
+    "name": "Kadabra",
+    "forms": {
+        "Base": {
+            "base stats": [
+                40,
+                35,
+                30,
+                120,
+                70,
+                105
+            ],
+            "types": [
+                "Psychic"
+            ],
+            "abilities": [
+                "Inner Focus",
+                "Magic Guard",
+                "Synchronize"
+            ],
+            "tier": [
+                ""
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Kadabra is an excellent revenge killer in the PU tier. In contrast to other Psychic-types such as Mesprit and Musharna that offer good defensive utility, Kadabra's main niche comes with its unique ability to check many offensive threats with Magic Guard and Counter. Kadabra's Focus Sash cannot be broken by residual damage due to its ability, which makes it very reliable at revenge killing. Its base 105 Speed tier is decent in PU, as it lets Kadabra outspeed Pokemon like Jynx, Swanna, and the Silvally formes, but it isn't amazing either, as Kadabra can also be outsped by important threats such as Liepard and Lycanroc. Kadabra's main drawback comes from its terrible defensive stats, meaning it cannot switch into any type of attack; this makes Kadabra hard to fit on any archetype other than hyper offense.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Focus Sash Revenge Killer",
+            "stats": [
+                117,
+                95,
+                96,
+                339,
+                176,
+                339
+            ],
+            "type": [
+                "Psychic"
+            ],
+            "usage": "Kadabra should be used as a means to stop the opposing Pokemon from sweeping, so keeping its Focus Sash intact is vital. Kadabra's terrible defensive stats mean you do not want it to take any kind of hit if the Focus Sash is broken. Be careful in choosing which Pokemon you want to save Kadabra's Focus Sash for, as using it up on the wrong Pokemon can mean your opponent is able to sweep with something else. Counter is a great move to use if you think the foe is going to use a physical attack, as it basically guarantees the OHKO back due to Kadabra's terrible Defense. Kadabra can also use Counter against Pursuit trappers such as Skuntank, which is great for teammates to capitalize on with Toxic Spikes and other entry hazards. While Kadabra should be reserved for revenge killing boosted threats in match-ups against offensive teams, it can sometimes find opportunities to come onto the field by switching into more passive Pokemon like Weezing when they are predicted to use status moves such as Leech Seed and Will-O-Wisp that will not harm Kadabra.",
+            "moves": [
+                [
+                    "Psychic"
+                ],
+                [
+                    "Counter"
+                ],
+                [
+                    "Taunt",
+                    "Shadow Ball",
+                    "Thunder Wave"
+                ],
+                [
+                    "Dazzling Gleam"
+                ]
+            ],
+            "item": [
+                " Focus Sash"
+            ],
+            "ability": [
+                "Magic Guard"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                4,
+                0,
+                0,
+                252,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Bulky Steel-types",
+        "Dark-types",
+        "Faster Pokemon",
+        "Priority Users"
+    ],
+    "credits": [
+        "Written by Taskr",
+        "Quality checked by 2xTheTap, Megazard,  and yogi",
+        "Grammar checked by Haund and The Dutch Plumberjack"
+    ]
+}

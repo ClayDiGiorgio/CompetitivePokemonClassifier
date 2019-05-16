@@ -1,1 +1,97 @@
-{"name": "Ninjask", "forms": {"Base": {"base stats": [61, 90, 45, 50, 50, 160], "types": ["Bug", "Flying"], "abilities": ["Infiltrator", "Speed Boost"], "tier": ["Untiered"], "form": "Base"}}, "overview": "Ninjask is able to distinguish itself by being the fastest unboosted Pokemon in the metagame. Its stellar Speed stat allows it to revenge kill some of the fastest Pokemon in the tier, such as Floatzel, Alolan Raichu, and Jynx, with a little prior damage. With Tectonic Rage, Ninjask is able to overpower foes such as Regirock and Aggron. These traits give Ninjask a decent amount of staying power against offensive and balanced builds. However, Ninjask's offensive presence only goes so far because its mediocre bulk, nasty 4x Stealth Rock weakness, and five common weaknesses to Fire-, Flying-, Ice-, Rock-, and Electric-type attacks mean it is revenge killed rather easily. Furthermore, Ninjask is often an inconsistent revenge killer due to its mediocre Attack stat, and it is left vulnerable to strong priority users such as Lycanroc, Kangaskhan, Abomasnow, and Absol. Ninjask's rather average Attack stat also means that it struggles to break Pokemon such as Weezing, which are able to sponge Ninjask's unboosted attacks and deal good damage in return.\n", "strategies' format": "PU", "strategies": [{"name": "Swords Dance", "stats": [158, 279, 127, 122, 136, 460], "type": ["Bug", "Flying"], "usage": "When facing offensive teams, Ninjask should usually be utilized early-game or mid-game to revenge kill faster foes such as Alolan Raichu and Lilligant. Make sure that Stealth Rock is off the field, as it really hampers Ninjask's longevity. If Ninjask is playing against bulkier teams, it should be used as a late-game sweeper because it functions a lot better once the opposing team is sufficiently weakened. Likewise, Ninjask should avoid setting up if bulky Pokemon such as Weezing and Gourgeist-XL are not weakened, since it struggles to break through them even after a +2 Attack boost. Be aware that Tectonic Rage is required to secure OHKOs on bulky threats such as Aggron, so Ninjask should use its Z-Move cautiously, as wasting it will make breaking through bulkier teams harder. Lastly, Ninjask does not have the best bulk or typing to set up safely, but setting up on slower Fighting-types such as Hitmonchan and Gurdurr is usually the best opportunity because they are forced out by Aerial Ace.", "moves": [["Swords Dance"], ["Leech Life"], ["Dig"], ["Aerial Ace"]], "item": [" Groundium Z"], "ability": ["Speed Boost"], "nature": ["Jolly"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Stealth Rock", "Flying-type Pokemon", "Priority", "Physically Defensive Pokemon"], "credits": ["Written by TJ", "Quality checked by yogi, Megazard,  and Akir", "Grammar checked by Lemonade and The Dutch Plumberjack"]}
+{
+    "name": "Ninjask",
+    "forms": {
+        "Base": {
+            "base stats": [
+                61,
+                90,
+                45,
+                50,
+                50,
+                160
+            ],
+            "types": [
+                "Bug",
+                "Flying"
+            ],
+            "abilities": [
+                "Infiltrator",
+                "Speed Boost"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Ninjask is able to distinguish itself by being the fastest unboosted Pokemon in the metagame. Its stellar Speed stat allows it to revenge kill some of the fastest Pokemon in the tier, such as Floatzel, Alolan Raichu, and Jynx, with a little prior damage. With Tectonic Rage, Ninjask is able to overpower foes such as Regirock and Aggron. These traits give Ninjask a decent amount of staying power against offensive and balanced builds. However, Ninjask's offensive presence only goes so far because its mediocre bulk, nasty 4x Stealth Rock weakness, and five common weaknesses to Fire-, Flying-, Ice-, Rock-, and Electric-type attacks mean it is revenge killed rather easily. Furthermore, Ninjask is often an inconsistent revenge killer due to its mediocre Attack stat, and it is left vulnerable to strong priority users such as Lycanroc, Kangaskhan, Abomasnow, and Absol. Ninjask's rather average Attack stat also means that it struggles to break Pokemon such as Weezing, which are able to sponge Ninjask's unboosted attacks and deal good damage in return.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Swords Dance",
+            "stats": [
+                158,
+                279,
+                127,
+                122,
+                136,
+                460
+            ],
+            "type": [
+                "Bug",
+                "Flying"
+            ],
+            "usage": "When facing offensive teams, Ninjask should usually be utilized early-game or mid-game to revenge kill faster foes such as Alolan Raichu and Lilligant. Make sure that Stealth Rock is off the field, as it really hampers Ninjask's longevity. If Ninjask is playing against bulkier teams, it should be used as a late-game sweeper because it functions a lot better once the opposing team is sufficiently weakened. Likewise, Ninjask should avoid setting up if bulky Pokemon such as Weezing and Gourgeist-XL are not weakened, since it struggles to break through them even after a +2 Attack boost. Be aware that Tectonic Rage is required to secure OHKOs on bulky threats such as Aggron, so Ninjask should use its Z-Move cautiously, as wasting it will make breaking through bulkier teams harder. Lastly, Ninjask does not have the best bulk or typing to set up safely, but setting up on slower Fighting-types such as Hitmonchan and Gurdurr is usually the best opportunity because they are forced out by Aerial Ace.",
+            "moves": [
+                [
+                    "Swords Dance"
+                ],
+                [
+                    "Leech Life"
+                ],
+                [
+                    "Dig"
+                ],
+                [
+                    "Aerial Ace"
+                ]
+            ],
+            "item": [
+                " Groundium Z"
+            ],
+            "ability": [
+                "Speed Boost"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Stealth Rock",
+        "Flying-type Pokemon",
+        "Priority",
+        "Physically Defensive Pokemon"
+    ],
+    "credits": [
+        "Written by TJ",
+        "Quality checked by yogi, Megazard,  and Akir",
+        "Grammar checked by Lemonade and The Dutch Plumberjack"
+    ]
+}

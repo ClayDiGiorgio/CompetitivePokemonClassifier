@@ -1,1 +1,98 @@
-{"name": "Registeel", "forms": {"Base": {"base stats": [80, 75, 150, 75, 150, 50], "types": ["Steel"], "abilities": ["Clear Body", "Light Metal"], "tier": ["RU"], "form": "Base"}}, "overview": "Registeel has amazing bulk and a great pure Steel typing, which together allow it to check Dragon-types such as Latias and Hydreigon and Flying-types such as Togekiss and Crobat. It can also support its team in various ways by setting Stealth Rock to damage foes as they switch in and by crippling opposing Pokemon with Toxic. However, Registeel is very passive, relying on moves like Toxic and Seismic Toss to do any significant damage to foes, which means that it can be easily taken advantage of and thus only fits on defensive teams. Registeel also faces competition from other Steel-types like Mega Aggron and Mega Steelix, which are way less passive than it. Unlike them, however, Registeel can hold Leftovers and, more importantly, doesn't take up a Mega slot, meaning there's a lot less opportunity cost when using it. Registeel also sports a higher Special Defense stat than both Mega Aggron and Mega Steelix, letting it more easily switch into Pokemon like Primarina. It also faces competition from Bronzong, but having access to Counter and not being weak to Pursuit gives it a slight edge over Bronzong. Furthermore, Registeel's weakness to common typings such as Ground, Fighting, and Fire also hold it back, as it can be easily exploited by Pokemon like Nidoking, Cobalion, and Infernape. It also lacks reliable recovery and is forced to rely on Leftovers to remain healthy, so it can be worn down rather quickly.\n", "strategies' format": "UU", "strategies": [{"name": "Specially Defensive", "stats": [259, 167, 337, 186, 438, 136], "type": ["Steel"], "usage": "Registeel is a very straightforward Pokemon to use; it should be switched into Pokemon that it can wall, such as Latias and Nihilego, and proceed to set up Stealth Rock and weaken the opposing team with Toxic. Be wary of Pokemon that can take advantage of Registeel's passivity, such as Swords Dance Scizor and Dragon Dance Kommo-o. Staying in to set up Stealth Rock or use Seismic Toss in these situations may give the opponent an advantage. Since it lacks reliable recovery, Registeel shouldn't be taking unnecessary chip damage by trying to sponge physical hits, since it's whittled down very quickly. It should be preserved so it can check what it's intended to check. However, if Registeel is paired with a Wish passer like Alomomola and if it's likely that it'll receive Wish recovery, it can be used more freely. Use Protect to rack up more turns of Toxic damage on foes and to keep Registeel as healthy as possible with additional turns of Leftovers recovery. Protect should also be used to scout for Choice-locked Pokemon, such as Choice Band Scizor and Choice Specs Hydreigon. Counter should be used against physical threats such as Mega Aerodactyl and Choice Band Scizor that try to take advantage of Registeel's passivity. However, keep in mind that Registeel would be much weaker and potentially incapable of checking Pokemon like Calm Mind Latias after using Counter effectively. Additionally, Counter and Protect should be used carefully, as they can give the opponent free turns and thus the possibility of gaining an advantage. Registeel shouldn't try to use Counter or Protect against setup sweepers like Swords Dance Scizor and Dragon Dance Kommo-o.", "moves": [["Stealth Rock"], ["Toxic"], ["Seismic Toss"], ["Protect", "Counter"]], "item": [" Leftovers"], "ability": ["Clear Body"], "nature": ["Calm"], "ev spread": [252, 0, 4, 0, 252, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Toxic-immune Pokemon", "Setup Sweepers", "Ground-types", "Fighting-types", "Fire-types", "Ghost-types"], "credits": ["Written by Surgeon", "Quality checked by martha, Sage,  and Ark", "Grammar checked by A Cake Wearing A Hat and piikachuu"]}
+{
+    "name": "Registeel",
+    "forms": {
+        "Base": {
+            "base stats": [
+                80,
+                75,
+                150,
+                75,
+                150,
+                50
+            ],
+            "types": [
+                "Steel"
+            ],
+            "abilities": [
+                "Clear Body",
+                "Light Metal"
+            ],
+            "tier": [
+                "RU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Registeel has amazing bulk and a great pure Steel typing, which together allow it to check Dragon-types such as Latias and Hydreigon and Flying-types such as Togekiss and Crobat. It can also support its team in various ways by setting Stealth Rock to damage foes as they switch in and by crippling opposing Pokemon with Toxic. However, Registeel is very passive, relying on moves like Toxic and Seismic Toss to do any significant damage to foes, which means that it can be easily taken advantage of and thus only fits on defensive teams. Registeel also faces competition from other Steel-types like Mega Aggron and Mega Steelix, which are way less passive than it. Unlike them, however, Registeel can hold Leftovers and, more importantly, doesn't take up a Mega slot, meaning there's a lot less opportunity cost when using it. Registeel also sports a higher Special Defense stat than both Mega Aggron and Mega Steelix, letting it more easily switch into Pokemon like Primarina. It also faces competition from Bronzong, but having access to Counter and not being weak to Pursuit gives it a slight edge over Bronzong. Furthermore, Registeel's weakness to common typings such as Ground, Fighting, and Fire also hold it back, as it can be easily exploited by Pokemon like Nidoking, Cobalion, and Infernape. It also lacks reliable recovery and is forced to rely on Leftovers to remain healthy, so it can be worn down rather quickly.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Specially Defensive",
+            "stats": [
+                259,
+                167,
+                337,
+                186,
+                438,
+                136
+            ],
+            "type": [
+                "Steel"
+            ],
+            "usage": "Registeel is a very straightforward Pokemon to use; it should be switched into Pokemon that it can wall, such as Latias and Nihilego, and proceed to set up Stealth Rock and weaken the opposing team with Toxic. Be wary of Pokemon that can take advantage of Registeel's passivity, such as Swords Dance Scizor and Dragon Dance Kommo-o. Staying in to set up Stealth Rock or use Seismic Toss in these situations may give the opponent an advantage. Since it lacks reliable recovery, Registeel shouldn't be taking unnecessary chip damage by trying to sponge physical hits, since it's whittled down very quickly. It should be preserved so it can check what it's intended to check. However, if Registeel is paired with a Wish passer like Alomomola and if it's likely that it'll receive Wish recovery, it can be used more freely. Use Protect to rack up more turns of Toxic damage on foes and to keep Registeel as healthy as possible with additional turns of Leftovers recovery. Protect should also be used to scout for Choice-locked Pokemon, such as Choice Band Scizor and Choice Specs Hydreigon. Counter should be used against physical threats such as Mega Aerodactyl and Choice Band Scizor that try to take advantage of Registeel's passivity. However, keep in mind that Registeel would be much weaker and potentially incapable of checking Pokemon like Calm Mind Latias after using Counter effectively. Additionally, Counter and Protect should be used carefully, as they can give the opponent free turns and thus the possibility of gaining an advantage. Registeel shouldn't try to use Counter or Protect against setup sweepers like Swords Dance Scizor and Dragon Dance Kommo-o.",
+            "moves": [
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Toxic"
+                ],
+                [
+                    "Seismic Toss"
+                ],
+                [
+                    "Protect",
+                    "Counter"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Clear Body"
+            ],
+            "nature": [
+                "Calm"
+            ],
+            "ev spread": [
+                252,
+                0,
+                4,
+                0,
+                252,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Toxic-immune Pokemon",
+        "Setup Sweepers",
+        "Ground-types",
+        "Fighting-types",
+        "Fire-types",
+        "Ghost-types"
+    ],
+    "credits": [
+        "Written by Surgeon",
+        "Quality checked by martha, Sage,  and Ark",
+        "Grammar checked by A Cake Wearing A Hat and piikachuu"
+    ]
+}

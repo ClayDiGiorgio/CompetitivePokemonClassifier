@@ -1,1 +1,97 @@
-{"name": "Karrablast", "forms": {"Base": {"base stats": [50, 75, 45, 40, 45, 60], "types": ["Bug"], "abilities": ["No Guard", "Shed Skin", "Swarm"], "tier": ["LC"], "form": "Base"}}, "overview": "Karrablast has an interesting niche in the LC metagame due to its great Attack, a great ability in No Guard, and the highly powerful Megahorn, which make it a powerful physical attacker that never misses. Karrablast's moderate defenses grant it at least enough bulk to tank most priority and weak neutral attacks, although it is let down by its Bug typing, which has many weaknesses, especially to Stealth Rock, making it easy to target. Karrablast's coverage moves aren't good either, as they are underwhelming and weak, leaving it only with its Bug-type STAB move to deal damage, which isn't really good offensively either.\n", "strategies' format": "LC", "strategies": [{"name": "Choice Scarf", "stats": [136, 245, 145, 104, 126, 225], "type": ["Bug"], "usage": "Karrablast can be used to revenge kill slower Choice Scarf users, weakened Pokemon, and Pokemon weak to Bug, as it can take them all out with Megahorn or its other moves. Additionally, revenge killing is made much more reliable thanks to No Guard. Karrablast should use Knock Off early-game to weaken opposing Eviolite users so Karrablast or its teammates can take care of them more easily later. Karrablast forces a lot of switches thanks to its powerful Megahorn, so it should be used to force out Pokemon that are weak to it or are physically weak, which gives Karrablast a good opportunity to use Knock Off to remove Eviolites on the switch, although Karrablast should often switch out after using Knock Off. After Pokemon that resist Megahorn and check Karrablast are eliminated, Karrablast can spam Megahorn to sweep late-game. Faster Choice Scarf users can pick Karrablast off quite easily, and some of them are reliable checks to Karrablast as well, so it is also wise to eliminate them from the battle first before Karrablast starts sweeping. Karrablast should try to avoid being setup bait once locked into a move that the opposing Pokemon resists. Due to Karrablast's mediocre defenses, it should stay away from powerful neutral and super effective attacks. If Karrablast runs Pursuit, it should use Pursuit if it can KO the opposing Pokemon or deal significant damage to it if you expect it to switch out, which can help out your teammates and possibly ruin the opposing team's momentum.", "moves": [["Megahorn"], ["Knock Off"], ["Drill Run"], ["Poison Jab", "Pursuit"]], "item": [" Choice Scarf"], "ability": ["No Guard"], "nature": ["Jolly", "Adamant"], "ev spread": [0, 236, 76, 0, 0, 196], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Bug-resistant Pokemon", "Rock-types", "Faster Choice Scarf Users"], "credits": ["Written by Conni", "Quality checked by Xayah, Hilomilo,  and Nineage", "Grammar checked by lotiasite and Fireflame479"]}
+{
+    "name": "Karrablast",
+    "forms": {
+        "Base": {
+            "base stats": [
+                50,
+                75,
+                45,
+                40,
+                45,
+                60
+            ],
+            "types": [
+                "Bug"
+            ],
+            "abilities": [
+                "No Guard",
+                "Shed Skin",
+                "Swarm"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Karrablast has an interesting niche in the LC metagame due to its great Attack, a great ability in No Guard, and the highly powerful Megahorn, which make it a powerful physical attacker that never misses. Karrablast's moderate defenses grant it at least enough bulk to tank most priority and weak neutral attacks, although it is let down by its Bug typing, which has many weaknesses, especially to Stealth Rock, making it easy to target. Karrablast's coverage moves aren't good either, as they are underwhelming and weak, leaving it only with its Bug-type STAB move to deal damage, which isn't really good offensively either.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Choice Scarf",
+            "stats": [
+                136,
+                245,
+                145,
+                104,
+                126,
+                225
+            ],
+            "type": [
+                "Bug"
+            ],
+            "usage": "Karrablast can be used to revenge kill slower Choice Scarf users, weakened Pokemon, and Pokemon weak to Bug, as it can take them all out with Megahorn or its other moves. Additionally, revenge killing is made much more reliable thanks to No Guard. Karrablast should use Knock Off early-game to weaken opposing Eviolite users so Karrablast or its teammates can take care of them more easily later. Karrablast forces a lot of switches thanks to its powerful Megahorn, so it should be used to force out Pokemon that are weak to it or are physically weak, which gives Karrablast a good opportunity to use Knock Off to remove Eviolites on the switch, although Karrablast should often switch out after using Knock Off. After Pokemon that resist Megahorn and check Karrablast are eliminated, Karrablast can spam Megahorn to sweep late-game. Faster Choice Scarf users can pick Karrablast off quite easily, and some of them are reliable checks to Karrablast as well, so it is also wise to eliminate them from the battle first before Karrablast starts sweeping. Karrablast should try to avoid being setup bait once locked into a move that the opposing Pokemon resists. Due to Karrablast's mediocre defenses, it should stay away from powerful neutral and super effective attacks. If Karrablast runs Pursuit, it should use Pursuit if it can KO the opposing Pokemon or deal significant damage to it if you expect it to switch out, which can help out your teammates and possibly ruin the opposing team's momentum.",
+            "moves": [
+                [
+                    "Megahorn"
+                ],
+                [
+                    "Knock Off"
+                ],
+                [
+                    "Drill Run"
+                ],
+                [
+                    "Poison Jab",
+                    "Pursuit"
+                ]
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "No Guard"
+            ],
+            "nature": [
+                "Jolly",
+                "Adamant"
+            ],
+            "ev spread": [
+                0,
+                236,
+                76,
+                0,
+                0,
+                196
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Bug-resistant Pokemon",
+        "Rock-types",
+        "Faster Choice Scarf Users"
+    ],
+    "credits": [
+        "Written by Conni",
+        "Quality checked by Xayah, Hilomilo,  and Nineage",
+        "Grammar checked by lotiasite and Fireflame479"
+    ]
+}

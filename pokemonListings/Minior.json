@@ -1,1 +1,121 @@
-{"name": "Minior", "forms": {"Base": {"base stats": [60, 100, 60, 100, 60, 120], "types": ["Rock", "Flying"], "abilities": ["Shields Down"], "tier": ["NU"], "form": "Base"}, "Meteor": {"base stats": [60, 60, 100, 60, 100, 60], "types": ["Rock", "Flying"], "abilities": ["Shields Down"], "tier": ["NU"], "form": "Meteor"}}, "overview": "Minior is an amazing late-game cleaner on offensive teams in the RU metagame thanks to its Shields Down ability, which gives it good bulk and an immunity to status until its HP is below half, thus nearly guaranteeing setup alongside giving its offensive stats and Speed immense boosts upon entering its Core forme. Complementing Minior's useful ability is an amazing offensive Rock / Flying typing that, alongside Earthquake, is unresisted by almost the entire metagame. Furthermore, upon boosting with Shell Smash and exiting its Meteor forme, Minior will be able to outpace the entire unboosted metagame, thus forcing foes to rely on priority or tanking a hit to revenge kill it. It can also create easy setup opportunities and chances to activate Shields Down thanks to its access to Substitute and ability to force switches. Unfortunately, despite its perks, Minior's typing leaves it with weaknesses to Stealth Rock as well as common types in Electric, Water, and Ice. Minior also only has decent bulk and offensive stats in its Meteor and base formes, respectively, meaning that especially powerful attacks may KO it before it can set up, and it will lack power even after it boosts. It will also be quite slow before a boost or before it's out of its Meteor forme, which leaves it prone to Taunt. Lastly, the presence of certain defensive Pokemon, like Bronzong, Doublade, and Porygon2, also hurts it, as these threats are all bulky enough to withstand even boosted hits and in return KO or status Minior.\n", "strategies' format": "RU", "strategies": [{"name": "Shell Smash", "stats": [156, 328, 157, 212, 156, 339], "type": ["Rock", "Flying"], "usage": "This set's best use is as a late-game cleaner, as Minior will only be able to successfully sweep once its checks have been weakened or removed due to its slight lack of power even after a boost. Most Steel-types should be weakened a considerable amount before Minior attempts a sweep, as many, such as Escavalier, Doublade, and Registeel, are all bulky enough to even take super effective hits and KO Minior with STAB attacks. Bronzong in particular should be removed completely, as it is either immune or resistant to all of Minior's attacks. Bulky Pokemon such as Gligar, Porygon2, and Rhyperior should also be weakened quite a bit, as even when boosted, Minior can struggle to break past these threats, which threaten it with either super effective attacks or status. Bulky Water-types are another concern of Minior's and should also be removed or weakened before it attempts to clean up late-game. In order to reliably set up with Shell Smash, Minior should aim to set up against foes that it forces out, such as Torkoal, Salazzle, and Honchkrow, as well as against Pokemon that likely won't be able to do anything to Minior, like Necrozma, Florges, and Choice-locked Stoutland. Passive Pokemon that generally rely on status to deal damage, such as Cresselia, also make good setup bait thanks to Minior's immunity to status when in its Meteor forme. If Minior is running Substitute, it should feel free to use the move against the aforementioned setup targets, as it will then ensure an opportunity to use Shell Smash. Minior should almost never try switching into attacks, as Shields Down must be preserved in order to guarantee a chance to set up. Due to this, Minior is best brought into play via slow pivot support or after a teammate has fainted.", "moves": [["Shell Smash"], ["Acrobatics"], ["Substitute", "Stone Edge"], ["Earthquake"]], "item": [" White Herb"], "ability": ["Shields Down"], "nature": ["Adamant"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Bulky Water-types", "Steel-types", "Electric-types", "Physically Bulky Pokemon", "Stealth Rock", "Powerful Wallbreakers", "Strong Priority"], "credits": ["Written by Hilomilo", "Quality checked by MrAldo, col49,  and Arifeen", "Grammar checked by Kris and Fireflame479"]}
+{
+    "name": "Minior",
+    "forms": {
+        "Base": {
+            "base stats": [
+                60,
+                100,
+                60,
+                100,
+                60,
+                120
+            ],
+            "types": [
+                "Rock",
+                "Flying"
+            ],
+            "abilities": [
+                "Shields Down"
+            ],
+            "tier": [
+                "NU"
+            ],
+            "form": "Base"
+        },
+        "Meteor": {
+            "base stats": [
+                60,
+                60,
+                100,
+                60,
+                100,
+                60
+            ],
+            "types": [
+                "Rock",
+                "Flying"
+            ],
+            "abilities": [
+                "Shields Down"
+            ],
+            "tier": [
+                "NU"
+            ],
+            "form": "Meteor"
+        }
+    },
+    "overview": "Minior is an amazing late-game cleaner on offensive teams in the RU metagame thanks to its Shields Down ability, which gives it good bulk and an immunity to status until its HP is below half, thus nearly guaranteeing setup alongside giving its offensive stats and Speed immense boosts upon entering its Core forme. Complementing Minior's useful ability is an amazing offensive Rock / Flying typing that, alongside Earthquake, is unresisted by almost the entire metagame. Furthermore, upon boosting with Shell Smash and exiting its Meteor forme, Minior will be able to outpace the entire unboosted metagame, thus forcing foes to rely on priority or tanking a hit to revenge kill it. It can also create easy setup opportunities and chances to activate Shields Down thanks to its access to Substitute and ability to force switches. Unfortunately, despite its perks, Minior's typing leaves it with weaknesses to Stealth Rock as well as common types in Electric, Water, and Ice. Minior also only has decent bulk and offensive stats in its Meteor and base formes, respectively, meaning that especially powerful attacks may KO it before it can set up, and it will lack power even after it boosts. It will also be quite slow before a boost or before it's out of its Meteor forme, which leaves it prone to Taunt. Lastly, the presence of certain defensive Pokemon, like Bronzong, Doublade, and Porygon2, also hurts it, as these threats are all bulky enough to withstand even boosted hits and in return KO or status Minior.\n",
+    "strategies' format": "RU",
+    "strategies": [
+        {
+            "name": "Shell Smash",
+            "stats": [
+                156,
+                328,
+                157,
+                212,
+                156,
+                339
+            ],
+            "type": [
+                "Rock",
+                "Flying"
+            ],
+            "usage": "This set's best use is as a late-game cleaner, as Minior will only be able to successfully sweep once its checks have been weakened or removed due to its slight lack of power even after a boost. Most Steel-types should be weakened a considerable amount before Minior attempts a sweep, as many, such as Escavalier, Doublade, and Registeel, are all bulky enough to even take super effective hits and KO Minior with STAB attacks. Bronzong in particular should be removed completely, as it is either immune or resistant to all of Minior's attacks. Bulky Pokemon such as Gligar, Porygon2, and Rhyperior should also be weakened quite a bit, as even when boosted, Minior can struggle to break past these threats, which threaten it with either super effective attacks or status. Bulky Water-types are another concern of Minior's and should also be removed or weakened before it attempts to clean up late-game. In order to reliably set up with Shell Smash, Minior should aim to set up against foes that it forces out, such as Torkoal, Salazzle, and Honchkrow, as well as against Pokemon that likely won't be able to do anything to Minior, like Necrozma, Florges, and Choice-locked Stoutland. Passive Pokemon that generally rely on status to deal damage, such as Cresselia, also make good setup bait thanks to Minior's immunity to status when in its Meteor forme. If Minior is running Substitute, it should feel free to use the move against the aforementioned setup targets, as it will then ensure an opportunity to use Shell Smash. Minior should almost never try switching into attacks, as Shields Down must be preserved in order to guarantee a chance to set up. Due to this, Minior is best brought into play via slow pivot support or after a teammate has fainted.",
+            "moves": [
+                [
+                    "Shell Smash"
+                ],
+                [
+                    "Acrobatics"
+                ],
+                [
+                    "Substitute",
+                    "Stone Edge"
+                ],
+                [
+                    "Earthquake"
+                ]
+            ],
+            "item": [
+                " White Herb"
+            ],
+            "ability": [
+                "Shields Down"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Bulky Water-types",
+        "Steel-types",
+        "Electric-types",
+        "Physically Bulky Pokemon",
+        "Stealth Rock",
+        "Powerful Wallbreakers",
+        "Strong Priority"
+    ],
+    "credits": [
+        "Written by Hilomilo",
+        "Quality checked by MrAldo, col49,  and Arifeen",
+        "Grammar checked by Kris and Fireflame479"
+    ]
+}

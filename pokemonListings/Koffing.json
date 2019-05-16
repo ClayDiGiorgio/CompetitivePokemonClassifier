@@ -1,1 +1,98 @@
-{"name": "Koffing", "forms": {"Base": {"base stats": [40, 65, 95, 60, 45, 35], "types": ["Poison"], "abilities": ["Levitate"], "tier": ["LC"], "form": "Base"}}, "overview": "A Poison typing with the complementing ability Levitate leaves Koffing with useful resistances and only one weakness. Its great Defense stat allows it to be a nuisance to common Fighting-types such as Mienfoo and Timburr, and its wide movepool leaves it with plenty of coverage and support options such as Fire Blast and Will-O-Wisp. However, its shabby offensive stats give it an underwhelming offensive presence, which can allow Pokemon such as Guts Timburr, Pawniard, and Scraggy to set up on it. Additionally, its mediocre HP and bad Special Defense mean it often can't take special hits. It is also fairly reliant on its Eviolite being present to tank a lot of hits.\n", "strategies' format": "LC", "strategies": [{"name": "Defensive", "stats": [125, 149, 313, 156, 185, 106], "type": ["Poison"], "usage": "Due to Koffing's strong Defense and useful resistances, it can switch in on most Bug-, Fighting-, Poison-, and Fairy-types without fear. Examples include Snubbull, Spritzee, Foongus, and Mienfoo. Because of Koffing's low Speed, anticipate when Koffing will hit low HP so it can get the most health out of Pain Split in a single use. Be careful with Will-O-Wisp around Guts users such as Timburr, which gain an Attack boost from being statused. Avoid letting Koffing's Eviolite be removed by Knock Off from Pokemon such as Pawniard and Cottonee unless absolutely necessary, since this takes away a lot of Koffing's bulk. Be careful around special attackers such as Staryu and Magnemite because they can prey on Koffing's weaker Special Defense. Try to lure in Steel-types like Ferroseed and Pawniard to then deliver a nasty blow with Fire Blast. Toxic Spikes can be very useful for gradually wearing down the opponent's team, but make sure there are burns on physically offensive threats before setting it up. Spinners, Defoggers, and grounded Poison-types such as Staryu, Vullaby, and Foongus can easily remove Toxic Spikes, so try to remove them from the game as soon as possible. Pokemon with Mold Breaker such as Drilbur can hit Koffing with Ground-type moves, so be careful of them.", "moves": [["Will-O-Wisp"], ["Pain Split"], ["Sludge Bomb"], ["Fire Blast", "Clear Smog", "Toxic Spikes"]], "item": [" Eviolite"], "ability": ["Levitate"], "nature": ["Bold"], "ev spread": [36, 0, 236, 0, 236, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Psychic-types", "Drilbur", "Rock-types", "Water / Poison types", "Timburr", "RestTalk Users"], "credits": ["Written by sam-testings and Nozzle", "Quality checked by tahu, Xayah,  and Hilomilo", "Grammar checked by P Squared and CryoGyro"]}
+{
+    "name": "Koffing",
+    "forms": {
+        "Base": {
+            "base stats": [
+                40,
+                65,
+                95,
+                60,
+                45,
+                35
+            ],
+            "types": [
+                "Poison"
+            ],
+            "abilities": [
+                "Levitate"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "A Poison typing with the complementing ability Levitate leaves Koffing with useful resistances and only one weakness. Its great Defense stat allows it to be a nuisance to common Fighting-types such as Mienfoo and Timburr, and its wide movepool leaves it with plenty of coverage and support options such as Fire Blast and Will-O-Wisp. However, its shabby offensive stats give it an underwhelming offensive presence, which can allow Pokemon such as Guts Timburr, Pawniard, and Scraggy to set up on it. Additionally, its mediocre HP and bad Special Defense mean it often can't take special hits. It is also fairly reliant on its Eviolite being present to tank a lot of hits.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Defensive",
+            "stats": [
+                125,
+                149,
+                313,
+                156,
+                185,
+                106
+            ],
+            "type": [
+                "Poison"
+            ],
+            "usage": "Due to Koffing's strong Defense and useful resistances, it can switch in on most Bug-, Fighting-, Poison-, and Fairy-types without fear. Examples include Snubbull, Spritzee, Foongus, and Mienfoo. Because of Koffing's low Speed, anticipate when Koffing will hit low HP so it can get the most health out of Pain Split in a single use. Be careful with Will-O-Wisp around Guts users such as Timburr, which gain an Attack boost from being statused. Avoid letting Koffing's Eviolite be removed by Knock Off from Pokemon such as Pawniard and Cottonee unless absolutely necessary, since this takes away a lot of Koffing's bulk. Be careful around special attackers such as Staryu and Magnemite because they can prey on Koffing's weaker Special Defense. Try to lure in Steel-types like Ferroseed and Pawniard to then deliver a nasty blow with Fire Blast. Toxic Spikes can be very useful for gradually wearing down the opponent's team, but make sure there are burns on physically offensive threats before setting it up. Spinners, Defoggers, and grounded Poison-types such as Staryu, Vullaby, and Foongus can easily remove Toxic Spikes, so try to remove them from the game as soon as possible. Pokemon with Mold Breaker such as Drilbur can hit Koffing with Ground-type moves, so be careful of them.",
+            "moves": [
+                [
+                    "Will-O-Wisp"
+                ],
+                [
+                    "Pain Split"
+                ],
+                [
+                    "Sludge Bomb"
+                ],
+                [
+                    "Fire Blast",
+                    "Clear Smog",
+                    "Toxic Spikes"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Levitate"
+            ],
+            "nature": [
+                "Bold"
+            ],
+            "ev spread": [
+                36,
+                0,
+                236,
+                0,
+                236,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Psychic-types",
+        "Drilbur",
+        "Rock-types",
+        "Water / Poison types",
+        "Timburr",
+        "RestTalk Users"
+    ],
+    "credits": [
+        "Written by sam-testings and Nozzle",
+        "Quality checked by tahu, Xayah,  and Hilomilo",
+        "Grammar checked by P Squared and CryoGyro"
+    ]
+}

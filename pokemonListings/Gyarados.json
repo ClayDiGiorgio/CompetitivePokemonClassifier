@@ -1,1 +1,177 @@
-{"name": "Gyarados", "forms": {"Base": {"base stats": [95, 125, 79, 60, 100, 81], "types": ["Water", "Flying"], "abilities": ["Intimidate", "Moxie"], "tier": ["UUBL"], "form": "Base"}, "Mega": {"base stats": [95, 155, 109, 70, 130, 81], "types": ["Water", "Dark"], "abilities": ["Mold Breaker"], "tier": ["OU"], "form": "Mega"}}, "overview": "Gyarados is a good sweeper in OU due to its access to an excellent boosting move in Dragon Dance alongside solid offensive stats and a sterling offensive typing. It also has two extremely useful abilities in Moxie and Intimidate, which can allow it to snowball and aid it in setting up, respectively. Gyarados's decent bulk and good defensive typing provide it multiple setup opportunities and let it take hits from premier Pokemon in the tier such as Protean Greninja as well as Mega Swampert. However, Gyarados is hurt by its lackluster Speed tier, with Pokemon like Tapu Lele and Kyurem-B outspeeding it before a boost and most common Choice Scarf users and ultra-fast Pokemon like Mega Alakazam outspeeding it after a boost. Gyarados can also run a Mega set, which is notably trickier for some Choice Scarf users such as Garchomp to revenge kill, but it struggles with the prevalence of checks like Tangrowth and Toxapex.\n", "strategies' format": "OU", "strategies": [{"name": "Dragon Dance Sweeper", "stats": [226, 349, 194, 140, 237, 287], "type": ["Water", "Flying"], "usage": "This set can be used either to soften up walls early-game or to clean late-game. If Gyarados's main role is as an early-game breaker, it can afford to take some damage early on and also can use Supersonic Skystrike aggressively to soften down Pokemon for a teammate. Gyarados can also bluff a Mega set and lure in Grass-types like Tangrowth and take them out for a teammate. If Gyarados is being used as a late-game cleaner, try to avoid letting it taking chip damage, especially from Stealth Rock, as it can decrease its setup opportunities or leave it susceptible to a revenge killer. Gyarados should set up on Pokemon that cannot threaten it, such as defensive Landorus-T lacking Stone Edge, Mega Scizor, and Choice-locked Pokemon like Choice Specs Keldeo locked into Secret Sword. You should also be wary of Choice Scarf users and try to remove them before setting up, since they could interfere with a Gyarados sweep.", "moves": [["Dragon Dance"], ["Bounce"], ["Waterfall"], ["Earthquake", "Taunt"]], "item": [" Flyinium Z"], "ability": ["Moxie"], "nature": ["Jolly"], "ev spread": [0, 252, 0, 0, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Mega Dragon Dance", "stats": [226, 409, 254, 158, 297, 287], "type": ["Water", "Dark"], "usage": "Mega Gyarados should set up only after its checks like Toxapex, Zapdos, Tangrowth, and Tapu Fini have been removed or weakened into the range of its attacks at +1, and it should aim to set up on Pokemon that cannot threaten it, such as defensive Landorus-T, Garchomp Choice-locked into Earthquake, Battle Bond Greninja, Heatran if carrying Substitute, and specially defensive Celesteela if carrying Taunt or Substitute. It is best to avoid taking chip damage early on, as doing so can reduce Gyarados's setup opportunities late-game; keeping Stealth Rock off the field helps in that respect. Being careful about the timing of Mega Evolving with Gyarados can also help, as holding off on doing so allows Gyarados to set up on Pokemon like Garchomp locked into Earthquake and Keldeo locked into Secret Sword. On the other hand, Mega Evolving allows Gyarados to take neutral damage from Stealth Rock and gives it a Psychic immunity and Dark resistance, which is useful for taking on Choice-locked Psychic-types like Tapu Lele and Latios and Battle Bond Greninja .", "moves": [["Dragon Dance"], ["Crunch"], ["Earthquake"], ["Substitute"]], "item": [" Gyaradosite"], "ability": ["Intimidate"], "nature": ["Jolly"], "ev spread": [0, 252, 0, 0, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Electric-types", "Water-types", "Revenge Killers", "Grass-types", "Steel-types", "Fighting-types", "Fairy-types"], "credits": ["Written by Anish", "Quality checked by Colonel M, p2,  and Gary", "Grammar checked by P Squared and The Dutch Plumberjack"]}
+{
+    "name": "Gyarados",
+    "forms": {
+        "Base": {
+            "base stats": [
+                95,
+                125,
+                79,
+                60,
+                100,
+                81
+            ],
+            "types": [
+                "Water",
+                "Flying"
+            ],
+            "abilities": [
+                "Intimidate",
+                "Moxie"
+            ],
+            "tier": [
+                "UUBL"
+            ],
+            "form": "Base"
+        },
+        "Mega": {
+            "base stats": [
+                95,
+                155,
+                109,
+                70,
+                130,
+                81
+            ],
+            "types": [
+                "Water",
+                "Dark"
+            ],
+            "abilities": [
+                "Mold Breaker"
+            ],
+            "tier": [
+                "OU"
+            ],
+            "form": "Mega"
+        }
+    },
+    "overview": "Gyarados is a good sweeper in OU due to its access to an excellent boosting move in Dragon Dance alongside solid offensive stats and a sterling offensive typing. It also has two extremely useful abilities in Moxie and Intimidate, which can allow it to snowball and aid it in setting up, respectively. Gyarados's decent bulk and good defensive typing provide it multiple setup opportunities and let it take hits from premier Pokemon in the tier such as Protean Greninja as well as Mega Swampert. However, Gyarados is hurt by its lackluster Speed tier, with Pokemon like Tapu Lele and Kyurem-B outspeeding it before a boost and most common Choice Scarf users and ultra-fast Pokemon like Mega Alakazam outspeeding it after a boost. Gyarados can also run a Mega set, which is notably trickier for some Choice Scarf users such as Garchomp to revenge kill, but it struggles with the prevalence of checks like Tangrowth and Toxapex.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Dragon Dance Sweeper",
+            "stats": [
+                226,
+                349,
+                194,
+                140,
+                237,
+                287
+            ],
+            "type": [
+                "Water",
+                "Flying"
+            ],
+            "usage": "This set can be used either to soften up walls early-game or to clean late-game. If Gyarados's main role is as an early-game breaker, it can afford to take some damage early on and also can use Supersonic Skystrike aggressively to soften down Pokemon for a teammate. Gyarados can also bluff a Mega set and lure in Grass-types like Tangrowth and take them out for a teammate. If Gyarados is being used as a late-game cleaner, try to avoid letting it taking chip damage, especially from Stealth Rock, as it can decrease its setup opportunities or leave it susceptible to a revenge killer. Gyarados should set up on Pokemon that cannot threaten it, such as defensive Landorus-T lacking Stone Edge, Mega Scizor, and Choice-locked Pokemon like Choice Specs Keldeo locked into Secret Sword. You should also be wary of Choice Scarf users and try to remove them before setting up, since they could interfere with a Gyarados sweep.",
+            "moves": [
+                [
+                    "Dragon Dance"
+                ],
+                [
+                    "Bounce"
+                ],
+                [
+                    "Waterfall"
+                ],
+                [
+                    "Earthquake",
+                    "Taunt"
+                ]
+            ],
+            "item": [
+                " Flyinium Z"
+            ],
+            "ability": [
+                "Moxie"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                0,
+                0,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Mega Dragon Dance",
+            "stats": [
+                226,
+                409,
+                254,
+                158,
+                297,
+                287
+            ],
+            "type": [
+                "Water",
+                "Dark"
+            ],
+            "usage": "Mega Gyarados should set up only after its checks like Toxapex, Zapdos, Tangrowth, and Tapu Fini have been removed or weakened into the range of its attacks at +1, and it should aim to set up on Pokemon that cannot threaten it, such as defensive Landorus-T, Garchomp Choice-locked into Earthquake, Battle Bond Greninja, Heatran if carrying Substitute, and specially defensive Celesteela if carrying Taunt or Substitute. It is best to avoid taking chip damage early on, as doing so can reduce Gyarados's setup opportunities late-game; keeping Stealth Rock off the field helps in that respect. Being careful about the timing of Mega Evolving with Gyarados can also help, as holding off on doing so allows Gyarados to set up on Pokemon like Garchomp locked into Earthquake and Keldeo locked into Secret Sword. On the other hand, Mega Evolving allows Gyarados to take neutral damage from Stealth Rock and gives it a Psychic immunity and Dark resistance, which is useful for taking on Choice-locked Psychic-types like Tapu Lele and Latios and Battle Bond Greninja .",
+            "moves": [
+                [
+                    "Dragon Dance"
+                ],
+                [
+                    "Crunch"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Substitute"
+                ]
+            ],
+            "item": [
+                " Gyaradosite"
+            ],
+            "ability": [
+                "Intimidate"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                0,
+                0,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Electric-types",
+        "Water-types",
+        "Revenge Killers",
+        "Grass-types",
+        "Steel-types",
+        "Fighting-types",
+        "Fairy-types"
+    ],
+    "credits": [
+        "Written by Anish",
+        "Quality checked by Colonel M, p2,  and Gary",
+        "Grammar checked by P Squared and The Dutch Plumberjack"
+    ]
+}

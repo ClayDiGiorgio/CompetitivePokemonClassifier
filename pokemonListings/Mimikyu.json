@@ -1,1 +1,98 @@
-{"name": "Mimikyu", "forms": {"Base": {"base stats": [55, 90, 80, 50, 105, 96], "types": ["Ghost", "Fairy"], "abilities": ["Disguise"], "tier": ["OU"], "form": "Base"}}, "overview": "Mimikyu holds a niche in the OU metagame due to its unique typing and ability Disguise, which gives it a free turn to attack or set up. Defensively, Mimikyu can act as a blanket check to many threats such as Volcarona and Mega Medicham. Ghost- and Fairy-type STAB moves allow Mimikyu to hit the entire metagame for at least neutral damage. Decent Attack along with access to Swords Dance and great STAB coverage allows Mimikyu to clean easily. However, Mimikyu struggles to break common defensive Pokemon such Toxapex and Landorus-T. Also, once Disguise is broken, Mimikyu is very easy to revenge kill, as it is very frail and isn't very fast.\n", "strategies' format": "OU", "strategies": [{"name": "Swords Dance", "stats": [146, 306, 196, 122, 247, 291], "type": ["Ghost", "Fairy"], "usage": "Mimikyu's Disguise should be saved until the mid- or late-game, as Disguise can be used to stop a setup sweeper such as non-Mega Gyarados or Volcarona. However, it is acceptable to use up Mimikyu's Disguise early-game to weaken Pokemon such as Landorus-T. Try to use Swords Dance when Mimikyu has a clear shot at sweeping or when you need to break through the opposing Pokemon. If Ghostium Z is run over Life Orb, use Never-Ending Nightmare after a Swords Dance to break Pokemon such as Celesteela. Be careful of Psychic Terrain, as it blocks Shadow Sneak.", "moves": [["Swords Dance"], ["Shadow Sneak"], ["Play Rough"], ["Shadow Claw"]], "item": [" Life Orb", " Ghostium Z"], "ability": ["Disguise"], "nature": ["Adamant", "Jolly"], "ev spread": [0, 252, 0, 0, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Steel-types", "Physically Bulky Pokemon", "Faster Pokemon"], "credits": ["Written by matthewc20090", "Earlier versions by Of Moose & Men", "Quality checked by Finchinator, Gary,  and p2", "Grammar checked by Mr. Uncompetitive and Wob"]}
+{
+    "name": "Mimikyu",
+    "forms": {
+        "Base": {
+            "base stats": [
+                55,
+                90,
+                80,
+                50,
+                105,
+                96
+            ],
+            "types": [
+                "Ghost",
+                "Fairy"
+            ],
+            "abilities": [
+                "Disguise"
+            ],
+            "tier": [
+                "OU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Mimikyu holds a niche in the OU metagame due to its unique typing and ability Disguise, which gives it a free turn to attack or set up. Defensively, Mimikyu can act as a blanket check to many threats such as Volcarona and Mega Medicham. Ghost- and Fairy-type STAB moves allow Mimikyu to hit the entire metagame for at least neutral damage. Decent Attack along with access to Swords Dance and great STAB coverage allows Mimikyu to clean easily. However, Mimikyu struggles to break common defensive Pokemon such Toxapex and Landorus-T. Also, once Disguise is broken, Mimikyu is very easy to revenge kill, as it is very frail and isn't very fast.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Swords Dance",
+            "stats": [
+                146,
+                306,
+                196,
+                122,
+                247,
+                291
+            ],
+            "type": [
+                "Ghost",
+                "Fairy"
+            ],
+            "usage": "Mimikyu's Disguise should be saved until the mid- or late-game, as Disguise can be used to stop a setup sweeper such as non-Mega Gyarados or Volcarona. However, it is acceptable to use up Mimikyu's Disguise early-game to weaken Pokemon such as Landorus-T. Try to use Swords Dance when Mimikyu has a clear shot at sweeping or when you need to break through the opposing Pokemon. If Ghostium Z is run over Life Orb, use Never-Ending Nightmare after a Swords Dance to break Pokemon such as Celesteela. Be careful of Psychic Terrain, as it blocks Shadow Sneak.",
+            "moves": [
+                [
+                    "Swords Dance"
+                ],
+                [
+                    "Shadow Sneak"
+                ],
+                [
+                    "Play Rough"
+                ],
+                [
+                    "Shadow Claw"
+                ]
+            ],
+            "item": [
+                " Life Orb",
+                " Ghostium Z"
+            ],
+            "ability": [
+                "Disguise"
+            ],
+            "nature": [
+                "Adamant",
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                0,
+                0,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Steel-types",
+        "Physically Bulky Pokemon",
+        "Faster Pokemon"
+    ],
+    "credits": [
+        "Written by matthewc20090",
+        "Earlier versions by Of Moose & Men",
+        "Quality checked by Finchinator, Gary,  and p2",
+        "Grammar checked by Mr. Uncompetitive and Wob"
+    ]
+}

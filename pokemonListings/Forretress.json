@@ -1,1 +1,100 @@
-{"name": "Forretress", "forms": {"Base": {"base stats": [75, 90, 140, 60, 60, 40], "types": ["Bug", "Steel"], "abilities": ["Overcoat", "Sturdy"], "tier": ["RU"], "form": "Base"}}, "overview": "Forretress's huge Defense stat lets it act as one of the best physical sponges in the tier, being able to switch into threats like Linoone, Flygon, and Bewear. Its access to all entry hazards and Rapid Spin makes it an appealing choice on teams that desire its ability to compress several roles in one, and its access to slow Volt Switch allows it to bring teammates in safely and avoid as much passivity as possible. Forretress's amazing typing only leaves it with a single weakness, although its neutrality to Rock and Flying as a Steel-type can put a strain on teambuilding. However, Forretress's extremely lacking base 60 Special Defense makes special attackers a huge threat to watch out for. Due to Forretress's lacking offensive presence beyond Volt Switch and Toxic, it is easily spinblocked by common Ghost-types like Mismagius and Alolan Marowak, while hazard removers such as Mega Blastoise, Sigilyph, and Mandibuzz are able to switch into it with impunity and remove whatever hazards Forretress had set up; this is somewhat mitigated by Forretress's ability to pivot out of them or put them on a timer with Toxic, however. Furthermore, a lack of reliable recovery means it is prone to being whittled down by Stealth Rock and other residual damage. Although Forretress's very low Speed stat will increase Gyro Ball's power, it will otherwise often be moving last against most Pokemon in the tier, which hinders its ability as a spinner and hazard setter; Pokemon like Rhyperior are able to KO it before it gets the opportunity to use Rapid Spin or Spikes. Lastly, Forretress possesses a crippling weakness to Fire, one of the best offensive typings in the meta, which severely undermines its defensive utility.\n", "strategies' format": "RU", "strategies": [{"name": "Defensive", "stats": [249, 216, 416, 156, 157, 76], "type": ["Bug", "Steel"], "usage": "Use Forretress as a sponge against physical attackers like Zygarde-10% and Escavalier, and use Spikes or Rapid Spin when given free turns by them. Do not attempt to utilize it as a wall over extended periods of time, as Forretress is prone to being whittled down and won't be able to effectively pivot into the threats it's supposed to check. Instead, it performs excellently as a defensive pivot, switching into attacks and pivoting out to safety, bringing another teammate in with Volt Switch. Use Volt Switch against sweepers that can use Forretress as setup fodder to prevent them from cleaning your team. When an opposing Ghost-type is on the field, try and predict if it will attempt to switch into Forretress to spinblock it, and switch into an appropriate countermeasure or use Toxic on them. While it cannot switch into powerful special attacks, Forretress's wonderful defensive typing does allow it to come into certain resisted attacks such as Blizzard from Mega Abomasnow and Moonblast from Choice Scarf Gardevoir. Try and spread Toxic poison as much as possible to cripple walls such as Cresselia and Mandibuzz.", "moves": [["Gyro Ball"], ["Spikes"], ["Volt Switch"], ["Rapid Spin", "Toxic"]], "item": [" Leftovers"], "ability": ["Overcoat"], "nature": ["Relaxed"], "ev spread": [252, 0, 252, 0, 4, 0], "iv spread": [31, 31, 31, 31, 31, 0]}], "counters": ["Fire-types", "Special Attackers", "Setup Sweepers", "Ghost-types", "Water-types", "Taunt and Trick Users"], "credits": ["Written by zizalith", "Quality checked by roman, Mr Aldo,  and Teachable", "Grammar checked by A Cake Wearing A Hat and The Dutch Plumberjack"]}
+{
+    "name": "Forretress",
+    "forms": {
+        "Base": {
+            "base stats": [
+                75,
+                90,
+                140,
+                60,
+                60,
+                40
+            ],
+            "types": [
+                "Bug",
+                "Steel"
+            ],
+            "abilities": [
+                "Overcoat",
+                "Sturdy"
+            ],
+            "tier": [
+                "RU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Forretress's huge Defense stat lets it act as one of the best physical sponges in the tier, being able to switch into threats like Linoone, Flygon, and Bewear. Its access to all entry hazards and Rapid Spin makes it an appealing choice on teams that desire its ability to compress several roles in one, and its access to slow Volt Switch allows it to bring teammates in safely and avoid as much passivity as possible. Forretress's amazing typing only leaves it with a single weakness, although its neutrality to Rock and Flying as a Steel-type can put a strain on teambuilding. However, Forretress's extremely lacking base 60 Special Defense makes special attackers a huge threat to watch out for. Due to Forretress's lacking offensive presence beyond Volt Switch and Toxic, it is easily spinblocked by common Ghost-types like Mismagius and Alolan Marowak, while hazard removers such as Mega Blastoise, Sigilyph, and Mandibuzz are able to switch into it with impunity and remove whatever hazards Forretress had set up; this is somewhat mitigated by Forretress's ability to pivot out of them or put them on a timer with Toxic, however. Furthermore, a lack of reliable recovery means it is prone to being whittled down by Stealth Rock and other residual damage. Although Forretress's very low Speed stat will increase Gyro Ball's power, it will otherwise often be moving last against most Pokemon in the tier, which hinders its ability as a spinner and hazard setter; Pokemon like Rhyperior are able to KO it before it gets the opportunity to use Rapid Spin or Spikes. Lastly, Forretress possesses a crippling weakness to Fire, one of the best offensive typings in the meta, which severely undermines its defensive utility.\n",
+    "strategies' format": "RU",
+    "strategies": [
+        {
+            "name": "Defensive",
+            "stats": [
+                249,
+                216,
+                416,
+                156,
+                157,
+                76
+            ],
+            "type": [
+                "Bug",
+                "Steel"
+            ],
+            "usage": "Use Forretress as a sponge against physical attackers like Zygarde-10% and Escavalier, and use Spikes or Rapid Spin when given free turns by them. Do not attempt to utilize it as a wall over extended periods of time, as Forretress is prone to being whittled down and won't be able to effectively pivot into the threats it's supposed to check. Instead, it performs excellently as a defensive pivot, switching into attacks and pivoting out to safety, bringing another teammate in with Volt Switch. Use Volt Switch against sweepers that can use Forretress as setup fodder to prevent them from cleaning your team. When an opposing Ghost-type is on the field, try and predict if it will attempt to switch into Forretress to spinblock it, and switch into an appropriate countermeasure or use Toxic on them. While it cannot switch into powerful special attacks, Forretress's wonderful defensive typing does allow it to come into certain resisted attacks such as Blizzard from Mega Abomasnow and Moonblast from Choice Scarf Gardevoir. Try and spread Toxic poison as much as possible to cripple walls such as Cresselia and Mandibuzz.",
+            "moves": [
+                [
+                    "Gyro Ball"
+                ],
+                [
+                    "Spikes"
+                ],
+                [
+                    "Volt Switch"
+                ],
+                [
+                    "Rapid Spin",
+                    "Toxic"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Overcoat"
+            ],
+            "nature": [
+                "Relaxed"
+            ],
+            "ev spread": [
+                252,
+                0,
+                252,
+                0,
+                4,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                0
+            ]
+        }
+    ],
+    "counters": [
+        "Fire-types",
+        "Special Attackers",
+        "Setup Sweepers",
+        "Ghost-types",
+        "Water-types",
+        "Taunt and Trick Users"
+    ],
+    "credits": [
+        "Written by zizalith",
+        "Quality checked by roman, Mr Aldo,  and Teachable",
+        "Grammar checked by A Cake Wearing A Hat and The Dutch Plumberjack"
+    ]
+}

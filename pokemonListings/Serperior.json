@@ -1,1 +1,155 @@
-{"name": "Serperior", "forms": {"Base": {"base stats": [75, 75, 95, 75, 95, 113], "types": ["Grass"], "abilities": ["Contrary", "Overgrow"], "tier": ["OU"], "form": "Base"}}, "overview": "Serperior's ability to spam Leaf Storm and receive a Special Attack boost due to Contrary makes it a fantastic cleaner for offensively inclined teams that require its ability to handle various threats such as Tapu Bulu, Clefable, and Tapu Koko. A good matchup against Sticky Web teams due to Contrary and the ability to overpower balance staples such as Clefable and Toxapex makes Serperior excellent against a good portion of the meta. Serperior is also able to take advantage of its switch-ins through the use of Substitute, allowing it to safely use Glare to cripple offensive threats, or Leech Seed to annoy passive Pokemon, limiting its defensive counterplay. Additionally, an amazing Speed tier lets Serperior outspeed many relevant offensive threats such as Mega Latios, Kartana, and Mega Medicham. However, its mediocre bulk means it's a Grass-type that is unable to check Ash-Greninja and switch into strong attacks, and a bad Special Attack stat also means Serperior struggles to deal damage right away.\n", "strategies' format": "OU", "strategies": [{"name": "Substitute Attacker", "stats": [200, 167, 226, 236, 226, 357], "type": ["Grass"], "usage": "Due to its mediocre bulk, avoid switching Serperior into strong attacks, as they will leave it heavily weakened. Thus, Serperior should attempt to safely get on the field against threats it has a good matchup against, such as Garchomp and Ferrothorn. Make sure to conserve Leaf Storm's limited PP. Attempt to use Glare against Serperior's checks as they switch in, as most of its targets such as Kyurem-B, Tornadus-T, and Heatran can either OHKO Serperior or deal heavy damage to it if they don't get fully paralyzed. Similarly to Glare, if using Leech Seed, predict switch-ins and use Leech Seed as they come in; afterwards, use Substitute repeatedly to let Leech Seed wear down the target while keeping Serperior safe from damage and status. Certain Pokemon that Serperior otherwise handles well can run status moves to cripple it, such as Clefable with Thunder Wave, so try to scout for those moves with Substitute and avoid status as a whole, since it prevents Serperior from properly wallbreaking. Serperior can be used early in the match to weaken defensive walls for teammates, but it can also be conserved to be an effective late-game cleaner, so make sure to use it wisely.", "moves": [["Leaf Storm"], ["Hidden Power Fire"], ["Substitute"], ["Glare"]], "item": [" Leftovers"], "ability": ["Contrary"], "nature": ["Timid"], "ev spread": [56, 0, 0, 200, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Choice Scarf", "stats": [186, 167, 226, 249, 227, 357], "type": ["Grass"], "usage": "Serperior's main purpose is to clean late-game, when the opponent's Grass-type answers have been weakened and counters have been eliminated. Try to weaken opposing Pokemon that can take Leaf Storm with the rest of your team, and with Serperior's support options, as this increases Serperior's chances to clean. Until this has been accomplished, Serperior will mostly find itself using Glare and Knock Off to support its teammates before it's ready to clean. As Leaf Storm only has 8 PP, it is important to keep track of how many times you need to use it late-game. Pressure users like Zapdos and Kyurem quickly drain PP, so watch out for those. Glare can paralyze offensive switch-ins, easing up Serperior's job, while also providing speed control for slower Pokemon on your team that appreciate faster checks being crippled. Because of the great pressure Serperior often exerts on bulkier builds, it gets many opportunities to use Defog when forcing a switch. Using Knock Off to remove Leftovers on switch-ins like Heatran, Celesteela, and Ferrothorn, Eviolite from Chansey, or the occasional Assault Vest from Tangrowth or Magearna could also be very beneficial for Serperior's chances to clean up.", "moves": [["Leaf Storm"], ["Glare"], ["Defog", "Hidden Power Fire"], ["Knock Off", "Hidden Power Fire"]], "item": [" Choice Scarf"], "ability": ["Contrary"], "nature": ["Timid"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Pressure Users", "Fire-types", "Dragon-types", "Grass-types", "Steel-types", "Chansey", "Faster Pokemon and Priority"], "credits": ["Written by Felixx and Djokra", "Earlier versions by ScraftyIsTheBest and Wob", "Quality checked by lyd, Jordy,  and Indigo Plateau", "Grammar checked by GMars and The Dutch Plumberjack"]}
+{
+    "name": "Serperior",
+    "forms": {
+        "Base": {
+            "base stats": [
+                75,
+                75,
+                95,
+                75,
+                95,
+                113
+            ],
+            "types": [
+                "Grass"
+            ],
+            "abilities": [
+                "Contrary",
+                "Overgrow"
+            ],
+            "tier": [
+                "OU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Serperior's ability to spam Leaf Storm and receive a Special Attack boost due to Contrary makes it a fantastic cleaner for offensively inclined teams that require its ability to handle various threats such as Tapu Bulu, Clefable, and Tapu Koko. A good matchup against Sticky Web teams due to Contrary and the ability to overpower balance staples such as Clefable and Toxapex makes Serperior excellent against a good portion of the meta. Serperior is also able to take advantage of its switch-ins through the use of Substitute, allowing it to safely use Glare to cripple offensive threats, or Leech Seed to annoy passive Pokemon, limiting its defensive counterplay. Additionally, an amazing Speed tier lets Serperior outspeed many relevant offensive threats such as Mega Latios, Kartana, and Mega Medicham. However, its mediocre bulk means it's a Grass-type that is unable to check Ash-Greninja and switch into strong attacks, and a bad Special Attack stat also means Serperior struggles to deal damage right away.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Substitute Attacker",
+            "stats": [
+                200,
+                167,
+                226,
+                236,
+                226,
+                357
+            ],
+            "type": [
+                "Grass"
+            ],
+            "usage": "Due to its mediocre bulk, avoid switching Serperior into strong attacks, as they will leave it heavily weakened. Thus, Serperior should attempt to safely get on the field against threats it has a good matchup against, such as Garchomp and Ferrothorn. Make sure to conserve Leaf Storm's limited PP. Attempt to use Glare against Serperior's checks as they switch in, as most of its targets such as Kyurem-B, Tornadus-T, and Heatran can either OHKO Serperior or deal heavy damage to it if they don't get fully paralyzed. Similarly to Glare, if using Leech Seed, predict switch-ins and use Leech Seed as they come in; afterwards, use Substitute repeatedly to let Leech Seed wear down the target while keeping Serperior safe from damage and status. Certain Pokemon that Serperior otherwise handles well can run status moves to cripple it, such as Clefable with Thunder Wave, so try to scout for those moves with Substitute and avoid status as a whole, since it prevents Serperior from properly wallbreaking. Serperior can be used early in the match to weaken defensive walls for teammates, but it can also be conserved to be an effective late-game cleaner, so make sure to use it wisely.",
+            "moves": [
+                [
+                    "Leaf Storm"
+                ],
+                [
+                    "Hidden Power Fire"
+                ],
+                [
+                    "Substitute"
+                ],
+                [
+                    "Glare"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Contrary"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                56,
+                0,
+                0,
+                200,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Choice Scarf",
+            "stats": [
+                186,
+                167,
+                226,
+                249,
+                227,
+                357
+            ],
+            "type": [
+                "Grass"
+            ],
+            "usage": "Serperior's main purpose is to clean late-game, when the opponent's Grass-type answers have been weakened and counters have been eliminated. Try to weaken opposing Pokemon that can take Leaf Storm with the rest of your team, and with Serperior's support options, as this increases Serperior's chances to clean. Until this has been accomplished, Serperior will mostly find itself using Glare and Knock Off to support its teammates before it's ready to clean. As Leaf Storm only has 8 PP, it is important to keep track of how many times you need to use it late-game. Pressure users like Zapdos and Kyurem quickly drain PP, so watch out for those. Glare can paralyze offensive switch-ins, easing up Serperior's job, while also providing speed control for slower Pokemon on your team that appreciate faster checks being crippled. Because of the great pressure Serperior often exerts on bulkier builds, it gets many opportunities to use Defog when forcing a switch. Using Knock Off to remove Leftovers on switch-ins like Heatran, Celesteela, and Ferrothorn, Eviolite from Chansey, or the occasional Assault Vest from Tangrowth or Magearna could also be very beneficial for Serperior's chances to clean up.",
+            "moves": [
+                [
+                    "Leaf Storm"
+                ],
+                [
+                    "Glare"
+                ],
+                [
+                    "Defog",
+                    "Hidden Power Fire"
+                ],
+                [
+                    "Knock Off",
+                    "Hidden Power Fire"
+                ]
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Contrary"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Pressure Users",
+        "Fire-types",
+        "Dragon-types",
+        "Grass-types",
+        "Steel-types",
+        "Chansey",
+        "Faster Pokemon and Priority"
+    ],
+    "credits": [
+        "Written by Felixx and Djokra",
+        "Earlier versions by ScraftyIsTheBest and Wob",
+        "Quality checked by lyd, Jordy,  and Indigo Plateau",
+        "Grammar checked by GMars and The Dutch Plumberjack"
+    ]
+}

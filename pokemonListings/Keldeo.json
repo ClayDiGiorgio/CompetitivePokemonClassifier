@@ -1,1 +1,151 @@
-{"name": "Keldeo", "forms": {"Base": {"base stats": [91, 72, 90, 129, 90, 108], "types": ["Water", "Fighting"], "abilities": ["Justified"], "tier": ["OU"], "form": "Base"}}, "overview": "Keldeo's solid Special Attack and Speed stat allow it to function as a solid balance breaker in the OU tier. A Water / Fighting typing in conjunction with solid bulk for an offensive Pokemon allows Keldeo to check threatening Water-, Fire-, Steel-, and Dark-type Pokemon such as Ash-Greninja, Heatran, Mega Scizor, Tyranitar, and Weavile. Keldeo's STAB Secret Sword also allows it to bypass traditional checks to special attacking Water-types such as Chansey and Ferrothorn. Unfortunately, not all shines for Keldeo, as numerous Pokemon such as Toxapex, Amoonguss, and Tapu Fini are all hard counters to most Keldeo sets. Keldeo also lacks any powerful coverage options and is forced to rely on weaker moves such as Hidden Power and Icy Wind.\n", "strategies' format": "OU", "strategies": [{"name": "Calm Mind", "stats": [218, 162, 216, 357, 217, 346], "type": ["Water", "Fighting"], "usage": "Against more offensive teams, Keldeo can be switched into resisted attacks from foes that it forces out such as Heatran, Ash-Greninja, and Mega Tyranitar. Scald should be spammed early-game to fish for burns on the likes of Tapu Bulu, Mega Latios, and Mega Latias. Keldeo should only attempt to set up once its checks have been weakened or removed. Taunt should be used before setting up against Pokemon that can use Toxic such as Heatran, Toxapex, and Chansey, as a poison status can prevent Keldeo from beating bulky teams effectively. Keldeo can be used to beat a lot of stall teams on its own, but it should first be brought in via an aggressive switch, as most Pokemon used on this playstyle will be able to poison or burn Keldeo or Knock Off its Leftovers before it can start setting up. Keldeo also has to be wary of physically defensive Tangrowth, Unaware Clefable, and Heart Swap Magearna on these teams, as they can tank its attacks and force it out with their super effective STAB moves.", "moves": [["Calm Mind"], ["Scald"], ["Secret Sword"], ["Taunt"]], "item": [" Leftovers"], "ability": ["Justified"], "nature": ["Timid"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Choice Specs", "stats": [218, 162, 216, 357, 217, 346], "type": ["Water", "Fighting"], "usage": "Choice Specs Keldeo is a wallbreaker, so try to get it into play early-game to punch holes in the opposing team. If the opposing team has a Pokemon that walls Keldeo such as Toxapex, Mega Venusaur, or Amoonguss, it is best to use Scald in an attempt to burn it. If deemed necessary, you can actually use Keldeo as a temporary switch-in to some Pokemon such as Heatran, Ash-Greninja, and Mega Scizor thanks to its reasonable bulk and good typing. However, its bulk is only decent and this set has no recovery, so you'll want to get Keldeo into play with VoltTurn support or by making double switches most of the time. Finally, while Keldeo resists Dark, sometimes you might not want to switch Keldeo into Weavile, for example, due to it having the ability to get rid of Keldeo's item with Knock Off, which can lead to Keldeo no longer being able to break through the opposing team if they have a Pokemon that necessitates the extra power from Choice Specs, such as Gastrodon.", "moves": [["Hydro Pump"], ["Secret Sword"], ["Scald"], ["Icy Wind"]], "item": [" Choice Specs"], "ability": ["Justified"], "nature": ["Timid"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Bulky Water-types", "Bulky Grass-types", "Faster Offensive Pokemon"], "credits": ["Written by DKM and Mellow", "Ealier versions by Vertex, AJB,  and mil", "Quality checked by Jordy, Simia, lyd, dk, Colonel M,  and Subject 18", "Grammar checked by NixHex, frostration,  and Fireflame479"]}
+{
+    "name": "Keldeo",
+    "forms": {
+        "Base": {
+            "base stats": [
+                91,
+                72,
+                90,
+                129,
+                90,
+                108
+            ],
+            "types": [
+                "Water",
+                "Fighting"
+            ],
+            "abilities": [
+                "Justified"
+            ],
+            "tier": [
+                "OU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Keldeo's solid Special Attack and Speed stat allow it to function as a solid balance breaker in the OU tier. A Water / Fighting typing in conjunction with solid bulk for an offensive Pokemon allows Keldeo to check threatening Water-, Fire-, Steel-, and Dark-type Pokemon such as Ash-Greninja, Heatran, Mega Scizor, Tyranitar, and Weavile. Keldeo's STAB Secret Sword also allows it to bypass traditional checks to special attacking Water-types such as Chansey and Ferrothorn. Unfortunately, not all shines for Keldeo, as numerous Pokemon such as Toxapex, Amoonguss, and Tapu Fini are all hard counters to most Keldeo sets. Keldeo also lacks any powerful coverage options and is forced to rely on weaker moves such as Hidden Power and Icy Wind.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Calm Mind",
+            "stats": [
+                218,
+                162,
+                216,
+                357,
+                217,
+                346
+            ],
+            "type": [
+                "Water",
+                "Fighting"
+            ],
+            "usage": "Against more offensive teams, Keldeo can be switched into resisted attacks from foes that it forces out such as Heatran, Ash-Greninja, and Mega Tyranitar. Scald should be spammed early-game to fish for burns on the likes of Tapu Bulu, Mega Latios, and Mega Latias. Keldeo should only attempt to set up once its checks have been weakened or removed. Taunt should be used before setting up against Pokemon that can use Toxic such as Heatran, Toxapex, and Chansey, as a poison status can prevent Keldeo from beating bulky teams effectively. Keldeo can be used to beat a lot of stall teams on its own, but it should first be brought in via an aggressive switch, as most Pokemon used on this playstyle will be able to poison or burn Keldeo or Knock Off its Leftovers before it can start setting up. Keldeo also has to be wary of physically defensive Tangrowth, Unaware Clefable, and Heart Swap Magearna on these teams, as they can tank its attacks and force it out with their super effective STAB moves.",
+            "moves": [
+                [
+                    "Calm Mind"
+                ],
+                [
+                    "Scald"
+                ],
+                [
+                    "Secret Sword"
+                ],
+                [
+                    "Taunt"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Justified"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Choice Specs",
+            "stats": [
+                218,
+                162,
+                216,
+                357,
+                217,
+                346
+            ],
+            "type": [
+                "Water",
+                "Fighting"
+            ],
+            "usage": "Choice Specs Keldeo is a wallbreaker, so try to get it into play early-game to punch holes in the opposing team. If the opposing team has a Pokemon that walls Keldeo such as Toxapex, Mega Venusaur, or Amoonguss, it is best to use Scald in an attempt to burn it. If deemed necessary, you can actually use Keldeo as a temporary switch-in to some Pokemon such as Heatran, Ash-Greninja, and Mega Scizor thanks to its reasonable bulk and good typing. However, its bulk is only decent and this set has no recovery, so you'll want to get Keldeo into play with VoltTurn support or by making double switches most of the time. Finally, while Keldeo resists Dark, sometimes you might not want to switch Keldeo into Weavile, for example, due to it having the ability to get rid of Keldeo's item with Knock Off, which can lead to Keldeo no longer being able to break through the opposing team if they have a Pokemon that necessitates the extra power from Choice Specs, such as Gastrodon.",
+            "moves": [
+                [
+                    "Hydro Pump"
+                ],
+                [
+                    "Secret Sword"
+                ],
+                [
+                    "Scald"
+                ],
+                [
+                    "Icy Wind"
+                ]
+            ],
+            "item": [
+                " Choice Specs"
+            ],
+            "ability": [
+                "Justified"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Bulky Water-types",
+        "Bulky Grass-types",
+        "Faster Offensive Pokemon"
+    ],
+    "credits": [
+        "Written by DKM and Mellow",
+        "Ealier versions by Vertex, AJB,  and mil",
+        "Quality checked by Jordy, Simia, lyd, dk, Colonel M,  and Subject 18",
+        "Grammar checked by NixHex, frostration,  and Fireflame479"
+    ]
+}

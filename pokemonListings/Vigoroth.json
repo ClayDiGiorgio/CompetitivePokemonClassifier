@@ -1,1 +1,101 @@
-{"name": "Vigoroth", "forms": {"Base": {"base stats": [80, 80, 80, 55, 55, 90], "types": ["Normal"], "abilities": ["Vital Spirit"], "tier": [""], "form": "Base"}}, "overview": "Vigoroth is a fantastic defensive sweeper. Thanks to its great bulk and access to reliable recovery, common offensive Pokemon such as Golem and Choice Scarf Electivire can't 2HKO Vigoroth and therefore are rendered setup fodder. Vigoroth only needs a few EVs to outspeed Monferno and common defensive Pok\u00e9mon such as Altaria and Probopass. This, coupled with Taunt or Substitute, allows Vigoroth to use them as setup fodder as well. However although Vigoroth's bulk is great, if it loses its Eviolite, Vigoroth becomes more specially frail, and giving it a harder time setting up and making it easier to revenge kill. Vigoroth faces competition from the several other Normal-types in ZU, most notably Bulk Up Komala, which, despite being worse at defensive sweping, is far more versatile. Also, Vigoroth doesn't benefit from its pure Normal typing, which doesn't bring it any useful resistances. Vigoroth also can't afford to run anything other than a Normal STAB move as an attack and therefore needs several Attack boosts to break through Pokemon that resist Normal such as Bronzor and Probopass. In addition, Vigoroth is unable to touch Ghost-types such as Gourgeist-XL and Misdreavus and relies on PP stall to beat them. Since Vigoroth needs several turns to set up, it is unable to perform its role if it gets poisoned, making it very vulnerable to Toxic Spikes. Vigoroth is also vulnerable to Trick / Switcheroo from Choice item users, which locks it into one move and prevents it from setting up.\n", "strategies' format": "ZU", "strategies": [{"name": "Bulk Up", "stats": [259, 196, 196, 131, 187, 262], "type": ["Normal"], "usage": "Vigoroth should always avoid status, so when facing a Pokemon that can carry Toxic, it should use Substitute or Taunt. Try to keep Vigoroth at full health with Slack Off so it can set up on Pokemon such as offensive Golem. Don't start to set up until Vigoroth checks are removed. If Vigoroth is facing a Pokemon that could carry Trick / Switcheroo, switch it out, as a Tricked Vigoroth is useless. When every Pokemon that can deal with Vigoroth has been removed, proceed to set up and sweep. The best way to get rid of checks and counters is to weaken them through entry hazards and wearing them down with unboosted attacks, as most of Vigoroth's answers, such as Silvally-Fighting and Bouffalant, don't have recovery. Toxic poison can also help Vigoroth get rid of checks that can recover their health such as Nasty Plot Beheeyem and Roost + Calm Mind Oricorio, as they will get overwhelmed by Vigoroth's boosted attacks and the poison. Vigoroth can also act as a defensive check to unboosted offensive Pokemon that don't carry status, such as Golem, Rapidash, and Silvally-Dark. It can also easily take on physical Electivire lacking Cross Chop and Zebstrika, though it should usually not be used as check a to them in case they punish Vigoroth with VoltTurn.", "moves": [["Bulk Up"], ["Facade", "Return"], ["Slack Off"], ["Taunt", "Substitute"]], "item": [" Eviolite"], "ability": ["Vital Spirit"], "nature": ["Jolly"], "ev spread": [252, 0, 0, 0, 164, 92], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Fighting-types", "Strong Special Attacker", "Item Removal", "Toxic Poison", "Ghost-types", "Faster Taunt Users", "Pyukumuku", "Lickilicky", "Phazers and Haze Users"], "credits": ["Written by Tuthur1", "Quality checked by Xayah, DurzaOffTopic,  and Froasty", "Grammar checked by Electrolyte and the-dutch-plumberjack"]}
+{
+    "name": "Vigoroth",
+    "forms": {
+        "Base": {
+            "base stats": [
+                80,
+                80,
+                80,
+                55,
+                55,
+                90
+            ],
+            "types": [
+                "Normal"
+            ],
+            "abilities": [
+                "Vital Spirit"
+            ],
+            "tier": [
+                ""
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Vigoroth is a fantastic defensive sweeper. Thanks to its great bulk and access to reliable recovery, common offensive Pokemon such as Golem and Choice Scarf Electivire can't 2HKO Vigoroth and therefore are rendered setup fodder. Vigoroth only needs a few EVs to outspeed Monferno and common defensive Pok\u00e9mon such as Altaria and Probopass. This, coupled with Taunt or Substitute, allows Vigoroth to use them as setup fodder as well. However although Vigoroth's bulk is great, if it loses its Eviolite, Vigoroth becomes more specially frail, and giving it a harder time setting up and making it easier to revenge kill. Vigoroth faces competition from the several other Normal-types in ZU, most notably Bulk Up Komala, which, despite being worse at defensive sweping, is far more versatile. Also, Vigoroth doesn't benefit from its pure Normal typing, which doesn't bring it any useful resistances. Vigoroth also can't afford to run anything other than a Normal STAB move as an attack and therefore needs several Attack boosts to break through Pokemon that resist Normal such as Bronzor and Probopass. In addition, Vigoroth is unable to touch Ghost-types such as Gourgeist-XL and Misdreavus and relies on PP stall to beat them. Since Vigoroth needs several turns to set up, it is unable to perform its role if it gets poisoned, making it very vulnerable to Toxic Spikes. Vigoroth is also vulnerable to Trick / Switcheroo from Choice item users, which locks it into one move and prevents it from setting up.\n",
+    "strategies' format": "ZU",
+    "strategies": [
+        {
+            "name": "Bulk Up",
+            "stats": [
+                259,
+                196,
+                196,
+                131,
+                187,
+                262
+            ],
+            "type": [
+                "Normal"
+            ],
+            "usage": "Vigoroth should always avoid status, so when facing a Pokemon that can carry Toxic, it should use Substitute or Taunt. Try to keep Vigoroth at full health with Slack Off so it can set up on Pokemon such as offensive Golem. Don't start to set up until Vigoroth checks are removed. If Vigoroth is facing a Pokemon that could carry Trick / Switcheroo, switch it out, as a Tricked Vigoroth is useless. When every Pokemon that can deal with Vigoroth has been removed, proceed to set up and sweep. The best way to get rid of checks and counters is to weaken them through entry hazards and wearing them down with unboosted attacks, as most of Vigoroth's answers, such as Silvally-Fighting and Bouffalant, don't have recovery. Toxic poison can also help Vigoroth get rid of checks that can recover their health such as Nasty Plot Beheeyem and Roost + Calm Mind Oricorio, as they will get overwhelmed by Vigoroth's boosted attacks and the poison. Vigoroth can also act as a defensive check to unboosted offensive Pokemon that don't carry status, such as Golem, Rapidash, and Silvally-Dark. It can also easily take on physical Electivire lacking Cross Chop and Zebstrika, though it should usually not be used as check a to them in case they punish Vigoroth with VoltTurn.",
+            "moves": [
+                [
+                    "Bulk Up"
+                ],
+                [
+                    "Facade",
+                    "Return"
+                ],
+                [
+                    "Slack Off"
+                ],
+                [
+                    "Taunt",
+                    "Substitute"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Vital Spirit"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                252,
+                0,
+                0,
+                0,
+                164,
+                92
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Fighting-types",
+        "Strong Special Attacker",
+        "Item Removal",
+        "Toxic Poison",
+        "Ghost-types",
+        "Faster Taunt Users",
+        "Pyukumuku",
+        "Lickilicky",
+        "Phazers and Haze Users"
+    ],
+    "credits": [
+        "Written by Tuthur1",
+        "Quality checked by Xayah, DurzaOffTopic,  and Froasty",
+        "Grammar checked by Electrolyte and the-dutch-plumberjack"
+    ]
+}

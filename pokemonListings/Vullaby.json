@@ -1,1 +1,330 @@
-{"name": "Vullaby", "forms": {"Base": {"base stats": [70, 55, 75, 45, 65, 60], "types": ["Dark", "Flying"], "abilities": ["Big Pecks", "Overcoat", "Weak Armor"], "tier": ["LC"], "form": "Base"}}, "overview": "Vullaby is incredibly dominant and versatile in the LC metagame thanks to good stats, a wide movepool, and a fantastic typing, which allow it to perform many roles on a team. Offensively, Vullaby's typing gives it close to unresisted dual STAB moves, with the only LC Pokemon not hit at least neutrally by one of Vullaby's STAB moves being Pawniard. On top of this, Vullaby has access to powerful and useful moves in Brave Bird, Knock Off, Air Slash, and Dark Pulse to take advantage of this. It can also boost its stats with Nasty Plot and Weak Armor, allowing it to function as a potent sweeper.\nVullaby is no slouch defensively either, with good mixed defensive stats and access to Roost to restore its HP. Two different abilities can be run, which help it in different ways. The aforementioned Weak Armor doubles its Speed when it is hit by attacks, and Overcoat allows it to check key Pokemon in the metagame, including most Grass-types. Vullaby suffers, however, from a Stealth Rock weakness and middling Speed before a boost, which leave it prone to getting outsped and worn down throughout a match. Despite this, because of its versatility and myriad of positive traits, Vullaby is one of the defining Pokemon of the LC metagame.\n", "strategies' format": "LC", "strategies": [{"name": "Weak Armor Pivot", "stats": [176, 225, 205, 113, 166, 205], "type": ["Dark", "Flying"], "usage": "15 Speed helps to Speed tie with opposing Vullaby and outspeed +1 Speed Ponyta, +2 Speed Jolly Shellder, or +2 Speed Timid Omanyte after a Weak Armor boost. It also allows Vullaby to outspeed or force ties with SturdyJuice Magnemite, Scraggy, and fast Croagunk before a boost. Lower Speed tiers are viable to run more bulk or a combination of bulk and power; for example, an EV spread of 196 HP / 76 Def / 76 SpD / 116 Spe with a Careful nature combines the benefits of both of the bulky spreads described earlier. Another reason to run a spread with 14 Speed is if a coverage move is used over Defog, as 10 Special Attack is required to OHKO SturdyJuice Onix with Hidden Power Grass after Stealth Rock and 2HKO Eviolite Pawniard with Heat Wave from full health. This can be reached with a Special Attack-reducing nature and 80 EVs in Special Attack, which an EV spread of 36 HP / 240 Atk / 80 SpA / 116 Spe with an Adamant nature accomplishes. Note that Vullaby will require 4 extra EVs in Attack to compensate for the reduced IVs if Hidden Power Grass is run. After a Weak Armor boost, 14 initial Speed will cause Vullaby to be less capable in mirror matchups and force it to tie against +1 Ponyta, +2 Jolly Shellder, and +2 Timid Omanyte. 13 initial Speed isn't usually ideal, as even after a Weak Armor boost, it will leave Vullaby outsped by Choice Scarf Gastly and Doduo, as well as the aforementioned boosted speedy sweepers, and cause it to tie with +2 Impish Shellder and +2 Modest Omanyte.", "moves": [["Brave Bird"], ["Knock Off"], ["U-turn"], ["Defog"]], "item": [" Berry Juice"], "ability": ["Weak Armor"], "nature": ["Adamant"], "ev spread": [0, 236, 76, 0, 0, 196], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Mixed Attacker", "stats": [185, 226, 186, 131, 166, 185], "type": ["Dark", "Flying"], "usage": "This Vullaby set can effectively lure in and surprise its common checks, such as Rock- and Steel-types. The physical Vullaby set can generally be bluffed early in a match, so take care not to activate Weak Armor until necessary to take advantage of this. Generally, Vullaby should use Knock Off early in a match to weaken its checks by removing their defensive items. When appropriate, Vullaby can use Heat Wave or Hidden Power Grass to surprise a check and remove it, allowing Vullaby to spam Brave Bird more safely. However, care should be taken to avoid revealing these moves too early, as they will lose their potential to surprise foes. After its checks have been weakened or lured in and eliminated, Vullaby should attempt to come in on a weak physical attack to boost its Speed with Weak Armor and then spam Brave Bird as appropriate. Keep in mind that without Eviolite or Roost, Vullaby lacks longevity, so while it can take most neutral hits, care should be taken to avoid letting it take powerful neutral or super effective attacks while it is still useful, especially if Stealth Rock is on the field.", "moves": [["Brave Bird"], ["Knock Off"], ["Hidden Power Grass", "Defog"], ["Heat Wave", "Defog"]], "item": [" Berry Juice", " Eviolite"], "ability": ["Weak Armor"], "nature": ["Adamant"], "ev spread": [36, 240, 0, 80, 0, 116], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Choice Scarf", "stats": [176, 225, 186, 113, 185, 205], "type": ["Dark", "Flying"], "usage": "This Vullaby set has significantly less bulk than any other and does not have an Eviolite, so much more caution needs to be taken when switching in. Vullaby should avoid most powerful neutral hits and all super effective attacks. However, Choice Scarf Vullaby has a powerful surprise factor, which should be taken advantage of to take out weakened faster Pokemon. Early in the game, Vullaby should use Knock Off and U-turn to chip away at the checks that come into it, without revealing that it is a Choice Scarf set if possible. Once checks have been worn down late in the game, Vullaby can lock itself into Brave Bird to take out the opponent's team. Vullaby should take care when locking itself into the final move on its moveset, as Rock Smash does little damage against anything except Pawniard, and locking Vullaby into Defog can give opposing Pokemon setup opportunities.", "moves": [["Brave Bird"], ["Knock Off"], ["U-turn"], ["Rock Smash", "Defog", "Hidden Power Grass"]], "item": [" Choice Scarf"], "ability": ["Overcoat"], "nature": ["Adamant", "Jolly"], "ev spread": [0, 236, 0, 0, 76, 196], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Overcoat", "stats": [205, 146, 205, 113, 205, 203], "type": ["Dark", "Flying"], "usage": "Overcoat Vullaby is very easy to use. In general, Vullaby can take advantage of its good bulk and many resistances to come in and immediately put pressure on the other team by using strong attacks with a broad range of coverage and Roosting when its health gets low. U-turn can be used on predicted switches to keep the momentum for Vullaby's teammates. This set can bluff one of the Weak Armor sets if it is given a free switch in, which will often give it an opportunity to use Knock Off against a foe wary of attacking it and giving it a free Speed boost. Keep in mind that, despite Roost, this Vullaby set is prone to getting worn down, as it will often repeatedly switch in and out of Stealth Rock and will often get poisoned by Foongus's Sludge Bomb over the course of a match.", "moves": [["Brave Bird"], ["Knock Off"], ["U-turn", "Defog"], ["Defog", "Roost"]], "item": [" Berry Juice", " Eviolite"], "ability": ["Overcoat"], "nature": ["Jolly"], "ev spread": [116, 0, 76, 0, 156, 116], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Nasty Plot", "stats": [205, 131, 186, 204, 166, 185], "type": ["Dark", "Flying"], "usage": "Vullaby can relatively easily find an opportunity to set up due to its solid Defense stat and plethora of resistances. Setting up against a physical sweeper is nearly always essential, as physical attacks are the only ones that activate Weak Armor and give Vullaby a boost in Speed. Obviously, Vullaby's checks should be weakened before it attempts to sweep. Keep in mind that if the opponent knows that Vullaby is a Weak Armor set, they may avoid attacking it to prevent the Speed boost, which leaves Vullaby open to a revenge kill from a super effective attack. However, due to the plethora of sets Vullaby can run, it won't be immediately obvious what ability it is running.", "moves": [["Nasty Plot"], ["Air Slash"], ["Heat Wave"], ["Dark Pulse", "Hidden Power Grass"]], "item": [" Eviolite", " Berry Juice"], "ability": ["Weak Armor"], "nature": ["Modest"], "ev spread": [116, 0, 0, 240, 0, 116], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Super Effective Special Attacks", "Fairy-types", "Rock-types", "Specially Bulky Pokemon", "Priority Users"], "credits": ["Written by Nineage and Corporal Levi", "Quality checked by Berks, Fiend,  and tahu", "Grammar checked by The Dutch Plumberjack and piikachuuu"]}
+{
+    "name": "Vullaby",
+    "forms": {
+        "Base": {
+            "base stats": [
+                70,
+                55,
+                75,
+                45,
+                65,
+                60
+            ],
+            "types": [
+                "Dark",
+                "Flying"
+            ],
+            "abilities": [
+                "Big Pecks",
+                "Overcoat",
+                "Weak Armor"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Vullaby is incredibly dominant and versatile in the LC metagame thanks to good stats, a wide movepool, and a fantastic typing, which allow it to perform many roles on a team. Offensively, Vullaby's typing gives it close to unresisted dual STAB moves, with the only LC Pokemon not hit at least neutrally by one of Vullaby's STAB moves being Pawniard. On top of this, Vullaby has access to powerful and useful moves in Brave Bird, Knock Off, Air Slash, and Dark Pulse to take advantage of this. It can also boost its stats with Nasty Plot and Weak Armor, allowing it to function as a potent sweeper.\nVullaby is no slouch defensively either, with good mixed defensive stats and access to Roost to restore its HP. Two different abilities can be run, which help it in different ways. The aforementioned Weak Armor doubles its Speed when it is hit by attacks, and Overcoat allows it to check key Pokemon in the metagame, including most Grass-types. Vullaby suffers, however, from a Stealth Rock weakness and middling Speed before a boost, which leave it prone to getting outsped and worn down throughout a match. Despite this, because of its versatility and myriad of positive traits, Vullaby is one of the defining Pokemon of the LC metagame.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Weak Armor Pivot",
+            "stats": [
+                176,
+                225,
+                205,
+                113,
+                166,
+                205
+            ],
+            "type": [
+                "Dark",
+                "Flying"
+            ],
+            "usage": "15 Speed helps to Speed tie with opposing Vullaby and outspeed +1 Speed Ponyta, +2 Speed Jolly Shellder, or +2 Speed Timid Omanyte after a Weak Armor boost. It also allows Vullaby to outspeed or force ties with SturdyJuice Magnemite, Scraggy, and fast Croagunk before a boost. Lower Speed tiers are viable to run more bulk or a combination of bulk and power; for example, an EV spread of 196 HP / 76 Def / 76 SpD / 116 Spe with a Careful nature combines the benefits of both of the bulky spreads described earlier. Another reason to run a spread with 14 Speed is if a coverage move is used over Defog, as 10 Special Attack is required to OHKO SturdyJuice Onix with Hidden Power Grass after Stealth Rock and 2HKO Eviolite Pawniard with Heat Wave from full health. This can be reached with a Special Attack-reducing nature and 80 EVs in Special Attack, which an EV spread of 36 HP / 240 Atk / 80 SpA / 116 Spe with an Adamant nature accomplishes. Note that Vullaby will require 4 extra EVs in Attack to compensate for the reduced IVs if Hidden Power Grass is run. After a Weak Armor boost, 14 initial Speed will cause Vullaby to be less capable in mirror matchups and force it to tie against +1 Ponyta, +2 Jolly Shellder, and +2 Timid Omanyte. 13 initial Speed isn't usually ideal, as even after a Weak Armor boost, it will leave Vullaby outsped by Choice Scarf Gastly and Doduo, as well as the aforementioned boosted speedy sweepers, and cause it to tie with +2 Impish Shellder and +2 Modest Omanyte.",
+            "moves": [
+                [
+                    "Brave Bird"
+                ],
+                [
+                    "Knock Off"
+                ],
+                [
+                    "U-turn"
+                ],
+                [
+                    "Defog"
+                ]
+            ],
+            "item": [
+                " Berry Juice"
+            ],
+            "ability": [
+                "Weak Armor"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                0,
+                236,
+                76,
+                0,
+                0,
+                196
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Mixed Attacker",
+            "stats": [
+                185,
+                226,
+                186,
+                131,
+                166,
+                185
+            ],
+            "type": [
+                "Dark",
+                "Flying"
+            ],
+            "usage": "This Vullaby set can effectively lure in and surprise its common checks, such as Rock- and Steel-types. The physical Vullaby set can generally be bluffed early in a match, so take care not to activate Weak Armor until necessary to take advantage of this. Generally, Vullaby should use Knock Off early in a match to weaken its checks by removing their defensive items. When appropriate, Vullaby can use Heat Wave or Hidden Power Grass to surprise a check and remove it, allowing Vullaby to spam Brave Bird more safely. However, care should be taken to avoid revealing these moves too early, as they will lose their potential to surprise foes. After its checks have been weakened or lured in and eliminated, Vullaby should attempt to come in on a weak physical attack to boost its Speed with Weak Armor and then spam Brave Bird as appropriate. Keep in mind that without Eviolite or Roost, Vullaby lacks longevity, so while it can take most neutral hits, care should be taken to avoid letting it take powerful neutral or super effective attacks while it is still useful, especially if Stealth Rock is on the field.",
+            "moves": [
+                [
+                    "Brave Bird"
+                ],
+                [
+                    "Knock Off"
+                ],
+                [
+                    "Hidden Power Grass",
+                    "Defog"
+                ],
+                [
+                    "Heat Wave",
+                    "Defog"
+                ]
+            ],
+            "item": [
+                " Berry Juice",
+                " Eviolite"
+            ],
+            "ability": [
+                "Weak Armor"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                36,
+                240,
+                0,
+                80,
+                0,
+                116
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Choice Scarf",
+            "stats": [
+                176,
+                225,
+                186,
+                113,
+                185,
+                205
+            ],
+            "type": [
+                "Dark",
+                "Flying"
+            ],
+            "usage": "This Vullaby set has significantly less bulk than any other and does not have an Eviolite, so much more caution needs to be taken when switching in. Vullaby should avoid most powerful neutral hits and all super effective attacks. However, Choice Scarf Vullaby has a powerful surprise factor, which should be taken advantage of to take out weakened faster Pokemon. Early in the game, Vullaby should use Knock Off and U-turn to chip away at the checks that come into it, without revealing that it is a Choice Scarf set if possible. Once checks have been worn down late in the game, Vullaby can lock itself into Brave Bird to take out the opponent's team. Vullaby should take care when locking itself into the final move on its moveset, as Rock Smash does little damage against anything except Pawniard, and locking Vullaby into Defog can give opposing Pokemon setup opportunities.",
+            "moves": [
+                [
+                    "Brave Bird"
+                ],
+                [
+                    "Knock Off"
+                ],
+                [
+                    "U-turn"
+                ],
+                [
+                    "Rock Smash",
+                    "Defog",
+                    "Hidden Power Grass"
+                ]
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Overcoat"
+            ],
+            "nature": [
+                "Adamant",
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                236,
+                0,
+                0,
+                76,
+                196
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Overcoat",
+            "stats": [
+                205,
+                146,
+                205,
+                113,
+                205,
+                203
+            ],
+            "type": [
+                "Dark",
+                "Flying"
+            ],
+            "usage": "Overcoat Vullaby is very easy to use. In general, Vullaby can take advantage of its good bulk and many resistances to come in and immediately put pressure on the other team by using strong attacks with a broad range of coverage and Roosting when its health gets low. U-turn can be used on predicted switches to keep the momentum for Vullaby's teammates. This set can bluff one of the Weak Armor sets if it is given a free switch in, which will often give it an opportunity to use Knock Off against a foe wary of attacking it and giving it a free Speed boost. Keep in mind that, despite Roost, this Vullaby set is prone to getting worn down, as it will often repeatedly switch in and out of Stealth Rock and will often get poisoned by Foongus's Sludge Bomb over the course of a match.",
+            "moves": [
+                [
+                    "Brave Bird"
+                ],
+                [
+                    "Knock Off"
+                ],
+                [
+                    "U-turn",
+                    "Defog"
+                ],
+                [
+                    "Defog",
+                    "Roost"
+                ]
+            ],
+            "item": [
+                " Berry Juice",
+                " Eviolite"
+            ],
+            "ability": [
+                "Overcoat"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                116,
+                0,
+                76,
+                0,
+                156,
+                116
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Nasty Plot",
+            "stats": [
+                205,
+                131,
+                186,
+                204,
+                166,
+                185
+            ],
+            "type": [
+                "Dark",
+                "Flying"
+            ],
+            "usage": "Vullaby can relatively easily find an opportunity to set up due to its solid Defense stat and plethora of resistances. Setting up against a physical sweeper is nearly always essential, as physical attacks are the only ones that activate Weak Armor and give Vullaby a boost in Speed. Obviously, Vullaby's checks should be weakened before it attempts to sweep. Keep in mind that if the opponent knows that Vullaby is a Weak Armor set, they may avoid attacking it to prevent the Speed boost, which leaves Vullaby open to a revenge kill from a super effective attack. However, due to the plethora of sets Vullaby can run, it won't be immediately obvious what ability it is running.",
+            "moves": [
+                [
+                    "Nasty Plot"
+                ],
+                [
+                    "Air Slash"
+                ],
+                [
+                    "Heat Wave"
+                ],
+                [
+                    "Dark Pulse",
+                    "Hidden Power Grass"
+                ]
+            ],
+            "item": [
+                " Eviolite",
+                " Berry Juice"
+            ],
+            "ability": [
+                "Weak Armor"
+            ],
+            "nature": [
+                "Modest"
+            ],
+            "ev spread": [
+                116,
+                0,
+                0,
+                240,
+                0,
+                116
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Super Effective Special Attacks",
+        "Fairy-types",
+        "Rock-types",
+        "Specially Bulky Pokemon",
+        "Priority Users"
+    ],
+    "credits": [
+        "Written by Nineage and Corporal Levi",
+        "Quality checked by Berks, Fiend,  and tahu",
+        "Grammar checked by The Dutch Plumberjack and piikachuuu"
+    ]
+}

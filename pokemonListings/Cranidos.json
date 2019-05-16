@@ -1,1 +1,151 @@
-{"name": "Cranidos", "forms": {"Base": {"base stats": [67, 125, 40, 30, 30, 58], "types": ["Rock"], "abilities": ["Mold Breaker", "Sheer Force"], "tier": ["LC"], "form": "Base"}}, "overview": "In terms of raw power, Cranidos is in a class of its own. Its incredible base 125 Attack is unmatched in LC, and its two great abilities in Mold Breaker and Sheer Force only increase its offensive presence. The former lets it bypass abilities like Sturdy and Levitate, and the latter effectively gives a Life Orb boost to moves that have secondary effects at the cost of those effects. It has the movepool to use its excellent Attack stat, with its Rock-type STAB attacks backed up with options like Zen Headbutt, Superpower, Crunch, Fire Punch, Thunder Punch, and Earthquake. This means that Cranidos has very few safe switch-ins. Cranidos's Rock typing also lets it check Flying-types like Vullaby.\nHowever, Cranidos's Speed is average at best, and its low bulk makes it a glass cannon, difficult to get in safely. While its Rock typing gives it useful Fire, Normal, and Flying resistances, it also leaves it with common weaknesses in Fighting and Ground. The Fighting weakness makes it less effective as a Flying-type check, as Rufflet and Doduo both have Fighting-type coverage in Superpower and Jump Kick, respectively. A Rock typing also makes it vulnerable to priority moves like Mach Punch, Aqua Jet, and Vacuum Wave.\n", "strategies' format": "LC", "strategies": [{"name": "Choice Scarf", "stats": [170, 345, 125, 86, 96, 225], "type": ["Rock"], "usage": "Don't switch Cranidos into attacks if at all possible. Bring it in via a slow Volt Switch or U-turn or after a teammate has fainted. This set can play multiple roles; it can be a revenge killer, late-game cleaner, or wallbreaker. Be wary of Knock Off, as Cranidos will function significantly worse without its Choice Scarf. Switch out of Pokemon that use priority attacks like Timburr, Croagunk, and Corphish, as they can easily revenge kill Cranidos.", "moves": [["Rock Slide", "Stone Edge"], ["Zen Headbutt"], ["Superpower"], ["Earthquake", "Thunder Punch", "Pursuit"]], "item": [" Choice Scarf"], "ability": ["Sheer Force", "Mold Breaker"], "nature": ["Jolly", "Adamant"], "ev spread": [0, 236, 36, 0, 0, 212], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Life Orb", "stats": [170, 345, 125, 86, 96, 225], "type": ["Rock"], "usage": "This set should not be switched into attacks if possible. Bring it in via a slow U-turn or Volt Switch or after a KO. On standard teams, this set has the role of a wallbreaker, smashing holes in the opponent's team so that something else can clear up later on. On Sticky Web teams, this set can also be used to clean up late-game. Generally, opening with Cranidos's coverage moves is the best idea. The opponent will often switch in their bulky Fighting-type thinking they can force out Cranidos, and Zen Headbutt will usually KO it. If your opponent has no Pokemon left that resist Rock-type moves, spamming Rock Slide will usually get the job done. If you're running Substitute, use it on forced switches and against predicted Sucker Punches.", "moves": [["Rock Slide"], ["Zen Headbutt"], ["Fire Punch", "Superpower"], ["Crunch", "Substitute"]], "item": [" Life Orb"], "ability": ["Sheer Force"], "nature": ["Jolly"], "ev spread": [0, 236, 36, 0, 0, 212], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": [], "credits": ["Written by ChrystalFalchion", "Quality checked by Rowan, Fiend,  and Xayah", "Grammar checked by Wob and CryoGyro"]}
+{
+    "name": "Cranidos",
+    "forms": {
+        "Base": {
+            "base stats": [
+                67,
+                125,
+                40,
+                30,
+                30,
+                58
+            ],
+            "types": [
+                "Rock"
+            ],
+            "abilities": [
+                "Mold Breaker",
+                "Sheer Force"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "In terms of raw power, Cranidos is in a class of its own. Its incredible base 125 Attack is unmatched in LC, and its two great abilities in Mold Breaker and Sheer Force only increase its offensive presence. The former lets it bypass abilities like Sturdy and Levitate, and the latter effectively gives a Life Orb boost to moves that have secondary effects at the cost of those effects. It has the movepool to use its excellent Attack stat, with its Rock-type STAB attacks backed up with options like Zen Headbutt, Superpower, Crunch, Fire Punch, Thunder Punch, and Earthquake. This means that Cranidos has very few safe switch-ins. Cranidos's Rock typing also lets it check Flying-types like Vullaby.\nHowever, Cranidos's Speed is average at best, and its low bulk makes it a glass cannon, difficult to get in safely. While its Rock typing gives it useful Fire, Normal, and Flying resistances, it also leaves it with common weaknesses in Fighting and Ground. The Fighting weakness makes it less effective as a Flying-type check, as Rufflet and Doduo both have Fighting-type coverage in Superpower and Jump Kick, respectively. A Rock typing also makes it vulnerable to priority moves like Mach Punch, Aqua Jet, and Vacuum Wave.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Choice Scarf",
+            "stats": [
+                170,
+                345,
+                125,
+                86,
+                96,
+                225
+            ],
+            "type": [
+                "Rock"
+            ],
+            "usage": "Don't switch Cranidos into attacks if at all possible. Bring it in via a slow Volt Switch or U-turn or after a teammate has fainted. This set can play multiple roles; it can be a revenge killer, late-game cleaner, or wallbreaker. Be wary of Knock Off, as Cranidos will function significantly worse without its Choice Scarf. Switch out of Pokemon that use priority attacks like Timburr, Croagunk, and Corphish, as they can easily revenge kill Cranidos.",
+            "moves": [
+                [
+                    "Rock Slide",
+                    "Stone Edge"
+                ],
+                [
+                    "Zen Headbutt"
+                ],
+                [
+                    "Superpower"
+                ],
+                [
+                    "Earthquake",
+                    "Thunder Punch",
+                    "Pursuit"
+                ]
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Sheer Force",
+                "Mold Breaker"
+            ],
+            "nature": [
+                "Jolly",
+                "Adamant"
+            ],
+            "ev spread": [
+                0,
+                236,
+                36,
+                0,
+                0,
+                212
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Life Orb",
+            "stats": [
+                170,
+                345,
+                125,
+                86,
+                96,
+                225
+            ],
+            "type": [
+                "Rock"
+            ],
+            "usage": "This set should not be switched into attacks if possible. Bring it in via a slow U-turn or Volt Switch or after a KO. On standard teams, this set has the role of a wallbreaker, smashing holes in the opponent's team so that something else can clear up later on. On Sticky Web teams, this set can also be used to clean up late-game. Generally, opening with Cranidos's coverage moves is the best idea. The opponent will often switch in their bulky Fighting-type thinking they can force out Cranidos, and Zen Headbutt will usually KO it. If your opponent has no Pokemon left that resist Rock-type moves, spamming Rock Slide will usually get the job done. If you're running Substitute, use it on forced switches and against predicted Sucker Punches.",
+            "moves": [
+                [
+                    "Rock Slide"
+                ],
+                [
+                    "Zen Headbutt"
+                ],
+                [
+                    "Fire Punch",
+                    "Superpower"
+                ],
+                [
+                    "Crunch",
+                    "Substitute"
+                ]
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Sheer Force"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                236,
+                36,
+                0,
+                0,
+                212
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [],
+    "credits": [
+        "Written by ChrystalFalchion",
+        "Quality checked by Rowan, Fiend,  and Xayah",
+        "Grammar checked by Wob and CryoGyro"
+    ]
+}

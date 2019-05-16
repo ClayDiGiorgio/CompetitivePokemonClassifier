@@ -1,1 +1,100 @@
-{"name": "Gourgeist", "forms": {"Base": {"base stats": [65, 90, 122, 58, 75, 84], "types": ["Ghost", "Grass"], "abilities": ["Frisk", "Insomnia", "Pickup"], "tier": ["Untiered"], "form": "Base"}}, "overview": "Gourgeist, while overshadowed by its XL forme as a defensive pivot, is able to carve out a niche as Z-Move user thanks to its good Speed tier that allows it to outspeed the unboosted metagame after a Z-Trick-or-Treat, bar Ninjask and Electrode. Z-Trick-or-Treat also gives it a considerable amount of bulk and increased Attack, though it's still quite lackluster compared to that of other setup sweepers. Even though Gourgeist struggles as a defensive pivot, it's still able to wall foes like Primeape due to its Ghost / Grass typing. While Gourgeist has quite a shallow physical movepool, with its lack of a strong Ghost-type STAB move other than Phantom Force meaning it has to put up with the charge turn, it just about gets by with attacks like Return, Seed Bomb, Shadow Sneak, and Rock Slide.\n", "strategies' format": "PU", "strategies": [{"name": "Z-Trick-or-Treat", "stats": [190, 306, 280, 136, 186, 244], "type": ["Ghost", "Grass"], "usage": "Gourgeist should only really be used late-game, when your opponent's team is weakened and ready to be swept, as using it early-game would generally put you at a significant disadvantage versus anything that's not offense. It should attempt to set up on something that's ineffective against it, like Primeape, and shouldn't try to boost against special attackers. Gourgeist appreciates being pivoted in by slow U-turn or Volt Switch users so that it doesn't receive any damage before being able to boost. Even though at +1 Gourgeist outspeeds almost all of the metagame, it is still slower than almost every Choice Scarf user, so it should only use its Z-Move once these faster threats like Choice Scarf Scyther are dealt with. The same goes for strong physical walls such as Weezing, which should be either KOed or sufficiently weakened.", "moves": [["Trick-or-Treat"], ["Seed Bomb"], ["Phantom Force"], ["Shadow Sneak", "Return"]], "item": [" Ghostium Z"], "ability": ["Frisk"], "nature": ["Adamant"], "ev spread": [96, 252, 0, 0, 0, 160], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Bulky Walls", "Grass-Resistant Pokemon", "Revenge Killers", "Dark-types", "Status"], "credits": ["Written by yogi", "Quality checked by Megazard, Akir,  and Many", "Grammar checked by P Squared and The Dutch Plumberjack"]}
+{
+    "name": "Gourgeist",
+    "forms": {
+        "Base": {
+            "base stats": [
+                65,
+                90,
+                122,
+                58,
+                75,
+                84
+            ],
+            "types": [
+                "Ghost",
+                "Grass"
+            ],
+            "abilities": [
+                "Frisk",
+                "Insomnia",
+                "Pickup"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Gourgeist, while overshadowed by its XL forme as a defensive pivot, is able to carve out a niche as Z-Move user thanks to its good Speed tier that allows it to outspeed the unboosted metagame after a Z-Trick-or-Treat, bar Ninjask and Electrode. Z-Trick-or-Treat also gives it a considerable amount of bulk and increased Attack, though it's still quite lackluster compared to that of other setup sweepers. Even though Gourgeist struggles as a defensive pivot, it's still able to wall foes like Primeape due to its Ghost / Grass typing. While Gourgeist has quite a shallow physical movepool, with its lack of a strong Ghost-type STAB move other than Phantom Force meaning it has to put up with the charge turn, it just about gets by with attacks like Return, Seed Bomb, Shadow Sneak, and Rock Slide.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Z-Trick-or-Treat",
+            "stats": [
+                190,
+                306,
+                280,
+                136,
+                186,
+                244
+            ],
+            "type": [
+                "Ghost",
+                "Grass"
+            ],
+            "usage": "Gourgeist should only really be used late-game, when your opponent's team is weakened and ready to be swept, as using it early-game would generally put you at a significant disadvantage versus anything that's not offense. It should attempt to set up on something that's ineffective against it, like Primeape, and shouldn't try to boost against special attackers. Gourgeist appreciates being pivoted in by slow U-turn or Volt Switch users so that it doesn't receive any damage before being able to boost. Even though at +1 Gourgeist outspeeds almost all of the metagame, it is still slower than almost every Choice Scarf user, so it should only use its Z-Move once these faster threats like Choice Scarf Scyther are dealt with. The same goes for strong physical walls such as Weezing, which should be either KOed or sufficiently weakened.",
+            "moves": [
+                [
+                    "Trick-or-Treat"
+                ],
+                [
+                    "Seed Bomb"
+                ],
+                [
+                    "Phantom Force"
+                ],
+                [
+                    "Shadow Sneak",
+                    "Return"
+                ]
+            ],
+            "item": [
+                " Ghostium Z"
+            ],
+            "ability": [
+                "Frisk"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                96,
+                252,
+                0,
+                0,
+                0,
+                160
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Bulky Walls",
+        "Grass-Resistant Pokemon",
+        "Revenge Killers",
+        "Dark-types",
+        "Status"
+    ],
+    "credits": [
+        "Written by yogi",
+        "Quality checked by Megazard, Akir,  and Many",
+        "Grammar checked by P Squared and The Dutch Plumberjack"
+    ]
+}

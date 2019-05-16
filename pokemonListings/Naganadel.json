@@ -1,1 +1,98 @@
-{"name": "Naganadel", "forms": {"Base": {"base stats": [73, 73, 73, 127, 73, 121], "types": ["Poison", "Dragon"], "abilities": ["Beast Boost"], "tier": ["Uber"], "form": "Base"}}, "overview": "Outside of its relatively high Speed, decent coverage, and nifty access to Tailwind for a fast attacker, Naganadel leaves a lot to be desired, relegating it to being a mere niche pick for hyper offense teams. With its noteworthy Special Attack, base 121 Speed that allows it to get the jump on numerous key threats, and Dragon / Poison / Fire coverage that lends it the ability to hit virtually everything in the metagame, Naganadel can be an easy way of applying pressure to numerous high-profile Pokemon in DOU such as Mega Metagross, Tapu Fini, Zygarde, Kyurem-B, and Tapu Bulu. Naganadel relies on its Speed to do its job quite heavily, and it even has an ability in Beast Boost that supplements that, as it gets a Speed boost for every KO; this reliance, however, is also easily punishable, as its frailty can leave it helpless when facing opposing speed control in Tailwind or Trick Room, though Beast Boost can help against the former somewhat. Naganadel's frailty also means it has no defensive value whatsoever, being unable to safely switch in most of the time, and at times, it has an overreliance on its coverage to get KOs. Often, unless on a team bent on applying overwhelming pressure, Naganadel is simply overshadowed by other threats such as Tapu Koko that provide more utility and flexibility to their teams.\n", "strategies' format": "Doubles", "strategies": [{"name": "Fast Attacker", "stats": [182, 163, 182, 353, 183, 375], "type": ["Poison", "Dragon"], "usage": "As much as possible, Naganadel should be put in a position where it can threaten foes in an aggressive manner, as its role is to apply pressure and nothing else. In the early- to mid-game, it can be used as a way of putting instant pressure and momentum thanks to its high Speed and vast coverage. Later on, as the opposing team gets weakened, it can also be a handy way of cleaning up an opposing team. When Naganadel can't quite get the KO it needs or has done its job and is in a bad position, Tailwind is an option to fall back to; it doesn't matter if Naganadel gets KOed in the process, as this also provides a free switch, often giving you back the momentum as you get the chance to respond with the appropriate threat for free while also being considerably supported by Naganadel's last-ditch Tailwind effort. As Naganadel is quite frail and is chipped down over time by Life Orb recoil, care should be applied when it comes to its health, as it can get KOed easily; one should try to bring it in only on free switches or predicted weak hits such as Tapu Fini's Muddy Water. At times, it can be important to pay attention to Naganadel's Beast Boost ability, as it can be useful in allowing Naganadel to outrun otherwise faster key threats such as Tapu Koko, Deoxys-A, and Choice Scarf Tapu Lele; occasionally, this ability can also be nifty in allowing Naganadel to outrun opposing teams even if their Tailwind is up, so take note.", "moves": [["Sludge Bomb"], ["Draco Meteor"], ["Fire Blast"], ["Tailwind", "Protect"]], "item": [" Life Orb"], "ability": ["Beast Boost"], "nature": ["Timid"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Psychic-types", "Heatran", "Icy Wind, Tailwind, and Trick Room", "Faster Pokemon", "Bulky Attackers"], "credits": ["Written by Memoric", "Quality checked by GenOne and talkingtree", "Grammar checked by A Cake Wearing A Hat and The Dutch Plumberjack"]}
+{
+    "name": "Naganadel",
+    "forms": {
+        "Base": {
+            "base stats": [
+                73,
+                73,
+                73,
+                127,
+                73,
+                121
+            ],
+            "types": [
+                "Poison",
+                "Dragon"
+            ],
+            "abilities": [
+                "Beast Boost"
+            ],
+            "tier": [
+                "Uber"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Outside of its relatively high Speed, decent coverage, and nifty access to Tailwind for a fast attacker, Naganadel leaves a lot to be desired, relegating it to being a mere niche pick for hyper offense teams. With its noteworthy Special Attack, base 121 Speed that allows it to get the jump on numerous key threats, and Dragon / Poison / Fire coverage that lends it the ability to hit virtually everything in the metagame, Naganadel can be an easy way of applying pressure to numerous high-profile Pokemon in DOU such as Mega Metagross, Tapu Fini, Zygarde, Kyurem-B, and Tapu Bulu. Naganadel relies on its Speed to do its job quite heavily, and it even has an ability in Beast Boost that supplements that, as it gets a Speed boost for every KO; this reliance, however, is also easily punishable, as its frailty can leave it helpless when facing opposing speed control in Tailwind or Trick Room, though Beast Boost can help against the former somewhat. Naganadel's frailty also means it has no defensive value whatsoever, being unable to safely switch in most of the time, and at times, it has an overreliance on its coverage to get KOs. Often, unless on a team bent on applying overwhelming pressure, Naganadel is simply overshadowed by other threats such as Tapu Koko that provide more utility and flexibility to their teams.\n",
+    "strategies' format": "Doubles",
+    "strategies": [
+        {
+            "name": "Fast Attacker",
+            "stats": [
+                182,
+                163,
+                182,
+                353,
+                183,
+                375
+            ],
+            "type": [
+                "Poison",
+                "Dragon"
+            ],
+            "usage": "As much as possible, Naganadel should be put in a position where it can threaten foes in an aggressive manner, as its role is to apply pressure and nothing else. In the early- to mid-game, it can be used as a way of putting instant pressure and momentum thanks to its high Speed and vast coverage. Later on, as the opposing team gets weakened, it can also be a handy way of cleaning up an opposing team. When Naganadel can't quite get the KO it needs or has done its job and is in a bad position, Tailwind is an option to fall back to; it doesn't matter if Naganadel gets KOed in the process, as this also provides a free switch, often giving you back the momentum as you get the chance to respond with the appropriate threat for free while also being considerably supported by Naganadel's last-ditch Tailwind effort. As Naganadel is quite frail and is chipped down over time by Life Orb recoil, care should be applied when it comes to its health, as it can get KOed easily; one should try to bring it in only on free switches or predicted weak hits such as Tapu Fini's Muddy Water. At times, it can be important to pay attention to Naganadel's Beast Boost ability, as it can be useful in allowing Naganadel to outrun otherwise faster key threats such as Tapu Koko, Deoxys-A, and Choice Scarf Tapu Lele; occasionally, this ability can also be nifty in allowing Naganadel to outrun opposing teams even if their Tailwind is up, so take note.",
+            "moves": [
+                [
+                    "Sludge Bomb"
+                ],
+                [
+                    "Draco Meteor"
+                ],
+                [
+                    "Fire Blast"
+                ],
+                [
+                    "Tailwind",
+                    "Protect"
+                ]
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Beast Boost"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Psychic-types",
+        "Heatran",
+        "Icy Wind, Tailwind, and Trick Room",
+        "Faster Pokemon",
+        "Bulky Attackers"
+    ],
+    "credits": [
+        "Written by Memoric",
+        "Quality checked by GenOne and talkingtree",
+        "Grammar checked by A Cake Wearing A Hat and The Dutch Plumberjack"
+    ]
+}

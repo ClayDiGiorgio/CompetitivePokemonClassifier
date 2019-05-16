@@ -1,1 +1,96 @@
-{"name": "Jolteon", "forms": {"Base": {"base stats": [65, 65, 60, 110, 95, 130], "types": ["Electric"], "abilities": ["Quick Feet", "Volt Absorb"], "tier": ["RU"], "form": "Base"}}, "overview": "Jolteon is a mediocre Pokemon. While it has good speed, its coverage options are limited to Hidden Power and Shadow Ball, which heavily limits its potential against offensive teams. Furthermore, although Jolteon's Special Attack is solid, it fails to break the most common special walls in RU such as Snorlax and struggles with bulky offensive threats such as Shaymin. Jolteon is also really frail, making it difficult to switch in even on resisted attacks and easy to revenge kill.\n", "strategies' format": "RU", "strategies": [{"name": "Special Attacker", "stats": [166, 149, 156, 319, 227, 394], "type": ["Electric"], "usage": "Volt Absorb allows Jolteon to occasionally come into Electric-type attacks, although it loses to every Electric-type in the tier if hit by a coverage move, and makes Gardevoir and Porygon2 immune to its Electric attacks thanks to Trace. Quick Feet is a far more situational ability, although it prevents Gardevoir and Porygon2 from tracing Volt Absorb, and can benefit Jolteon if it switches into weak Scalds or Toxic.", "moves": [["Thunderbolt"], ["Volt Switch"], ["Hidden Power Ice"], ["Shadow Ball"]], "item": [" Life Orb", " Choice Specs"], "ability": ["Volt Absorb", "Quick Feet"], "nature": ["Timid"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Specially Defensive Pokemon", "Electric-resistant or -immune Pokemon", "Residual Damage"], "credits": ["Written by ice tray", "Quality checked by Phantom, Avocado,  and Teachable", "Grammar checked by Martha and The Dutch Plumberjack"]}
+{
+    "name": "Jolteon",
+    "forms": {
+        "Base": {
+            "base stats": [
+                65,
+                65,
+                60,
+                110,
+                95,
+                130
+            ],
+            "types": [
+                "Electric"
+            ],
+            "abilities": [
+                "Quick Feet",
+                "Volt Absorb"
+            ],
+            "tier": [
+                "RU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Jolteon is a mediocre Pokemon. While it has good speed, its coverage options are limited to Hidden Power and Shadow Ball, which heavily limits its potential against offensive teams. Furthermore, although Jolteon's Special Attack is solid, it fails to break the most common special walls in RU such as Snorlax and struggles with bulky offensive threats such as Shaymin. Jolteon is also really frail, making it difficult to switch in even on resisted attacks and easy to revenge kill.\n",
+    "strategies' format": "RU",
+    "strategies": [
+        {
+            "name": "Special Attacker",
+            "stats": [
+                166,
+                149,
+                156,
+                319,
+                227,
+                394
+            ],
+            "type": [
+                "Electric"
+            ],
+            "usage": "Volt Absorb allows Jolteon to occasionally come into Electric-type attacks, although it loses to every Electric-type in the tier if hit by a coverage move, and makes Gardevoir and Porygon2 immune to its Electric attacks thanks to Trace. Quick Feet is a far more situational ability, although it prevents Gardevoir and Porygon2 from tracing Volt Absorb, and can benefit Jolteon if it switches into weak Scalds or Toxic.",
+            "moves": [
+                [
+                    "Thunderbolt"
+                ],
+                [
+                    "Volt Switch"
+                ],
+                [
+                    "Hidden Power Ice"
+                ],
+                [
+                    "Shadow Ball"
+                ]
+            ],
+            "item": [
+                " Life Orb",
+                " Choice Specs"
+            ],
+            "ability": [
+                "Volt Absorb",
+                "Quick Feet"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Specially Defensive Pokemon",
+        "Electric-resistant or -immune Pokemon",
+        "Residual Damage"
+    ],
+    "credits": [
+        "Written by ice tray",
+        "Quality checked by Phantom, Avocado,  and Teachable",
+        "Grammar checked by Martha and The Dutch Plumberjack"
+    ]
+}

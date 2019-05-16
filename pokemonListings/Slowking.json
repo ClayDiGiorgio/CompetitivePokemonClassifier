@@ -1,1 +1,98 @@
-{"name": "Slowking", "forms": {"Base": {"base stats": [95, 75, 80, 100, 110, 30], "types": ["Water", "Psychic"], "abilities": ["Oblivious", "Own Tempo", "Regenerator"], "tier": ["NU"], "form": "Base"}}, "overview": "Slowking has a niche as one of the only effective Assault Vest users in the tier, and coupled with its very good HP and Special Defense stats, it can act as an effective blanket check to special attackers. Some of the Pokemon it checks include Nidoqueen, Salazzle, Gardevoir, Kommo-o, Swellow, and Moltres. It has a premier ability in Regenerator that allows it to check these Pokemon throughout the match. Its extensive movepool includes a plethora of coverage and utility options like Fire Blast, Ice Beam, and Dragon Tail. However, despite all its positives, it faces stiff competition for a slot on most teams from its Psychic-type counterparts such as Slowbro and Cresselia, which possess unique advantages including better natural physical bulk. It also has a crippling weakness to Pursuit and the ever-present Knock Off. Finally, Slowking struggles to take on the plethora of strong physical attackers in the tier, even ones without super effective coverage like Flygon, Zygarde-10%, and Bewear.\n", "strategies' format": "RU", "strategies": [{"name": "Assault Vest", "stats": [289, 167, 196, 308, 276, 96], "type": ["Water", "Psychic"], "usage": "Pivot Slowking into Pokemon that it checks, such as Nidoqueen, Salazzle, and Kommo-o, so it can threaten the opposing team by using Future Sight or another STAB move. Remember that Regenerator is Slowking's only way of gaining back health, so it is even more important to pivot Slowking into Pokemon that it checks so it can recover health with its ability while avoiding losing it unnecessarily. Threaten physical attackers that try to switch into Slowking by going for Scald, which has a chance to burn and cripple them. Use Dragon Tail if you predict that the foe will attempt to set up. This is especially helpful against foes that cannot OHKO Slowking such as Snorlax, but you should be careful if the Pokemon in question is a strong physical attacker such as Groundium Z Flygon. In conjunction with entry hazards, use Dragon Tail to wear down the opposing team quickly.", "moves": [["Scald"], ["Future Sight"], ["Fire Blast"], ["Dragon Tail"]], "item": [" Assault Vest"], "ability": ["Regenerator"], "nature": ["Modest"], "ev spread": [252, 0, 0, 176, 80, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Strong Physical Attackers", "Special Walls", "Dark-types", "Grass-types"], "credits": ["Written by pancake", "Quality checked by avocado, phantom,  and teachable", "Grammar checked by The Dutch Plumberjack and martha"]}
+{
+    "name": "Slowking",
+    "forms": {
+        "Base": {
+            "base stats": [
+                95,
+                75,
+                80,
+                100,
+                110,
+                30
+            ],
+            "types": [
+                "Water",
+                "Psychic"
+            ],
+            "abilities": [
+                "Oblivious",
+                "Own Tempo",
+                "Regenerator"
+            ],
+            "tier": [
+                "NU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Slowking has a niche as one of the only effective Assault Vest users in the tier, and coupled with its very good HP and Special Defense stats, it can act as an effective blanket check to special attackers. Some of the Pokemon it checks include Nidoqueen, Salazzle, Gardevoir, Kommo-o, Swellow, and Moltres. It has a premier ability in Regenerator that allows it to check these Pokemon throughout the match. Its extensive movepool includes a plethora of coverage and utility options like Fire Blast, Ice Beam, and Dragon Tail. However, despite all its positives, it faces stiff competition for a slot on most teams from its Psychic-type counterparts such as Slowbro and Cresselia, which possess unique advantages including better natural physical bulk. It also has a crippling weakness to Pursuit and the ever-present Knock Off. Finally, Slowking struggles to take on the plethora of strong physical attackers in the tier, even ones without super effective coverage like Flygon, Zygarde-10%, and Bewear.\n",
+    "strategies' format": "RU",
+    "strategies": [
+        {
+            "name": "Assault Vest",
+            "stats": [
+                289,
+                167,
+                196,
+                308,
+                276,
+                96
+            ],
+            "type": [
+                "Water",
+                "Psychic"
+            ],
+            "usage": "Pivot Slowking into Pokemon that it checks, such as Nidoqueen, Salazzle, and Kommo-o, so it can threaten the opposing team by using Future Sight or another STAB move. Remember that Regenerator is Slowking's only way of gaining back health, so it is even more important to pivot Slowking into Pokemon that it checks so it can recover health with its ability while avoiding losing it unnecessarily. Threaten physical attackers that try to switch into Slowking by going for Scald, which has a chance to burn and cripple them. Use Dragon Tail if you predict that the foe will attempt to set up. This is especially helpful against foes that cannot OHKO Slowking such as Snorlax, but you should be careful if the Pokemon in question is a strong physical attacker such as Groundium Z Flygon. In conjunction with entry hazards, use Dragon Tail to wear down the opposing team quickly.",
+            "moves": [
+                [
+                    "Scald"
+                ],
+                [
+                    "Future Sight"
+                ],
+                [
+                    "Fire Blast"
+                ],
+                [
+                    "Dragon Tail"
+                ]
+            ],
+            "item": [
+                " Assault Vest"
+            ],
+            "ability": [
+                "Regenerator"
+            ],
+            "nature": [
+                "Modest"
+            ],
+            "ev spread": [
+                252,
+                0,
+                0,
+                176,
+                80,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Strong Physical Attackers",
+        "Special Walls",
+        "Dark-types",
+        "Grass-types"
+    ],
+    "credits": [
+        "Written by pancake",
+        "Quality checked by avocado, phantom,  and teachable",
+        "Grammar checked by The Dutch Plumberjack and martha"
+    ]
+}

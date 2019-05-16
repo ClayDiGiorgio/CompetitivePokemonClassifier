@@ -1,1 +1,97 @@
-{"name": "Zebstrika", "forms": {"Base": {"base stats": [75, 100, 63, 80, 63, 116], "types": ["Electric"], "abilities": ["Lightning Rod", "Motor Drive", "Sap Sipper"], "tier": ["Untiered"], "form": "Base"}}, "overview": "Zebstrika stands out among Electric-types thanks to its amazing Speed tier, which allows it to outspeed almost all of the unboosted metagame, including threats like Floatzel, and serve as a nice revenge killer and late-game cleaner. It also has two great abilities in Sap Sipper and Lightning Rod, allowing it to switch into Grass-types like Lilligant and Volt Switch users like Manectric. Sadly, Zebstrika\u2019s Special Attack can be pretty underwhelming even with a Life Orb, and it often can be easily checked by common threats such as Lanturn, which also stops its Volt Switch. Due in part to its mediocre bulk, Zebstrika can be easily chipped through priority, hazards, and its own Life Orb recoil, making it fear Choice Scarf and priority users. Lastly, it still gets competition from other Electric-types that can provide more offensive pressure. Alolan Raichu and Manectric are notable Electric-types in this category due to their unique niches: Alolan Raichu has a secondary Psychic typing and access to Nasty Plot, whereas Manectric has access to Switcheroo; however, Zebstrika still manages to maintain its niche with its high Speed and access to multiple useful abilities.\n", "strategies' format": "PU", "strategies": [{"name": "All-out Attacker", "stats": [186, 212, 163, 259, 162, 364], "type": ["Electric"], "usage": "Zebstrika is most effective when brought in against a weakened foe to finish it off, and it can also be used as a late-game cleaner thanks to its high Speed. The best way to bring Zebstrika onto the field is with a slow pivot or after a teammate has been KOed, since it usually doesn't want to be brought out to take a hit due to its noticeable frailty. However, Zebstrika can be brought into Grass- or Electric-type Pokemon depending on its ability. This includes Pokemon such as Lilligant and Lurantis if Zebstrika is using Sap Sipper and Pokemon such as Oricorio-E and Manectric if Zebstrika is using Lightning Rod. Volt Switch can be used to gain momentum and avoid mind games. It can also be used to simply get Zebstrika off the field to bring in a wallbreaker or setup sweeper safely. However, if Volt Switch seems to be the obvious play, be wary of opposing Pokemon that are immune to Volt Switch. If the opponent has one of these Pokemon, it is best to just switch out or use one of Zebstrika's coverage moves.", "moves": [["Thunderbolt"], ["Volt Switch"], ["Overheat"], ["Hidden Power Grass"]], "item": [" Life Orb"], "ability": ["Sap Sipper", "Lightning Rod"], "nature": ["Timid"], "ev spread": [0, 0, 4, 252, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Specially Defensive Pokemon", "Ground-types", "Faster Pokemon", "Chip Damage"], "credits": ["Written by UberSkitty", "Quality checked by yogi, Megazard,  and TONE", "Grammar checked by A Cake Wearing A Hat and The Dutch Plumberjack"]}
+{
+    "name": "Zebstrika",
+    "forms": {
+        "Base": {
+            "base stats": [
+                75,
+                100,
+                63,
+                80,
+                63,
+                116
+            ],
+            "types": [
+                "Electric"
+            ],
+            "abilities": [
+                "Lightning Rod",
+                "Motor Drive",
+                "Sap Sipper"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Zebstrika stands out among Electric-types thanks to its amazing Speed tier, which allows it to outspeed almost all of the unboosted metagame, including threats like Floatzel, and serve as a nice revenge killer and late-game cleaner. It also has two great abilities in Sap Sipper and Lightning Rod, allowing it to switch into Grass-types like Lilligant and Volt Switch users like Manectric. Sadly, Zebstrika\u2019s Special Attack can be pretty underwhelming even with a Life Orb, and it often can be easily checked by common threats such as Lanturn, which also stops its Volt Switch. Due in part to its mediocre bulk, Zebstrika can be easily chipped through priority, hazards, and its own Life Orb recoil, making it fear Choice Scarf and priority users. Lastly, it still gets competition from other Electric-types that can provide more offensive pressure. Alolan Raichu and Manectric are notable Electric-types in this category due to their unique niches: Alolan Raichu has a secondary Psychic typing and access to Nasty Plot, whereas Manectric has access to Switcheroo; however, Zebstrika still manages to maintain its niche with its high Speed and access to multiple useful abilities.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "All-out Attacker",
+            "stats": [
+                186,
+                212,
+                163,
+                259,
+                162,
+                364
+            ],
+            "type": [
+                "Electric"
+            ],
+            "usage": "Zebstrika is most effective when brought in against a weakened foe to finish it off, and it can also be used as a late-game cleaner thanks to its high Speed. The best way to bring Zebstrika onto the field is with a slow pivot or after a teammate has been KOed, since it usually doesn't want to be brought out to take a hit due to its noticeable frailty. However, Zebstrika can be brought into Grass- or Electric-type Pokemon depending on its ability. This includes Pokemon such as Lilligant and Lurantis if Zebstrika is using Sap Sipper and Pokemon such as Oricorio-E and Manectric if Zebstrika is using Lightning Rod. Volt Switch can be used to gain momentum and avoid mind games. It can also be used to simply get Zebstrika off the field to bring in a wallbreaker or setup sweeper safely. However, if Volt Switch seems to be the obvious play, be wary of opposing Pokemon that are immune to Volt Switch. If the opponent has one of these Pokemon, it is best to just switch out or use one of Zebstrika's coverage moves.",
+            "moves": [
+                [
+                    "Thunderbolt"
+                ],
+                [
+                    "Volt Switch"
+                ],
+                [
+                    "Overheat"
+                ],
+                [
+                    "Hidden Power Grass"
+                ]
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Sap Sipper",
+                "Lightning Rod"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                4,
+                252,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Specially Defensive Pokemon",
+        "Ground-types",
+        "Faster Pokemon",
+        "Chip Damage"
+    ],
+    "credits": [
+        "Written by UberSkitty",
+        "Quality checked by yogi, Megazard,  and TONE",
+        "Grammar checked by A Cake Wearing A Hat and The Dutch Plumberjack"
+    ]
+}

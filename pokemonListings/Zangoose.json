@@ -1,1 +1,151 @@
-{"name": "Zangoose", "forms": {"Base": {"base stats": [73, 115, 60, 60, 60, 90], "types": ["Normal"], "abilities": ["Immunity", "Toxic Boost"], "tier": ["Untiered"], "form": "Base"}}, "overview": "Zangoose is a very powerful Normal-type wallbreaker. STAB Facade along with its other attacks hits extremely hard when combined with Toxic Orb and Toxic Boost. Zangoose also boasts excellent coverage options in Knock Off and Close Combat that allow it to hit Ghost-, Rock-, and Steel-types. Its middling Speed stat is somewhat nullified by Zangoose's access to Quick Attack, which lets it hit faster threats and take out weakened foes. This is especially useful for Zangoose's Belly Drum set, which can be a deadly sweeper. However, although it has great offensive capability, Zangoose is hindered a lot by its subpar defensive stats and Toxic damage, which ultimately means it can be easily revenge killed. Zangoose also faces competition from other Normal-types in the tier such as Kangaskhan and Stoutland, which, although not hitting as hard, can usually be more reliable, as they don't have Toxic damage wearing them down each turn.\n", "strategies' format": "PU", "strategies": [{"name": "Toxic Orb Wallbreaker", "stats": [182, 361, 157, 140, 156, 279], "type": ["Normal"], "usage": "Zangoose should be used as a wallbreaker, breaking down the opposing team's defensive core so that a partner can clean up later on. Free switches from a slow U-turn or Volt Switch are vital for Zangoose to function well because it does not like taking hits and it needs its Toxic Orb to activate so that it can deal the maximum amount of damage. Bringing Zangoose in against a very low HP Pokemon and knocking them out with an attack is another good way to activate Toxic Orb. Make sure to be wary of double switches from your opponent's Ghost-, Rock- and Steel-types, as those can rack up Toxic damage and limits the number of turns Zangoose can stay in. If you are using Swords Dance, setting up can be quite hard due to Zangoose's terrible bulk. Try to set up on predicted switches, Choice-locked Ghost-types, or very passive Pokemon like Togetic.", "moves": [["Facade"], ["Knock Off"], ["Close Combat", "Swords Dance"], ["Quick Attack"]], "item": [" Toxic Orb"], "ability": ["Toxic Boost"], "nature": ["Adamant", "Jolly"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Belly Drum", "stats": [183, 329, 156, 140, 156, 306], "type": ["Normal"], "usage": "Since Zangoose is a late-game cleaner, it should refrain from attempting to set up until after very physically bulky Pokemon like Gourgeist-XL and faster Ghost-types such as Haunter and Oricorio-G have been either weakened or removed, as it is unlikely that it will get a second chance to attempt to do so. However, despite excelling as a late-game cleaner that can shred offensive teams, Belly Drum Zangoose is also capable of wallbreaking against balance teams. Zangoose's meager defenses and lack of resistances or immunities barring Ghost prevent it from reliably switching in on even weaker attacks, meaning that it should only be brought in following the use of Memento, through the use of U-turn or Volt Switch, or after a teammate is KOed. Zangoose should be cautious of switching in while entry hazards are up, as they further shorten its longevity and limit its ability to safely use Belly Drum and switching in on Toxic Spikes reveals Zangoose's set. Zangoose should mainly set up against slower Pokemon that it forces out like Aurorus.", "moves": [["Belly Drum"], ["Quick Attack"], ["Knock Off"], ["Close Combat"]], "item": [" Sitrus Berry"], "ability": ["Immunity"], "nature": ["Jolly"], "ev spread": [4, 252, 0, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Fighting-types", "Ghost-types", "Rock-types", "Revenge Killers"], "credits": ["Written by Taskr and allstarapology", "Quality checked by Megazard, Anty, yogi,  and UberSkitty", "Grammar checked by Haund, The Dutch Plumberjack,  and Fireflame479"]}
+{
+    "name": "Zangoose",
+    "forms": {
+        "Base": {
+            "base stats": [
+                73,
+                115,
+                60,
+                60,
+                60,
+                90
+            ],
+            "types": [
+                "Normal"
+            ],
+            "abilities": [
+                "Immunity",
+                "Toxic Boost"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Zangoose is a very powerful Normal-type wallbreaker. STAB Facade along with its other attacks hits extremely hard when combined with Toxic Orb and Toxic Boost. Zangoose also boasts excellent coverage options in Knock Off and Close Combat that allow it to hit Ghost-, Rock-, and Steel-types. Its middling Speed stat is somewhat nullified by Zangoose's access to Quick Attack, which lets it hit faster threats and take out weakened foes. This is especially useful for Zangoose's Belly Drum set, which can be a deadly sweeper. However, although it has great offensive capability, Zangoose is hindered a lot by its subpar defensive stats and Toxic damage, which ultimately means it can be easily revenge killed. Zangoose also faces competition from other Normal-types in the tier such as Kangaskhan and Stoutland, which, although not hitting as hard, can usually be more reliable, as they don't have Toxic damage wearing them down each turn.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Toxic Orb Wallbreaker",
+            "stats": [
+                182,
+                361,
+                157,
+                140,
+                156,
+                279
+            ],
+            "type": [
+                "Normal"
+            ],
+            "usage": "Zangoose should be used as a wallbreaker, breaking down the opposing team's defensive core so that a partner can clean up later on. Free switches from a slow U-turn or Volt Switch are vital for Zangoose to function well because it does not like taking hits and it needs its Toxic Orb to activate so that it can deal the maximum amount of damage. Bringing Zangoose in against a very low HP Pokemon and knocking them out with an attack is another good way to activate Toxic Orb. Make sure to be wary of double switches from your opponent's Ghost-, Rock- and Steel-types, as those can rack up Toxic damage and limits the number of turns Zangoose can stay in. If you are using Swords Dance, setting up can be quite hard due to Zangoose's terrible bulk. Try to set up on predicted switches, Choice-locked Ghost-types, or very passive Pokemon like Togetic.",
+            "moves": [
+                [
+                    "Facade"
+                ],
+                [
+                    "Knock Off"
+                ],
+                [
+                    "Close Combat",
+                    "Swords Dance"
+                ],
+                [
+                    "Quick Attack"
+                ]
+            ],
+            "item": [
+                " Toxic Orb"
+            ],
+            "ability": [
+                "Toxic Boost"
+            ],
+            "nature": [
+                "Adamant",
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Belly Drum",
+            "stats": [
+                183,
+                329,
+                156,
+                140,
+                156,
+                306
+            ],
+            "type": [
+                "Normal"
+            ],
+            "usage": "Since Zangoose is a late-game cleaner, it should refrain from attempting to set up until after very physically bulky Pokemon like Gourgeist-XL and faster Ghost-types such as Haunter and Oricorio-G have been either weakened or removed, as it is unlikely that it will get a second chance to attempt to do so. However, despite excelling as a late-game cleaner that can shred offensive teams, Belly Drum Zangoose is also capable of wallbreaking against balance teams. Zangoose's meager defenses and lack of resistances or immunities barring Ghost prevent it from reliably switching in on even weaker attacks, meaning that it should only be brought in following the use of Memento, through the use of U-turn or Volt Switch, or after a teammate is KOed. Zangoose should be cautious of switching in while entry hazards are up, as they further shorten its longevity and limit its ability to safely use Belly Drum and switching in on Toxic Spikes reveals Zangoose's set. Zangoose should mainly set up against slower Pokemon that it forces out like Aurorus.",
+            "moves": [
+                [
+                    "Belly Drum"
+                ],
+                [
+                    "Quick Attack"
+                ],
+                [
+                    "Knock Off"
+                ],
+                [
+                    "Close Combat"
+                ]
+            ],
+            "item": [
+                " Sitrus Berry"
+            ],
+            "ability": [
+                "Immunity"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                4,
+                252,
+                0,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Fighting-types",
+        "Ghost-types",
+        "Rock-types",
+        "Revenge Killers"
+    ],
+    "credits": [
+        "Written by Taskr and allstarapology",
+        "Quality checked by Megazard, Anty, yogi,  and UberSkitty",
+        "Grammar checked by Haund, The Dutch Plumberjack,  and Fireflame479"
+    ]
+}

@@ -1,1 +1,100 @@
-{"name": "Slowpoke", "forms": {"Base": {"base stats": [90, 65, 65, 40, 40, 15], "types": ["Water", "Psychic"], "abilities": ["Oblivious", "Own Tempo", "Regenerator"], "tier": ["LC"], "form": "Base"}}, "overview": "One of the most common tanks in the metagame, Slowpoke has great Defense and HP stats that allow it to tank most physical moves in conjunction with a reliable recovery option in Slack Off and a great defensive ability in Regenerator. Alongside its defensive stats, Slowpoke also has access to a great defensive moveset with utility moves such as Thunder Wave and good attacking options such as Scald, and moderate Attack and Special Attack stats that allow it to hit decently hard. Slowpoke's defensive typing is also beneficial, giving it resistances to many common attacks. Slowpoke's great physical Defense makes it a consistent and solid check to Mudbray, as it can easily take Mudbray's moves and KO it with Scald. Slowpoke is also welcome on most defensive cores due to its ability to freely switch out when it pleases due to the healing provided by Regenerator. Unfortunately, Slowpoke is rather passive and is often used as setup bait for Pokemon it can't touch, such as Scraggy, and it also serves as a free switch in for Pokemon such as Snivy. The common move Knock Off is a big threat to Slowpoke due to its high dependency on its Eviolite. Common pivoting moves like Volt Switch and U-turn are also threatening towards Slowpoke because they both deal super effective damage and provide momentum for the opposing team, which can be detrimental late-game.\n", "strategies' format": "LC", "strategies": [{"name": "Tank", "stats": [245, 149, 185, 145, 181, 66], "type": ["Water", "Psychic"], "usage": "Slowpoke should be switched into Pokemon it can handle, tanking their hits and KOing them back. Slowpoke can also be sent out to force switches, although it should generally immediately switch out afterwards. Slowpoke also shouldn't be switched in and out randomly to just get its HP restored from Regenerator, as its checks are very common in the metagame, and if it switches in carelessly, it might take a super effective move such as Knock Off. Knock Off in general should be avoided, as it deals super effective damage and removes Slowpoke's important Eviolite, which hinders its bulk. Slowpoke can also spread paralysis once it switches in, potentially crippling fast offensive Pokemon. When Slowpoke reaches a low amount of HP, it should switch out to gain more HP and then switch into a Pokemon it can use Slack Off against so it can recover its HP fully. Slowpoke should avoid some mixed or special attackers, as its Special Defense is lacking compared to its Defense, meaning it might get KOed by powerful special attacks; it should still be able to switch into resisted special attacks, but should be wary in general. If Slowpoke is running Calm Mind, it should be kept healthy until late-game when most of its checks are defeated and it can set up on passive Pokemon or Pokemon whose attacks it resists and then clean the rest of the opposing team. Slowpoke can also consistently check hail teams, as it can take care of Slush Rush sweepers such as Alolan Sandshrew and hail setters such as Snover with Fire Blast.", "moves": [["Slack Off"], ["Scald"], ["Psychic"], ["Thunder Wave", "Fire Blast", "Calm Mind"]], "item": [" Eviolite"], "ability": ["Regenerator"], "nature": ["Calm"], "ev spread": [116, 0, 76, 116, 196, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Grass-types", "Dark-types", "Electric-types", "Knock Off"], "credits": ["Written by Conni", "Quality checked by Xayah, sparktrain,  and himeringo", "Grammar checked by The Dutch Plumberjack and CryoGyro"]}
+{
+    "name": "Slowpoke",
+    "forms": {
+        "Base": {
+            "base stats": [
+                90,
+                65,
+                65,
+                40,
+                40,
+                15
+            ],
+            "types": [
+                "Water",
+                "Psychic"
+            ],
+            "abilities": [
+                "Oblivious",
+                "Own Tempo",
+                "Regenerator"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "One of the most common tanks in the metagame, Slowpoke has great Defense and HP stats that allow it to tank most physical moves in conjunction with a reliable recovery option in Slack Off and a great defensive ability in Regenerator. Alongside its defensive stats, Slowpoke also has access to a great defensive moveset with utility moves such as Thunder Wave and good attacking options such as Scald, and moderate Attack and Special Attack stats that allow it to hit decently hard. Slowpoke's defensive typing is also beneficial, giving it resistances to many common attacks. Slowpoke's great physical Defense makes it a consistent and solid check to Mudbray, as it can easily take Mudbray's moves and KO it with Scald. Slowpoke is also welcome on most defensive cores due to its ability to freely switch out when it pleases due to the healing provided by Regenerator. Unfortunately, Slowpoke is rather passive and is often used as setup bait for Pokemon it can't touch, such as Scraggy, and it also serves as a free switch in for Pokemon such as Snivy. The common move Knock Off is a big threat to Slowpoke due to its high dependency on its Eviolite. Common pivoting moves like Volt Switch and U-turn are also threatening towards Slowpoke because they both deal super effective damage and provide momentum for the opposing team, which can be detrimental late-game.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Tank",
+            "stats": [
+                245,
+                149,
+                185,
+                145,
+                181,
+                66
+            ],
+            "type": [
+                "Water",
+                "Psychic"
+            ],
+            "usage": "Slowpoke should be switched into Pokemon it can handle, tanking their hits and KOing them back. Slowpoke can also be sent out to force switches, although it should generally immediately switch out afterwards. Slowpoke also shouldn't be switched in and out randomly to just get its HP restored from Regenerator, as its checks are very common in the metagame, and if it switches in carelessly, it might take a super effective move such as Knock Off. Knock Off in general should be avoided, as it deals super effective damage and removes Slowpoke's important Eviolite, which hinders its bulk. Slowpoke can also spread paralysis once it switches in, potentially crippling fast offensive Pokemon. When Slowpoke reaches a low amount of HP, it should switch out to gain more HP and then switch into a Pokemon it can use Slack Off against so it can recover its HP fully. Slowpoke should avoid some mixed or special attackers, as its Special Defense is lacking compared to its Defense, meaning it might get KOed by powerful special attacks; it should still be able to switch into resisted special attacks, but should be wary in general. If Slowpoke is running Calm Mind, it should be kept healthy until late-game when most of its checks are defeated and it can set up on passive Pokemon or Pokemon whose attacks it resists and then clean the rest of the opposing team. Slowpoke can also consistently check hail teams, as it can take care of Slush Rush sweepers such as Alolan Sandshrew and hail setters such as Snover with Fire Blast.",
+            "moves": [
+                [
+                    "Slack Off"
+                ],
+                [
+                    "Scald"
+                ],
+                [
+                    "Psychic"
+                ],
+                [
+                    "Thunder Wave",
+                    "Fire Blast",
+                    "Calm Mind"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Regenerator"
+            ],
+            "nature": [
+                "Calm"
+            ],
+            "ev spread": [
+                116,
+                0,
+                76,
+                116,
+                196,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Grass-types",
+        "Dark-types",
+        "Electric-types",
+        "Knock Off"
+    ],
+    "credits": [
+        "Written by Conni",
+        "Quality checked by Xayah, sparktrain,  and himeringo",
+        "Grammar checked by The Dutch Plumberjack and CryoGyro"
+    ]
+}

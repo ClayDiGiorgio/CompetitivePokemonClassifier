@@ -1,1 +1,87 @@
-{"name": "Ditto", "forms": {"Base": {"base stats": [48, 48, 48, 48, 48, 48], "types": ["Normal"], "abilities": ["Imposter", "Limber"], "tier": ["Untiered"], "form": "Base"}}, "overview": "Ditto's unique ability Imposter causes it to transform into the opposing Pokemon, also copying any stat changes. These stat changes also overwrite whatever was affecting Ditto initially, allowing Ditto to decimate most Sticky Web teams. With a Choice Scarf, Ditto can always outspeed what it transforms into, unless that Pokemon is also holding a Choice Scarf. This allows Ditto to operate as an excellent revenge killer. In addition, Ditto can handle stall teams by copying recovery, hazard removal, and cleric support, and its transformations come with fresh PP. With a reliable Regenerator partner, Ditto can have pseudo-infinite PP and win the long game against stall. Ditto also provides team support by scouting movesets.\nIn OU, Ditto is best suited for bulky teams as an anti-setup, anti-offense, and anti-stall option. However, because Ditto is forced to run Choice Scarf to avoid Speed ties, it has trouble with defensive setup Pokemon like Calm Mind Clefable and Reuniclus. Ditto can also be difficult to bring in safely against offensive teams due to its low HP stat and the likely low bulk and high offensive stats of the Pokemon it seeks to revenge kill. Additionally, Imposter and Transform are blocked by Substitute, leaving Ditto and its team vulnerable against setup sweepers that utilize said move, such as Serperior and Mega Gyarados.\n", "strategies' format": "OU", "strategies": [{"name": "Imposter", "stats": [195, 133, 214, 132, 132, 90], "type": ["Normal"], "usage": "Use Ditto to revenge kill offensive threats. Ditto can apply heavy pressure on opponents by copying their wallbreakers. Copying powerful Mega Evolutions, such as Mega Medicham and Mega Charizard Y, can be especially devastating, as the typical counterplay of revenge killing is made difficult by Ditto's Choice Scarf. Early-game, Ditto can be sent in or lead off with to scout movesets. Against stall teams, attempt to switch Ditto into Knock Off to have its Choice Scarf removed. Without Choice Scarf, Ditto has the freedom to switch moves and has its effective PP increased from 5 to 20, allowing it to PP stall when paired with teammates with Regenerator. Ditto can then proceed to counter Mega Sableye and copy cleric support and entry hazard removal.", "moves": [["Transform"]], "item": [" Choice Scarf"], "ability": ["Imposter"], "nature": ["Relaxed"], "ev spread": [252, 4, 252, 0, 0, 0], "iv spread": [31, 31, 31, 31, 31, 0]}], "counters": ["Substitute Users", "Calm Mind Users", "Choice Scarf Users", "Entry Hazards", "Opposing Ditto"], "credits": ["Written by GMars", "Quality checked by p2, Gary,  and Finchinator", "Grammar checked by Fireflame479 and The Dutch Plumberjack"]}
+{
+    "name": "Ditto",
+    "forms": {
+        "Base": {
+            "base stats": [
+                48,
+                48,
+                48,
+                48,
+                48,
+                48
+            ],
+            "types": [
+                "Normal"
+            ],
+            "abilities": [
+                "Imposter",
+                "Limber"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Ditto's unique ability Imposter causes it to transform into the opposing Pokemon, also copying any stat changes. These stat changes also overwrite whatever was affecting Ditto initially, allowing Ditto to decimate most Sticky Web teams. With a Choice Scarf, Ditto can always outspeed what it transforms into, unless that Pokemon is also holding a Choice Scarf. This allows Ditto to operate as an excellent revenge killer. In addition, Ditto can handle stall teams by copying recovery, hazard removal, and cleric support, and its transformations come with fresh PP. With a reliable Regenerator partner, Ditto can have pseudo-infinite PP and win the long game against stall. Ditto also provides team support by scouting movesets.\nIn OU, Ditto is best suited for bulky teams as an anti-setup, anti-offense, and anti-stall option. However, because Ditto is forced to run Choice Scarf to avoid Speed ties, it has trouble with defensive setup Pokemon like Calm Mind Clefable and Reuniclus. Ditto can also be difficult to bring in safely against offensive teams due to its low HP stat and the likely low bulk and high offensive stats of the Pokemon it seeks to revenge kill. Additionally, Imposter and Transform are blocked by Substitute, leaving Ditto and its team vulnerable against setup sweepers that utilize said move, such as Serperior and Mega Gyarados.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Imposter",
+            "stats": [
+                195,
+                133,
+                214,
+                132,
+                132,
+                90
+            ],
+            "type": [
+                "Normal"
+            ],
+            "usage": "Use Ditto to revenge kill offensive threats. Ditto can apply heavy pressure on opponents by copying their wallbreakers. Copying powerful Mega Evolutions, such as Mega Medicham and Mega Charizard Y, can be especially devastating, as the typical counterplay of revenge killing is made difficult by Ditto's Choice Scarf. Early-game, Ditto can be sent in or lead off with to scout movesets. Against stall teams, attempt to switch Ditto into Knock Off to have its Choice Scarf removed. Without Choice Scarf, Ditto has the freedom to switch moves and has its effective PP increased from 5 to 20, allowing it to PP stall when paired with teammates with Regenerator. Ditto can then proceed to counter Mega Sableye and copy cleric support and entry hazard removal.",
+            "moves": [
+                [
+                    "Transform"
+                ]
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Imposter"
+            ],
+            "nature": [
+                "Relaxed"
+            ],
+            "ev spread": [
+                252,
+                4,
+                252,
+                0,
+                0,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                0
+            ]
+        }
+    ],
+    "counters": [
+        "Substitute Users",
+        "Calm Mind Users",
+        "Choice Scarf Users",
+        "Entry Hazards",
+        "Opposing Ditto"
+    ],
+    "credits": [
+        "Written by GMars",
+        "Quality checked by p2, Gary,  and Finchinator",
+        "Grammar checked by Fireflame479 and The Dutch Plumberjack"
+    ]
+}

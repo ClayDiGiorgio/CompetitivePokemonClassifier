@@ -1,1 +1,95 @@
-{"name": "Komala", "forms": {"Base": {"base stats": [65, 115, 65, 75, 95, 65], "types": ["Normal"], "abilities": ["Comatose"], "tier": ["Untiered"], "form": "Base"}}, "overview": "Komala has a unique niche with its ability Comatose preventing it from being afflicted with status, allowing it to pivot into status moves with ease as well as giving it an immunity to Toxic Spikes. Access to Rapid Spin and the pivoting move U-turn is Komala's main niche as a Normal-type and is generally the only reason you would use it over Stoutland, Kangaskhan, and Zangoose, which have much better offensive presence, or Audino, which has much better bulk. With a base Attack stat of 115 and a wide range of coverage moves, Komala can hit most of the tier fairly hard. However, even with Komala's immunity to status moves, many Pokemon that carry them like Spiritomb, Gastrodon, and Weezing can beat it one-on-one. Komala also has a hard time beating spinblockers, as its main way of hitting Ghost-types is Sucker Punch which can easily be played around, giving the opponent opportunity to set up or get free switches. Its low physical bulk also leaves it vulnerable to strong physical attackers. Komala suffers from four-moveslot syndrome on almost any kind of set, having to pick and choose what Pokemon it wants to handle. It can run Play Rough to hit Spiritomb, Wood Hammer to hit Gastrodon, and a number of other coverage moves to hit its checks harder, but not all on one set. Komala also faces extreme competition from Assault Vest Hitmonchan, which checks many dangerous special attackers such as Aurorus far better than Komala.\n", "strategies' format": "PU", "strategies": [{"name": "Bulky Spinner", "stats": [229, 356, 166, 167, 226, 172], "type": ["Normal"], "usage": "Komala should be used as a team's method of entry hazard control, being able to Rapid Spin easily if the opponent doesn't have a Ghost-type. It should be brought in on weak special attackers like Gastrodon and specially defensive Lanturn so it can take a hit and use Rapid Spin or scout the opponent's response with U-turn. It can also be brought in on obvious status moves from the likes of Sableye and even Jynx, as Komala is unaffected by those and can gain momentum for the team, though it should be wary of Foul Play or Knock Off from Sableye and Psyshock from Jynx. If the opponent has a Ghost-type, Komala should be prepared to use U-turn to not lose momentum on an attempt to block the Rapid Spin. Without recovery, Komala can be chipped very easily and therefore should be wary of taking too many attacks and being worn down by the hazards that it tries to remove.", "moves": [["Rapid Spin"], ["Return"], ["U-turn"], ["Sucker Punch", "Earthquake"]], "item": [" Assault Vest"], "ability": ["Comatose"], "nature": ["Adamant"], "ev spread": [252, 232, 0, 0, 0, 24], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Ghost-types", "Fighting-types", "Strong Physical Attackers", "Rock- and Steel-types"], "credits": ["Written by SergioRules", "Quality checked by Megazard, yogi,  and allstarapology", "Grammar checked by The Dutch Plumberjack and lotiasite"]}
+{
+    "name": "Komala",
+    "forms": {
+        "Base": {
+            "base stats": [
+                65,
+                115,
+                65,
+                75,
+                95,
+                65
+            ],
+            "types": [
+                "Normal"
+            ],
+            "abilities": [
+                "Comatose"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Komala has a unique niche with its ability Comatose preventing it from being afflicted with status, allowing it to pivot into status moves with ease as well as giving it an immunity to Toxic Spikes. Access to Rapid Spin and the pivoting move U-turn is Komala's main niche as a Normal-type and is generally the only reason you would use it over Stoutland, Kangaskhan, and Zangoose, which have much better offensive presence, or Audino, which has much better bulk. With a base Attack stat of 115 and a wide range of coverage moves, Komala can hit most of the tier fairly hard. However, even with Komala's immunity to status moves, many Pokemon that carry them like Spiritomb, Gastrodon, and Weezing can beat it one-on-one. Komala also has a hard time beating spinblockers, as its main way of hitting Ghost-types is Sucker Punch which can easily be played around, giving the opponent opportunity to set up or get free switches. Its low physical bulk also leaves it vulnerable to strong physical attackers. Komala suffers from four-moveslot syndrome on almost any kind of set, having to pick and choose what Pokemon it wants to handle. It can run Play Rough to hit Spiritomb, Wood Hammer to hit Gastrodon, and a number of other coverage moves to hit its checks harder, but not all on one set. Komala also faces extreme competition from Assault Vest Hitmonchan, which checks many dangerous special attackers such as Aurorus far better than Komala.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Bulky Spinner",
+            "stats": [
+                229,
+                356,
+                166,
+                167,
+                226,
+                172
+            ],
+            "type": [
+                "Normal"
+            ],
+            "usage": "Komala should be used as a team's method of entry hazard control, being able to Rapid Spin easily if the opponent doesn't have a Ghost-type. It should be brought in on weak special attackers like Gastrodon and specially defensive Lanturn so it can take a hit and use Rapid Spin or scout the opponent's response with U-turn. It can also be brought in on obvious status moves from the likes of Sableye and even Jynx, as Komala is unaffected by those and can gain momentum for the team, though it should be wary of Foul Play or Knock Off from Sableye and Psyshock from Jynx. If the opponent has a Ghost-type, Komala should be prepared to use U-turn to not lose momentum on an attempt to block the Rapid Spin. Without recovery, Komala can be chipped very easily and therefore should be wary of taking too many attacks and being worn down by the hazards that it tries to remove.",
+            "moves": [
+                [
+                    "Rapid Spin"
+                ],
+                [
+                    "Return"
+                ],
+                [
+                    "U-turn"
+                ],
+                [
+                    "Sucker Punch",
+                    "Earthquake"
+                ]
+            ],
+            "item": [
+                " Assault Vest"
+            ],
+            "ability": [
+                "Comatose"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                252,
+                232,
+                0,
+                0,
+                0,
+                24
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Ghost-types",
+        "Fighting-types",
+        "Strong Physical Attackers",
+        "Rock- and Steel-types"
+    ],
+    "credits": [
+        "Written by SergioRules",
+        "Quality checked by Megazard, yogi,  and allstarapology",
+        "Grammar checked by The Dutch Plumberjack and lotiasite"
+    ]
+}

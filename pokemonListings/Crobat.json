@@ -1,1 +1,99 @@
-{"name": "Crobat", "forms": {"Base": {"base stats": [85, 90, 80, 70, 80, 130], "types": ["Poison", "Flying"], "abilities": ["Infiltrator", "Inner Focus"], "tier": ["UU"], "form": "Base"}}, "overview": "Crobat's useful typing provides it with notable resistances and an immunity, enabling it to check UU staples like Kommo-o and Mega Altaria efficiently. A high Speed stat allows Crobat to outspeed and weaken several of UU's key threats, enabling it to utilize its STAB moves to KO slower threats such as Heracross and Hippowdon or cripple them with Taunt. This also allows Crobat to act as an effective revenge killer for Pokemon like Gengar, Terrakion, and Infernape. Crobat's access to a variety of utility moves such as U-turn, Taunt, Super Fang, and Defog makes it a prominent support Pokemon in the UU metagame. However, its typing leaves it vulnerable to other common threats such as Nihilego, Mega Manectric, and Mega Aerodactyl, with the latter two outspeeding and OHKOing Crobat. Its use as a pivot is somewhat neutered by its weakness to Stealth Rock, limiting the number of times it can come in to perform its utility role without either being KOed or forced to use Roost. Despite access to a strong STAB move in Brave Bird, Crobat struggles to break past bulkier Pokemon like Alomomola and Hippowdon due to its mediocre offensive presence without a Z-Move.\n", "strategies' format": "UU", "strategies": [{"name": "Offensive", "stats": [206, 279, 197, 158, 196, 394], "type": ["Poison", "Flying"], "usage": "Crobat should switch into Pokemon that it can survive a hit from due to its defensive typing, such as Hippowdon, Mega Altaria, and Sylveon. It can also switch into passive Pokemon such as Blissey and Alomomola to cripple them with Taunt. Against offensive teams, Crobat should aim to force out opposing Grass-types, Fighting-types, and slower Pokemon and use free turns to recover HP or use U-turn, maintaining momentum. Crobat's utility against defensive teams is incredibly useful, so its HP should be maintained throughout the game. The combination of Taunt and Brave Bird whittles down some stall staples that fail to threaten Crobat in return, such as Blissey, Quagsire, and Tentacruel. Crobat's weakness to Stealth Rock can be problematic for its pivoting abilities, so clearing the entry hazard before it switches in is advised; if Crobat itself is running Defog, ensure it stays healthy with Roost to remove hazards more than once. Pursuit trappers such as Mega Aerodactyl, Krookodile, and Scizor, especially in combination with Stealth Rock damage, can remove Crobat fairly easily. As such, if the opponent has one of these Pokemon, it is advised to play Crobat extremely aggressively to avoid being trapped. Supersonic Skystrike should be used against physically bulky foes that Crobat cannot break through with Brave Bird, such as Hippowdon and Alomomola, after weakening them and eliminating their recovery via Taunt. It can also be used to KO an offensive threat to Crobat or its teammates such as Terrakion.", "moves": [["Brave Bird"], ["U-turn"], ["Roost"], ["Taunt"]], "item": [" Flyinium Z", " Sky Plate"], "ability": ["Infiltrator"], "nature": ["Jolly"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Steel-types", "Physically Defensive Pokemon", "Faster Pokemon", "Pursuit Trappers"], "credits": ["Written by martha", "Earlier versions by A Cake Wearing A Hat", "Quality checked by Nuked, Amane Misa,  and Hilomilo", "Grammar checked by Fireflame479 and Eien"]}
+{
+    "name": "Crobat",
+    "forms": {
+        "Base": {
+            "base stats": [
+                85,
+                90,
+                80,
+                70,
+                80,
+                130
+            ],
+            "types": [
+                "Poison",
+                "Flying"
+            ],
+            "abilities": [
+                "Infiltrator",
+                "Inner Focus"
+            ],
+            "tier": [
+                "UU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Crobat's useful typing provides it with notable resistances and an immunity, enabling it to check UU staples like Kommo-o and Mega Altaria efficiently. A high Speed stat allows Crobat to outspeed and weaken several of UU's key threats, enabling it to utilize its STAB moves to KO slower threats such as Heracross and Hippowdon or cripple them with Taunt. This also allows Crobat to act as an effective revenge killer for Pokemon like Gengar, Terrakion, and Infernape. Crobat's access to a variety of utility moves such as U-turn, Taunt, Super Fang, and Defog makes it a prominent support Pokemon in the UU metagame. However, its typing leaves it vulnerable to other common threats such as Nihilego, Mega Manectric, and Mega Aerodactyl, with the latter two outspeeding and OHKOing Crobat. Its use as a pivot is somewhat neutered by its weakness to Stealth Rock, limiting the number of times it can come in to perform its utility role without either being KOed or forced to use Roost. Despite access to a strong STAB move in Brave Bird, Crobat struggles to break past bulkier Pokemon like Alomomola and Hippowdon due to its mediocre offensive presence without a Z-Move.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Offensive",
+            "stats": [
+                206,
+                279,
+                197,
+                158,
+                196,
+                394
+            ],
+            "type": [
+                "Poison",
+                "Flying"
+            ],
+            "usage": "Crobat should switch into Pokemon that it can survive a hit from due to its defensive typing, such as Hippowdon, Mega Altaria, and Sylveon. It can also switch into passive Pokemon such as Blissey and Alomomola to cripple them with Taunt. Against offensive teams, Crobat should aim to force out opposing Grass-types, Fighting-types, and slower Pokemon and use free turns to recover HP or use U-turn, maintaining momentum. Crobat's utility against defensive teams is incredibly useful, so its HP should be maintained throughout the game. The combination of Taunt and Brave Bird whittles down some stall staples that fail to threaten Crobat in return, such as Blissey, Quagsire, and Tentacruel. Crobat's weakness to Stealth Rock can be problematic for its pivoting abilities, so clearing the entry hazard before it switches in is advised; if Crobat itself is running Defog, ensure it stays healthy with Roost to remove hazards more than once. Pursuit trappers such as Mega Aerodactyl, Krookodile, and Scizor, especially in combination with Stealth Rock damage, can remove Crobat fairly easily. As such, if the opponent has one of these Pokemon, it is advised to play Crobat extremely aggressively to avoid being trapped. Supersonic Skystrike should be used against physically bulky foes that Crobat cannot break through with Brave Bird, such as Hippowdon and Alomomola, after weakening them and eliminating their recovery via Taunt. It can also be used to KO an offensive threat to Crobat or its teammates such as Terrakion.",
+            "moves": [
+                [
+                    "Brave Bird"
+                ],
+                [
+                    "U-turn"
+                ],
+                [
+                    "Roost"
+                ],
+                [
+                    "Taunt"
+                ]
+            ],
+            "item": [
+                " Flyinium Z",
+                " Sky Plate"
+            ],
+            "ability": [
+                "Infiltrator"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Steel-types",
+        "Physically Defensive Pokemon",
+        "Faster Pokemon",
+        "Pursuit Trappers"
+    ],
+    "credits": [
+        "Written by martha",
+        "Earlier versions by A Cake Wearing A Hat",
+        "Quality checked by Nuked, Amane Misa,  and Hilomilo",
+        "Grammar checked by Fireflame479 and Eien"
+    ]
+}

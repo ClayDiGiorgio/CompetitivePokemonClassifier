@@ -1,1 +1,152 @@
-{"name": "Guzzlord", "forms": {"Base": {"base stats": [223, 101, 53, 97, 53, 43], "types": ["Dark", "Dragon"], "abilities": ["Beast Boost"], "tier": ["PU"], "form": "Base"}}, "overview": "Guzzlord is a threatening wallbreaker in NU that is capable of easily exploiting common defensive cores revolving around Pokemon such as Slowking, Steelix, and Golbat due to good defensive presence courtesy of its typing and massive HP. As a result of its defensive capabilities, Guzzlord can also take on certain offensive Pokemon such as Incineroar, Houndoom, and Rotom, giving it multiple opportunities to switch in and heavily pressure opposing teams. Stellar offensive typing, high Special Attack, Beast Boost, and vast coverage options also give Guzzlord great offensive presence, allowing it to hit everything in the tier neutrally and powerfully. However, Guzzlord's horribly low Speed leaves it outpaced by almost every offensive Pokemon in the tier. While Guzzlord's typing does provide it with key resistances to Electric, Water, Fire, and Grass as well as an immunity to Psychic, it also leaves Guzzlord vulnerable to Fairy-, Fighting-, Ice-, and Bug-type Pokemon like Whimsicott, Passimian, Mega Glalie, and Vikavolt. Guzzlord's typing also leaves it susceptible to coverage options from Pokemon it could otherwise switch into with ease, such as U-turn on Incineroar, Low Sweep on Decidueye, Focus Blast on Heliolisk, and Dazzling Gleam on Delphox.\n", "strategies' format": "NU", "strategies": [{"name": "Choice Specs", "stats": [482, 214, 191, 322, 142, 137], "type": ["Dark", "Dragon"], "usage": "Guzzlord should mainly switch into Pokemon that cannot immediately threaten it such as Palossand, Decidueye, and non-Assault Vest Slowking. Because Guzzlord is locked into one move and isn't very fast, it is reliant on prediction in order to wallbreak to the best of its ability. For example, if Guzzlord predicts a Fairy-type to switch in, it should use Sludge Bomb. Dark Pulse is the move that Guzzlord should be using most of the time, as the move's lack of drawbacks and Pokemon immune to it prevent it from being completely exploitable. Exercise caution regarding which move Guzzlord locks itself into, especially in the case of Draco Meteor, as the fact that it's slow and can't switch moves can turn it into setup fodder for dangerous Pokemon like Klinklang and Comfey.", "moves": [["Draco Meteor"], ["Dark Pulse"], ["Fire Blast"], ["Sludge Bomb"]], "item": [" Choice Specs"], "ability": ["Beast Boost"], "nature": ["Modest"], "ev spread": [0, 0, 196, 252, 0, 60], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Dragonium Z", "stats": [482, 214, 191, 322, 142, 137], "type": ["Dark", "Dragon"], "usage": "Guzzlord should primarily be used to punch holes into opposing teams early- to mid-game. Switch Guzzlord in on relatively passive Pokemon that are incapable of offensively pressuring it, such as Palossand and non-Assault Vest Slowking. Be wary of Toxic, however. Dark Pulse is typically the main move Guzzlord should be using, as the move is powerful, lacks drawbacks, and doesn't have any Pokemon immune to it. Be careful about using Draco Meteor, especially against more offensive teams, since the move drops Guzzlord's Special Attack by two stages and turns it into setup fodder for Pokemon like Klinklang, Malamar, and Incineroar. Against more defensive teams, Guzzlord should preserve its Z-Move so it can break through bulkier Pokemon like Golbat and Miltank. Guzzlord's ability to bluff a Choice Specs set makes its Z-Move an even deadlier asset.", "moves": [["Draco Meteor"], ["Dark Pulse"], ["Fire Blast"], ["Heavy Slam"]], "item": [" Dragonium Z"], "ability": ["Beast Boost"], "nature": ["Modest"], "ev spread": [0, 0, 196, 252, 0, 60], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Fairy-types", "Fighting-types", "Revenge Killers", "Specially Bulky Pokemon"], "credits": ["Written by allstarapology", "Quality checked by kay, Hootie,  and poh", "Grammar checked by The Dutch Plumberjack and Fireflame479", "Earlier versions by Nuked"]}
+{
+    "name": "Guzzlord",
+    "forms": {
+        "Base": {
+            "base stats": [
+                223,
+                101,
+                53,
+                97,
+                53,
+                43
+            ],
+            "types": [
+                "Dark",
+                "Dragon"
+            ],
+            "abilities": [
+                "Beast Boost"
+            ],
+            "tier": [
+                "PU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Guzzlord is a threatening wallbreaker in NU that is capable of easily exploiting common defensive cores revolving around Pokemon such as Slowking, Steelix, and Golbat due to good defensive presence courtesy of its typing and massive HP. As a result of its defensive capabilities, Guzzlord can also take on certain offensive Pokemon such as Incineroar, Houndoom, and Rotom, giving it multiple opportunities to switch in and heavily pressure opposing teams. Stellar offensive typing, high Special Attack, Beast Boost, and vast coverage options also give Guzzlord great offensive presence, allowing it to hit everything in the tier neutrally and powerfully. However, Guzzlord's horribly low Speed leaves it outpaced by almost every offensive Pokemon in the tier. While Guzzlord's typing does provide it with key resistances to Electric, Water, Fire, and Grass as well as an immunity to Psychic, it also leaves Guzzlord vulnerable to Fairy-, Fighting-, Ice-, and Bug-type Pokemon like Whimsicott, Passimian, Mega Glalie, and Vikavolt. Guzzlord's typing also leaves it susceptible to coverage options from Pokemon it could otherwise switch into with ease, such as U-turn on Incineroar, Low Sweep on Decidueye, Focus Blast on Heliolisk, and Dazzling Gleam on Delphox.\n",
+    "strategies' format": "NU",
+    "strategies": [
+        {
+            "name": "Choice Specs",
+            "stats": [
+                482,
+                214,
+                191,
+                322,
+                142,
+                137
+            ],
+            "type": [
+                "Dark",
+                "Dragon"
+            ],
+            "usage": "Guzzlord should mainly switch into Pokemon that cannot immediately threaten it such as Palossand, Decidueye, and non-Assault Vest Slowking. Because Guzzlord is locked into one move and isn't very fast, it is reliant on prediction in order to wallbreak to the best of its ability. For example, if Guzzlord predicts a Fairy-type to switch in, it should use Sludge Bomb. Dark Pulse is the move that Guzzlord should be using most of the time, as the move's lack of drawbacks and Pokemon immune to it prevent it from being completely exploitable. Exercise caution regarding which move Guzzlord locks itself into, especially in the case of Draco Meteor, as the fact that it's slow and can't switch moves can turn it into setup fodder for dangerous Pokemon like Klinklang and Comfey.",
+            "moves": [
+                [
+                    "Draco Meteor"
+                ],
+                [
+                    "Dark Pulse"
+                ],
+                [
+                    "Fire Blast"
+                ],
+                [
+                    "Sludge Bomb"
+                ]
+            ],
+            "item": [
+                " Choice Specs"
+            ],
+            "ability": [
+                "Beast Boost"
+            ],
+            "nature": [
+                "Modest"
+            ],
+            "ev spread": [
+                0,
+                0,
+                196,
+                252,
+                0,
+                60
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Dragonium Z",
+            "stats": [
+                482,
+                214,
+                191,
+                322,
+                142,
+                137
+            ],
+            "type": [
+                "Dark",
+                "Dragon"
+            ],
+            "usage": "Guzzlord should primarily be used to punch holes into opposing teams early- to mid-game. Switch Guzzlord in on relatively passive Pokemon that are incapable of offensively pressuring it, such as Palossand and non-Assault Vest Slowking. Be wary of Toxic, however. Dark Pulse is typically the main move Guzzlord should be using, as the move is powerful, lacks drawbacks, and doesn't have any Pokemon immune to it. Be careful about using Draco Meteor, especially against more offensive teams, since the move drops Guzzlord's Special Attack by two stages and turns it into setup fodder for Pokemon like Klinklang, Malamar, and Incineroar. Against more defensive teams, Guzzlord should preserve its Z-Move so it can break through bulkier Pokemon like Golbat and Miltank. Guzzlord's ability to bluff a Choice Specs set makes its Z-Move an even deadlier asset.",
+            "moves": [
+                [
+                    "Draco Meteor"
+                ],
+                [
+                    "Dark Pulse"
+                ],
+                [
+                    "Fire Blast"
+                ],
+                [
+                    "Heavy Slam"
+                ]
+            ],
+            "item": [
+                " Dragonium Z"
+            ],
+            "ability": [
+                "Beast Boost"
+            ],
+            "nature": [
+                "Modest"
+            ],
+            "ev spread": [
+                0,
+                0,
+                196,
+                252,
+                0,
+                60
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Fairy-types",
+        "Fighting-types",
+        "Revenge Killers",
+        "Specially Bulky Pokemon"
+    ],
+    "credits": [
+        "Written by allstarapology",
+        "Quality checked by kay, Hootie,  and poh",
+        "Grammar checked by The Dutch Plumberjack and Fireflame479",
+        "Earlier versions by Nuked"
+    ]
+}

@@ -1,1 +1,211 @@
-{"name": "Magnezone", "forms": {"Base": {"base stats": [70, 70, 115, 130, 90, 60], "types": ["Electric", "Steel"], "abilities": ["Analytic", "Magnet Pull", "Sturdy"], "tier": ["OU"], "form": "Base"}}, "overview": "Magnezone's near-exclusive access to Magnet Pull gives it a very unique and valuable niche in the OU metagame as a trapper and eliminator of Steel-types such as Ferrothorn, Scizor, Skarmory, and Celesteela. It also functions as a solid revenge killer with Choice Scarf, being able to check a number of dangerous Pokemon like Kartana, Mega Scizor, and weakened Celesteela. However, its lackluster Speed stat, even with a Choice Scarf, means that it typically struggles to retain its utility after it has trapped what it aims to trap; it is often forced to take a hit before it can attack with its other sets and doesn't have recovery to offset this damage. Its good set of resistances is somewhat undermined by its weakness to three common types in Ground, Fighting, and Fire, which makes it easy for dangerous Pokemon like Mega Lopunny, Landorus-T, and Mega Charizard X to KO and leaves it unable to safely trap Heatran and Excadrill.\n", "strategies' format": "OU", "strategies": [{"name": "Substitute Z", "stats": [176, 158, 267, 394, 216, 219], "type": ["Electric", "Steel"], "usage": "The goals of this set are to eliminate any Steel-type that Magnezone may encounter and do as much damage as possible when not facing a Steel-type. Moreover, utilization of Substitute to make Magnezone less prediction reliant is key, and this should be kept in mind when trying to make the most use of Magnezone in battle. Substitute is also useful when you expect the opponent to use moves such as Protect, Sucker Punch, and Leech Seed. It is best to bring Magnezone into battle when you expect a vulnerable Steel-type like Ferrothorn, Mega Scizor, or Celesteela to come in. Alternatively, if they manage to get in, switching Magnezone in to trap them is a good idea if you believe they will stay in.", "moves": [["Substitute"], ["Thunderbolt"], ["Flash Cannon"], ["Hidden Power Fire"]], "item": [" Electrium Z", " Steelium Z"], "ability": ["Magnet Pull"], "nature": ["Modest", "Timid"], "ev spread": [0, 0, 4, 252, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Choice Scarf", "stats": [178, 158, 267, 357, 216, 240], "type": ["Electric", "Steel"], "usage": "Choice Scarf Magnezone isn't an excellent revenge killer; however, it should be seen as a Pokemon that can trap and dispose of Steel-types such as Ferrothorn, Kartana, and Mega Scizor. There will be circumstances where locking onto Thunderbolt isn't optimal, as it draws in Ground-types such as Landorus-T and Garchomp. For circumstances such as this, Flash Cannon is the recommended move to lock Magnezone onto. Thanks to Magnezone's solid typing, it can be used in emergency situations to take a hit for its teammates. Magnezone's typing is solid against threats such as Mega Diancie, Tapu Bulu, and Tapu Lele, though be aware of their coverage moves such as Earth Power, Superpower, and Focus Blast, respectively. Magnezone's underwhelming Speed tier does put it to failure against threats such as Greninja, so bear this in mind when seeking out teammates.", "moves": [["Thunderbolt"], ["Hidden Power Fire"], ["Flash Cannon"], ["Volt Switch"]], "item": [" Choice Scarf"], "ability": ["Magnet Pull"], "nature": ["Timid"], "ev spread": [8, 0, 4, 244, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Choice Specs", "stats": [177, 158, 266, 394, 216, 219], "type": ["Electric", "Steel"], "usage": "Try to put your opponent into a position in which Magnezone can trap the Steel-types it should, namely Celesteela, Mega Scizor, Ferrothorn, and Skarmory. Switching into Magnezone as you expect them to go into their Steel-type is a solid option; similarly, sacrificing an expendable Pokemon to entry hazards or a predicted attack from one of these Steel-types can let Magnezone come in freely. Magnezone can switch into the likes of Clefable and Ferrothorn without getting punished provided they lack Knock Off, so try to take advantage of these Pokemon to switch Magnezone in. However, be careful not to leave it low on HP. When Magnezone is on the field, opponents could attempt to pivot a Ground-type in to block its Volt Switch; under these scenarios, hitting the likes of Landorus-T, Garchomp, and Gliscor with a Choice Specs-boosted Flash Cannon is more often than not the best bet. If your opponent's team lacks a Ground-type or if their Ground-type has already been taken down, spamming Volt Switch can be a great idea on something Magnezone forces out, as it is surprisingly strong after Choice Specs is factored in. After Steel-types have been successfully trapped and removed, Magnezone can act as a regular wallbreaker.", "moves": [["Thunderbolt"], ["Hidden Power Fire"], ["Flash Cannon"], ["Volt Switch"]], "item": [" Choice Specs"], "ability": ["Magnet Pull"], "nature": ["Modest"], "ev spread": [4, 0, 0, 252, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Volcarona and Mega Charizard X", "Ground-types", "Fire-types", "Fighting-types", "Chansey"], "credits": ["Written by lyd, Colonel M, Finchinator,  and Martin", "Quality checked by p2, Subject 18,  and Gary", "Grammar checked by P Squared and CryoGyro"]}
+{
+    "name": "Magnezone",
+    "forms": {
+        "Base": {
+            "base stats": [
+                70,
+                70,
+                115,
+                130,
+                90,
+                60
+            ],
+            "types": [
+                "Electric",
+                "Steel"
+            ],
+            "abilities": [
+                "Analytic",
+                "Magnet Pull",
+                "Sturdy"
+            ],
+            "tier": [
+                "OU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Magnezone's near-exclusive access to Magnet Pull gives it a very unique and valuable niche in the OU metagame as a trapper and eliminator of Steel-types such as Ferrothorn, Scizor, Skarmory, and Celesteela. It also functions as a solid revenge killer with Choice Scarf, being able to check a number of dangerous Pokemon like Kartana, Mega Scizor, and weakened Celesteela. However, its lackluster Speed stat, even with a Choice Scarf, means that it typically struggles to retain its utility after it has trapped what it aims to trap; it is often forced to take a hit before it can attack with its other sets and doesn't have recovery to offset this damage. Its good set of resistances is somewhat undermined by its weakness to three common types in Ground, Fighting, and Fire, which makes it easy for dangerous Pokemon like Mega Lopunny, Landorus-T, and Mega Charizard X to KO and leaves it unable to safely trap Heatran and Excadrill.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Substitute Z",
+            "stats": [
+                176,
+                158,
+                267,
+                394,
+                216,
+                219
+            ],
+            "type": [
+                "Electric",
+                "Steel"
+            ],
+            "usage": "The goals of this set are to eliminate any Steel-type that Magnezone may encounter and do as much damage as possible when not facing a Steel-type. Moreover, utilization of Substitute to make Magnezone less prediction reliant is key, and this should be kept in mind when trying to make the most use of Magnezone in battle. Substitute is also useful when you expect the opponent to use moves such as Protect, Sucker Punch, and Leech Seed. It is best to bring Magnezone into battle when you expect a vulnerable Steel-type like Ferrothorn, Mega Scizor, or Celesteela to come in. Alternatively, if they manage to get in, switching Magnezone in to trap them is a good idea if you believe they will stay in.",
+            "moves": [
+                [
+                    "Substitute"
+                ],
+                [
+                    "Thunderbolt"
+                ],
+                [
+                    "Flash Cannon"
+                ],
+                [
+                    "Hidden Power Fire"
+                ]
+            ],
+            "item": [
+                " Electrium Z",
+                " Steelium Z"
+            ],
+            "ability": [
+                "Magnet Pull"
+            ],
+            "nature": [
+                "Modest",
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                4,
+                252,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Choice Scarf",
+            "stats": [
+                178,
+                158,
+                267,
+                357,
+                216,
+                240
+            ],
+            "type": [
+                "Electric",
+                "Steel"
+            ],
+            "usage": "Choice Scarf Magnezone isn't an excellent revenge killer; however, it should be seen as a Pokemon that can trap and dispose of Steel-types such as Ferrothorn, Kartana, and Mega Scizor. There will be circumstances where locking onto Thunderbolt isn't optimal, as it draws in Ground-types such as Landorus-T and Garchomp. For circumstances such as this, Flash Cannon is the recommended move to lock Magnezone onto. Thanks to Magnezone's solid typing, it can be used in emergency situations to take a hit for its teammates. Magnezone's typing is solid against threats such as Mega Diancie, Tapu Bulu, and Tapu Lele, though be aware of their coverage moves such as Earth Power, Superpower, and Focus Blast, respectively. Magnezone's underwhelming Speed tier does put it to failure against threats such as Greninja, so bear this in mind when seeking out teammates.",
+            "moves": [
+                [
+                    "Thunderbolt"
+                ],
+                [
+                    "Hidden Power Fire"
+                ],
+                [
+                    "Flash Cannon"
+                ],
+                [
+                    "Volt Switch"
+                ]
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Magnet Pull"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                8,
+                0,
+                4,
+                244,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Choice Specs",
+            "stats": [
+                177,
+                158,
+                266,
+                394,
+                216,
+                219
+            ],
+            "type": [
+                "Electric",
+                "Steel"
+            ],
+            "usage": "Try to put your opponent into a position in which Magnezone can trap the Steel-types it should, namely Celesteela, Mega Scizor, Ferrothorn, and Skarmory. Switching into Magnezone as you expect them to go into their Steel-type is a solid option; similarly, sacrificing an expendable Pokemon to entry hazards or a predicted attack from one of these Steel-types can let Magnezone come in freely. Magnezone can switch into the likes of Clefable and Ferrothorn without getting punished provided they lack Knock Off, so try to take advantage of these Pokemon to switch Magnezone in. However, be careful not to leave it low on HP. When Magnezone is on the field, opponents could attempt to pivot a Ground-type in to block its Volt Switch; under these scenarios, hitting the likes of Landorus-T, Garchomp, and Gliscor with a Choice Specs-boosted Flash Cannon is more often than not the best bet. If your opponent's team lacks a Ground-type or if their Ground-type has already been taken down, spamming Volt Switch can be a great idea on something Magnezone forces out, as it is surprisingly strong after Choice Specs is factored in. After Steel-types have been successfully trapped and removed, Magnezone can act as a regular wallbreaker.",
+            "moves": [
+                [
+                    "Thunderbolt"
+                ],
+                [
+                    "Hidden Power Fire"
+                ],
+                [
+                    "Flash Cannon"
+                ],
+                [
+                    "Volt Switch"
+                ]
+            ],
+            "item": [
+                " Choice Specs"
+            ],
+            "ability": [
+                "Magnet Pull"
+            ],
+            "nature": [
+                "Modest"
+            ],
+            "ev spread": [
+                4,
+                0,
+                0,
+                252,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Volcarona and Mega Charizard X",
+        "Ground-types",
+        "Fire-types",
+        "Fighting-types",
+        "Chansey"
+    ],
+    "credits": [
+        "Written by lyd, Colonel M, Finchinator,  and Martin",
+        "Quality checked by p2, Subject 18,  and Gary",
+        "Grammar checked by P Squared and CryoGyro"
+    ]
+}

@@ -1,1 +1,155 @@
-{"name": "Jumpluff", "forms": {"Base": {"base stats": [75, 55, 70, 55, 95, 110], "types": ["Grass", "Flying"], "abilities": ["Chlorophyll", "Infiltrator", "Leaf Guard"], "tier": ["Untiered"], "form": "Base"}}, "overview": "Jumpluff is a niche Pokemon in the PU tier due to its ability to provide utility support for its teammates. Swords Dance and Strength Sap can turn Jumpluff into an unexpected offensive threat, bolstered by its nice Speed tier. Jumpluff has several other great utility moves, and options such as Sleep Powder, Memento, and U-turn allow it to support its teammates fairly effectively. Jumpluff also sports a decent typing that gives it an immunity to Toxic Spikes and Spikes and resistances to Water, Fighting, and Grass, though a weakness to Stealth Rock can hamper Jumpluff's longevity. However, Jumpluff's typing also gives it quite a few weaknesses, including a nasty 4x weakness to Ice and 2x weaknesses to Fire and Flying. On top of this, Jumpluff is quite frail and can't do much outside of its support role. Jumpluff also can't afford to hold an item such as Leftovers because it needs a boosted Acrobatics, which even then is very weak due to its abysmal Attack stat. Even after a Swords Dance, Jumpluff is incredibly weak. Lastly, despite Jumpluff's good Speed stat, it's in a crowded Speed tier and contends with other base 110 Speed Pokemon such as Alolan Raichu and Alolan Dugtrio.\n", "strategies' format": "PU", "strategies": [{"name": "Swords Dance", "stats": [186, 209, 177, 131, 226, 350], "type": ["Grass", "Flying"], "usage": "Early- and mid-game is when Jumpluff should focus on crippling foes with Sleep Powder, sustaining itself with Strength Sap, and gradually wearing the opposing team down with Acrobatics. Jumpluff lacks the bulk necessary to switch into neutral attacks as well as reliably double switch, so it should primarily come in on Pokemon like Gurdurr or after a teammate has been KOed. Although Jumpluff can switch in on resisted attacks from Pokemon like Lilligant and Primeape, it should only do so if absolutely necessary, as they can easily take it out with their super effective or powerful neutral coverage moves. Waiting until physically bulky foes and Flying-resistant Pokemon like Weezing and Oricorio-E have been either removed or heavily damaged is ideal, as this gives Jumpluff a greater chance of sweeping the opposing team. Jumpluff should also wait until faster foes like Lycanroc and Choice Scarf Scyther have been taken out, as they can quickly end its sweep. Certain Grass-types such as Lurantis and Bellossom as well as other Pokemon such as Primeape locked into Close Combat often make for perfect setup fodder. If necessary, predicting switches and using Sleep Powder as an opposing Pokemon like Skuntank comes in can ease setup. If possible, try to preserve Jumpluff against offensive teams, as it can potentially annoy them with Sleep Powder and its solid Speed tier.", "moves": [["Swords Dance"], ["Strength Sap"], ["Sleep Powder"], ["Acrobatics"]], "item": [" No Item"], "ability": ["Infiltrator"], "nature": ["Jolly"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Fast Pivot", "stats": [186, 209, 177, 131, 226, 350], "type": ["Grass", "Flying"], "usage": "Jumpluff will generally come onto the field a few times and use Sleep Powder or pivot around the opposing team before it uses Memento. Jumpluff should use Sleep Powder to incapacitate slower foes like Mesprit or pivot out on its checks like Ferroseed, with U-turn being used before Memento. Be wary of using Sleep Powder if the opponent has Pokemon such as Ferroseed, as it will ruin your momentum. Try switching Jumpluff in on resisted attacks from passive Pokemon such as Clefairy and Gastrodon, since you can shut them down with Sleep Powder. If the opponent has a Grass-type or you predict an obvious switch to one of Jumpluff's checks like Aggron, use U-turn to keep up momentum. Once Jumpluff is low on health and has supported the team, you can sacrifice it by going for Memento to give free setup to a teammate like Zangoose or Carracosta.", "moves": [["U-turn"], ["Acrobatics"], ["Sleep Powder"], ["Memento", "Seed Bomb"]], "item": [" No Item"], "ability": ["Infiltrator"], "nature": ["Jolly"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Faster Pokemon", "Sleep-immune Pokemon", "Steel-type Pokemon", "Ice-type Pokemon", "Stealth Rock"], "credits": ["Written by TJ and allstarapology", "Quality checked by TONE, Megazard, yogi, TJ,  and UberSkitty", "Grammar checked by The Dutch Plumberjack, lotiasite,  and A Cake Wearing A Hat"]}
+{
+    "name": "Jumpluff",
+    "forms": {
+        "Base": {
+            "base stats": [
+                75,
+                55,
+                70,
+                55,
+                95,
+                110
+            ],
+            "types": [
+                "Grass",
+                "Flying"
+            ],
+            "abilities": [
+                "Chlorophyll",
+                "Infiltrator",
+                "Leaf Guard"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Jumpluff is a niche Pokemon in the PU tier due to its ability to provide utility support for its teammates. Swords Dance and Strength Sap can turn Jumpluff into an unexpected offensive threat, bolstered by its nice Speed tier. Jumpluff has several other great utility moves, and options such as Sleep Powder, Memento, and U-turn allow it to support its teammates fairly effectively. Jumpluff also sports a decent typing that gives it an immunity to Toxic Spikes and Spikes and resistances to Water, Fighting, and Grass, though a weakness to Stealth Rock can hamper Jumpluff's longevity. However, Jumpluff's typing also gives it quite a few weaknesses, including a nasty 4x weakness to Ice and 2x weaknesses to Fire and Flying. On top of this, Jumpluff is quite frail and can't do much outside of its support role. Jumpluff also can't afford to hold an item such as Leftovers because it needs a boosted Acrobatics, which even then is very weak due to its abysmal Attack stat. Even after a Swords Dance, Jumpluff is incredibly weak. Lastly, despite Jumpluff's good Speed stat, it's in a crowded Speed tier and contends with other base 110 Speed Pokemon such as Alolan Raichu and Alolan Dugtrio.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Swords Dance",
+            "stats": [
+                186,
+                209,
+                177,
+                131,
+                226,
+                350
+            ],
+            "type": [
+                "Grass",
+                "Flying"
+            ],
+            "usage": "Early- and mid-game is when Jumpluff should focus on crippling foes with Sleep Powder, sustaining itself with Strength Sap, and gradually wearing the opposing team down with Acrobatics. Jumpluff lacks the bulk necessary to switch into neutral attacks as well as reliably double switch, so it should primarily come in on Pokemon like Gurdurr or after a teammate has been KOed. Although Jumpluff can switch in on resisted attacks from Pokemon like Lilligant and Primeape, it should only do so if absolutely necessary, as they can easily take it out with their super effective or powerful neutral coverage moves. Waiting until physically bulky foes and Flying-resistant Pokemon like Weezing and Oricorio-E have been either removed or heavily damaged is ideal, as this gives Jumpluff a greater chance of sweeping the opposing team. Jumpluff should also wait until faster foes like Lycanroc and Choice Scarf Scyther have been taken out, as they can quickly end its sweep. Certain Grass-types such as Lurantis and Bellossom as well as other Pokemon such as Primeape locked into Close Combat often make for perfect setup fodder. If necessary, predicting switches and using Sleep Powder as an opposing Pokemon like Skuntank comes in can ease setup. If possible, try to preserve Jumpluff against offensive teams, as it can potentially annoy them with Sleep Powder and its solid Speed tier.",
+            "moves": [
+                [
+                    "Swords Dance"
+                ],
+                [
+                    "Strength Sap"
+                ],
+                [
+                    "Sleep Powder"
+                ],
+                [
+                    "Acrobatics"
+                ]
+            ],
+            "item": [
+                " No Item"
+            ],
+            "ability": [
+                "Infiltrator"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Fast Pivot",
+            "stats": [
+                186,
+                209,
+                177,
+                131,
+                226,
+                350
+            ],
+            "type": [
+                "Grass",
+                "Flying"
+            ],
+            "usage": "Jumpluff will generally come onto the field a few times and use Sleep Powder or pivot around the opposing team before it uses Memento. Jumpluff should use Sleep Powder to incapacitate slower foes like Mesprit or pivot out on its checks like Ferroseed, with U-turn being used before Memento. Be wary of using Sleep Powder if the opponent has Pokemon such as Ferroseed, as it will ruin your momentum. Try switching Jumpluff in on resisted attacks from passive Pokemon such as Clefairy and Gastrodon, since you can shut them down with Sleep Powder. If the opponent has a Grass-type or you predict an obvious switch to one of Jumpluff's checks like Aggron, use U-turn to keep up momentum. Once Jumpluff is low on health and has supported the team, you can sacrifice it by going for Memento to give free setup to a teammate like Zangoose or Carracosta.",
+            "moves": [
+                [
+                    "U-turn"
+                ],
+                [
+                    "Acrobatics"
+                ],
+                [
+                    "Sleep Powder"
+                ],
+                [
+                    "Memento",
+                    "Seed Bomb"
+                ]
+            ],
+            "item": [
+                " No Item"
+            ],
+            "ability": [
+                "Infiltrator"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Faster Pokemon",
+        "Sleep-immune Pokemon",
+        "Steel-type Pokemon",
+        "Ice-type Pokemon",
+        "Stealth Rock"
+    ],
+    "credits": [
+        "Written by TJ and allstarapology",
+        "Quality checked by TONE, Megazard, yogi, TJ,  and UberSkitty",
+        "Grammar checked by The Dutch Plumberjack, lotiasite,  and A Cake Wearing A Hat"
+    ]
+}

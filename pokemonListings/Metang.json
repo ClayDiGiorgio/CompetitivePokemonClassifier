@@ -1,1 +1,99 @@
-{"name": "Metang", "forms": {"Base": {"base stats": [60, 75, 100, 55, 80, 50], "types": ["Steel", "Psychic"], "abilities": ["Clear Body", "Light Metal"], "tier": [""], "form": "Base"}}, "overview": "Metang is a solid pick for a Stealth Rock setter, with its main attribute being its great defensive typing that allows it to serve as a decent check for various relevant threats such as Jynx, Stoutland, Aurorus, and Dodrio. However, it is very reliant on its Eviolite to shore up its only average defenses. The rest of Metang's stats are mediocre, with its somewhat underwhelming Attack and low Speed leaving it with little offensive presence against foes it does not have coverage for. Metang's lack of recovery causes it to be worn down easily, which limits its ability to switch into multiple foes throughout the match. This is furthered by Metang's weakness to common coverage moves from various Pokemon it switches into such as Kangaskhan's Earthquake and Aurorus's Earth Power. Finally, Metang faces competition as a Stealth Rock setter from Pokemon like Regirock, Mudsdale, and Alolan Sandslash, which all have various unique attributes and don't depend on Eviolite for their bulk, allowing them to run other items like Leftovers.\n", "strategies' format": "PU", "strategies": [{"name": "Stealth Rock", "stats": [219, 253, 256, 131, 196, 136], "type": ["Steel", "Psychic"], "usage": "Metang's main goal is to set up Stealth Rock, and its main opportunity to do so is when it switches into and forces out foes like Mesprit, Stoutland, and Aurorus. However, it has to watch out for coverage moves like Aurorus's Earth Power. Furthermore, stay wary of how easily Metang can be worn down, especially if you want to save it to take a boosted hit from a Pokemon such as Lycanroc or Dodrio. Mesprit and Dodrio can lure Metang in and catch it off guard with their potential Knock Off. If Stealth Rock is already up, Metang can use Toxic to cripple incoming walls like Jellicent and Quagsire. Metang can also serve as a decent lead in order to set up Stealth Rock as soon as possible, although common leads like Froslass can cause mind games between Taunt and Will-O-Wisp. Metang can utilize Bullet Punch to revenge kill foes, although even Pokemon that are very frail or weak to Steel such as Haunter and Froslass have to be weakened a decent amount beforehand.", "moves": [["Stealth Rock"], ["Meteor Mash"], ["Earthquake"], ["Toxic", "Bullet Punch"]], "item": [" Eviolite"], "ability": ["Clear Body"], "nature": ["Adamant"], "ev spread": [252, 176, 80, 0, 0, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Water-types", "Ground-types", "Eviolite Removal", "Super Effective Coverage", "Physically Defensive Pokemon"], "credits": ["Written by UberSkitty", "Quality checked by Megazard, Darkinium,  and yogi", "Grammar checked by A Cake Wearing A Hat and The Dutch Plumberjack"]}
+{
+    "name": "Metang",
+    "forms": {
+        "Base": {
+            "base stats": [
+                60,
+                75,
+                100,
+                55,
+                80,
+                50
+            ],
+            "types": [
+                "Steel",
+                "Psychic"
+            ],
+            "abilities": [
+                "Clear Body",
+                "Light Metal"
+            ],
+            "tier": [
+                ""
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Metang is a solid pick for a Stealth Rock setter, with its main attribute being its great defensive typing that allows it to serve as a decent check for various relevant threats such as Jynx, Stoutland, Aurorus, and Dodrio. However, it is very reliant on its Eviolite to shore up its only average defenses. The rest of Metang's stats are mediocre, with its somewhat underwhelming Attack and low Speed leaving it with little offensive presence against foes it does not have coverage for. Metang's lack of recovery causes it to be worn down easily, which limits its ability to switch into multiple foes throughout the match. This is furthered by Metang's weakness to common coverage moves from various Pokemon it switches into such as Kangaskhan's Earthquake and Aurorus's Earth Power. Finally, Metang faces competition as a Stealth Rock setter from Pokemon like Regirock, Mudsdale, and Alolan Sandslash, which all have various unique attributes and don't depend on Eviolite for their bulk, allowing them to run other items like Leftovers.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Stealth Rock",
+            "stats": [
+                219,
+                253,
+                256,
+                131,
+                196,
+                136
+            ],
+            "type": [
+                "Steel",
+                "Psychic"
+            ],
+            "usage": "Metang's main goal is to set up Stealth Rock, and its main opportunity to do so is when it switches into and forces out foes like Mesprit, Stoutland, and Aurorus. However, it has to watch out for coverage moves like Aurorus's Earth Power. Furthermore, stay wary of how easily Metang can be worn down, especially if you want to save it to take a boosted hit from a Pokemon such as Lycanroc or Dodrio. Mesprit and Dodrio can lure Metang in and catch it off guard with their potential Knock Off. If Stealth Rock is already up, Metang can use Toxic to cripple incoming walls like Jellicent and Quagsire. Metang can also serve as a decent lead in order to set up Stealth Rock as soon as possible, although common leads like Froslass can cause mind games between Taunt and Will-O-Wisp. Metang can utilize Bullet Punch to revenge kill foes, although even Pokemon that are very frail or weak to Steel such as Haunter and Froslass have to be weakened a decent amount beforehand.",
+            "moves": [
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Meteor Mash"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Toxic",
+                    "Bullet Punch"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Clear Body"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                252,
+                176,
+                80,
+                0,
+                0,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Water-types",
+        "Ground-types",
+        "Eviolite Removal",
+        "Super Effective Coverage",
+        "Physically Defensive Pokemon"
+    ],
+    "credits": [
+        "Written by UberSkitty",
+        "Quality checked by Megazard, Darkinium,  and yogi",
+        "Grammar checked by A Cake Wearing A Hat and The Dutch Plumberjack"
+    ]
+}

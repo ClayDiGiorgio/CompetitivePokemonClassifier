@@ -1,1 +1,120 @@
-{"name": "Blastoise", "forms": {"Base": {"base stats": [79, 83, 100, 85, 105, 78], "types": ["Water"], "abilities": ["Rain Dish", "Torrent"], "tier": ["NU"], "form": "Base"}, "Mega": {"base stats": [79, 103, 120, 135, 115, 78], "types": ["Water"], "abilities": ["Mega Launcher"], "tier": ["RU"], "form": "Mega"}}, "overview": "Upon Mega Evolution, Blastoise receives notable stat boosts in key areas such as Defense, Special Attack, and Special Defense to go along with a fantastic ability in Mega Launcher. Mega Launcher gifts moves such as Water Pulse, Dark Pulse, and Aura Sphere with STAB-like boosts, pairing nicely with Mega Blastoise's remarkable Special Attack stat. Its strong natural bulk, solid defensive typing in Water, and vast powerful coverage options make it an ideal bulky wallbreaker in the UU tier. To complement its offensive prowess, Mega Blastoise also has access to Rapid Spin, offering more utility to teams by clearing entry hazards. However, Mega Blastoise often finds itself worn down quickly due to its middling Speed tier and the numerous times it's forced to switch in and clear hazards, combined with its lack of recovery. Despite its high Special Attack and great coverage options, Mega Blastoise struggles to break past the tier's premier special walls in Blissey, Sylveon, and Alolan Muk. Other bulky Water-types like Calm Mind Suicune and Toxic Mantine also fear little from Mega Blastoise and can take advantage of it. While they cannot switch in directly, Volt Switch users such as Mega Manectric and Rotom-W threaten Mega Blastoise, either getting off huge damage or gaining offensive momentum.\n", "strategies' format": "UU", "strategies": [{"name": "Offensive Wallbreaker", "stats": [220, 217, 276, 405, 266, 230], "type": ["Water"], "usage": "Mega Evolve Blastoise as soon as possible to take advantage of its numerous stat boosts and vastly superior ability in Mega Launcher. Due to its tremendous natural bulk and fantastic coverage options, Mega Blastoise can beat most of the tier's offensive threats one-on-one, and it should be used to do so if its health is not crucial for the rest of the match. Wear down or KO opposing special walls with either entry hazards or physically attacking partners before sending in Mega Blastoise to wallbreak, as Pokemon such as Blissey, Sylveon, and Alolan Muk stop it in its tracks while at full HP. Get rid of entry hazards with Mega Blastoise's Rapid Spin whenever possible, keeping itself and teammates from being worn down over time. It is preferable to bring Mega Blastoise in on free switches from U-turn and Volt Switch, as it is prone to being worn down quickly by repeated attacks and entry hazard damage. Aggressive predictions can help make the most of Mega Blastoise, especially in punishing faster switch-ins such as Latias and Hydreigon.", "moves": [["Water Pulse", "Hydro Pump"], ["Dark Pulse"], ["Aura Sphere", "Ice Beam"], ["Ice Beam", "Rapid Spin"]], "item": [" Blastoisinite"], "ability": ["Rain Dish"], "nature": ["Modest"], "ev spread": [104, 0, 0, 252, 0, 152], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Special Walls", "Electric-types", "Grass-types", "Primarina", "Residual Damage", "Bulky Water-types"], "credits": ["Written by Pak", "Quality checked by A Cake Wearing A Hat, Eyan,  and Hilomilo", "Grammar checked by The Dutch Plumberjack and martha"]}
+{
+    "name": "Blastoise",
+    "forms": {
+        "Base": {
+            "base stats": [
+                79,
+                83,
+                100,
+                85,
+                105,
+                78
+            ],
+            "types": [
+                "Water"
+            ],
+            "abilities": [
+                "Rain Dish",
+                "Torrent"
+            ],
+            "tier": [
+                "NU"
+            ],
+            "form": "Base"
+        },
+        "Mega": {
+            "base stats": [
+                79,
+                103,
+                120,
+                135,
+                115,
+                78
+            ],
+            "types": [
+                "Water"
+            ],
+            "abilities": [
+                "Mega Launcher"
+            ],
+            "tier": [
+                "RU"
+            ],
+            "form": "Mega"
+        }
+    },
+    "overview": "Upon Mega Evolution, Blastoise receives notable stat boosts in key areas such as Defense, Special Attack, and Special Defense to go along with a fantastic ability in Mega Launcher. Mega Launcher gifts moves such as Water Pulse, Dark Pulse, and Aura Sphere with STAB-like boosts, pairing nicely with Mega Blastoise's remarkable Special Attack stat. Its strong natural bulk, solid defensive typing in Water, and vast powerful coverage options make it an ideal bulky wallbreaker in the UU tier. To complement its offensive prowess, Mega Blastoise also has access to Rapid Spin, offering more utility to teams by clearing entry hazards. However, Mega Blastoise often finds itself worn down quickly due to its middling Speed tier and the numerous times it's forced to switch in and clear hazards, combined with its lack of recovery. Despite its high Special Attack and great coverage options, Mega Blastoise struggles to break past the tier's premier special walls in Blissey, Sylveon, and Alolan Muk. Other bulky Water-types like Calm Mind Suicune and Toxic Mantine also fear little from Mega Blastoise and can take advantage of it. While they cannot switch in directly, Volt Switch users such as Mega Manectric and Rotom-W threaten Mega Blastoise, either getting off huge damage or gaining offensive momentum.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Offensive Wallbreaker",
+            "stats": [
+                220,
+                217,
+                276,
+                405,
+                266,
+                230
+            ],
+            "type": [
+                "Water"
+            ],
+            "usage": "Mega Evolve Blastoise as soon as possible to take advantage of its numerous stat boosts and vastly superior ability in Mega Launcher. Due to its tremendous natural bulk and fantastic coverage options, Mega Blastoise can beat most of the tier's offensive threats one-on-one, and it should be used to do so if its health is not crucial for the rest of the match. Wear down or KO opposing special walls with either entry hazards or physically attacking partners before sending in Mega Blastoise to wallbreak, as Pokemon such as Blissey, Sylveon, and Alolan Muk stop it in its tracks while at full HP. Get rid of entry hazards with Mega Blastoise's Rapid Spin whenever possible, keeping itself and teammates from being worn down over time. It is preferable to bring Mega Blastoise in on free switches from U-turn and Volt Switch, as it is prone to being worn down quickly by repeated attacks and entry hazard damage. Aggressive predictions can help make the most of Mega Blastoise, especially in punishing faster switch-ins such as Latias and Hydreigon.",
+            "moves": [
+                [
+                    "Water Pulse",
+                    "Hydro Pump"
+                ],
+                [
+                    "Dark Pulse"
+                ],
+                [
+                    "Aura Sphere",
+                    "Ice Beam"
+                ],
+                [
+                    "Ice Beam",
+                    "Rapid Spin"
+                ]
+            ],
+            "item": [
+                " Blastoisinite"
+            ],
+            "ability": [
+                "Rain Dish"
+            ],
+            "nature": [
+                "Modest"
+            ],
+            "ev spread": [
+                104,
+                0,
+                0,
+                252,
+                0,
+                152
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Special Walls",
+        "Electric-types",
+        "Grass-types",
+        "Primarina",
+        "Residual Damage",
+        "Bulky Water-types"
+    ],
+    "credits": [
+        "Written by Pak",
+        "Quality checked by A Cake Wearing A Hat, Eyan,  and Hilomilo",
+        "Grammar checked by The Dutch Plumberjack and martha"
+    ]
+}

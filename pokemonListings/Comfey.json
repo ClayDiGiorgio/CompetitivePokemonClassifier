@@ -1,1 +1,96 @@
-{"name": "Comfey", "forms": {"Base": {"base stats": [51, 52, 90, 82, 110, 100], "types": ["Fairy"], "abilities": ["Flower Veil", "Natural Cure", "Triage"], "tier": ["NU"], "form": "Base"}}, "overview": "Comfey's great offensive typing in Fairy combined with Triage priority moves such as Draining Kiss and Giga Drain helps it revenge kill many offensive threats like Passimian, Sneasel, and Medicham. The combination of Calm Mind and good priority options also makes Comfey a threatening late-game sweeper. However, due to its lackluster physical bulk, Comfey often struggles to switch into even neutral physical moves. Its relatively weak moves also mean that Comfey has to rely on its ability to set up to break down opposing teams and that it generally struggles to break through the tier's common defensive walls such as Incineroar, Vileplume, and Torterra. It also has a hard time breaking the tier's Poison-types like Garbodor and Golbat.\n", "strategies' format": "NU", "strategies": [{"name": "Calm Mind", "stats": [197, 126, 216, 289, 256, 241], "type": ["Fairy"], "usage": "Use Comfey as a revenge killer for certain setup sweepers like Scrafty and Samurott and Choice Scarf users like Passimian. Weaken its answers early-game by using Hidden Power on turns where you predict a Steel-type to come in. Try to have a teammate badly poison Pokemon that can potentially trouble Comfey with Toxic. Comfey can occasionally come in on Choice-locked Pokemon like Sneasel and Passimian. However, Comfey should not be switched into attacks recklessly, as that can hinder it from setting up later in the game. Set up Calm Mind late-game to break through Comfey's weakened checks and counters; without doing so, removing walls like Cryogonal and Torterra becomes impossible.", "moves": [["Draining Kiss"], ["Giga Drain"], ["Calm Mind"], ["Hidden Power Fire"]], "item": [" Life Orb"], "ability": ["Triage"], "nature": ["Modest"], "ev spread": [236, 0, 0, 252, 0, 20], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Poison-types", "Steel-types", "Specially Defensive Walls", "Fire-types"], "credits": ["Written by neomon", "Quality checked by quziel, Raseri,  and Rabia", "Grammar checked by The Dutch Plumberjack and Kris"]}
+{
+    "name": "Comfey",
+    "forms": {
+        "Base": {
+            "base stats": [
+                51,
+                52,
+                90,
+                82,
+                110,
+                100
+            ],
+            "types": [
+                "Fairy"
+            ],
+            "abilities": [
+                "Flower Veil",
+                "Natural Cure",
+                "Triage"
+            ],
+            "tier": [
+                "NU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Comfey's great offensive typing in Fairy combined with Triage priority moves such as Draining Kiss and Giga Drain helps it revenge kill many offensive threats like Passimian, Sneasel, and Medicham. The combination of Calm Mind and good priority options also makes Comfey a threatening late-game sweeper. However, due to its lackluster physical bulk, Comfey often struggles to switch into even neutral physical moves. Its relatively weak moves also mean that Comfey has to rely on its ability to set up to break down opposing teams and that it generally struggles to break through the tier's common defensive walls such as Incineroar, Vileplume, and Torterra. It also has a hard time breaking the tier's Poison-types like Garbodor and Golbat.\n",
+    "strategies' format": "NU",
+    "strategies": [
+        {
+            "name": "Calm Mind",
+            "stats": [
+                197,
+                126,
+                216,
+                289,
+                256,
+                241
+            ],
+            "type": [
+                "Fairy"
+            ],
+            "usage": "Use Comfey as a revenge killer for certain setup sweepers like Scrafty and Samurott and Choice Scarf users like Passimian. Weaken its answers early-game by using Hidden Power on turns where you predict a Steel-type to come in. Try to have a teammate badly poison Pokemon that can potentially trouble Comfey with Toxic. Comfey can occasionally come in on Choice-locked Pokemon like Sneasel and Passimian. However, Comfey should not be switched into attacks recklessly, as that can hinder it from setting up later in the game. Set up Calm Mind late-game to break through Comfey's weakened checks and counters; without doing so, removing walls like Cryogonal and Torterra becomes impossible.",
+            "moves": [
+                [
+                    "Draining Kiss"
+                ],
+                [
+                    "Giga Drain"
+                ],
+                [
+                    "Calm Mind"
+                ],
+                [
+                    "Hidden Power Fire"
+                ]
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Triage"
+            ],
+            "nature": [
+                "Modest"
+            ],
+            "ev spread": [
+                236,
+                0,
+                0,
+                252,
+                0,
+                20
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Poison-types",
+        "Steel-types",
+        "Specially Defensive Walls",
+        "Fire-types"
+    ],
+    "credits": [
+        "Written by neomon",
+        "Quality checked by quziel, Raseri,  and Rabia",
+        "Grammar checked by The Dutch Plumberjack and Kris"
+    ]
+}

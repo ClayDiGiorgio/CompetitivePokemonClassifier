@@ -1,1 +1,155 @@
-{"name": "Crabominable", "forms": {"Base": {"base stats": [97, 132, 77, 62, 67, 43], "types": ["Fighting", "Ice"], "abilities": ["Anger Point", "Hyper Cutter", "Iron Fist"], "tier": ["Untiered"], "form": "Base"}}, "overview": "Crabominable boasts one of the highest Attack stats in the tier, which in tandem with its solid offensive typing, Iron Fist ability, and access to high-powered STAB moves in Close Combat and Ice Hammer gives it the ability to 2HKO a vast majority of the tier. Crabominable functions as an effective Assault Vest user due to its solid bulk, coveted resistance to Ice, and decent damage output even without investment. Because of its low Speed, Crabominable also fits solidly on Trick Room teams as a hard-hitting physical wallbreaker. Due to how hard it hits under Trick Room, revenge killing it becomes rather difficult even for teams with priority moves. However, Crabominable is pressured easily by common offensive Pokemon such as Stoutland as a result of its aforementioned low Speed, awkward defensive typing, and only decent bulk. While amazing offensively, Crabominable's typing isn't very good defensively outside of checking very specific Pokemon such as Aurorus, burdening it with weaknesses to common attacking types in Fire, Fighting, Flying, and Psychic. Crabominable faces stiff competition from other Fighting-types in the tier such as Gurdurr and Primeape and is forced to find its niche through Assault Vest or Trick Room sets rather than traditional offensive sets.\n", "strategies' format": "PU", "strategies": [{"name": "Assault Vest", "stats": [293, 331, 190, 144, 233, 122], "type": ["Fighting", "Ice"], "usage": "Crabominable can pivot into various special attackers such as Aurorus, Haunter, and Alolan Persian lacking Dream Eater in order to sponge a powerful hit for its teammates. Against such Pokemon, Crabominable is presented with a great opportunity to fire off an attack. Do be mindful about more powerful special wallbreakers such as Drampa, however, as Crabominable can only switch into certain Choice-locked moves a limited number of times and thus should not be used as a constant switch-in. Crabominable should be kept healthy if it intends to stomach an especially powerful special attack, such as a boosted Omastar's Hydro Pump or a Supersonic Skystrike from Swanna or an unboosted Oricorio-G. Crabominable can then retaliate with a powerful, potentially super effective attack or heal off damage taken with Drain Punch. Bring Crabominable in against slow, bulkier teams whenever presented with the chance, as its high power and effective STAB combination allow it to apply heavy amounts of pressure to such teams. Against more offensive teams, Crabominable should be brought in through double switches or pivots against foes that generally don't bother it such as Aurorus and Rotom-F lacking Will-O-Wisp. Prediction plays a key role when using Crabominable, as its poor speed and exploitable weaknesses means it can easily be taken advantage of if an opponent is able to safely switch in. For example, use Stone Edge in order to maximize damage output on an incoming Froslass or Articuno. Thunder Punch can be used on a predicted Jellicent switch-in to 2HKO offensive variants or force defensive sets to use Recover. Keep Crabominable away from status moves whenever possible, as most are detrimental to its role as a specially bulky wallbreaker. Toxic puts Crabominable on a timer and reduces its ability to pivot into special attackers like Aurorus, while burns severely limit what it can break, making it unable to do adequate damage to the likes of Tangela and turning it into setup fodder for Clefairy.", "moves": [["Drain Punch"], ["Ice Hammer"], ["Stone Edge", "Earthquake"], ["Thunder Punch"]], "item": [" Assault Vest"], "ability": ["Iron Fist"], "nature": ["Adamant"], "ev spread": [252, 4, 0, 0, 252, 0], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Trick Room Attacker", "stats": [293, 399, 191, 160, 170, 81], "type": ["Fighting", "Ice"], "usage": "Crabominable should only be used on Trick Room teams due to its previously mentioned low Speed. It is highly advised not to switch Crabominable into moves throughout the match, as its bulk is only average, and this in combination with any residual damage, including possible Life Orb recoil, wears it down much faster. Due to how quickly Crabominable is worn down, it often makes for a really good recipient of Healing Wish from Pokemon such as Musharna. Crabominable works best as a wallbreaker under Trick Room that gives its teammates an easier time cleaning. The best ways to get Crabominable in are after something is KOed or through the use of U-turn. Observing the opposing team is important, as this will confirm whether or not Crabominable is free to spam Close Combat or if it must predict. Don't be afraid to make predictions if using the Choice Band variant, as being locked into the wrong move can completely lose all of the momentum previously obtained, which isn't good for hyper offensive teams. Crabominable should switch out as soon as Trick Room ends due to how easily common offensive Pokemon like Mesprit and Pyroar deal with it outside of Trick Room.", "moves": [["Ice Hammer"], ["Close Combat"], ["Stone Edge"], ["Power-Up Punch", "Earthquake"]], "item": [" Life Orb", " Choice Band"], "ability": ["Iron Fist"], "nature": ["Brave"], "ev spread": [252, 252, 4, 0, 0, 0], "iv spread": [31, 31, 31, 31, 31, 0]}], "counters": ["Faster Pokemon", "Physically Defensive Pokemon", "Residual Damage"], "credits": ["Written by allstarapology and tondas", "Quality checked by Megazard, Twix, yogi,  and Darkinium", "Grammar checked by The Dutch Plumberjack and lotiasite"]}
+{
+    "name": "Crabominable",
+    "forms": {
+        "Base": {
+            "base stats": [
+                97,
+                132,
+                77,
+                62,
+                67,
+                43
+            ],
+            "types": [
+                "Fighting",
+                "Ice"
+            ],
+            "abilities": [
+                "Anger Point",
+                "Hyper Cutter",
+                "Iron Fist"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Crabominable boasts one of the highest Attack stats in the tier, which in tandem with its solid offensive typing, Iron Fist ability, and access to high-powered STAB moves in Close Combat and Ice Hammer gives it the ability to 2HKO a vast majority of the tier. Crabominable functions as an effective Assault Vest user due to its solid bulk, coveted resistance to Ice, and decent damage output even without investment. Because of its low Speed, Crabominable also fits solidly on Trick Room teams as a hard-hitting physical wallbreaker. Due to how hard it hits under Trick Room, revenge killing it becomes rather difficult even for teams with priority moves. However, Crabominable is pressured easily by common offensive Pokemon such as Stoutland as a result of its aforementioned low Speed, awkward defensive typing, and only decent bulk. While amazing offensively, Crabominable's typing isn't very good defensively outside of checking very specific Pokemon such as Aurorus, burdening it with weaknesses to common attacking types in Fire, Fighting, Flying, and Psychic. Crabominable faces stiff competition from other Fighting-types in the tier such as Gurdurr and Primeape and is forced to find its niche through Assault Vest or Trick Room sets rather than traditional offensive sets.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Assault Vest",
+            "stats": [
+                293,
+                331,
+                190,
+                144,
+                233,
+                122
+            ],
+            "type": [
+                "Fighting",
+                "Ice"
+            ],
+            "usage": "Crabominable can pivot into various special attackers such as Aurorus, Haunter, and Alolan Persian lacking Dream Eater in order to sponge a powerful hit for its teammates. Against such Pokemon, Crabominable is presented with a great opportunity to fire off an attack. Do be mindful about more powerful special wallbreakers such as Drampa, however, as Crabominable can only switch into certain Choice-locked moves a limited number of times and thus should not be used as a constant switch-in. Crabominable should be kept healthy if it intends to stomach an especially powerful special attack, such as a boosted Omastar's Hydro Pump or a Supersonic Skystrike from Swanna or an unboosted Oricorio-G. Crabominable can then retaliate with a powerful, potentially super effective attack or heal off damage taken with Drain Punch. Bring Crabominable in against slow, bulkier teams whenever presented with the chance, as its high power and effective STAB combination allow it to apply heavy amounts of pressure to such teams. Against more offensive teams, Crabominable should be brought in through double switches or pivots against foes that generally don't bother it such as Aurorus and Rotom-F lacking Will-O-Wisp. Prediction plays a key role when using Crabominable, as its poor speed and exploitable weaknesses means it can easily be taken advantage of if an opponent is able to safely switch in. For example, use Stone Edge in order to maximize damage output on an incoming Froslass or Articuno. Thunder Punch can be used on a predicted Jellicent switch-in to 2HKO offensive variants or force defensive sets to use Recover. Keep Crabominable away from status moves whenever possible, as most are detrimental to its role as a specially bulky wallbreaker. Toxic puts Crabominable on a timer and reduces its ability to pivot into special attackers like Aurorus, while burns severely limit what it can break, making it unable to do adequate damage to the likes of Tangela and turning it into setup fodder for Clefairy.",
+            "moves": [
+                [
+                    "Drain Punch"
+                ],
+                [
+                    "Ice Hammer"
+                ],
+                [
+                    "Stone Edge",
+                    "Earthquake"
+                ],
+                [
+                    "Thunder Punch"
+                ]
+            ],
+            "item": [
+                " Assault Vest"
+            ],
+            "ability": [
+                "Iron Fist"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                252,
+                4,
+                0,
+                0,
+                252,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Trick Room Attacker",
+            "stats": [
+                293,
+                399,
+                191,
+                160,
+                170,
+                81
+            ],
+            "type": [
+                "Fighting",
+                "Ice"
+            ],
+            "usage": "Crabominable should only be used on Trick Room teams due to its previously mentioned low Speed. It is highly advised not to switch Crabominable into moves throughout the match, as its bulk is only average, and this in combination with any residual damage, including possible Life Orb recoil, wears it down much faster. Due to how quickly Crabominable is worn down, it often makes for a really good recipient of Healing Wish from Pokemon such as Musharna. Crabominable works best as a wallbreaker under Trick Room that gives its teammates an easier time cleaning. The best ways to get Crabominable in are after something is KOed or through the use of U-turn. Observing the opposing team is important, as this will confirm whether or not Crabominable is free to spam Close Combat or if it must predict. Don't be afraid to make predictions if using the Choice Band variant, as being locked into the wrong move can completely lose all of the momentum previously obtained, which isn't good for hyper offensive teams. Crabominable should switch out as soon as Trick Room ends due to how easily common offensive Pokemon like Mesprit and Pyroar deal with it outside of Trick Room.",
+            "moves": [
+                [
+                    "Ice Hammer"
+                ],
+                [
+                    "Close Combat"
+                ],
+                [
+                    "Stone Edge"
+                ],
+                [
+                    "Power-Up Punch",
+                    "Earthquake"
+                ]
+            ],
+            "item": [
+                " Life Orb",
+                " Choice Band"
+            ],
+            "ability": [
+                "Iron Fist"
+            ],
+            "nature": [
+                "Brave"
+            ],
+            "ev spread": [
+                252,
+                252,
+                4,
+                0,
+                0,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                0
+            ]
+        }
+    ],
+    "counters": [
+        "Faster Pokemon",
+        "Physically Defensive Pokemon",
+        "Residual Damage"
+    ],
+    "credits": [
+        "Written by allstarapology and tondas",
+        "Quality checked by Megazard, Twix, yogi,  and Darkinium",
+        "Grammar checked by The Dutch Plumberjack and lotiasite"
+    ]
+}

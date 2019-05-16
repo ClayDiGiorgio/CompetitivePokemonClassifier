@@ -1,1 +1,100 @@
-{"name": "Deerling", "forms": {"Base": {"base stats": [60, 60, 50, 40, 50, 75], "types": ["Normal", "Grass"], "abilities": ["Chlorophyll", "Sap Sipper", "Serene Grace"], "tier": ["LC"], "form": "Base"}}, "overview": "Deerling's ability Sap Sipper provides it with an important niche as an offensive check to Snivy. It is also blessed with a fantastic Speed tier, outspeeding the likes of Mienfoo, Onix, and most importantly Snivy, and with a unique STAB combination that is nicely complemented by Jump Kick. However, Deerling's defensive typing is horrible in Little Cup, leaving it with many weaknesses to common types, notably Fighting-, Flying-, and Poison-types. This is coupled with rather poor defensive stats, meaning it can be easily KOed by even neutral attacks. Finally, even with a Life Orb, Deerling's attacks aren't really very powerful, so common bulky Pokemon like Vullaby, Ferroseed, and Mienfoo can easily wall it.\n", "strategies' format": "LC", "strategies": [{"name": "Life Orb", "stats": [165, 205, 145, 104, 136, 269], "type": ["Normal", "Grass"], "usage": "When trying to take advantage of Sap Sipper, be very careful, as nearly every relevant Grass-type has a way of crippling Deerling. Ferroseed has Thunder Wave, Foongus has Sludge Bomb, and Snivy has Hidden Power Ice and Glare. Deerling should primarily be used as an early- or mid-game wallbreaker, dealing heavy damage to foes so its teammates can clean up later. Additionally, it should not be switched in directly in most cases, as it is incredibly frail. Instead, bring it in via a slow Volt Switch or U-turn user such as Chinchou or Mienfoo. Substitute should be employed chiefly to either avoid Pawniard's Sucker Punch or predict a switch.\nTeam Options\n========", "moves": [["Return", "Double-Edge"], ["Seed Bomb"], ["Jump Kick"], ["Substitute", "Wild Charge"]], "item": [" Life Orb"], "ability": ["Sap Sipper"], "nature": ["Jolly"], "ev spread": [36, 196, 36, 0, 0, 236], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Faster Pokemon", "Vullaby", "Defensive Poison-types", "Fighting-types"], "credits": ["Written by Drew and Fiend", "Quality checked by Corporal Levi, Merritty,  and Coconut", "Grammar checked by The Dutch Plumberjack and frostration"]}
+{
+    "name": "Deerling",
+    "forms": {
+        "Base": {
+            "base stats": [
+                60,
+                60,
+                50,
+                40,
+                50,
+                75
+            ],
+            "types": [
+                "Normal",
+                "Grass"
+            ],
+            "abilities": [
+                "Chlorophyll",
+                "Sap Sipper",
+                "Serene Grace"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Deerling's ability Sap Sipper provides it with an important niche as an offensive check to Snivy. It is also blessed with a fantastic Speed tier, outspeeding the likes of Mienfoo, Onix, and most importantly Snivy, and with a unique STAB combination that is nicely complemented by Jump Kick. However, Deerling's defensive typing is horrible in Little Cup, leaving it with many weaknesses to common types, notably Fighting-, Flying-, and Poison-types. This is coupled with rather poor defensive stats, meaning it can be easily KOed by even neutral attacks. Finally, even with a Life Orb, Deerling's attacks aren't really very powerful, so common bulky Pokemon like Vullaby, Ferroseed, and Mienfoo can easily wall it.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Life Orb",
+            "stats": [
+                165,
+                205,
+                145,
+                104,
+                136,
+                269
+            ],
+            "type": [
+                "Normal",
+                "Grass"
+            ],
+            "usage": "When trying to take advantage of Sap Sipper, be very careful, as nearly every relevant Grass-type has a way of crippling Deerling. Ferroseed has Thunder Wave, Foongus has Sludge Bomb, and Snivy has Hidden Power Ice and Glare. Deerling should primarily be used as an early- or mid-game wallbreaker, dealing heavy damage to foes so its teammates can clean up later. Additionally, it should not be switched in directly in most cases, as it is incredibly frail. Instead, bring it in via a slow Volt Switch or U-turn user such as Chinchou or Mienfoo. Substitute should be employed chiefly to either avoid Pawniard's Sucker Punch or predict a switch.\nTeam Options\n========",
+            "moves": [
+                [
+                    "Return",
+                    "Double-Edge"
+                ],
+                [
+                    "Seed Bomb"
+                ],
+                [
+                    "Jump Kick"
+                ],
+                [
+                    "Substitute",
+                    "Wild Charge"
+                ]
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Sap Sipper"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                36,
+                196,
+                36,
+                0,
+                0,
+                236
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Faster Pokemon",
+        "Vullaby",
+        "Defensive Poison-types",
+        "Fighting-types"
+    ],
+    "credits": [
+        "Written by Drew and Fiend",
+        "Quality checked by Corporal Levi, Merritty,  and Coconut",
+        "Grammar checked by The Dutch Plumberjack and frostration"
+    ]
+}

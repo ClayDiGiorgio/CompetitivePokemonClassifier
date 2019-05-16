@@ -1,1 +1,97 @@
-{"name": "Froslass", "forms": {"Base": {"base stats": [70, 80, 70, 80, 70, 110], "types": ["Ice", "Ghost"], "abilities": ["Cursed Body", "Snow Cloak"], "tier": ["PU"], "form": "Base"}}, "overview": "Froslass holds a notable niche as a lead on hyper offense teams thanks to its useful utility options such as Icy Wind and Destiny Bond in tandem with its blistering base 110 Speed. Froslass also possesses Taunt and the ability to spinblock, allowing it to stop entry hazard removers such as Empoleon and Tentacruel, as well as prevent the opposing team from setting up their own entry hazards, giving Froslass an edge in many situations. Unfortunately, Froslass is quite frail, meaning that numerous powerful attackers like Scizor, Zeraora, and Choice Scarf Hydreigon are able to outpace and KO it if its Focus Sash is broken. Furthermore, Froslass is quite weak outside of hitting certain targets super effectively, meaning it isn't very threatening offensively. Froslass faces competition from Klefki and Chesnaught as a user of Spikes, as their better defensive traits grant them more opportunities to set up entry hazards throughout a match, and Klefki also has priority Spikes, which ensures that it will almost always set a layer before going down. Thus, Froslass's defensive limitations relegate its use strictly to hyper offense teams. As a suicide lead, Froslass also has to compete with Azelf, which possesses higher Speed and greater offensive stats, allowing it to wear down the opposing team much more effectively.\n", "strategies' format": "UU", "strategies": [{"name": "Suicide Lead", "stats": [177, 176, 176, 259, 176, 350], "type": ["Ice", "Ghost"], "usage": "Lead off with Froslass whenever possible to ensure that Spikes enter the field quickly while using Taunt first against opposing entry hazard setters such as Mega Aggron and Swampert to prevent them from doing their job. However, if the opposing team has a faster Taunt user such as Azelf or Crobat, it's often a good idea to not lead Froslass as to avoid losing momentum. Once said Pokemon is off the field or eliminated, Froslass can come in and start setting up Spikes. Froslass should prioritize setting Spikes and keeping them on the field with Taunt and its natural ability to spinblock. Due to Froslass's mediocre Special Attack stat and the opportunity cost of not being able to set another layer of Spikes, Icy Wind should only be used when it's imperative that a faster threat such as Mega Aerodactyl, Zeraora, or Choice Scarf Hydreigon is able to be picked off. Froslass can then use Destiny Bond to possibly net a KO if it's about to go down; this is also an effective way for Froslass to preserve momentum for its team.", "moves": [["Spikes"], ["Taunt"], ["Icy Wind"], ["Destiny Bond"]], "item": [" Focus Sash"], "ability": ["Cursed Body"], "nature": ["Timid"], "ev spread": [4, 0, 0, 252, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Faster Taunt users", "Dark-types", "Faster Attackers and Priority", "Entry Hazard Removal"], "credits": ["Written by tondas", "Quality checked by Hilomilo, martha,  and Nuked", "Grammar checked by talkingtree and The Dutch Plumberjack"]}
+{
+    "name": "Froslass",
+    "forms": {
+        "Base": {
+            "base stats": [
+                70,
+                80,
+                70,
+                80,
+                70,
+                110
+            ],
+            "types": [
+                "Ice",
+                "Ghost"
+            ],
+            "abilities": [
+                "Cursed Body",
+                "Snow Cloak"
+            ],
+            "tier": [
+                "PU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Froslass holds a notable niche as a lead on hyper offense teams thanks to its useful utility options such as Icy Wind and Destiny Bond in tandem with its blistering base 110 Speed. Froslass also possesses Taunt and the ability to spinblock, allowing it to stop entry hazard removers such as Empoleon and Tentacruel, as well as prevent the opposing team from setting up their own entry hazards, giving Froslass an edge in many situations. Unfortunately, Froslass is quite frail, meaning that numerous powerful attackers like Scizor, Zeraora, and Choice Scarf Hydreigon are able to outpace and KO it if its Focus Sash is broken. Furthermore, Froslass is quite weak outside of hitting certain targets super effectively, meaning it isn't very threatening offensively. Froslass faces competition from Klefki and Chesnaught as a user of Spikes, as their better defensive traits grant them more opportunities to set up entry hazards throughout a match, and Klefki also has priority Spikes, which ensures that it will almost always set a layer before going down. Thus, Froslass's defensive limitations relegate its use strictly to hyper offense teams. As a suicide lead, Froslass also has to compete with Azelf, which possesses higher Speed and greater offensive stats, allowing it to wear down the opposing team much more effectively.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Suicide Lead",
+            "stats": [
+                177,
+                176,
+                176,
+                259,
+                176,
+                350
+            ],
+            "type": [
+                "Ice",
+                "Ghost"
+            ],
+            "usage": "Lead off with Froslass whenever possible to ensure that Spikes enter the field quickly while using Taunt first against opposing entry hazard setters such as Mega Aggron and Swampert to prevent them from doing their job. However, if the opposing team has a faster Taunt user such as Azelf or Crobat, it's often a good idea to not lead Froslass as to avoid losing momentum. Once said Pokemon is off the field or eliminated, Froslass can come in and start setting up Spikes. Froslass should prioritize setting Spikes and keeping them on the field with Taunt and its natural ability to spinblock. Due to Froslass's mediocre Special Attack stat and the opportunity cost of not being able to set another layer of Spikes, Icy Wind should only be used when it's imperative that a faster threat such as Mega Aerodactyl, Zeraora, or Choice Scarf Hydreigon is able to be picked off. Froslass can then use Destiny Bond to possibly net a KO if it's about to go down; this is also an effective way for Froslass to preserve momentum for its team.",
+            "moves": [
+                [
+                    "Spikes"
+                ],
+                [
+                    "Taunt"
+                ],
+                [
+                    "Icy Wind"
+                ],
+                [
+                    "Destiny Bond"
+                ]
+            ],
+            "item": [
+                " Focus Sash"
+            ],
+            "ability": [
+                "Cursed Body"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                4,
+                0,
+                0,
+                252,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Faster Taunt users",
+        "Dark-types",
+        "Faster Attackers and Priority",
+        "Entry Hazard Removal"
+    ],
+    "credits": [
+        "Written by tondas",
+        "Quality checked by Hilomilo, martha,  and Nuked",
+        "Grammar checked by talkingtree and The Dutch Plumberjack"
+    ]
+}

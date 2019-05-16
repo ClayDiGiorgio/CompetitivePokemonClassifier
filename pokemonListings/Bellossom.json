@@ -1,1 +1,99 @@
-{"name": "Bellossom", "forms": {"Base": {"base stats": [75, 80, 95, 90, 100, 50], "types": ["Grass"], "abilities": ["Chlorophyll", "Healer"], "tier": ["Untiered"], "form": "Base"}}, "overview": "Bellossom's exclusive access to both Strength Sap and Quiver Dance provides it with a unique niche. The first of Bellossom's great niches as a sweeper lies in Strength Sap, which increases its longevity while making up for its lack of defensive investment, allowing Bellossom to force physical attackers such as Gurdurr and Stoutland to switch out after lowering their Attack. Quiver Dance allows Bellossom to avoid becoming overwhelmed by special attackers, outspeed and deal significant damage to neutral or super effective targets, and even sometimes sweep if Bellossom's checks and counters are removed or weakened. However, Bellossom has incredibly average stats before boosting, which can cause it to be overwhelmed by physical and special wallbreakers such as Alolan Raticate and Nasty Plot Jynx or outsped by the likes of Choice Scarf Dodrio and Slush Rush Alolan Sandslash, which all can OHKO or 2HKO Bellossom.\n", "strategies' format": "PU", "strategies": [{"name": "Bulky Quiver Dance", "stats": [248, 176, 228, 216, 236, 218], "type": ["Grass"], "usage": "Bellossom should be used as a bulky sweeper, utilizing Quiver Dance's Special Defense boosts, Strength Sap's Attack drops, and Z-Strength Sap's one-time Defense boost to tank hits from hard-hitting sweepers and some wallbreakers such as Stoutland and Aggron. Bellossom shouldn't attempt to switch in to start boosting on threats such as Lycanroc and Kangaskhan that it can effectively remove after being boosted, due to them being able to break through Bellossom before it boosts. Instead, it should switch in to start boosting on passive defensive walls that can't deal any significant damage to Bellossom such Audino and defensive Mesprit. Bellossom should only begin boosting up with Quiver Dance and Z-Strength Sap after its checks and counters have all been eliminated or heavily weakened due to their ability to force Bellossom out in fear of a KO, which causes Bellossom to lose all of its boosts. Once this has been accomplished, Bellossom should immediately start setting up with Quiver Dance once it comes into play in preparation to sweep the opponent's remaining Pokemon. If needed, Bellossom can take on some of its checks such as specially defensive Pokemon such as Munchlax and non-Calm Mind Clefairy without team help, utilizing Safeguard to prevent them from inducing status with Toxic and setting up Quiver Dances on them to break through them. Safeguard can also be used to prevent the team from being induced with status. Be careful of reducing the opposing Pokemon's Attack stat too much, since this can cause Strength Sap to recover minimal amounts of HP and force Bellossom to rely on Giga Drain for recovery.", "moves": [["Strength Sap"], ["Quiver Dance"], ["Giga Drain"], ["Moonblast", "Safeguard"]], "item": [" Grassium Z", " Leftovers"], "ability": ["Chlorophyll"], "nature": ["Timid"], "ev spread": [248, 0, 8, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Flying-type Pokemon", "Fire-type Pokemon", "Grass-type Pokemon", "Toxic Spikes", "Hail", "Specially Defensive Pokemon"], "credits": ["Written by Taskr", "Quality checked by Megazard, allstarapology,  and yogi", "Grammar checked by The Dutch Plumberjack and lotiasite"]}
+{
+    "name": "Bellossom",
+    "forms": {
+        "Base": {
+            "base stats": [
+                75,
+                80,
+                95,
+                90,
+                100,
+                50
+            ],
+            "types": [
+                "Grass"
+            ],
+            "abilities": [
+                "Chlorophyll",
+                "Healer"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Bellossom's exclusive access to both Strength Sap and Quiver Dance provides it with a unique niche. The first of Bellossom's great niches as a sweeper lies in Strength Sap, which increases its longevity while making up for its lack of defensive investment, allowing Bellossom to force physical attackers such as Gurdurr and Stoutland to switch out after lowering their Attack. Quiver Dance allows Bellossom to avoid becoming overwhelmed by special attackers, outspeed and deal significant damage to neutral or super effective targets, and even sometimes sweep if Bellossom's checks and counters are removed or weakened. However, Bellossom has incredibly average stats before boosting, which can cause it to be overwhelmed by physical and special wallbreakers such as Alolan Raticate and Nasty Plot Jynx or outsped by the likes of Choice Scarf Dodrio and Slush Rush Alolan Sandslash, which all can OHKO or 2HKO Bellossom.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Bulky Quiver Dance",
+            "stats": [
+                248,
+                176,
+                228,
+                216,
+                236,
+                218
+            ],
+            "type": [
+                "Grass"
+            ],
+            "usage": "Bellossom should be used as a bulky sweeper, utilizing Quiver Dance's Special Defense boosts, Strength Sap's Attack drops, and Z-Strength Sap's one-time Defense boost to tank hits from hard-hitting sweepers and some wallbreakers such as Stoutland and Aggron. Bellossom shouldn't attempt to switch in to start boosting on threats such as Lycanroc and Kangaskhan that it can effectively remove after being boosted, due to them being able to break through Bellossom before it boosts. Instead, it should switch in to start boosting on passive defensive walls that can't deal any significant damage to Bellossom such Audino and defensive Mesprit. Bellossom should only begin boosting up with Quiver Dance and Z-Strength Sap after its checks and counters have all been eliminated or heavily weakened due to their ability to force Bellossom out in fear of a KO, which causes Bellossom to lose all of its boosts. Once this has been accomplished, Bellossom should immediately start setting up with Quiver Dance once it comes into play in preparation to sweep the opponent's remaining Pokemon. If needed, Bellossom can take on some of its checks such as specially defensive Pokemon such as Munchlax and non-Calm Mind Clefairy without team help, utilizing Safeguard to prevent them from inducing status with Toxic and setting up Quiver Dances on them to break through them. Safeguard can also be used to prevent the team from being induced with status. Be careful of reducing the opposing Pokemon's Attack stat too much, since this can cause Strength Sap to recover minimal amounts of HP and force Bellossom to rely on Giga Drain for recovery.",
+            "moves": [
+                [
+                    "Strength Sap"
+                ],
+                [
+                    "Quiver Dance"
+                ],
+                [
+                    "Giga Drain"
+                ],
+                [
+                    "Moonblast",
+                    "Safeguard"
+                ]
+            ],
+            "item": [
+                " Grassium Z",
+                " Leftovers"
+            ],
+            "ability": [
+                "Chlorophyll"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                248,
+                0,
+                8,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Flying-type Pokemon",
+        "Fire-type Pokemon",
+        "Grass-type Pokemon",
+        "Toxic Spikes",
+        "Hail",
+        "Specially Defensive Pokemon"
+    ],
+    "credits": [
+        "Written by Taskr",
+        "Quality checked by Megazard, allstarapology,  and yogi",
+        "Grammar checked by The Dutch Plumberjack and lotiasite"
+    ]
+}

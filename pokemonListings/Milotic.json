@@ -1,1 +1,97 @@
-{"name": "Milotic", "forms": {"Base": {"base stats": [95, 60, 79, 100, 125, 81], "types": ["Water"], "abilities": ["Competitive", "Cute Charm", "Marvel Scale"], "tier": ["RU"], "form": "Base"}}, "overview": "Milotic is the best bulky Water-type in the tier thanks to its solid bulk and access to Haze allowing it to wall a whole host of top threats, including Doublade, Feraligatr, Mega Glalie, and Snorlax. Milotic is also quite hard to take down thanks to Recover and Refresh keeping it healthy throughout the match. However, Milotic is somewhat passive, as its only damage output comes from uninvested Scald and potentially Toxic. Also, Milotic's bulk only goes so far; strong neutral physical hits such as Honchkrow's Brave Bird and Choice Band Zygarde-10%'s Outrage are capable of breaking through it.\n", "strategies' format": "RU", "strategies": [{"name": "Physically Defensive", "stats": [289, 140, 282, 236, 287, 198], "type": ["Water"], "usage": "Use Milotic's bulk to comfortably switch into threats like Dragon Dance Feraligatr, Araquanid, Mega Glalie, and Metagross, among others. Despite Milotic's lack of Special Defense investment, its raw bulk means it can still take on Pokemon such as Nidoqueen, Choice Specs Yanmega, and Choice Scarf Gardevoir. If not using Refresh, keep clear of Toxic; it does activate Marvel Scale, but it still greatly decreases Milotic's longevity. Ice Beam is useful for pressuring Defog users like Sigilyph and Rotom-C, leading to Stealth Rock staying on the field more. Also of note are strong attacks from Zygarde-10%\u2014while Milotic can comfortably take on most of its moves, it can be 2HKOed by Outrage.", "moves": [["Scald"], ["Recover"], ["Haze"], ["Refresh", "Ice Beam"]], "item": [" Leftovers"], "ability": ["Marvel Scale"], "nature": ["Bold"], "ev spread": [252, 0, 252, 0, 4, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Offensive Water-resistant Pokemon", "Strong Physical Moves", "Status", "Trick and Taunt"], "credits": ["Written by cyanize", "Quality checked by Arifeen, Avocado,  and eren", "Grammar checked by CryoGyro and The Dutch Plumberjack"]}
+{
+    "name": "Milotic",
+    "forms": {
+        "Base": {
+            "base stats": [
+                95,
+                60,
+                79,
+                100,
+                125,
+                81
+            ],
+            "types": [
+                "Water"
+            ],
+            "abilities": [
+                "Competitive",
+                "Cute Charm",
+                "Marvel Scale"
+            ],
+            "tier": [
+                "RU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Milotic is the best bulky Water-type in the tier thanks to its solid bulk and access to Haze allowing it to wall a whole host of top threats, including Doublade, Feraligatr, Mega Glalie, and Snorlax. Milotic is also quite hard to take down thanks to Recover and Refresh keeping it healthy throughout the match. However, Milotic is somewhat passive, as its only damage output comes from uninvested Scald and potentially Toxic. Also, Milotic's bulk only goes so far; strong neutral physical hits such as Honchkrow's Brave Bird and Choice Band Zygarde-10%'s Outrage are capable of breaking through it.\n",
+    "strategies' format": "RU",
+    "strategies": [
+        {
+            "name": "Physically Defensive",
+            "stats": [
+                289,
+                140,
+                282,
+                236,
+                287,
+                198
+            ],
+            "type": [
+                "Water"
+            ],
+            "usage": "Use Milotic's bulk to comfortably switch into threats like Dragon Dance Feraligatr, Araquanid, Mega Glalie, and Metagross, among others. Despite Milotic's lack of Special Defense investment, its raw bulk means it can still take on Pokemon such as Nidoqueen, Choice Specs Yanmega, and Choice Scarf Gardevoir. If not using Refresh, keep clear of Toxic; it does activate Marvel Scale, but it still greatly decreases Milotic's longevity. Ice Beam is useful for pressuring Defog users like Sigilyph and Rotom-C, leading to Stealth Rock staying on the field more. Also of note are strong attacks from Zygarde-10%\u2014while Milotic can comfortably take on most of its moves, it can be 2HKOed by Outrage.",
+            "moves": [
+                [
+                    "Scald"
+                ],
+                [
+                    "Recover"
+                ],
+                [
+                    "Haze"
+                ],
+                [
+                    "Refresh",
+                    "Ice Beam"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Marvel Scale"
+            ],
+            "nature": [
+                "Bold"
+            ],
+            "ev spread": [
+                252,
+                0,
+                252,
+                0,
+                4,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Offensive Water-resistant Pokemon",
+        "Strong Physical Moves",
+        "Status",
+        "Trick and Taunt"
+    ],
+    "credits": [
+        "Written by cyanize",
+        "Quality checked by Arifeen, Avocado,  and eren",
+        "Grammar checked by CryoGyro and The Dutch Plumberjack"
+    ]
+}

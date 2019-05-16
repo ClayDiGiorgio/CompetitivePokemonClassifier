@@ -1,1 +1,119 @@
-{"name": "Sableye", "forms": {"Base": {"base stats": [50, 75, 75, 65, 65, 50], "types": ["Dark", "Ghost"], "abilities": ["Keen Eye", "Prankster", "Stall"], "tier": ["PU"], "form": "Base"}, "Mega": {"base stats": [50, 85, 125, 85, 115, 20], "types": ["Dark", "Ghost"], "abilities": ["Magic Bounce"], "tier": ["UUBL"], "form": "Mega"}}, "overview": "In conjunction with its Dark / Ghost typing, Mega Sableye's solid defensive stats allow it to act as one of the only switch-ins to Mega Medicham in the OU metagame. Mega Sableye's ability Magic Bounce further bolsters its defensive capabilities by reflecting troublesome entry hazards and status moves. Mega Sableye essentially invalidates any passive entry hazard setter aside from Clefable, making it very disruptive versus bulkier teams that rely on stacking entry hazards to do consistent damage. Moreover, Mega Sableye has access to instant recovery, greatly extending its longevity throughout a battle. Unfortunately, Mega Sableye is rather passive due to its atrocious offensive stats, so it is limited to being used on stall teams, where losing momentum is less detrimental. It also cannot take advantage of Prankster Will-O-Wisp or Recover and Mega Evolve on the same turn. Fairy-type Pokemon such as Mega Diancie, Magearna, and Clefable are all very threatening to Mega Sableye, as they can do huge damage with their STAB super effective Fairy-type attacks while also resisting Knock Off and not being greatly hindered by Will-O-Wisp.\n", "strategies' format": "OU", "strategies": [{"name": "Utility", "stats": [198, 206, 288, 185, 361, 76], "type": ["Dark", "Ghost"], "usage": "Switch Mega Sableye into entry hazard setters such as Ferrothorn, Skarmory, and Toxapex to reflect any entry hazards they attempt to set with Magic Bounce. Knock Off and Will-O-Wisp are very spammable moves and should be used frequently when Mega Sableye does not need to recover its HP. Although Mega Sableye has immense bulk and a reliable recovery move, its inability to passively recover HP with Leftovers means it can be whittled down quickly. It is important to Mega Evolve Sableye in the early stages of a battle so it can properly prevent the opponent from setting up hazards later on.", "moves": [["Knock Off"], ["Will-O-Wisp"], ["Recover"], ["Protect"]], "item": [" Sablenite"], "ability": ["Prankster"], "nature": ["Careful"], "ev spread": [248, 0, 8, 0, 252, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Fairy-type Pokemon", "Fire-type Pokemon", "Setup Sweepers", "Strong Wallbreakers"], "credits": ["Written by AJB", "Quality checked by Subject 18 and Gary", "Grammar checked by P Squared and Rakan"]}
+{
+    "name": "Sableye",
+    "forms": {
+        "Base": {
+            "base stats": [
+                50,
+                75,
+                75,
+                65,
+                65,
+                50
+            ],
+            "types": [
+                "Dark",
+                "Ghost"
+            ],
+            "abilities": [
+                "Keen Eye",
+                "Prankster",
+                "Stall"
+            ],
+            "tier": [
+                "PU"
+            ],
+            "form": "Base"
+        },
+        "Mega": {
+            "base stats": [
+                50,
+                85,
+                125,
+                85,
+                115,
+                20
+            ],
+            "types": [
+                "Dark",
+                "Ghost"
+            ],
+            "abilities": [
+                "Magic Bounce"
+            ],
+            "tier": [
+                "UUBL"
+            ],
+            "form": "Mega"
+        }
+    },
+    "overview": "In conjunction with its Dark / Ghost typing, Mega Sableye's solid defensive stats allow it to act as one of the only switch-ins to Mega Medicham in the OU metagame. Mega Sableye's ability Magic Bounce further bolsters its defensive capabilities by reflecting troublesome entry hazards and status moves. Mega Sableye essentially invalidates any passive entry hazard setter aside from Clefable, making it very disruptive versus bulkier teams that rely on stacking entry hazards to do consistent damage. Moreover, Mega Sableye has access to instant recovery, greatly extending its longevity throughout a battle. Unfortunately, Mega Sableye is rather passive due to its atrocious offensive stats, so it is limited to being used on stall teams, where losing momentum is less detrimental. It also cannot take advantage of Prankster Will-O-Wisp or Recover and Mega Evolve on the same turn. Fairy-type Pokemon such as Mega Diancie, Magearna, and Clefable are all very threatening to Mega Sableye, as they can do huge damage with their STAB super effective Fairy-type attacks while also resisting Knock Off and not being greatly hindered by Will-O-Wisp.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Utility",
+            "stats": [
+                198,
+                206,
+                288,
+                185,
+                361,
+                76
+            ],
+            "type": [
+                "Dark",
+                "Ghost"
+            ],
+            "usage": "Switch Mega Sableye into entry hazard setters such as Ferrothorn, Skarmory, and Toxapex to reflect any entry hazards they attempt to set with Magic Bounce. Knock Off and Will-O-Wisp are very spammable moves and should be used frequently when Mega Sableye does not need to recover its HP. Although Mega Sableye has immense bulk and a reliable recovery move, its inability to passively recover HP with Leftovers means it can be whittled down quickly. It is important to Mega Evolve Sableye in the early stages of a battle so it can properly prevent the opponent from setting up hazards later on.",
+            "moves": [
+                [
+                    "Knock Off"
+                ],
+                [
+                    "Will-O-Wisp"
+                ],
+                [
+                    "Recover"
+                ],
+                [
+                    "Protect"
+                ]
+            ],
+            "item": [
+                " Sablenite"
+            ],
+            "ability": [
+                "Prankster"
+            ],
+            "nature": [
+                "Careful"
+            ],
+            "ev spread": [
+                248,
+                0,
+                8,
+                0,
+                252,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Fairy-type Pokemon",
+        "Fire-type Pokemon",
+        "Setup Sweepers",
+        "Strong Wallbreakers"
+    ],
+    "credits": [
+        "Written by AJB",
+        "Quality checked by Subject 18 and Gary",
+        "Grammar checked by P Squared and Rakan"
+    ]
+}

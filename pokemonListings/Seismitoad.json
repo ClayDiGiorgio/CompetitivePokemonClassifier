@@ -1,1 +1,154 @@
-{"name": "Seismitoad", "forms": {"Base": {"base stats": [105, 95, 75, 85, 75, 74], "types": ["Water", "Ground"], "abilities": ["Poison Touch", "Swift Swim", "Water Absorb"], "tier": ["NU"], "form": "Base"}}, "overview": "Seismitoad's niche over other Ground-type Stealth Rock setters in the metagame lies in its access to Water Absorb, which allows it to threaten common Water-type Pokemon like Slowbro, Tentacruel, and Empoleon more easily. Its above average Speed also allows it to fill a more offensive role on some teams while also providing some defensive utility by offensively checking Pokemon like Scizor, Crawdaunt, Choice Specs Primarina, and Volcanion. Furthermore, Seismitoad fares well against some of the tier's most common threats, such as Mega Aerodactyl and Rotom-H, thanks to its solid defensive typing. Despite not having the greatest offensive stats, Seismitoad can also be somewhat difficult to switch into due to its decent offensive typing and coverage moves such as Hidden Power Fire and Sludge Wave. However, Seismitoad can be easily worn down, as it doesn't have access to reliable recovery, relying on Leftovers to stay healthy. This is aggravated by its vulnerability to status-inducing moves, specifically Toxic, which hinders Seismitoad's ability to check the Pokemon it's supposed to in the long run. Its 4x weakness to Grass-type attacks also holds it back defensively, making it harder for it to check Pokemon like Infernape, Zeraora, and Mega Manectric due to their access to coverage moves like Grass Knot and Hidden Power Grass. Seismitoad also faces heavy competition from other Ground-types as a Stealth Rock setter. Hippowdon's better overall bulk and access to more utility options such as Whirlwind and Slack Off make it the preferred option as a defensive Stealth Rock setter most of the time, as it's capable of keeping a much wider array of threats in check reliably. Seismitoad must also compete with other offensive Stealth Rock setters like Krookodile and Mamoswine, which have far superior offensive capabilities.\n", "strategies' format": "UU", "strategies": [{"name": "Defensive Stealth Rock", "stats": [309, 226, 273, 206, 187, 165], "type": ["Water", "Ground"], "usage": "The point of this set is to make use of Seismitoad's immunity to Water-type attacks to threaten bulky Water-types like Slowbro and Alomomola with Toxic, something Pokemon like Swampert and Hippowdon have a hard time doing. Seismitoad is a relatively straightforward Pokemon to use: it should attempt to switch into Pokemon that it can check like Mega Aerodactyl and Slowbro in order to find an opportunity to set up Stealth Rock. Even though Water Absorb grants Seismitoad an immunity to Water-type attacks, it should not be recklessly switching into any Water-type Pokemon, as they can still hit it very hard with a different move. It's safe to switch into a Water-type attack from a Choice-locked Pokemon like Primarina or Volcanion, however, or when it's certain that the foe will use said move. Since it doesn't have access to reliable recovery, Seismitoad can be easily worn down. As such, it should try to avoid tanking hits unnecessarily, as that would hinder its ability to check what it's intended to. It should also avoid switching into a potential Knock Off, Toxic, or Will-O-Wisp for the same reason, as it heavily relies on Leftovers as its main form of recovery. Be wary of Grass-type coverage such as Mega Manectric's Hidden Power Grass and Infernape's Grass Knot, as they can easily OHKO Seismitoad.", "moves": [["Stealth Rock"], ["Scald"], ["Earthquake"], ["Toxic"]], "item": [" Leftovers"], "ability": ["Water Absorb"], "nature": ["Relaxed"], "ev spread": [252, 0, 252, 0, 4, 0], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Offensive Stealth Rock", "stats": [264, 203, 186, 295, 186, 230], "type": ["Water", "Ground"], "usage": "Seismitoad should be brought in via double switching or on a U-turn or Volt Switch, as it's not bulky enough to switch directly into attacks. However, it can attempt to switch into Pokemon like Rotom-H or moves like Scizor's Bullet Punch. Once it's brought onto the field, Seismitoad should attempt to set up Stealth Rock on a free turn due to its ability to force switches. However, if there's a Pokemon on the opposing team that could remove Stealth Rock from the field like Rotom-C or Hydreigon, Seismitoad should either attack accordingly or switch out. After setting up Stealth Rock, Seismitoad should focus on wallbreaking and weakening the opposing team by using its STAB and coverage moves appropriately. Sludge Wave should be used on a predicted switch to Pokemon like Celebi and the aforementioned Rotom-C, while Hidden Power Fire should only be used against Scizor, as it's too weak to be useful in any other scenario. Although it's immune to Water-type attacks thanks to Water Absorb, Seismitoad should not be recklessly switching into every potential attack, as most Water-type Pokemon can hit it very hard with a different move and bulky Water-types can cripple it with Toxic. As such, it should only switch into a Water-type attack if it's certain that the opponent will use one or from a Choice-locked Pokemon like Primarina or Volcanion. Seismitoad should be wary of Grass-type coverage such as Mega Manectric's Hidden Power Grass and Infernape's Grass Knot, as they can easily OHKO it. Avoid switching into a potential Knock Off, Toxic, or Will-O-Wisp because Seismitoad can be easily worn down, especially without its Leftovers, meaning sets utilizing Expert Belt have to be particularly cautious.", "moves": [["Stealth Rock"], ["Hydro Pump"], ["Earth Power"], ["Hidden Power Fire"]], "item": [" Leftovers", " Expert Belt"], "ability": ["Water Absorb"], "nature": ["Modest"], "ev spread": [72, 0, 0, 252, 0, 184], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Grass-types and Grass-type Coverage", "Dragon-types", "Specially Defensive Pokemon", "Strong Attackers"], "credits": ["Written by Surgeon", "Quality checked by ACakeWearingAHat, martha,  and Nuked", "Grammar checked by martha and A Cake Wearing A Hat"]}
+{
+    "name": "Seismitoad",
+    "forms": {
+        "Base": {
+            "base stats": [
+                105,
+                95,
+                75,
+                85,
+                75,
+                74
+            ],
+            "types": [
+                "Water",
+                "Ground"
+            ],
+            "abilities": [
+                "Poison Touch",
+                "Swift Swim",
+                "Water Absorb"
+            ],
+            "tier": [
+                "NU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Seismitoad's niche over other Ground-type Stealth Rock setters in the metagame lies in its access to Water Absorb, which allows it to threaten common Water-type Pokemon like Slowbro, Tentacruel, and Empoleon more easily. Its above average Speed also allows it to fill a more offensive role on some teams while also providing some defensive utility by offensively checking Pokemon like Scizor, Crawdaunt, Choice Specs Primarina, and Volcanion. Furthermore, Seismitoad fares well against some of the tier's most common threats, such as Mega Aerodactyl and Rotom-H, thanks to its solid defensive typing. Despite not having the greatest offensive stats, Seismitoad can also be somewhat difficult to switch into due to its decent offensive typing and coverage moves such as Hidden Power Fire and Sludge Wave. However, Seismitoad can be easily worn down, as it doesn't have access to reliable recovery, relying on Leftovers to stay healthy. This is aggravated by its vulnerability to status-inducing moves, specifically Toxic, which hinders Seismitoad's ability to check the Pokemon it's supposed to in the long run. Its 4x weakness to Grass-type attacks also holds it back defensively, making it harder for it to check Pokemon like Infernape, Zeraora, and Mega Manectric due to their access to coverage moves like Grass Knot and Hidden Power Grass. Seismitoad also faces heavy competition from other Ground-types as a Stealth Rock setter. Hippowdon's better overall bulk and access to more utility options such as Whirlwind and Slack Off make it the preferred option as a defensive Stealth Rock setter most of the time, as it's capable of keeping a much wider array of threats in check reliably. Seismitoad must also compete with other offensive Stealth Rock setters like Krookodile and Mamoswine, which have far superior offensive capabilities.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Defensive Stealth Rock",
+            "stats": [
+                309,
+                226,
+                273,
+                206,
+                187,
+                165
+            ],
+            "type": [
+                "Water",
+                "Ground"
+            ],
+            "usage": "The point of this set is to make use of Seismitoad's immunity to Water-type attacks to threaten bulky Water-types like Slowbro and Alomomola with Toxic, something Pokemon like Swampert and Hippowdon have a hard time doing. Seismitoad is a relatively straightforward Pokemon to use: it should attempt to switch into Pokemon that it can check like Mega Aerodactyl and Slowbro in order to find an opportunity to set up Stealth Rock. Even though Water Absorb grants Seismitoad an immunity to Water-type attacks, it should not be recklessly switching into any Water-type Pokemon, as they can still hit it very hard with a different move. It's safe to switch into a Water-type attack from a Choice-locked Pokemon like Primarina or Volcanion, however, or when it's certain that the foe will use said move. Since it doesn't have access to reliable recovery, Seismitoad can be easily worn down. As such, it should try to avoid tanking hits unnecessarily, as that would hinder its ability to check what it's intended to. It should also avoid switching into a potential Knock Off, Toxic, or Will-O-Wisp for the same reason, as it heavily relies on Leftovers as its main form of recovery. Be wary of Grass-type coverage such as Mega Manectric's Hidden Power Grass and Infernape's Grass Knot, as they can easily OHKO Seismitoad.",
+            "moves": [
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Scald"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Toxic"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Water Absorb"
+            ],
+            "nature": [
+                "Relaxed"
+            ],
+            "ev spread": [
+                252,
+                0,
+                252,
+                0,
+                4,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Offensive Stealth Rock",
+            "stats": [
+                264,
+                203,
+                186,
+                295,
+                186,
+                230
+            ],
+            "type": [
+                "Water",
+                "Ground"
+            ],
+            "usage": "Seismitoad should be brought in via double switching or on a U-turn or Volt Switch, as it's not bulky enough to switch directly into attacks. However, it can attempt to switch into Pokemon like Rotom-H or moves like Scizor's Bullet Punch. Once it's brought onto the field, Seismitoad should attempt to set up Stealth Rock on a free turn due to its ability to force switches. However, if there's a Pokemon on the opposing team that could remove Stealth Rock from the field like Rotom-C or Hydreigon, Seismitoad should either attack accordingly or switch out. After setting up Stealth Rock, Seismitoad should focus on wallbreaking and weakening the opposing team by using its STAB and coverage moves appropriately. Sludge Wave should be used on a predicted switch to Pokemon like Celebi and the aforementioned Rotom-C, while Hidden Power Fire should only be used against Scizor, as it's too weak to be useful in any other scenario. Although it's immune to Water-type attacks thanks to Water Absorb, Seismitoad should not be recklessly switching into every potential attack, as most Water-type Pokemon can hit it very hard with a different move and bulky Water-types can cripple it with Toxic. As such, it should only switch into a Water-type attack if it's certain that the opponent will use one or from a Choice-locked Pokemon like Primarina or Volcanion. Seismitoad should be wary of Grass-type coverage such as Mega Manectric's Hidden Power Grass and Infernape's Grass Knot, as they can easily OHKO it. Avoid switching into a potential Knock Off, Toxic, or Will-O-Wisp because Seismitoad can be easily worn down, especially without its Leftovers, meaning sets utilizing Expert Belt have to be particularly cautious.",
+            "moves": [
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Hydro Pump"
+                ],
+                [
+                    "Earth Power"
+                ],
+                [
+                    "Hidden Power Fire"
+                ]
+            ],
+            "item": [
+                " Leftovers",
+                " Expert Belt"
+            ],
+            "ability": [
+                "Water Absorb"
+            ],
+            "nature": [
+                "Modest"
+            ],
+            "ev spread": [
+                72,
+                0,
+                0,
+                252,
+                0,
+                184
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Grass-types and Grass-type Coverage",
+        "Dragon-types",
+        "Specially Defensive Pokemon",
+        "Strong Attackers"
+    ],
+    "credits": [
+        "Written by Surgeon",
+        "Quality checked by ACakeWearingAHat, martha,  and Nuked",
+        "Grammar checked by martha and A Cake Wearing A Hat"
+    ]
+}

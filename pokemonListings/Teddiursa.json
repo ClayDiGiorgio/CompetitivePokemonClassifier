@@ -1,1 +1,96 @@
-{"name": "Teddiursa", "forms": {"Base": {"base stats": [60, 80, 50, 50, 50, 40], "types": ["Normal"], "abilities": ["Honey Gather", "Pickup", "Quick Feet"], "tier": ["LC"], "form": "Base"}}, "overview": "Teddiursa can boost its mediocre Speed with the combination of a Toxic Orb and Quick Feet, which, in conjunction with its access to Facade, allows it to perform as a fairly fast and powerful sweeper. Quick Feet is a fantastic ability that essentially provides Teddiursa with a Choice Scarf after one turn in exchange for Toxic damage. After Quick Feet is activated, it outspeeds the entire unboosted metagame, and its high Attack stat and prevention of other status make it tough to handle. Despite this, Teddiursa is still outsped by Choice Scarf users, such as Mienfoo, Chinchou, and Pawniard. Teddiursa also has mediocre bulk, which means it can't switch into an attack for fear of being KOed. With Toxic constantly whittling down its health, Teddiursa is very susceptible to priority attacks like the common Mach Punch and Vacuum Wave, both of which are super effective too.\n", "strategies' format": "LC", "strategies": [{"name": "Quick Feet", "stats": [165, 245, 145, 122, 145, 181], "type": ["Normal"], "usage": "Teddiursa has poor bulk, so try to bring it in as safely as possible. Good ways to do this are through a free switch and with a slow pivot. A slow pivot is great because it also activates Toxic Orb at the end of the turn without Teddiursa first having to stall or risk being outsped for a turn. Teddiursa's poor bulk together with the Toxic damage means that it can hardly take any hits, so priority users such as Timburr, Pawniard, and Carvanha must be taken out before Teddiursa can clean an opponent's team. Bulky Pokemon that can't be OHKOed such as Spritzee must also be weakened beforehand. Teddiursa works best as a late-game cleaner that sweeps the enemy team once these and other threats such as Croagunk and Onix have been taken out and the enemy's team weakened.", "moves": [["Facade"], ["Crunch"], ["Close Combat"], ["Protect", "Swords Dance"]], "item": [" Toxic Orb"], "ability": ["Quick Feet"], "nature": ["Jolly"], "ev spread": [36, 196, 36, 0, 36, 196], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Choice Scarf Users", "Priority Moves", "Physical Walls"], "credits": ["Written by Aaron's Aron", "Quality checked by Hilomilo, Xayah,  and Nineage", "Grammar checked by Eyan and Winry"]}
+{
+    "name": "Teddiursa",
+    "forms": {
+        "Base": {
+            "base stats": [
+                60,
+                80,
+                50,
+                50,
+                50,
+                40
+            ],
+            "types": [
+                "Normal"
+            ],
+            "abilities": [
+                "Honey Gather",
+                "Pickup",
+                "Quick Feet"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Teddiursa can boost its mediocre Speed with the combination of a Toxic Orb and Quick Feet, which, in conjunction with its access to Facade, allows it to perform as a fairly fast and powerful sweeper. Quick Feet is a fantastic ability that essentially provides Teddiursa with a Choice Scarf after one turn in exchange for Toxic damage. After Quick Feet is activated, it outspeeds the entire unboosted metagame, and its high Attack stat and prevention of other status make it tough to handle. Despite this, Teddiursa is still outsped by Choice Scarf users, such as Mienfoo, Chinchou, and Pawniard. Teddiursa also has mediocre bulk, which means it can't switch into an attack for fear of being KOed. With Toxic constantly whittling down its health, Teddiursa is very susceptible to priority attacks like the common Mach Punch and Vacuum Wave, both of which are super effective too.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Quick Feet",
+            "stats": [
+                165,
+                245,
+                145,
+                122,
+                145,
+                181
+            ],
+            "type": [
+                "Normal"
+            ],
+            "usage": "Teddiursa has poor bulk, so try to bring it in as safely as possible. Good ways to do this are through a free switch and with a slow pivot. A slow pivot is great because it also activates Toxic Orb at the end of the turn without Teddiursa first having to stall or risk being outsped for a turn. Teddiursa's poor bulk together with the Toxic damage means that it can hardly take any hits, so priority users such as Timburr, Pawniard, and Carvanha must be taken out before Teddiursa can clean an opponent's team. Bulky Pokemon that can't be OHKOed such as Spritzee must also be weakened beforehand. Teddiursa works best as a late-game cleaner that sweeps the enemy team once these and other threats such as Croagunk and Onix have been taken out and the enemy's team weakened.",
+            "moves": [
+                [
+                    "Facade"
+                ],
+                [
+                    "Crunch"
+                ],
+                [
+                    "Close Combat"
+                ],
+                [
+                    "Protect",
+                    "Swords Dance"
+                ]
+            ],
+            "item": [
+                " Toxic Orb"
+            ],
+            "ability": [
+                "Quick Feet"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                36,
+                196,
+                36,
+                0,
+                36,
+                196
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Choice Scarf Users",
+        "Priority Moves",
+        "Physical Walls"
+    ],
+    "credits": [
+        "Written by Aaron's Aron",
+        "Quality checked by Hilomilo, Xayah,  and Nineage",
+        "Grammar checked by Eyan and Winry"
+    ]
+}

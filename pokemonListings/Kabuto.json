@@ -1,1 +1,100 @@
-{"name": "Kabuto", "forms": {"Base": {"base stats": [30, 80, 90, 55, 45, 55], "types": ["Rock", "Water"], "abilities": ["Battle Armor", "Swift Swim", "Weak Armor"], "tier": ["LC"], "form": "Base"}}, "overview": "Kabuto has a niche in being a Rapid Spin user that can also set up Stealth Rock, allowing it to perform two major roles in a team. Kabuto also has access to Knock Off, which allows it to remove foes' Eviolites and hit the Ghost-types that try and block Rapid Spin. Its useful Water typing allows it to beat many common leads like Onix and Dwebble, as well as giving it resistances to common types like Fire, Poison, and Flying. With a solid Defense stat and Rock typing, Kabuto becomes a decent Flying-type check; while it is weak to Fighting, Kabuto survives a Jump Kick from Doduo, a Superpower from Bulk Up Rufflet, and two Knock Offs from Vullaby while OHKOing Doduo and Rufflet and 2HKOing Vullaby with Rock Slide. Kabuto has a good Attack stat that allows it to beat Drilbur and Life Orb Diglett with Waterfall. After it is activated, Weak Armor allows Kabuto to outspeed Pokemon such as Doduo and Rufflet. Despite its good defensive prowess, its special bulk is lackluster, making it lose to many mixed and special attackers like Staryu, Foongus, and Spritzee. While it is a decent Flying-type check, a poor defensive typing also gives it weaknesses to common Fighting-, Electric-, and Grass-type moves. Kabuto also faces competition from other Rapid Spin users such as Staryu and Drilbur and other Stealth Rock setters such as Dwebble and Onix, which have better Speed stats, offensive presences, and defensive typings.\n", "strategies' format": "LC", "strategies": [{"name": "Offensive Support", "stats": [125, 205, 225, 131, 181, 185], "type": ["Rock", "Water"], "usage": "Kabuto can be used as a lead, but should not be used as such if the opponent has a Taunt user. If the opponent has Onix or Dwebble, however, Kabuto is a great lead because it can easily defeat these common leads with Knock Off and Waterfall. If your opponent has a spinblocker such as Pumpkaboo-XL or Frillish, you can predict the switch-in and cripple it with Knock Off, dealing massive damage and removing their item. You should make use of Kabuto's bulk and resistances by using it as a Flying-type check or switching it in on resisted physical hits. Switching in on Rapid Spin allows Kabuto to double its Speed thanks to Weak Armor while taking minimal damage. However, Kabuto has limited longevity, since it takes large amounts of damage from special attacks, and Weak Armor makes each consecutive physical hit stronger by reducing Kabuto's Defense. Because of this, Kabuto should be used as a pivot and switched in and out until its job of hazard control is complete.", "moves": [["Rapid Spin"], ["Stealth Rock"], ["Knock Off"], ["Rock Slide", "Aqua Jet", "Waterfall"]], "item": [" Eviolite"], "ability": ["Weak Armor"], "nature": ["Careful"], "ev spread": [116, 36, 36, 0, 156, 156], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Electric-types", "Fighting-types", "Grass-types", "Steel-types"], "credits": ["Written by Aaron's Aron", "Quality checked by Xayah, Nineage,  and Hilomilo", "Grammar checked by Winry and Kris"]}
+{
+    "name": "Kabuto",
+    "forms": {
+        "Base": {
+            "base stats": [
+                30,
+                80,
+                90,
+                55,
+                45,
+                55
+            ],
+            "types": [
+                "Rock",
+                "Water"
+            ],
+            "abilities": [
+                "Battle Armor",
+                "Swift Swim",
+                "Weak Armor"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Kabuto has a niche in being a Rapid Spin user that can also set up Stealth Rock, allowing it to perform two major roles in a team. Kabuto also has access to Knock Off, which allows it to remove foes' Eviolites and hit the Ghost-types that try and block Rapid Spin. Its useful Water typing allows it to beat many common leads like Onix and Dwebble, as well as giving it resistances to common types like Fire, Poison, and Flying. With a solid Defense stat and Rock typing, Kabuto becomes a decent Flying-type check; while it is weak to Fighting, Kabuto survives a Jump Kick from Doduo, a Superpower from Bulk Up Rufflet, and two Knock Offs from Vullaby while OHKOing Doduo and Rufflet and 2HKOing Vullaby with Rock Slide. Kabuto has a good Attack stat that allows it to beat Drilbur and Life Orb Diglett with Waterfall. After it is activated, Weak Armor allows Kabuto to outspeed Pokemon such as Doduo and Rufflet. Despite its good defensive prowess, its special bulk is lackluster, making it lose to many mixed and special attackers like Staryu, Foongus, and Spritzee. While it is a decent Flying-type check, a poor defensive typing also gives it weaknesses to common Fighting-, Electric-, and Grass-type moves. Kabuto also faces competition from other Rapid Spin users such as Staryu and Drilbur and other Stealth Rock setters such as Dwebble and Onix, which have better Speed stats, offensive presences, and defensive typings.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Offensive Support",
+            "stats": [
+                125,
+                205,
+                225,
+                131,
+                181,
+                185
+            ],
+            "type": [
+                "Rock",
+                "Water"
+            ],
+            "usage": "Kabuto can be used as a lead, but should not be used as such if the opponent has a Taunt user. If the opponent has Onix or Dwebble, however, Kabuto is a great lead because it can easily defeat these common leads with Knock Off and Waterfall. If your opponent has a spinblocker such as Pumpkaboo-XL or Frillish, you can predict the switch-in and cripple it with Knock Off, dealing massive damage and removing their item. You should make use of Kabuto's bulk and resistances by using it as a Flying-type check or switching it in on resisted physical hits. Switching in on Rapid Spin allows Kabuto to double its Speed thanks to Weak Armor while taking minimal damage. However, Kabuto has limited longevity, since it takes large amounts of damage from special attacks, and Weak Armor makes each consecutive physical hit stronger by reducing Kabuto's Defense. Because of this, Kabuto should be used as a pivot and switched in and out until its job of hazard control is complete.",
+            "moves": [
+                [
+                    "Rapid Spin"
+                ],
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Knock Off"
+                ],
+                [
+                    "Rock Slide",
+                    "Aqua Jet",
+                    "Waterfall"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Weak Armor"
+            ],
+            "nature": [
+                "Careful"
+            ],
+            "ev spread": [
+                116,
+                36,
+                36,
+                0,
+                156,
+                156
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Electric-types",
+        "Fighting-types",
+        "Grass-types",
+        "Steel-types"
+    ],
+    "credits": [
+        "Written by Aaron's Aron",
+        "Quality checked by Xayah, Nineage,  and Hilomilo",
+        "Grammar checked by Winry and Kris"
+    ]
+}

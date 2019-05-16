@@ -1,1 +1,101 @@
-{"name": "Tyrunt", "forms": {"Base": {"base stats": [58, 89, 77, 45, 45, 48], "types": ["Rock", "Dragon"], "abilities": ["Strong Jaw", "Sturdy"], "tier": ["LC"], "form": "Base"}}, "overview": "Tyrunt's high base Attack stat and solid base Defense stat make it a flexible Pokemon capable of performing offensive roles. Its STAB combination is not resisted by much in the tier other than the common Steel-types, and its great movepool gives it access to many coverage moves that hit specific threats. Tyrunt's typing enables it to check many Flying-type threats as well as some Fire-types. Furthermore, Tyrunt is able to have Sturdy, which works well in tandem with Berry Juice. Tyrunt's access to Dragon Dance allows it to be a formidable sweeper, and it can set up much more easily than other Dragon Dance sweepers. Unfortunately, its typing makes it vulnerable to the common Fighting-, Ground-, Ice-, and Steel-types in the tier. Tyrunt is also weak to common priority moves like Mach Punch and Vacuum Wave. Furthermore, its relatively low Speed stat means that it is outsped by many Choice Scarf users after a Dragon Dance boost, such as Mienfoo and Pawniard. Its low Special Defense can further hamper its sweeps from time to time. Tyrunt's lack of reliable recovery outside of Berry Juice makes it easily worn down. Tyrunt also faces competition from Sturdy Shell Smash users like Tirtouga and Dwebble, which can set up similarly easily but usually only need one boost to sweep.\n", "strategies' format": "LC", "strategies": [{"name": "Dragon Dance", "stats": [144, 265, 190, 113, 145, 203], "type": ["Rock", "Dragon"], "usage": "Tyrunt should be used as a late-game sweeper when its checks have been weakened or removed, such as bulky Fighting-types and Steel-types like Ferroseed. Tyrunt can also be used to wallbreak early-game to punch holes for another sweeper, provided that Tyrunt is not favorable to sweep the opposing team. It is best to not switch Tyrunt directly into an attack, as Sturdy being broken really reduces its longevity. Similarly, entry hazards should be removed before attempting to sweep in order to keep Sturdy intact. It is best to send Tyrunt in after a teammate has been KOed or through a slow U-turn or Volt Switch. Tyrunt should not set up until its checks have been weakened or eliminated in order to get the best chance of sweeping. If all priority users have been KOed and Sturdy is intact, Tyrunt can opt to set up two Dragon Dances due to Sturdy and Berry Juice, becoming incredibly powerful and outspeeding most Choice Scarf users. Set up appropriately if Tyrunt is carrying a specific coverage move over another; for example, if Tyrunt is running Fire Fang or Superpower, it can set up if an opposing Ferroseed is present. If Sturdy is intact, Tyrunt can even set up on Pokemon that hit it for super effective damage, such as Timburr and Mienfoo. Tyrunt must be careful of being hit by a status move, as status will cripple Tyrunt's longevity or sweeping potential. When sweeping, Outrage should only be used once all Fairy- and Steel-types have fainted.", "moves": [["Dragon Dance"], ["Stone Edge", "Rock Slide"], ["Outrage"], ["Earthquake", "Superpower"]], "item": [" Berry Juice"], "ability": ["Sturdy"], "nature": ["Jolly"], "ev spread": [0, 204, 0, 0, 76, 212], "iv spread": [23, 31, 31, 31, 31, 31]}], "counters": ["Fighting-types", "Fairy-types", "Ground-types", "Steel-types", "Status", "Fighting-type Coverage"], "credits": ["Written by Fireflame479", "Quality checked by Xayah, Hilomilo,  and tahu", "Grammar checked by P Squared and The Dutch Plumberjack"]}
+{
+    "name": "Tyrunt",
+    "forms": {
+        "Base": {
+            "base stats": [
+                58,
+                89,
+                77,
+                45,
+                45,
+                48
+            ],
+            "types": [
+                "Rock",
+                "Dragon"
+            ],
+            "abilities": [
+                "Strong Jaw",
+                "Sturdy"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Tyrunt's high base Attack stat and solid base Defense stat make it a flexible Pokemon capable of performing offensive roles. Its STAB combination is not resisted by much in the tier other than the common Steel-types, and its great movepool gives it access to many coverage moves that hit specific threats. Tyrunt's typing enables it to check many Flying-type threats as well as some Fire-types. Furthermore, Tyrunt is able to have Sturdy, which works well in tandem with Berry Juice. Tyrunt's access to Dragon Dance allows it to be a formidable sweeper, and it can set up much more easily than other Dragon Dance sweepers. Unfortunately, its typing makes it vulnerable to the common Fighting-, Ground-, Ice-, and Steel-types in the tier. Tyrunt is also weak to common priority moves like Mach Punch and Vacuum Wave. Furthermore, its relatively low Speed stat means that it is outsped by many Choice Scarf users after a Dragon Dance boost, such as Mienfoo and Pawniard. Its low Special Defense can further hamper its sweeps from time to time. Tyrunt's lack of reliable recovery outside of Berry Juice makes it easily worn down. Tyrunt also faces competition from Sturdy Shell Smash users like Tirtouga and Dwebble, which can set up similarly easily but usually only need one boost to sweep.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Dragon Dance",
+            "stats": [
+                144,
+                265,
+                190,
+                113,
+                145,
+                203
+            ],
+            "type": [
+                "Rock",
+                "Dragon"
+            ],
+            "usage": "Tyrunt should be used as a late-game sweeper when its checks have been weakened or removed, such as bulky Fighting-types and Steel-types like Ferroseed. Tyrunt can also be used to wallbreak early-game to punch holes for another sweeper, provided that Tyrunt is not favorable to sweep the opposing team. It is best to not switch Tyrunt directly into an attack, as Sturdy being broken really reduces its longevity. Similarly, entry hazards should be removed before attempting to sweep in order to keep Sturdy intact. It is best to send Tyrunt in after a teammate has been KOed or through a slow U-turn or Volt Switch. Tyrunt should not set up until its checks have been weakened or eliminated in order to get the best chance of sweeping. If all priority users have been KOed and Sturdy is intact, Tyrunt can opt to set up two Dragon Dances due to Sturdy and Berry Juice, becoming incredibly powerful and outspeeding most Choice Scarf users. Set up appropriately if Tyrunt is carrying a specific coverage move over another; for example, if Tyrunt is running Fire Fang or Superpower, it can set up if an opposing Ferroseed is present. If Sturdy is intact, Tyrunt can even set up on Pokemon that hit it for super effective damage, such as Timburr and Mienfoo. Tyrunt must be careful of being hit by a status move, as status will cripple Tyrunt's longevity or sweeping potential. When sweeping, Outrage should only be used once all Fairy- and Steel-types have fainted.",
+            "moves": [
+                [
+                    "Dragon Dance"
+                ],
+                [
+                    "Stone Edge",
+                    "Rock Slide"
+                ],
+                [
+                    "Outrage"
+                ],
+                [
+                    "Earthquake",
+                    "Superpower"
+                ]
+            ],
+            "item": [
+                " Berry Juice"
+            ],
+            "ability": [
+                "Sturdy"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                204,
+                0,
+                0,
+                76,
+                212
+            ],
+            "iv spread": [
+                23,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Fighting-types",
+        "Fairy-types",
+        "Ground-types",
+        "Steel-types",
+        "Status",
+        "Fighting-type Coverage"
+    ],
+    "credits": [
+        "Written by Fireflame479",
+        "Quality checked by Xayah, Hilomilo,  and tahu",
+        "Grammar checked by P Squared and The Dutch Plumberjack"
+    ]
+}

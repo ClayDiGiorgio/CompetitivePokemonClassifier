@@ -1,1 +1,93 @@
-{"name": "Roserade", "forms": {"Base": {"base stats": [60, 70, 65, 125, 105, 90], "types": ["Grass", "Poison"], "abilities": ["Natural Cure", "Poison Point", "Technician"], "tier": ["RU"], "form": "Base"}}, "overview": "Roserade holds a niche as a powerful attacker thanks to its massive base 125 Special Attack and ability to hit nearly the entire tier for neutral damage. Access to Poisonium Z alongside two powerful STAB attacks allows Roserade to threaten the common defensive backbones consisting of Fairy-, Ground-, and Water-types that flood the UU tier. Useful utility in Sleep Powder coming off a fast base 95 Speed stat and a Technician-boosted Hidden Power Fire gives Roserade a way to bypass its common checks while providing free turns for its entire team. Furthermore, a Grass / Poison typing enables Roserade to absorb Scald, Toxic, and Spore from defensive Pokemon on offensive teams while still providing respectable damage output thanks to its high Special Attack. However, its terrible base 60 HP and 65 Defense means that Roserade is revenge killed by faster offensive threats like Mega Aerodactyl, Infernape, and Latias and strong priority users like Choice Band Scizor, and Roserade even struggles switching into hard-hitting resisted attacks from slower Pokemon like Primarina's Moonblast. Roserade's longevity is also hampered by its proneness to being Pursuit trapped once weakened by Mega Aerodactyl and Krookodile, two very common attackers in the metagame.\n", "strategies' format": "UU", "strategies": [{"name": "3 Attacks", "stats": [156, 158, 166, 349, 247, 306], "type": ["Grass", "Poison"], "usage": "Roserade should be used as an early- to mid-game wallbreaker on offensive teams because its mediocre Speed gives it difficulty sweeping and usually makes it easy to revenge kill. Roserade has a respectable base 105 Special Defense, so try to bring it in against Pokemon that cannot do much damage to it, such as Amoonguss, Tentacruel, and Florges. Against more offensively inclined teams, Roserade will struggle switching into resisted attacks like Primarina's Moonblast and Mega Altaria's Return. As such, it's best to attempt to bring it in via U-turn, Volt Switch, or a predicted double. If Roserade is in a favorable matchup and a switch to a faster Pokemon like Latias, Gengar, or Nihilego is predicted, use Sleep Powder to hinder the check and gain free turns for Roserade or its teammates. Hidden Power Fire should be used on predicted switches if the opponent's Roserade check is a Steel-type that can be 2HKOed by it, such as Cobalion, Scizor, and Doublade. If the Pokemon predicted to switch in is slower than Roserade and the opponent's Steel-type is worn down, use Acid Downpour to deal massive damage to Pokemon like Kyurem and Hydreigon that attempt to pivot into Roserade and force it out. Try to use Leaf Storm when Roserade finds itself in a favorable matchup against Ground- and Water-types or if a foe has been put to sleep already, as even common Pokemon that resist it like Cobalion and Hydreigon will take a sizable amount of damage. However, be wary of the Special Attack drop that it brings, as it almost always forces Roserade to switch out and will make it more prone to being revenge killed or trapped by Pursuit.", "moves": [["Sleep Powder"], ["Leaf Storm"], ["Sludge Bomb"], ["Hidden Power Fire"]], "item": [" Poisonium Z"], "ability": ["Technician"], "nature": ["Timid"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": [], "credits": ["Written by Indigo Plateau", "Quality checked by martha, Nuked,  and Surgeon", "Grammar checked by Estronic and Fireflame479"]}
+{
+    "name": "Roserade",
+    "forms": {
+        "Base": {
+            "base stats": [
+                60,
+                70,
+                65,
+                125,
+                105,
+                90
+            ],
+            "types": [
+                "Grass",
+                "Poison"
+            ],
+            "abilities": [
+                "Natural Cure",
+                "Poison Point",
+                "Technician"
+            ],
+            "tier": [
+                "RU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Roserade holds a niche as a powerful attacker thanks to its massive base 125 Special Attack and ability to hit nearly the entire tier for neutral damage. Access to Poisonium Z alongside two powerful STAB attacks allows Roserade to threaten the common defensive backbones consisting of Fairy-, Ground-, and Water-types that flood the UU tier. Useful utility in Sleep Powder coming off a fast base 95 Speed stat and a Technician-boosted Hidden Power Fire gives Roserade a way to bypass its common checks while providing free turns for its entire team. Furthermore, a Grass / Poison typing enables Roserade to absorb Scald, Toxic, and Spore from defensive Pokemon on offensive teams while still providing respectable damage output thanks to its high Special Attack. However, its terrible base 60 HP and 65 Defense means that Roserade is revenge killed by faster offensive threats like Mega Aerodactyl, Infernape, and Latias and strong priority users like Choice Band Scizor, and Roserade even struggles switching into hard-hitting resisted attacks from slower Pokemon like Primarina's Moonblast. Roserade's longevity is also hampered by its proneness to being Pursuit trapped once weakened by Mega Aerodactyl and Krookodile, two very common attackers in the metagame.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "3 Attacks",
+            "stats": [
+                156,
+                158,
+                166,
+                349,
+                247,
+                306
+            ],
+            "type": [
+                "Grass",
+                "Poison"
+            ],
+            "usage": "Roserade should be used as an early- to mid-game wallbreaker on offensive teams because its mediocre Speed gives it difficulty sweeping and usually makes it easy to revenge kill. Roserade has a respectable base 105 Special Defense, so try to bring it in against Pokemon that cannot do much damage to it, such as Amoonguss, Tentacruel, and Florges. Against more offensively inclined teams, Roserade will struggle switching into resisted attacks like Primarina's Moonblast and Mega Altaria's Return. As such, it's best to attempt to bring it in via U-turn, Volt Switch, or a predicted double. If Roserade is in a favorable matchup and a switch to a faster Pokemon like Latias, Gengar, or Nihilego is predicted, use Sleep Powder to hinder the check and gain free turns for Roserade or its teammates. Hidden Power Fire should be used on predicted switches if the opponent's Roserade check is a Steel-type that can be 2HKOed by it, such as Cobalion, Scizor, and Doublade. If the Pokemon predicted to switch in is slower than Roserade and the opponent's Steel-type is worn down, use Acid Downpour to deal massive damage to Pokemon like Kyurem and Hydreigon that attempt to pivot into Roserade and force it out. Try to use Leaf Storm when Roserade finds itself in a favorable matchup against Ground- and Water-types or if a foe has been put to sleep already, as even common Pokemon that resist it like Cobalion and Hydreigon will take a sizable amount of damage. However, be wary of the Special Attack drop that it brings, as it almost always forces Roserade to switch out and will make it more prone to being revenge killed or trapped by Pursuit.",
+            "moves": [
+                [
+                    "Sleep Powder"
+                ],
+                [
+                    "Leaf Storm"
+                ],
+                [
+                    "Sludge Bomb"
+                ],
+                [
+                    "Hidden Power Fire"
+                ]
+            ],
+            "item": [
+                " Poisonium Z"
+            ],
+            "ability": [
+                "Technician"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [],
+    "credits": [
+        "Written by Indigo Plateau",
+        "Quality checked by martha, Nuked,  and Surgeon",
+        "Grammar checked by Estronic and Fireflame479"
+    ]
+}

@@ -1,1 +1,97 @@
-{"name": "Thundurus", "forms": {"Base": {"base stats": [79, 115, 70, 125, 80, 111], "types": ["Electric", "Flying"], "abilities": ["Defiant", "Prankster"], "tier": ["UUBL"], "form": "Base"}}, "overview": "Thundurus acts as niche wallbreaker in the tier thanks to its great Special Attack, colorful coverage, and access to a potent boosting option in Nasty Plot, allowing it to break through metagame staples like Ferrothorn, Toxapex, Tornadus-T, and Celesteela. Thundurus also has a respectable Speed stat, letting it outpace common Pokemon in Garchomp, Kartana, and Mega Latios, and an Electric / Flying typing gives it some useful defensive merits such as an immunity to Earthquake and a resistance to Grass and Flying; these notably allow it to stay in on bulky Grass-types like specially defensive Tapu Bulu and Tangrowth and means it can check Pokemon like Tornadus-T and Kartana. However, Thundurus's mediocre bulk and weakness to Stealth Rock mean it can't do this very reliably. Though Thundurus has overall good coverage, it struggles to break through Grass-types like Amoonguss and Mega Venusaur as well as Calm Mind Mega Latias thanks to its best attack for them being the weak Hidden Power Ice, which they negate with their abilities or stat boosts. Unfortunately, despite its good typing and decent Speed tier, Thundurus is very prone to being revenge killed, either by faster Pokemon like Ash-Greninja, Mega Alakazam, and Tapu Koko or by priority from the likes of Mega Mawile and Mega Medicham.\n", "strategies' format": "OU", "strategies": [{"name": "Nasty Plot", "stats": [194, 239, 177, 349, 196, 353], "type": ["Electric", "Flying"], "usage": "Early- and mid-game, bring in Thundurus through double switches, on a free switch from Volt Switch or U-turn, or after a teammate faints to break through teams; set up Nasty Plot on forced switches in order to break through the opposing team. Thanks to Thundurus's typing and coverage, it can stay in on Grass-types like Ferrothorn, specially defensive Tapu Bulu, and Tangrowth that may try to switch in on a predicted Thunderbolt. Aside from its offensive capabilities, Thundurus can be used as a switch-in to Pokemon like Landorus-T, Tornadus-T, and Kartana, though it should be noted that it will fall to coverage from Landorus-T and can lose to the other two if Stealth Rock is up or it has taken even minor chip damage. Furthermore, if Thundurus takes too much damage from trying to check these Pokemon, it will no longer be able to take a hit from the aforementioned Grass-types after setting up, forfeiting its ability to break through them. Against more offensive teams, it can be better to just throw out attacks rather than to set up, as Thundurus won't have as many opportunities to set up due to being outsped by Pokemon commonly found on such teams like Mega Alakazam, Greninja, and Tapu Koko.", "moves": [["Nasty Plot"], ["Thunderbolt"], ["Hidden Power Ice"], ["Focus Blast"]], "item": [" Fightinium Z"], "ability": ["Prankster"], "nature": ["Timid"], "ev spread": [0, 0, 4, 252, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Revenge Killers and Strong Priority", "Specially Defensive Pokemon", "Bulky Grass-types"], "credits": ["Written by Mellow", "Earlier versions by Ninjacalibur and Leo", "Quality checked by lyd, Jordy,  and DKM", "Grammar checked by Estronic and The Dutch Plumberjack"]}
+{
+    "name": "Thundurus",
+    "forms": {
+        "Base": {
+            "base stats": [
+                79,
+                115,
+                70,
+                125,
+                80,
+                111
+            ],
+            "types": [
+                "Electric",
+                "Flying"
+            ],
+            "abilities": [
+                "Defiant",
+                "Prankster"
+            ],
+            "tier": [
+                "UUBL"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Thundurus acts as niche wallbreaker in the tier thanks to its great Special Attack, colorful coverage, and access to a potent boosting option in Nasty Plot, allowing it to break through metagame staples like Ferrothorn, Toxapex, Tornadus-T, and Celesteela. Thundurus also has a respectable Speed stat, letting it outpace common Pokemon in Garchomp, Kartana, and Mega Latios, and an Electric / Flying typing gives it some useful defensive merits such as an immunity to Earthquake and a resistance to Grass and Flying; these notably allow it to stay in on bulky Grass-types like specially defensive Tapu Bulu and Tangrowth and means it can check Pokemon like Tornadus-T and Kartana. However, Thundurus's mediocre bulk and weakness to Stealth Rock mean it can't do this very reliably. Though Thundurus has overall good coverage, it struggles to break through Grass-types like Amoonguss and Mega Venusaur as well as Calm Mind Mega Latias thanks to its best attack for them being the weak Hidden Power Ice, which they negate with their abilities or stat boosts. Unfortunately, despite its good typing and decent Speed tier, Thundurus is very prone to being revenge killed, either by faster Pokemon like Ash-Greninja, Mega Alakazam, and Tapu Koko or by priority from the likes of Mega Mawile and Mega Medicham.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Nasty Plot",
+            "stats": [
+                194,
+                239,
+                177,
+                349,
+                196,
+                353
+            ],
+            "type": [
+                "Electric",
+                "Flying"
+            ],
+            "usage": "Early- and mid-game, bring in Thundurus through double switches, on a free switch from Volt Switch or U-turn, or after a teammate faints to break through teams; set up Nasty Plot on forced switches in order to break through the opposing team. Thanks to Thundurus's typing and coverage, it can stay in on Grass-types like Ferrothorn, specially defensive Tapu Bulu, and Tangrowth that may try to switch in on a predicted Thunderbolt. Aside from its offensive capabilities, Thundurus can be used as a switch-in to Pokemon like Landorus-T, Tornadus-T, and Kartana, though it should be noted that it will fall to coverage from Landorus-T and can lose to the other two if Stealth Rock is up or it has taken even minor chip damage. Furthermore, if Thundurus takes too much damage from trying to check these Pokemon, it will no longer be able to take a hit from the aforementioned Grass-types after setting up, forfeiting its ability to break through them. Against more offensive teams, it can be better to just throw out attacks rather than to set up, as Thundurus won't have as many opportunities to set up due to being outsped by Pokemon commonly found on such teams like Mega Alakazam, Greninja, and Tapu Koko.",
+            "moves": [
+                [
+                    "Nasty Plot"
+                ],
+                [
+                    "Thunderbolt"
+                ],
+                [
+                    "Hidden Power Ice"
+                ],
+                [
+                    "Focus Blast"
+                ]
+            ],
+            "item": [
+                " Fightinium Z"
+            ],
+            "ability": [
+                "Prankster"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                4,
+                252,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Revenge Killers and Strong Priority",
+        "Specially Defensive Pokemon",
+        "Bulky Grass-types"
+    ],
+    "credits": [
+        "Written by Mellow",
+        "Earlier versions by Ninjacalibur and Leo",
+        "Quality checked by lyd, Jordy,  and DKM",
+        "Grammar checked by Estronic and The Dutch Plumberjack"
+    ]
+}

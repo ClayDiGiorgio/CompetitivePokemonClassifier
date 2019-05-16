@@ -1,1 +1,151 @@
-{"name": "Clawitzer", "forms": {"Base": {"base stats": [71, 73, 88, 120, 89, 59], "types": ["Water"], "abilities": ["Mega Launcher"], "tier": ["NU"], "form": "Base"}}, "overview": "Possessing a high Special Attack stat in combination with a great ability in Mega Launcher, Clawitzer is able to hit extremely hard. Its access to coverage moves in Dark Pulse and Aura Sphere solidifies Clawitzer's role as a wallbreaker, letting it hit a huge portion of the metagame for great damage. Clawitzer also has access to a slow U-turn and forces a lot of switches, allowing it to safely bring in teammates. However, Clawitzer is held back by the abundance of excellent Grass-types in the tier such as Whimsicott, Decidueye, and Sceptile. Moreover, its low Speed stat leaves it vulnerable to most faster powerful attackers in the tier, especially because its bulk is rather average. Clawitzer also faces competition from other Water-types in Samurott and Blastoise, which both sport a better Speed tier, outspeeding Pokemon like Omastar. Samurott also can bluff physical sets and pull off a mixed set, while Blastoise provides immense team support thanks to Rapid Spin and Refresh.\n", "strategies' format": "NU", "strategies": [{"name": "Wallbreaker", "stats": [178, 163, 213, 372, 214, 217], "type": ["Water"], "usage": "Use Clawitzer to tear apart opposing cores early-game, leaving them weakened for the rest of the team to clean up. Since this set is holding a Choice item, it is very prediction-reliant. Water Pulse should almost always be used to wear the opposing team down provided that opponent doesn't have a Pokemon immune to it, but you should also try to predict what Pokemon the opponent will send out and use the appropriate coverage move. Predicting wrong comes with very big risks, however, as it could cost the team's momentum or end up giving Pokemon like Comfey setup opportunities when Clawitzer is locked into a move like Dark Pulse. When using U-turn, first consider if safely bringing a teammate on the field would bring more momentum than Clawitzer firing off attacks on its own.", "moves": [["Water Pulse", "Scald"], ["Ice Beam"], ["Dark Pulse"], ["Aura Sphere", "U-turn"]], "item": [" Choice Specs"], "ability": ["Mega Launcher"], "nature": ["Modest"], "ev spread": [0, 0, 4, 252, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Substitute + Toxic", "stats": [203, 163, 212, 372, 214, 193], "type": ["Water"], "usage": "Use Substitute versus passive Pokemon like Vaporeon and Blastoise, as they are the easiest to get a Substitute off on. Additionally, try to keep entry hazards off the field because chipping Clawitzer can prevent it from using Substitute at some point. Additionally, Clawitzer lacks reliable recovery outside of Leftovers, so try not to let it get hit by Knock Off. Be wary of clicking Toxic versus teams with Xatu and Steel-types like Silvally-Steel, as Xatu can easily bounce back Toxic using Magic Bounce, while Steel-types are immune to Toxic. However, you can ease up on this if Clawitzer is behind a Substitute. Keep in mind that you should be clicking Toxic versus bulkier Pokemon that Clawitzer doesn't do as much damage to, such as Cryogonal and Audino. Lastly, try to make use of pivoting moves such as Parting Shot, U-turn, and Volt Switch to help get in Clawitzer safely.", "moves": [["Substitute"], ["Toxic"], ["Water Pulse"], ["Dark Pulse", "Ice Beam"]], "item": [" Leftovers"], "ability": ["Mega Launcher"], "nature": ["Modest"], "ev spread": [100, 0, 0, 252, 0, 156], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Grass-types", "Electric-types", "Faster Attackers", "Vaporeon"], "credits": ["Written by Skelos", "Quality checked by Hootie, Punchshroom,  and Eternally", "Grammar checked by Wob and The Dutch Plumberjack"]}
+{
+    "name": "Clawitzer",
+    "forms": {
+        "Base": {
+            "base stats": [
+                71,
+                73,
+                88,
+                120,
+                89,
+                59
+            ],
+            "types": [
+                "Water"
+            ],
+            "abilities": [
+                "Mega Launcher"
+            ],
+            "tier": [
+                "NU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Possessing a high Special Attack stat in combination with a great ability in Mega Launcher, Clawitzer is able to hit extremely hard. Its access to coverage moves in Dark Pulse and Aura Sphere solidifies Clawitzer's role as a wallbreaker, letting it hit a huge portion of the metagame for great damage. Clawitzer also has access to a slow U-turn and forces a lot of switches, allowing it to safely bring in teammates. However, Clawitzer is held back by the abundance of excellent Grass-types in the tier such as Whimsicott, Decidueye, and Sceptile. Moreover, its low Speed stat leaves it vulnerable to most faster powerful attackers in the tier, especially because its bulk is rather average. Clawitzer also faces competition from other Water-types in Samurott and Blastoise, which both sport a better Speed tier, outspeeding Pokemon like Omastar. Samurott also can bluff physical sets and pull off a mixed set, while Blastoise provides immense team support thanks to Rapid Spin and Refresh.\n",
+    "strategies' format": "NU",
+    "strategies": [
+        {
+            "name": "Wallbreaker",
+            "stats": [
+                178,
+                163,
+                213,
+                372,
+                214,
+                217
+            ],
+            "type": [
+                "Water"
+            ],
+            "usage": "Use Clawitzer to tear apart opposing cores early-game, leaving them weakened for the rest of the team to clean up. Since this set is holding a Choice item, it is very prediction-reliant. Water Pulse should almost always be used to wear the opposing team down provided that opponent doesn't have a Pokemon immune to it, but you should also try to predict what Pokemon the opponent will send out and use the appropriate coverage move. Predicting wrong comes with very big risks, however, as it could cost the team's momentum or end up giving Pokemon like Comfey setup opportunities when Clawitzer is locked into a move like Dark Pulse. When using U-turn, first consider if safely bringing a teammate on the field would bring more momentum than Clawitzer firing off attacks on its own.",
+            "moves": [
+                [
+                    "Water Pulse",
+                    "Scald"
+                ],
+                [
+                    "Ice Beam"
+                ],
+                [
+                    "Dark Pulse"
+                ],
+                [
+                    "Aura Sphere",
+                    "U-turn"
+                ]
+            ],
+            "item": [
+                " Choice Specs"
+            ],
+            "ability": [
+                "Mega Launcher"
+            ],
+            "nature": [
+                "Modest"
+            ],
+            "ev spread": [
+                0,
+                0,
+                4,
+                252,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Substitute + Toxic",
+            "stats": [
+                203,
+                163,
+                212,
+                372,
+                214,
+                193
+            ],
+            "type": [
+                "Water"
+            ],
+            "usage": "Use Substitute versus passive Pokemon like Vaporeon and Blastoise, as they are the easiest to get a Substitute off on. Additionally, try to keep entry hazards off the field because chipping Clawitzer can prevent it from using Substitute at some point. Additionally, Clawitzer lacks reliable recovery outside of Leftovers, so try not to let it get hit by Knock Off. Be wary of clicking Toxic versus teams with Xatu and Steel-types like Silvally-Steel, as Xatu can easily bounce back Toxic using Magic Bounce, while Steel-types are immune to Toxic. However, you can ease up on this if Clawitzer is behind a Substitute. Keep in mind that you should be clicking Toxic versus bulkier Pokemon that Clawitzer doesn't do as much damage to, such as Cryogonal and Audino. Lastly, try to make use of pivoting moves such as Parting Shot, U-turn, and Volt Switch to help get in Clawitzer safely.",
+            "moves": [
+                [
+                    "Substitute"
+                ],
+                [
+                    "Toxic"
+                ],
+                [
+                    "Water Pulse"
+                ],
+                [
+                    "Dark Pulse",
+                    "Ice Beam"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Mega Launcher"
+            ],
+            "nature": [
+                "Modest"
+            ],
+            "ev spread": [
+                100,
+                0,
+                0,
+                252,
+                0,
+                156
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Grass-types",
+        "Electric-types",
+        "Faster Attackers",
+        "Vaporeon"
+    ],
+    "credits": [
+        "Written by Skelos",
+        "Quality checked by Hootie, Punchshroom,  and Eternally",
+        "Grammar checked by Wob and The Dutch Plumberjack"
+    ]
+}

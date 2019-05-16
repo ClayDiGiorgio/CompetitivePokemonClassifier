@@ -1,1 +1,150 @@
-{"name": "Dratini", "forms": {"Base": {"base stats": [41, 64, 45, 50, 50, 50], "types": ["Dragon"], "abilities": ["Marvel Scale", "Shed Skin"], "tier": ["LC"], "form": "Base"}}, "overview": "Dratini is able to perform as both a threatening wallbreaker and a late-game cleaner due to its access to strong offensive moves like Draco Meteor, Iron Tail, and Extreme Speed and a strong setup option in Dragon Dance. Its two main options are a mixed attacking set that utilizes Dratini's high-Base Power moves and good coverage to weaken the opposing team for sweepers or clean late-game and a sweeping set that utilizes Dragon Dance, since +1 Dratini is both fast and strong enough to clean up weakened teams. Dratini also has a useful ability in Shed Skin, allowing it to occasionally cure itself of debilitating status conditions like paralysis and burn. Dratini's typing is a mixed blessing, sporting very useful resistances to Water- and Electric-type moves but leaving it weak to moderately common Fairy- and Ice-type attacks. Dratini's positive qualities are also offset by its average-at-best stats, with low bulk and only middling power and Speed before a boost. Dratini further suffers from having common counters such as Snubbull, Magnemite, and Spritzee.\n", "strategies' format": "LC", "strategies": [{"name": "Life Orb Mixed Attacker", "stats": [104, 205, 126, 203, 122, 165], "type": ["Dragon"], "usage": "Dratini's goal with this set is mainly to weaken the opposing team for its teammates. Prediction when using this set is important, as hitting Fairy- or Steel-type switch-ins with the appropriate coverage move allows Dratini to defeat them more efficiently. Dratini's fairly low bulk and lack of recovery mean it is best brought in after a teammate faints or by a slow pivot so it avoids taking damage. Dratini can be used as a revenge killer or late-game cleaner for heavily weakened Pokemon due to Extreme Speed, but Extreme Speed's lack of STAB may cause it to struggle to achieve KOs.", "moves": [["Draco Meteor"], ["Extreme Speed"], ["Iron Tail"], ["Fire Blast"]], "item": [" Life Orb"], "ability": ["Shed Skin"], "nature": ["Rash"], "ev spread": [0, 164, 0, 196, 0, 116], "iv spread": [17, 31, 31, 31, 31, 31]}, {"name": "Dragon Dance", "stats": [104, 247, 126, 122, 145, 185], "type": ["Dragon"], "usage": "Dratini is best used as a sweeper late-game after wearing down its checks and counters. Due to Dratini's lack of bulk, Dragon Dance is best used versus Pokemon Dratini threatens out such as weakened Croagunk and Chinchou without Ice Beam. Since Outrage locks Dratini into the move and is Dratini's best neutral option, Fairy-types such as Spritzee and Snubbull being eliminated is essential. Since Fire Blast is not boosted by Dragon Dance, Dratini appreciates Steel-types like Pawniard and Magnemite being weakened even if it runs Fire Blast as its coverage move. Dratini can also support other sweepers with similar checks such as Scraggy and Shellder by weakening these checks and counters and punching holes in the opponent's team.", "moves": [["Dragon Dance"], ["Outrage"], ["Extreme Speed"], ["Iron Tail", "Fire Blast"]], "item": [" Life Orb"], "ability": ["Shed Skin"], "nature": ["Adamant", "Naughty"], "ev spread": [0, 244, 0, 0, 36, 196], "iv spread": [17, 31, 31, 31, 31, 31]}], "counters": ["Fairy-types", "Steel-types", "Choice Scarf Users"], "credits": ["Written by Merritt", "Quality checked by Hilomilo, Xayah,  and jake", "Grammar checked by lotiasite and The Dutch Plumberjack"]}
+{
+    "name": "Dratini",
+    "forms": {
+        "Base": {
+            "base stats": [
+                41,
+                64,
+                45,
+                50,
+                50,
+                50
+            ],
+            "types": [
+                "Dragon"
+            ],
+            "abilities": [
+                "Marvel Scale",
+                "Shed Skin"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Dratini is able to perform as both a threatening wallbreaker and a late-game cleaner due to its access to strong offensive moves like Draco Meteor, Iron Tail, and Extreme Speed and a strong setup option in Dragon Dance. Its two main options are a mixed attacking set that utilizes Dratini's high-Base Power moves and good coverage to weaken the opposing team for sweepers or clean late-game and a sweeping set that utilizes Dragon Dance, since +1 Dratini is both fast and strong enough to clean up weakened teams. Dratini also has a useful ability in Shed Skin, allowing it to occasionally cure itself of debilitating status conditions like paralysis and burn. Dratini's typing is a mixed blessing, sporting very useful resistances to Water- and Electric-type moves but leaving it weak to moderately common Fairy- and Ice-type attacks. Dratini's positive qualities are also offset by its average-at-best stats, with low bulk and only middling power and Speed before a boost. Dratini further suffers from having common counters such as Snubbull, Magnemite, and Spritzee.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Life Orb Mixed Attacker",
+            "stats": [
+                104,
+                205,
+                126,
+                203,
+                122,
+                165
+            ],
+            "type": [
+                "Dragon"
+            ],
+            "usage": "Dratini's goal with this set is mainly to weaken the opposing team for its teammates. Prediction when using this set is important, as hitting Fairy- or Steel-type switch-ins with the appropriate coverage move allows Dratini to defeat them more efficiently. Dratini's fairly low bulk and lack of recovery mean it is best brought in after a teammate faints or by a slow pivot so it avoids taking damage. Dratini can be used as a revenge killer or late-game cleaner for heavily weakened Pokemon due to Extreme Speed, but Extreme Speed's lack of STAB may cause it to struggle to achieve KOs.",
+            "moves": [
+                [
+                    "Draco Meteor"
+                ],
+                [
+                    "Extreme Speed"
+                ],
+                [
+                    "Iron Tail"
+                ],
+                [
+                    "Fire Blast"
+                ]
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Shed Skin"
+            ],
+            "nature": [
+                "Rash"
+            ],
+            "ev spread": [
+                0,
+                164,
+                0,
+                196,
+                0,
+                116
+            ],
+            "iv spread": [
+                17,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Dragon Dance",
+            "stats": [
+                104,
+                247,
+                126,
+                122,
+                145,
+                185
+            ],
+            "type": [
+                "Dragon"
+            ],
+            "usage": "Dratini is best used as a sweeper late-game after wearing down its checks and counters. Due to Dratini's lack of bulk, Dragon Dance is best used versus Pokemon Dratini threatens out such as weakened Croagunk and Chinchou without Ice Beam. Since Outrage locks Dratini into the move and is Dratini's best neutral option, Fairy-types such as Spritzee and Snubbull being eliminated is essential. Since Fire Blast is not boosted by Dragon Dance, Dratini appreciates Steel-types like Pawniard and Magnemite being weakened even if it runs Fire Blast as its coverage move. Dratini can also support other sweepers with similar checks such as Scraggy and Shellder by weakening these checks and counters and punching holes in the opponent's team.",
+            "moves": [
+                [
+                    "Dragon Dance"
+                ],
+                [
+                    "Outrage"
+                ],
+                [
+                    "Extreme Speed"
+                ],
+                [
+                    "Iron Tail",
+                    "Fire Blast"
+                ]
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Shed Skin"
+            ],
+            "nature": [
+                "Adamant",
+                "Naughty"
+            ],
+            "ev spread": [
+                0,
+                244,
+                0,
+                0,
+                36,
+                196
+            ],
+            "iv spread": [
+                17,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Fairy-types",
+        "Steel-types",
+        "Choice Scarf Users"
+    ],
+    "credits": [
+        "Written by Merritt",
+        "Quality checked by Hilomilo, Xayah,  and jake",
+        "Grammar checked by lotiasite and The Dutch Plumberjack"
+    ]
+}

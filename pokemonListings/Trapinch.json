@@ -1,1 +1,100 @@
-{"name": "Trapinch", "forms": {"Base": {"base stats": [45, 100, 45, 45, 45, 10], "types": ["Ground"], "abilities": ["Arena Trap", "Hyper Cutter", "Sheer Force"], "tier": [""], "form": "Base"}}, "overview": "Trapinch distinguishes itself from Diglett as a Ground-type trapper with its much higher Attack stat and greater bulk. Furthermore, Trapinch's defenses allow it to trap and KO several important threats that Diglett struggles with, such as Pawniard and Ponyta. However, outside of trapping specific threats, Trapinch is heavily outclassed by Diglett. Trapinch has incredibly low Speed and will nearly always take a hit before it gets to KO the Pokemon it traps. Its typing leaves it vulnerable to the common Water- and Grass-types in the tier. Trapinch also has a limited movepool, meaning it doesn't have enough coverage to hit most of the tier for super effective damage. Lastly, once Trapinch KOes a foe that it traps, it is susceptible to being revenge killed. Because of these flaws, Diglett is usually a superior choice over Trapinch, as it is much faster, has more utility, has priority, and can do roughly the same amount of damage.\n", "strategies' format": "LC", "strategies": [{"name": "Trapper", "stats": [165, 269, 185, 126, 145, 50], "type": ["Ground"], "usage": "It is best to use Trapinch as a revenge killer if there is a foe on the opposing team that it needs to trap. Try to get Trapinch in safely through a double switch or a pivot, as Trapinch is slow and thus needs to preserve its health for trapping and KOing a foe. Do not try to trap Magnemite unless its Sturdy has been broken or its Berry Juice has been used up, as Magnemite can severely weaken Trapinch otherwise. Similarly, avoid trapping and revenge killing Pawniard and Ponyta until their Eviolites are removed; Ponyta can potentially burn Trapinch, though Trapinch can still 2HKO offensive Ponyta when burned. Trapinch is able to trap Diglett effectively, as Trapinch can survive Diglett's Earthquake while it can OHKO Diglett with its own Earthquake. Trapinch can become predictable, so double switching on a predicted Trapinch switch-in from the opponent will keep momentum. Trapinch should use Earthquake liberally when KOing a foe affected by Arena Trap unless it is hit harder by Rock Slide or Superpower. It is best to use Feint only if it will KO the target or if Trapinch is about to faint. If running Toxic, it should only be used on Pokemon that take little damage from Earthquake and Rock Slide, such as Cottonee and Mudbray.", "moves": [["Earthquake"], ["Rock Slide"], ["Feint"], ["Giga Drain", "Toxic", "Superpower"]], "item": [" Berry Juice", " Eviolite"], "ability": ["Arena Trap"], "nature": ["Brave", "Adamant"], "ev spread": [156, 36, 236, 0, 76, 0], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Pokemon Unaffected by Arena Trap", "Grass-types", "Water-types", "Bulkier Pokemon"], "credits": ["Written by Fireflame479", "Quality checked by Coconut, Fiend,  and tahu", "Grammar checked by P Squared and CryoGyro"]}
+{
+    "name": "Trapinch",
+    "forms": {
+        "Base": {
+            "base stats": [
+                45,
+                100,
+                45,
+                45,
+                45,
+                10
+            ],
+            "types": [
+                "Ground"
+            ],
+            "abilities": [
+                "Arena Trap",
+                "Hyper Cutter",
+                "Sheer Force"
+            ],
+            "tier": [
+                ""
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Trapinch distinguishes itself from Diglett as a Ground-type trapper with its much higher Attack stat and greater bulk. Furthermore, Trapinch's defenses allow it to trap and KO several important threats that Diglett struggles with, such as Pawniard and Ponyta. However, outside of trapping specific threats, Trapinch is heavily outclassed by Diglett. Trapinch has incredibly low Speed and will nearly always take a hit before it gets to KO the Pokemon it traps. Its typing leaves it vulnerable to the common Water- and Grass-types in the tier. Trapinch also has a limited movepool, meaning it doesn't have enough coverage to hit most of the tier for super effective damage. Lastly, once Trapinch KOes a foe that it traps, it is susceptible to being revenge killed. Because of these flaws, Diglett is usually a superior choice over Trapinch, as it is much faster, has more utility, has priority, and can do roughly the same amount of damage.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Trapper",
+            "stats": [
+                165,
+                269,
+                185,
+                126,
+                145,
+                50
+            ],
+            "type": [
+                "Ground"
+            ],
+            "usage": "It is best to use Trapinch as a revenge killer if there is a foe on the opposing team that it needs to trap. Try to get Trapinch in safely through a double switch or a pivot, as Trapinch is slow and thus needs to preserve its health for trapping and KOing a foe. Do not try to trap Magnemite unless its Sturdy has been broken or its Berry Juice has been used up, as Magnemite can severely weaken Trapinch otherwise. Similarly, avoid trapping and revenge killing Pawniard and Ponyta until their Eviolites are removed; Ponyta can potentially burn Trapinch, though Trapinch can still 2HKO offensive Ponyta when burned. Trapinch is able to trap Diglett effectively, as Trapinch can survive Diglett's Earthquake while it can OHKO Diglett with its own Earthquake. Trapinch can become predictable, so double switching on a predicted Trapinch switch-in from the opponent will keep momentum. Trapinch should use Earthquake liberally when KOing a foe affected by Arena Trap unless it is hit harder by Rock Slide or Superpower. It is best to use Feint only if it will KO the target or if Trapinch is about to faint. If running Toxic, it should only be used on Pokemon that take little damage from Earthquake and Rock Slide, such as Cottonee and Mudbray.",
+            "moves": [
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Rock Slide"
+                ],
+                [
+                    "Feint"
+                ],
+                [
+                    "Giga Drain",
+                    "Toxic",
+                    "Superpower"
+                ]
+            ],
+            "item": [
+                " Berry Juice",
+                " Eviolite"
+            ],
+            "ability": [
+                "Arena Trap"
+            ],
+            "nature": [
+                "Brave",
+                "Adamant"
+            ],
+            "ev spread": [
+                156,
+                36,
+                236,
+                0,
+                76,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Pokemon Unaffected by Arena Trap",
+        "Grass-types",
+        "Water-types",
+        "Bulkier Pokemon"
+    ],
+    "credits": [
+        "Written by Fireflame479",
+        "Quality checked by Coconut, Fiend,  and tahu",
+        "Grammar checked by P Squared and CryoGyro"
+    ]
+}

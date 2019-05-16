@@ -1,1 +1,98 @@
-{"name": "Drifblim", "forms": {"Base": {"base stats": [150, 80, 44, 90, 54, 80], "types": ["Ghost", "Flying"], "abilities": ["Aftermath", "Flare Boost", "Unburden"], "tier": ["Untiered"], "form": "Base"}}, "overview": "Drifblim's niche in the PU metagame lies with its ability Unburden, which allows it to outspeed almost the entire metagame after activating its item, including all Choice Scarf users slower than Choice Scarf Dodrio. This makes Drifblim a unique choice for a sweeper. Drifblim has a solid STAB attack in Acrobatics, and many of the common switch-ins to Acrobatics are bothered by Will-O-Wisp and Hex, making Drifblim an effective support Pokemon as well. Unfortunately, while Drifblim's typing gives it key immunities, it also leaves it with very exploitable weaknesses to common Pokemon like Froslass, Lycanroc, and Skuntank. Drifblim's mediocre offensive stats mean it can often lack power and is fairly useless before activating its Berry, and it struggles to break through common Pokemon like Alolan Persian, Mudsdale, and Oricorio-E even after the Unburden boost. It also faces competition with other Flying-type attackers, such as Dodrio and Oricorio-G, which have more immediate offensive capabilities.\n", "strategies' format": "PU", "strategies": [{"name": "Acrobatics + Hex", "stats": [337, 284, 124, 216, 129, 259], "type": ["Ghost", "Flying"], "usage": "Drifblim is usually used in either a support or a sweeping role. When facing a frailer, offensive team, Drifblim is generally best when saved for the end of the game to attempt a sweep with Unburden. Bring Drifblim in when its checks and counters, such as Lanturn and Lycanroc, have been worn down so that Drifblim can attempt to finish off a team with its Unburden-boosted Speed and Acrobatics. Against bulky offensive or balanced teams, Drifblim can often put more work earlier in the game. It should be used to support the team by spreading status and annoying teams with its unique coverage, such as wearing down Pokemon like Regirock and Skuntank with Will-O-Wisp to make it easier for other teammates to sweep. If Stealth Rock is on the field, bringing Drifblim in once earlier on in a game is a good idea, as this will allow it to activate Sitrus Berry automatically the second time you bring it in. Drifblim should rarely switch directly into an attack; to get into the field, Drifblim should generally take advantage of its typing to set a Substitute on defensive Pokemon like Quagsire or Pokemon locked into an unfavorable move, such as Close Combat from Choice Scarf Primeape.", "moves": [["Acrobatics"], ["Substitute"], ["Will-O-Wisp"], ["Hex"]], "item": [" Sitrus Berry"], "ability": ["Unburden"], "nature": ["Naughty"], "ev spread": [4, 252, 0, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Rock-types", "Electric-types", "Bulky Pokemon and Walls", "Super Effective Coverage"], "credits": ["Written by Many", "Quality checked by Megazard, TJ,  and UberSkitty", "Grammar checked by The Dutch Plumberjack and lotiasite"]}
+{
+    "name": "Drifblim",
+    "forms": {
+        "Base": {
+            "base stats": [
+                150,
+                80,
+                44,
+                90,
+                54,
+                80
+            ],
+            "types": [
+                "Ghost",
+                "Flying"
+            ],
+            "abilities": [
+                "Aftermath",
+                "Flare Boost",
+                "Unburden"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Drifblim's niche in the PU metagame lies with its ability Unburden, which allows it to outspeed almost the entire metagame after activating its item, including all Choice Scarf users slower than Choice Scarf Dodrio. This makes Drifblim a unique choice for a sweeper. Drifblim has a solid STAB attack in Acrobatics, and many of the common switch-ins to Acrobatics are bothered by Will-O-Wisp and Hex, making Drifblim an effective support Pokemon as well. Unfortunately, while Drifblim's typing gives it key immunities, it also leaves it with very exploitable weaknesses to common Pokemon like Froslass, Lycanroc, and Skuntank. Drifblim's mediocre offensive stats mean it can often lack power and is fairly useless before activating its Berry, and it struggles to break through common Pokemon like Alolan Persian, Mudsdale, and Oricorio-E even after the Unburden boost. It also faces competition with other Flying-type attackers, such as Dodrio and Oricorio-G, which have more immediate offensive capabilities.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Acrobatics + Hex",
+            "stats": [
+                337,
+                284,
+                124,
+                216,
+                129,
+                259
+            ],
+            "type": [
+                "Ghost",
+                "Flying"
+            ],
+            "usage": "Drifblim is usually used in either a support or a sweeping role. When facing a frailer, offensive team, Drifblim is generally best when saved for the end of the game to attempt a sweep with Unburden. Bring Drifblim in when its checks and counters, such as Lanturn and Lycanroc, have been worn down so that Drifblim can attempt to finish off a team with its Unburden-boosted Speed and Acrobatics. Against bulky offensive or balanced teams, Drifblim can often put more work earlier in the game. It should be used to support the team by spreading status and annoying teams with its unique coverage, such as wearing down Pokemon like Regirock and Skuntank with Will-O-Wisp to make it easier for other teammates to sweep. If Stealth Rock is on the field, bringing Drifblim in once earlier on in a game is a good idea, as this will allow it to activate Sitrus Berry automatically the second time you bring it in. Drifblim should rarely switch directly into an attack; to get into the field, Drifblim should generally take advantage of its typing to set a Substitute on defensive Pokemon like Quagsire or Pokemon locked into an unfavorable move, such as Close Combat from Choice Scarf Primeape.",
+            "moves": [
+                [
+                    "Acrobatics"
+                ],
+                [
+                    "Substitute"
+                ],
+                [
+                    "Will-O-Wisp"
+                ],
+                [
+                    "Hex"
+                ]
+            ],
+            "item": [
+                " Sitrus Berry"
+            ],
+            "ability": [
+                "Unburden"
+            ],
+            "nature": [
+                "Naughty"
+            ],
+            "ev spread": [
+                4,
+                252,
+                0,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Rock-types",
+        "Electric-types",
+        "Bulky Pokemon and Walls",
+        "Super Effective Coverage"
+    ],
+    "credits": [
+        "Written by Many",
+        "Quality checked by Megazard, TJ,  and UberSkitty",
+        "Grammar checked by The Dutch Plumberjack and lotiasite"
+    ]
+}

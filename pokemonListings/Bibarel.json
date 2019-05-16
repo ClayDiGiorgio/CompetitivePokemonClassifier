@@ -1,1 +1,98 @@
-{"name": "Bibarel", "forms": {"Base": {"base stats": [79, 85, 60, 55, 60, 71], "types": ["Normal", "Water"], "abilities": ["Moody", "Simple", "Unaware"], "tier": ["Untiered"], "form": "Base"}}, "overview": "Bibarel finds a small niche in the PU metagame as a sweeper thanks to its ability Simple, which doubles positive stat changes, in conjunction with Swords Dance, allowing Bibarel's Attack to reach high levels and letting Bibarel break past opposing Pokemon easily. Bibarel's unique STAB combination allows it to hit the majority of the tier for neutral damage, so when it is able to boost its Attack, it will always heavily damage opposing Pokemon. Unfortunately, Bibarel has very poor defensive stats, a poor Speed stat, and mediocre Attack, making it quite slow and weak without a Swords Dance boost. It faces strong competition with many offensive Water-types in the tier such as Kingler, Floatzel, and Kabutops due to them being more reliable sweepers with higher Attack and Speed stats than Bibarel. Bibarel also faces strong competition as a Normal-type wallbreaker with Kangaskhan and Zangoose, which also possess higher Attack and Speed stats. Furthermore, Bibarel is walled by the likes of Gourgeist-XL and Tangela, which can take its STAB attacks and threaten it back with strong super effective attacks.\n", "strategies' format": "PU", "strategies": [{"name": "Swords Dance", "stats": [194, 295, 157, 131, 156, 241], "type": ["Normal", "Water"], "usage": "Bibarel can switch in and set up against passive Pokemon that cannot deal much damage to it, such as Clefairy, and Pokemon it might force out, such as Aurorus and Golurk. Bibarel's best opportunity to be brought in is against weakened foes to revenge kill them with Aqua Jet. Bibarel only functions as a late-game sweeper, so it is not ideal to bring in Bibarel to set up until bulky Grass-types and faster Water-resistant Pokemon like Gourgeist-XL and Lilligant have been defeated. Bibarel should not be brought in on strong attacks due to its low defenses, as even attacks from walls such as Type: Null 2HKO Bibarel. Bibarel should only be brought into moves that it resists or is immune to, such as Alolan Dugtrio's Iron Head and Haunter's Shadow Ball. Bibarel should especially try to set up Swords Dance on Choice-locked Pokemon like Choice Scarf Haunter locked into Shadow Ball, which Bibarel is immune to, and Choice Scarf Togedemaru locked into Iron Head, which Bibarel resists. Bibarel appreciates being brought in with U-turn or on a free switch where it doesn't take any damage whatsoever.", "moves": [["Swords Dance"], ["Return"], ["Waterfall"], ["Aqua Jet"]], "item": [" Life Orb"], "ability": ["Simple"], "nature": ["Adamant"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Grass-types", "Faster Offensive Threats", "Fighting-types", "Priority"], "credits": ["Written by Toy Time King", "Quality checked by UberSkitty, allstarapology,  and Megazard", "Grammar checked by A Cake Wearing A Hat and lotiasite"]}
+{
+    "name": "Bibarel",
+    "forms": {
+        "Base": {
+            "base stats": [
+                79,
+                85,
+                60,
+                55,
+                60,
+                71
+            ],
+            "types": [
+                "Normal",
+                "Water"
+            ],
+            "abilities": [
+                "Moody",
+                "Simple",
+                "Unaware"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Bibarel finds a small niche in the PU metagame as a sweeper thanks to its ability Simple, which doubles positive stat changes, in conjunction with Swords Dance, allowing Bibarel's Attack to reach high levels and letting Bibarel break past opposing Pokemon easily. Bibarel's unique STAB combination allows it to hit the majority of the tier for neutral damage, so when it is able to boost its Attack, it will always heavily damage opposing Pokemon. Unfortunately, Bibarel has very poor defensive stats, a poor Speed stat, and mediocre Attack, making it quite slow and weak without a Swords Dance boost. It faces strong competition with many offensive Water-types in the tier such as Kingler, Floatzel, and Kabutops due to them being more reliable sweepers with higher Attack and Speed stats than Bibarel. Bibarel also faces strong competition as a Normal-type wallbreaker with Kangaskhan and Zangoose, which also possess higher Attack and Speed stats. Furthermore, Bibarel is walled by the likes of Gourgeist-XL and Tangela, which can take its STAB attacks and threaten it back with strong super effective attacks.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Swords Dance",
+            "stats": [
+                194,
+                295,
+                157,
+                131,
+                156,
+                241
+            ],
+            "type": [
+                "Normal",
+                "Water"
+            ],
+            "usage": "Bibarel can switch in and set up against passive Pokemon that cannot deal much damage to it, such as Clefairy, and Pokemon it might force out, such as Aurorus and Golurk. Bibarel's best opportunity to be brought in is against weakened foes to revenge kill them with Aqua Jet. Bibarel only functions as a late-game sweeper, so it is not ideal to bring in Bibarel to set up until bulky Grass-types and faster Water-resistant Pokemon like Gourgeist-XL and Lilligant have been defeated. Bibarel should not be brought in on strong attacks due to its low defenses, as even attacks from walls such as Type: Null 2HKO Bibarel. Bibarel should only be brought into moves that it resists or is immune to, such as Alolan Dugtrio's Iron Head and Haunter's Shadow Ball. Bibarel should especially try to set up Swords Dance on Choice-locked Pokemon like Choice Scarf Haunter locked into Shadow Ball, which Bibarel is immune to, and Choice Scarf Togedemaru locked into Iron Head, which Bibarel resists. Bibarel appreciates being brought in with U-turn or on a free switch where it doesn't take any damage whatsoever.",
+            "moves": [
+                [
+                    "Swords Dance"
+                ],
+                [
+                    "Return"
+                ],
+                [
+                    "Waterfall"
+                ],
+                [
+                    "Aqua Jet"
+                ]
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Simple"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Grass-types",
+        "Faster Offensive Threats",
+        "Fighting-types",
+        "Priority"
+    ],
+    "credits": [
+        "Written by Toy Time King",
+        "Quality checked by UberSkitty, allstarapology,  and Megazard",
+        "Grammar checked by A Cake Wearing A Hat and lotiasite"
+    ]
+}

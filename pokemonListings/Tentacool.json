@@ -1,1 +1,156 @@
-{"name": "Tentacool", "forms": {"Base": {"base stats": [40, 40, 35, 50, 100, 70], "types": ["Water", "Poison"], "abilities": ["Clear Body", "Liquid Ooze", "Rain Dish"], "tier": ["LC"], "form": "Base"}}, "overview": "Tentacool's great Special Defense and decent Speed along with a good movepool allow it to be a decent entry hazard remover. It also has a good defensive typing, resisting common types like Fighting and Fairy. It doesn't have a slacking offensive movepool, either, with access to Sludge Bomb, Knock Off, and Scald. However, its actual attacking stats are lackluster, as is its physical bulk. Its longevity isn't helped by the fact that it doesn't have any reliable recovery outside Berry Juice, and it faces competition from other Water- / Poison-types like Skrelp and Mareanie. Nevertheless, Tentacool sets itself apart from these Pokemon by having access to Rapid Spin and a better Speed stat.\n", "strategies' format": "LC", "strategies": [{"name": "Defensive Utility", "stats": [165, 104, 165, 145, 259, 185], "type": ["Water", "Poison"], "usage": "Tentacool can be switched into neutral special attacks relatively easily, letting it use Rapid Spin freely. It can also switch into draining moves like Drain Punch. However, while it has the bulk to take a few hits, it still gets worn down quite easily, so try to preserve Tentacool and its Berry Juice. Knock Off should be used if you predict a spinblocker to switch in, as these are all Ghost-types.", "moves": [["Rapid Spin"], ["Knock Off", "Toxic Spikes"], ["Scald"], ["Sludge Bomb"]], "item": [" Berry Juice", " Eviolite"], "ability": ["Liquid Ooze"], "nature": ["Calm"], "ev spread": [196, 0, 236, 36, 0, 36], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Offensive", "stats": [104, 104, 125, 185, 245, 247], "type": ["Water", "Poison"], "usage": "Tentacool can act as a decent lure, bluffing a utility set to catch an opposing Pokemon with a powerful attack on the switch. However, its poor physical bulk leaves it vulnerable to the many physical attackers the metagame has to offer, so don't switch it directly in. Be careful getting KOs when a Diglett is on the other team, as Tentacool is completely trapped by it.", "moves": [["Hydro Pump"], ["Sludge Bomb"], ["Knock Off"], ["Hidden Power Fire", "Rapid Spin"]], "item": [" Life Orb"], "ability": ["Clear Body"], "nature": ["Timid"], "ev spread": [0, 0, 76, 196, 36, 196], "iv spread": [19, 31, 31, 31, 31, 31]}], "counters": ["Ferroseed and Croagunk", "Electric-types", "Fast Ground-types", "Bulky Water-types"], "credits": ["Written by Conni and Gummy", "Quality checked by Nineage, OP,  and Corporal Levi", "Grammar checked by The Dutch Plumberjack and lotiasite"]}
+{
+    "name": "Tentacool",
+    "forms": {
+        "Base": {
+            "base stats": [
+                40,
+                40,
+                35,
+                50,
+                100,
+                70
+            ],
+            "types": [
+                "Water",
+                "Poison"
+            ],
+            "abilities": [
+                "Clear Body",
+                "Liquid Ooze",
+                "Rain Dish"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Tentacool's great Special Defense and decent Speed along with a good movepool allow it to be a decent entry hazard remover. It also has a good defensive typing, resisting common types like Fighting and Fairy. It doesn't have a slacking offensive movepool, either, with access to Sludge Bomb, Knock Off, and Scald. However, its actual attacking stats are lackluster, as is its physical bulk. Its longevity isn't helped by the fact that it doesn't have any reliable recovery outside Berry Juice, and it faces competition from other Water- / Poison-types like Skrelp and Mareanie. Nevertheless, Tentacool sets itself apart from these Pokemon by having access to Rapid Spin and a better Speed stat.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Defensive Utility",
+            "stats": [
+                165,
+                104,
+                165,
+                145,
+                259,
+                185
+            ],
+            "type": [
+                "Water",
+                "Poison"
+            ],
+            "usage": "Tentacool can be switched into neutral special attacks relatively easily, letting it use Rapid Spin freely. It can also switch into draining moves like Drain Punch. However, while it has the bulk to take a few hits, it still gets worn down quite easily, so try to preserve Tentacool and its Berry Juice. Knock Off should be used if you predict a spinblocker to switch in, as these are all Ghost-types.",
+            "moves": [
+                [
+                    "Rapid Spin"
+                ],
+                [
+                    "Knock Off",
+                    "Toxic Spikes"
+                ],
+                [
+                    "Scald"
+                ],
+                [
+                    "Sludge Bomb"
+                ]
+            ],
+            "item": [
+                " Berry Juice",
+                " Eviolite"
+            ],
+            "ability": [
+                "Liquid Ooze"
+            ],
+            "nature": [
+                "Calm"
+            ],
+            "ev spread": [
+                196,
+                0,
+                236,
+                36,
+                0,
+                36
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Offensive",
+            "stats": [
+                104,
+                104,
+                125,
+                185,
+                245,
+                247
+            ],
+            "type": [
+                "Water",
+                "Poison"
+            ],
+            "usage": "Tentacool can act as a decent lure, bluffing a utility set to catch an opposing Pokemon with a powerful attack on the switch. However, its poor physical bulk leaves it vulnerable to the many physical attackers the metagame has to offer, so don't switch it directly in. Be careful getting KOs when a Diglett is on the other team, as Tentacool is completely trapped by it.",
+            "moves": [
+                [
+                    "Hydro Pump"
+                ],
+                [
+                    "Sludge Bomb"
+                ],
+                [
+                    "Knock Off"
+                ],
+                [
+                    "Hidden Power Fire",
+                    "Rapid Spin"
+                ]
+            ],
+            "item": [
+                " Life Orb"
+            ],
+            "ability": [
+                "Clear Body"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                76,
+                196,
+                36,
+                196
+            ],
+            "iv spread": [
+                19,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Ferroseed and Croagunk",
+        "Electric-types",
+        "Fast Ground-types",
+        "Bulky Water-types"
+    ],
+    "credits": [
+        "Written by Conni and Gummy",
+        "Quality checked by Nineage, OP,  and Corporal Levi",
+        "Grammar checked by The Dutch Plumberjack and lotiasite"
+    ]
+}

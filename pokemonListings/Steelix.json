@@ -1,1 +1,120 @@
-{"name": "Steelix", "forms": {"Base": {"base stats": [75, 85, 200, 55, 65, 30], "types": ["Steel", "Ground"], "abilities": ["Rock Head", "Sheer Force", "Sturdy"], "tier": ["NU"], "form": "Base"}, "Mega": {"base stats": [75, 125, 230, 55, 95, 30], "types": ["Steel", "Ground"], "abilities": ["Sand Force"], "tier": ["UU"], "form": "Mega"}}, "overview": "Mega Steelix is a great tank that takes advantage of its great bulk, good typing, and high Attack to check prominent threats like Latias, Heal Bell Togekiss, and Klefki. Coupled with access to Stealth Rock, these traits differentiate Mega Steelix from other Stealth Rock setters such as Nihilego and Hippowdon. Mega Steelix's Ground typing allows it to block Volt Switch, which gives it leverage over other Steel-types like Cobalion and Stakataka. That said, Mega Steelix still suffers from heavy competition with Mega Aggron, which has access to Filter and has more resistances. Furthermore, despite having eight resistances, Mega Steelix suffers from a weakness to common types including Fighting, Water, and Ground, which leaves it weak to other prominent threats, including Terrakion, Primarina, and Hippowdon. Mega Steelix's lack of reliable recovery also lessens its reliability, as it is forced to be paired with Wish support if it desires to reach its full potential as a wall. While Mega Steelix's low Speed increases Gyro Ball's damage output, it also leaves Mega Steelix outsped by the vast majority of the metagame, which means it'll have to take a hit before moving in most cases. Finally, despite its Ground typing, Mega Steelix struggles to reliably check common Electric-types like Mega Manectric and Rotom-H because they can hit it super effectively. Hence, other Ground-types like Hippowdon and Swampert outperform Mega Steelix in this role.\n", "strategies' format": "UU", "strategies": [{"name": "Offensive Stealth Rock", "stats": [249, 371, 496, 146, 238, 58], "type": ["Steel", "Ground"], "usage": "Prioritize Mega Evolving Steelix as early as possible, as Mega Steelix relies on the boosts it gains by Mega Evolving to check threats like Nihilego and Latias. Also, prioritize setting up Stealth Rock because this allows Mega Steelix to reliably punish switches and KO threats like Latias and Hydreigon. Thanks to its great bulk and typing, Mega Steelix can find a lot of opportunities to set up Stealth Rock, such as against Fairy-types like Florges and Sylveon and Flying-types like Crobat and Mega Aerodactyl. Curse should be used against opposing physical attackers that cannot overpower Mega Steelix like Mega Aggron and against certain setup sweepers like Scizor and Doublade that try to overpower Mega Steelix by boosting their stats. However, be wary of using Curse if the opposing team has means of reliably scaring out Mega Steelix like Starmie or Moltres. Refrain from letting Mega Steelix take unnecessary damage because that'll make it notably harder to switch it into threats like Mega Aerodactyl and Raikou. Furthermore, refrain from using Gyro Ball too often because it has low PP, and if Mega Steelix runs out of Gyro Ball PP, it cannot check dangerous threats like Latias and Togekiss. It is advised to scout against Pokemon like Mega Pidgeot and Togekiss that often carry super effective coverage for Steel-types. Despite its ability to block Volt Switch, Mega Steelix should be wary of switching into certain Electric-types like Rotom-H and Mega Manectric that can hit it with a super effective Fire-type move. However, Mega Steelix's presence still prevents the aforementioned Electric-types from reliably using their Electric-type moves, so keep that in mind. If coupled with Wish support, prioritize healing Mega Steelix as soon as it takes damage, as it appreciates every bit of health to reliably act as a wall.", "moves": [["Stealth Rock"], ["Gyro Ball"], ["Earthquake"], ["Curse"]], "item": [" Steelixite"], "ability": ["Sturdy"], "nature": ["Brave"], "ev spread": [252, 208, 0, 0, 48, 0], "iv spread": [31, 31, 31, 31, 31, 0]}], "counters": ["Water-types", "Moltres", "Special Attackers", "Fighting-types"], "credits": ["Written by Amane Misa", "Earlier versions by Pak", "Quality checked by Nuked, A Cake Wearing A Hat,  and Eyan", "Grammar checked by A Cake Wearing A Hat and The Dutch Plumberjack"]}
+{
+    "name": "Steelix",
+    "forms": {
+        "Base": {
+            "base stats": [
+                75,
+                85,
+                200,
+                55,
+                65,
+                30
+            ],
+            "types": [
+                "Steel",
+                "Ground"
+            ],
+            "abilities": [
+                "Rock Head",
+                "Sheer Force",
+                "Sturdy"
+            ],
+            "tier": [
+                "NU"
+            ],
+            "form": "Base"
+        },
+        "Mega": {
+            "base stats": [
+                75,
+                125,
+                230,
+                55,
+                95,
+                30
+            ],
+            "types": [
+                "Steel",
+                "Ground"
+            ],
+            "abilities": [
+                "Sand Force"
+            ],
+            "tier": [
+                "UU"
+            ],
+            "form": "Mega"
+        }
+    },
+    "overview": "Mega Steelix is a great tank that takes advantage of its great bulk, good typing, and high Attack to check prominent threats like Latias, Heal Bell Togekiss, and Klefki. Coupled with access to Stealth Rock, these traits differentiate Mega Steelix from other Stealth Rock setters such as Nihilego and Hippowdon. Mega Steelix's Ground typing allows it to block Volt Switch, which gives it leverage over other Steel-types like Cobalion and Stakataka. That said, Mega Steelix still suffers from heavy competition with Mega Aggron, which has access to Filter and has more resistances. Furthermore, despite having eight resistances, Mega Steelix suffers from a weakness to common types including Fighting, Water, and Ground, which leaves it weak to other prominent threats, including Terrakion, Primarina, and Hippowdon. Mega Steelix's lack of reliable recovery also lessens its reliability, as it is forced to be paired with Wish support if it desires to reach its full potential as a wall. While Mega Steelix's low Speed increases Gyro Ball's damage output, it also leaves Mega Steelix outsped by the vast majority of the metagame, which means it'll have to take a hit before moving in most cases. Finally, despite its Ground typing, Mega Steelix struggles to reliably check common Electric-types like Mega Manectric and Rotom-H because they can hit it super effectively. Hence, other Ground-types like Hippowdon and Swampert outperform Mega Steelix in this role.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Offensive Stealth Rock",
+            "stats": [
+                249,
+                371,
+                496,
+                146,
+                238,
+                58
+            ],
+            "type": [
+                "Steel",
+                "Ground"
+            ],
+            "usage": "Prioritize Mega Evolving Steelix as early as possible, as Mega Steelix relies on the boosts it gains by Mega Evolving to check threats like Nihilego and Latias. Also, prioritize setting up Stealth Rock because this allows Mega Steelix to reliably punish switches and KO threats like Latias and Hydreigon. Thanks to its great bulk and typing, Mega Steelix can find a lot of opportunities to set up Stealth Rock, such as against Fairy-types like Florges and Sylveon and Flying-types like Crobat and Mega Aerodactyl. Curse should be used against opposing physical attackers that cannot overpower Mega Steelix like Mega Aggron and against certain setup sweepers like Scizor and Doublade that try to overpower Mega Steelix by boosting their stats. However, be wary of using Curse if the opposing team has means of reliably scaring out Mega Steelix like Starmie or Moltres. Refrain from letting Mega Steelix take unnecessary damage because that'll make it notably harder to switch it into threats like Mega Aerodactyl and Raikou. Furthermore, refrain from using Gyro Ball too often because it has low PP, and if Mega Steelix runs out of Gyro Ball PP, it cannot check dangerous threats like Latias and Togekiss. It is advised to scout against Pokemon like Mega Pidgeot and Togekiss that often carry super effective coverage for Steel-types. Despite its ability to block Volt Switch, Mega Steelix should be wary of switching into certain Electric-types like Rotom-H and Mega Manectric that can hit it with a super effective Fire-type move. However, Mega Steelix's presence still prevents the aforementioned Electric-types from reliably using their Electric-type moves, so keep that in mind. If coupled with Wish support, prioritize healing Mega Steelix as soon as it takes damage, as it appreciates every bit of health to reliably act as a wall.",
+            "moves": [
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Gyro Ball"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Curse"
+                ]
+            ],
+            "item": [
+                " Steelixite"
+            ],
+            "ability": [
+                "Sturdy"
+            ],
+            "nature": [
+                "Brave"
+            ],
+            "ev spread": [
+                252,
+                208,
+                0,
+                0,
+                48,
+                0
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                0
+            ]
+        }
+    ],
+    "counters": [
+        "Water-types",
+        "Moltres",
+        "Special Attackers",
+        "Fighting-types"
+    ],
+    "credits": [
+        "Written by Amane Misa",
+        "Earlier versions by Pak",
+        "Quality checked by Nuked, A Cake Wearing A Hat,  and Eyan",
+        "Grammar checked by A Cake Wearing A Hat and The Dutch Plumberjack"
+    ]
+}

@@ -1,1 +1,214 @@
-{"name": "Dodrio", "forms": {"Base": {"base stats": [60, 110, 70, 60, 60, 110], "types": ["Normal", "Flying"], "abilities": ["Early Bird", "Run Away", "Tangled Feet"], "tier": ["PU"], "form": "Base"}}, "overview": "Dodrio's fantastic offensive stats, near-unresisted coverage, and access to Swords Dance solidify it as a top offensive threat in PU that's able to blitz through Pokemon found on offensive and defensive teams alike. It can run a variety of sets that each offer immense amounts of offensive pressure: Swords Dance and Choice Band sets excel at wallbreaking, whereas Choice Scarf sets boast a near-unrivaled Speed tier. Since all of Dodrio's sets fit on offensive teams, deciphering what set it's running from Team Preview is nearly impossible, giving Dodrio the upper hand in many situations. However, Dodrio's lackluster bulk and weakness to Stealth Rock limit what it can safely switch into or use Swords Dance on, and it is easily worn down by Brave Bird's high recoil. Dodrio's matchups are also highly set dependent, as wallbreaking sets are prone to being revenge killed, while Choice Scarf lacks the power to break through bulky walls like Regirock, Quagsire, and Mudsdale.\n", "strategies' format": "PU", "strategies": [{"name": "Swords Dance", "stats": [156, 319, 176, 140, 157, 350], "type": ["Normal", "Flying"], "usage": "Dodrio should mainly be brought in through slow pivots or double switches to minimize chances of Dodrio getting chipped and generate good matchups. Dodrio can also switch into Ghost- and Ground-type attacks thanks to its immunities, though this is a risky endeavor due to its lousy defenses. Setting up with Swords Dance safely can be achieved against Pokemon that are forced out like Poliwrath and Lurantis, passive walls like Audino and Clefairy, and Choice-locked Pokemon like Jellicent. Avoid late-game setup if Dodrio lacks Quick Attack for faster revenge killers or if Pokemon that resist or are immune to Quick Attack such as Lycanroc and Choice Scarf Haunter are still around. Swords Dance doesn't necessarily have to be used in order for Dodrio to wallbreak; Dodrio's respective Z-Move can be thrown right off the bat to ensure that Pokemon like Gurdurr and Aggron drop. This is also effective at punishing Pokemon that may stay in predicting a Swords Dance. Outside of Swords Dance, Dodrio can be used as a revenge killer against slower Pokemon such as Scyther and unboosted Omastar. Dodrio's revenge killing capabilities are further bolstered against bulkier foes like Articuno and Stoutland through the use of Z-Crystals.", "moves": [["Swords Dance"], ["Brave Bird"], ["Jump Kick"], ["Return", "Quick Attack"]], "item": [" Flyinium Z", " Fightinium Z"], "ability": ["Early Bird"], "nature": ["Jolly"], "ev spread": [0, 252, 0, 0, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Choice Scarf", "stats": [156, 319, 176, 140, 157, 350], "type": ["Normal", "Flying"], "usage": "Use Pursuit in order to trap weakened threats or Pokemon weak to Pursuit such as Oricorio-G and Haunter. This works out especially well if one decides to not reveal Choice Scarf until mid or late-game when Dodrio's checks are weakened, as this allows Dodrio to get the jump on foes like Alolan Raichu, Floatzel, and opposing Choice Scarf users like Scyther and Primeape. Knock Off and Toxic can be used to weaken defensive checks early-game; however, avoid reckless use of such moves, as Pokemon like Aggron and Qwilfish can switch into these moves easily. Prediction plays an important role when using this set, as Dodrio is incredibly frail and will not be able to do much to targets if it isn't locked into the best move. Late-game, Dodrio can liberally spam its STAB moves for optimal damage output once Rock- and Steel-type checks such as Omastar and Aggron are removed.", "moves": [["Brave Bird"], ["Jump Kick"], ["Return"], ["Knock Off", "Pursuit", "Toxic"]], "item": [" Choice Scarf"], "ability": ["Early Bird"], "nature": ["Jolly"], "ev spread": [0, 252, 0, 0, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Choice Band", "stats": [156, 319, 176, 140, 157, 350], "type": ["Normal", "Flying"], "usage": "Given how most players maneuver around Dodrio's other sets, Choice Band's increase in power can be utilized to grab KOs on bulky Pokemon such as Stoutland and Spiritomb far more easily, as they may stay in fearing the possibility of Swords Dance. Pursuit should be used on predicted switches; for instance, Dodrio can OHKO Pokemon like Haunter and offensive Oricorio-G courtesy of Choice Band. If necessary, Dodrio can occasionally switch into moves like Golurk's Earthquake and Oricorio-G's Revelation Dance, but you must exercise caution when doing so because of Dodrio's poor bulk. Brave Bird's recoil can be put to use late-game by allowing Dodrio to KO itself, creating momentum for its team.", "moves": [["Brave Bird"], ["Return"], ["Jump Kick"], ["Knock Off", "Pursuit", "Quick Attack"]], "item": [" Choice Band"], "ability": ["Early Bird"], "nature": ["Jolly"], "ev spread": [0, 252, 0, 0, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Rock-types", "Set-dependent Switch-ins", "Revenge Killers and Priority", "Residual Damage"], "credits": ["Written by tondas", "Quality checked by allstarapology, jklioe,  and Megazard", "Grammar checked by The Dutch Plumberjack and CryoGyro"]}
+{
+    "name": "Dodrio",
+    "forms": {
+        "Base": {
+            "base stats": [
+                60,
+                110,
+                70,
+                60,
+                60,
+                110
+            ],
+            "types": [
+                "Normal",
+                "Flying"
+            ],
+            "abilities": [
+                "Early Bird",
+                "Run Away",
+                "Tangled Feet"
+            ],
+            "tier": [
+                "PU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Dodrio's fantastic offensive stats, near-unresisted coverage, and access to Swords Dance solidify it as a top offensive threat in PU that's able to blitz through Pokemon found on offensive and defensive teams alike. It can run a variety of sets that each offer immense amounts of offensive pressure: Swords Dance and Choice Band sets excel at wallbreaking, whereas Choice Scarf sets boast a near-unrivaled Speed tier. Since all of Dodrio's sets fit on offensive teams, deciphering what set it's running from Team Preview is nearly impossible, giving Dodrio the upper hand in many situations. However, Dodrio's lackluster bulk and weakness to Stealth Rock limit what it can safely switch into or use Swords Dance on, and it is easily worn down by Brave Bird's high recoil. Dodrio's matchups are also highly set dependent, as wallbreaking sets are prone to being revenge killed, while Choice Scarf lacks the power to break through bulky walls like Regirock, Quagsire, and Mudsdale.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Swords Dance",
+            "stats": [
+                156,
+                319,
+                176,
+                140,
+                157,
+                350
+            ],
+            "type": [
+                "Normal",
+                "Flying"
+            ],
+            "usage": "Dodrio should mainly be brought in through slow pivots or double switches to minimize chances of Dodrio getting chipped and generate good matchups. Dodrio can also switch into Ghost- and Ground-type attacks thanks to its immunities, though this is a risky endeavor due to its lousy defenses. Setting up with Swords Dance safely can be achieved against Pokemon that are forced out like Poliwrath and Lurantis, passive walls like Audino and Clefairy, and Choice-locked Pokemon like Jellicent. Avoid late-game setup if Dodrio lacks Quick Attack for faster revenge killers or if Pokemon that resist or are immune to Quick Attack such as Lycanroc and Choice Scarf Haunter are still around. Swords Dance doesn't necessarily have to be used in order for Dodrio to wallbreak; Dodrio's respective Z-Move can be thrown right off the bat to ensure that Pokemon like Gurdurr and Aggron drop. This is also effective at punishing Pokemon that may stay in predicting a Swords Dance. Outside of Swords Dance, Dodrio can be used as a revenge killer against slower Pokemon such as Scyther and unboosted Omastar. Dodrio's revenge killing capabilities are further bolstered against bulkier foes like Articuno and Stoutland through the use of Z-Crystals.",
+            "moves": [
+                [
+                    "Swords Dance"
+                ],
+                [
+                    "Brave Bird"
+                ],
+                [
+                    "Jump Kick"
+                ],
+                [
+                    "Return",
+                    "Quick Attack"
+                ]
+            ],
+            "item": [
+                " Flyinium Z",
+                " Fightinium Z"
+            ],
+            "ability": [
+                "Early Bird"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                0,
+                0,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Choice Scarf",
+            "stats": [
+                156,
+                319,
+                176,
+                140,
+                157,
+                350
+            ],
+            "type": [
+                "Normal",
+                "Flying"
+            ],
+            "usage": "Use Pursuit in order to trap weakened threats or Pokemon weak to Pursuit such as Oricorio-G and Haunter. This works out especially well if one decides to not reveal Choice Scarf until mid or late-game when Dodrio's checks are weakened, as this allows Dodrio to get the jump on foes like Alolan Raichu, Floatzel, and opposing Choice Scarf users like Scyther and Primeape. Knock Off and Toxic can be used to weaken defensive checks early-game; however, avoid reckless use of such moves, as Pokemon like Aggron and Qwilfish can switch into these moves easily. Prediction plays an important role when using this set, as Dodrio is incredibly frail and will not be able to do much to targets if it isn't locked into the best move. Late-game, Dodrio can liberally spam its STAB moves for optimal damage output once Rock- and Steel-type checks such as Omastar and Aggron are removed.",
+            "moves": [
+                [
+                    "Brave Bird"
+                ],
+                [
+                    "Jump Kick"
+                ],
+                [
+                    "Return"
+                ],
+                [
+                    "Knock Off",
+                    "Pursuit",
+                    "Toxic"
+                ]
+            ],
+            "item": [
+                " Choice Scarf"
+            ],
+            "ability": [
+                "Early Bird"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                0,
+                0,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Choice Band",
+            "stats": [
+                156,
+                319,
+                176,
+                140,
+                157,
+                350
+            ],
+            "type": [
+                "Normal",
+                "Flying"
+            ],
+            "usage": "Given how most players maneuver around Dodrio's other sets, Choice Band's increase in power can be utilized to grab KOs on bulky Pokemon such as Stoutland and Spiritomb far more easily, as they may stay in fearing the possibility of Swords Dance. Pursuit should be used on predicted switches; for instance, Dodrio can OHKO Pokemon like Haunter and offensive Oricorio-G courtesy of Choice Band. If necessary, Dodrio can occasionally switch into moves like Golurk's Earthquake and Oricorio-G's Revelation Dance, but you must exercise caution when doing so because of Dodrio's poor bulk. Brave Bird's recoil can be put to use late-game by allowing Dodrio to KO itself, creating momentum for its team.",
+            "moves": [
+                [
+                    "Brave Bird"
+                ],
+                [
+                    "Return"
+                ],
+                [
+                    "Jump Kick"
+                ],
+                [
+                    "Knock Off",
+                    "Pursuit",
+                    "Quick Attack"
+                ]
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Early Bird"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                252,
+                0,
+                0,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Rock-types",
+        "Set-dependent Switch-ins",
+        "Revenge Killers and Priority",
+        "Residual Damage"
+    ],
+    "credits": [
+        "Written by tondas",
+        "Quality checked by allstarapology, jklioe,  and Megazard",
+        "Grammar checked by The Dutch Plumberjack and CryoGyro"
+    ]
+}

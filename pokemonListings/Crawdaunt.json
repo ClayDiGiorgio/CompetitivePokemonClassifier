@@ -1,1 +1,98 @@
-{"name": "Crawdaunt", "forms": {"Base": {"base stats": [63, 120, 85, 90, 55, 55], "types": ["Water", "Dark"], "abilities": ["Adaptability", "Hyper Cutter", "Shell Armor"], "tier": ["UU"], "form": "Base"}}, "overview": "Crawdaunt is a niche pick on offensive teams thanks to its extremely powerful Choice Band- and Adaptability-boosted Water- and Dark-type STAB attacks, which hit virtually the entire tier for neutral damage. Useful utility in Knock Off allows Crawdaunt to offer fantastic support to offensive teams by removing items such as Tangrowth's Assault Vest, Tapu Bulu's Leftovers, and Tapu Fini's Leftovers to give teammates an easier chance at sweeping late-game. Unlike Weavile and Tyranitar, Crawdaunt can easily 2HKO Reuniclus after an Acid Armor boost thanks to Adaptability and prevent it from overwhelming offensive teams. Moreover, Aqua Jet is a helpful priority move that allows Crawdaunt to patch up its poor Speed and revenge kill Pokemon like Volcarona and Mega Diancie, which can be hard to switch into for offensive teams. Despite its strong attacks and priority, Crawdaunt's poor Speed stat means that it struggles to excel in a metagame filled with faster offensive threats that can easily revenge kill it like Mega Medicham, Kartana, and Tapu Bulu. Crawdaunt's lackluster defensive typing and mediocre defensive stats also leave it vulnerable to the plethora of strong moves that flood the OU tier.\n", "strategies' format": "OU", "strategies": [{"name": "Choice Band", "stats": [162, 372, 206, 194, 147, 209], "type": ["Water", "Dark"], "usage": "Try to bring in Crawdaunt through VoltTurn support or predicted doubles, as even resisted hits like Heatran's Magma Storm and Ash-Greninja's Dark Pulse will deal a respectable amount of damage. One of Crawdaunt's selling points is being able to remove items with its Adaptability-boosted Knock Off, so don't hesitate to use it if the opponent depends on Pokemon like Tapu Bulu or Tangrowth as their Water-type answer. If the opponent has a bulky Fairy-type that doesn't mind tanking a Knock Off and can recover easily, such as Clefable or Pain Split Magearna, try to catch these Pokemon on the switch with Crabhammer. Tapu Bulu resists both of Crawdaunt's STAB attacks and can recover HP via Grassy Terrain and Synthesis, so try to cripple it with Knock Off to potentially remove its Leftovers and then switch out to a Pokemon that can threaten it out. Aqua Jet's low Base Power means that it's rather easy to switch into, and as such, it should generally only be used for chip damage when Crawdaunt is at low HP and up against a foe that can KO Crawdaunt or against faster foes that Crawdaunt can revenge kill, such as Volcarona, weakened Mega Alakazam, and Mega Diancie.", "moves": [["Knock Off"], ["Crabhammer"], ["Aqua Jet"], ["Crunch"]], "item": [" Choice Band"], "ability": ["Adaptability"], "nature": ["Adamant"], "ev spread": [0, 252, 0, 0, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Grass-types", "Mega Evolutions", "Faster Offensive Pokemon"], "credits": ["Written by Indigo Plateau", "Earlier versions by Ramses and Always!", "Quality checked by Jordy, Lyd,  and GMars", "Grammar checked by fireflame479 and GMars"]}
+{
+    "name": "Crawdaunt",
+    "forms": {
+        "Base": {
+            "base stats": [
+                63,
+                120,
+                85,
+                90,
+                55,
+                55
+            ],
+            "types": [
+                "Water",
+                "Dark"
+            ],
+            "abilities": [
+                "Adaptability",
+                "Hyper Cutter",
+                "Shell Armor"
+            ],
+            "tier": [
+                "UU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Crawdaunt is a niche pick on offensive teams thanks to its extremely powerful Choice Band- and Adaptability-boosted Water- and Dark-type STAB attacks, which hit virtually the entire tier for neutral damage. Useful utility in Knock Off allows Crawdaunt to offer fantastic support to offensive teams by removing items such as Tangrowth's Assault Vest, Tapu Bulu's Leftovers, and Tapu Fini's Leftovers to give teammates an easier chance at sweeping late-game. Unlike Weavile and Tyranitar, Crawdaunt can easily 2HKO Reuniclus after an Acid Armor boost thanks to Adaptability and prevent it from overwhelming offensive teams. Moreover, Aqua Jet is a helpful priority move that allows Crawdaunt to patch up its poor Speed and revenge kill Pokemon like Volcarona and Mega Diancie, which can be hard to switch into for offensive teams. Despite its strong attacks and priority, Crawdaunt's poor Speed stat means that it struggles to excel in a metagame filled with faster offensive threats that can easily revenge kill it like Mega Medicham, Kartana, and Tapu Bulu. Crawdaunt's lackluster defensive typing and mediocre defensive stats also leave it vulnerable to the plethora of strong moves that flood the OU tier.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Choice Band",
+            "stats": [
+                162,
+                372,
+                206,
+                194,
+                147,
+                209
+            ],
+            "type": [
+                "Water",
+                "Dark"
+            ],
+            "usage": "Try to bring in Crawdaunt through VoltTurn support or predicted doubles, as even resisted hits like Heatran's Magma Storm and Ash-Greninja's Dark Pulse will deal a respectable amount of damage. One of Crawdaunt's selling points is being able to remove items with its Adaptability-boosted Knock Off, so don't hesitate to use it if the opponent depends on Pokemon like Tapu Bulu or Tangrowth as their Water-type answer. If the opponent has a bulky Fairy-type that doesn't mind tanking a Knock Off and can recover easily, such as Clefable or Pain Split Magearna, try to catch these Pokemon on the switch with Crabhammer. Tapu Bulu resists both of Crawdaunt's STAB attacks and can recover HP via Grassy Terrain and Synthesis, so try to cripple it with Knock Off to potentially remove its Leftovers and then switch out to a Pokemon that can threaten it out. Aqua Jet's low Base Power means that it's rather easy to switch into, and as such, it should generally only be used for chip damage when Crawdaunt is at low HP and up against a foe that can KO Crawdaunt or against faster foes that Crawdaunt can revenge kill, such as Volcarona, weakened Mega Alakazam, and Mega Diancie.",
+            "moves": [
+                [
+                    "Knock Off"
+                ],
+                [
+                    "Crabhammer"
+                ],
+                [
+                    "Aqua Jet"
+                ],
+                [
+                    "Crunch"
+                ]
+            ],
+            "item": [
+                " Choice Band"
+            ],
+            "ability": [
+                "Adaptability"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                0,
+                252,
+                0,
+                0,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Grass-types",
+        "Mega Evolutions",
+        "Faster Offensive Pokemon"
+    ],
+    "credits": [
+        "Written by Indigo Plateau",
+        "Earlier versions by Ramses and Always!",
+        "Quality checked by Jordy, Lyd,  and GMars",
+        "Grammar checked by fireflame479 and GMars"
+    ]
+}

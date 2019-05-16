@@ -1,1 +1,156 @@
-{"name": "Pangoro", "forms": {"Base": {"base stats": [95, 124, 78, 69, 71, 58], "types": ["Fighting", "Dark"], "abilities": ["Iron Fist", "Mold Breaker", "Scrappy"], "tier": ["NU"], "form": "Base"}}, "overview": "Pangoro has a high Attack stat, two powerful STAB types, and the coverage to hit the entire tier for at least neutral damage. These traits combined with its access to Swords Dance and several strong offensive abilities, namely Mold Breaker and Iron Fist, cause Pangoro to present itself as one of the most dangerous attackers and wallbreakers in the tier, one that is tremendously difficult to prevent from KOing at least one Pokemon. However, Pangoro is very slow, and while it's not very frail, it has a rather vulnerable defensive typing that gives it annoying weaknesses to Fighting, Flying, and Fairy. While Pangoro is a respectable Fighting-type wallbreaker with its own merits, it does face competition with various other Fighting-types such as Emboar and Virizion.\n", "strategies' format": "RU", "strategies": [{"name": "Swords Dance", "stats": [227, 381, 192, 156, 178, 215], "type": ["Fighting", "Dark"], "usage": "Pangoro should only prioritize using Swords Dance when up against slower, bulkier teams. Against faster, more offensive teams, Pangoro should just attack, as it hits many offensive Pokemon plenty hard without any boosts and it's likely that Pangoro would get forced out or revenge killed anyway if it attempts to set up. Pangoro's typing gives it a 4x Dark resistance and an immunity to Prankster, making bulky Dark-types such as Sableye and Umbreon the best opportunities for Pangoro to set up. Outside of that, Pangoro can make use of Drain Punch's recovery to ease the setup, taking a blow from slower Rock- and Normal-types such as Gigalith, bulky Rhyperior, non-Choice Band Snorlax, and Porygon2 while it uses Swords Dance, and then regain health with a super effective +2 Drain Punch.", "moves": [["Swords Dance"], ["Knock Off"], ["Drain Punch"], ["Gunk Shot"]], "item": [" Lum Berry", " Life Orb"], "ability": ["Mold Breaker"], "nature": ["Adamant"], "ev spread": [4, 252, 0, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "All-Out Attacker", "stats": [227, 381, 192, 156, 178, 215], "type": ["Fighting", "Dark"], "usage": "Pangoro favors a straightforward spread of maximum Attack and Speed investment alongside an Adamant nature, optimizing its offensive prowess. Choice Band lets Pangoro hit like a freight train off the bat, while Life Orb provides a smaller boost but allows Pangoro to switch moves. Iron Fist is chosen to boost Pangoro's various punch-based attacks. A Jolly nature can be used to allow Pangoro to make do on 2HKOing Golbat switch-ins, as Golbat can safely use a faster Roost against Adamant Pangoro's Ice Punch, with the side benefit of being able to outrun Pokemon such as Emboar, Exploud, and opposing Adamant Pangoro. Pangoro can fit on a Trick Room team, especially with its use of Hammer Arm. If so, simply shift Pangoro's EVs from Speed to HP, put the remaining EVs into Defense to take Stone Edges and Knock Offs just a little bit better, and set Pangoro's Speed IV to 0.", "moves": [["Knock Off"], ["Hammer Arm", "Drain Punch"], ["Gunk Shot"], ["Bullet Punch", "Ice Punch"]], "item": [" Choice Band", " Life Orb"], "ability": ["Iron Fist"], "nature": ["Adamant"], "ev spread": [4, 252, 0, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Fighting-type Pokemon", "Fairy-type Pokemon", "Faster Pokemon"], "credits": ["Written by Punchshroom", "Quality checked by MrAldo, Arifeen,  and Rakan", "Grammar checked by CryoGyro and Fireflame479"]}
+{
+    "name": "Pangoro",
+    "forms": {
+        "Base": {
+            "base stats": [
+                95,
+                124,
+                78,
+                69,
+                71,
+                58
+            ],
+            "types": [
+                "Fighting",
+                "Dark"
+            ],
+            "abilities": [
+                "Iron Fist",
+                "Mold Breaker",
+                "Scrappy"
+            ],
+            "tier": [
+                "NU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Pangoro has a high Attack stat, two powerful STAB types, and the coverage to hit the entire tier for at least neutral damage. These traits combined with its access to Swords Dance and several strong offensive abilities, namely Mold Breaker and Iron Fist, cause Pangoro to present itself as one of the most dangerous attackers and wallbreakers in the tier, one that is tremendously difficult to prevent from KOing at least one Pokemon. However, Pangoro is very slow, and while it's not very frail, it has a rather vulnerable defensive typing that gives it annoying weaknesses to Fighting, Flying, and Fairy. While Pangoro is a respectable Fighting-type wallbreaker with its own merits, it does face competition with various other Fighting-types such as Emboar and Virizion.\n",
+    "strategies' format": "RU",
+    "strategies": [
+        {
+            "name": "Swords Dance",
+            "stats": [
+                227,
+                381,
+                192,
+                156,
+                178,
+                215
+            ],
+            "type": [
+                "Fighting",
+                "Dark"
+            ],
+            "usage": "Pangoro should only prioritize using Swords Dance when up against slower, bulkier teams. Against faster, more offensive teams, Pangoro should just attack, as it hits many offensive Pokemon plenty hard without any boosts and it's likely that Pangoro would get forced out or revenge killed anyway if it attempts to set up. Pangoro's typing gives it a 4x Dark resistance and an immunity to Prankster, making bulky Dark-types such as Sableye and Umbreon the best opportunities for Pangoro to set up. Outside of that, Pangoro can make use of Drain Punch's recovery to ease the setup, taking a blow from slower Rock- and Normal-types such as Gigalith, bulky Rhyperior, non-Choice Band Snorlax, and Porygon2 while it uses Swords Dance, and then regain health with a super effective +2 Drain Punch.",
+            "moves": [
+                [
+                    "Swords Dance"
+                ],
+                [
+                    "Knock Off"
+                ],
+                [
+                    "Drain Punch"
+                ],
+                [
+                    "Gunk Shot"
+                ]
+            ],
+            "item": [
+                " Lum Berry",
+                " Life Orb"
+            ],
+            "ability": [
+                "Mold Breaker"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                4,
+                252,
+                0,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "All-Out Attacker",
+            "stats": [
+                227,
+                381,
+                192,
+                156,
+                178,
+                215
+            ],
+            "type": [
+                "Fighting",
+                "Dark"
+            ],
+            "usage": "Pangoro favors a straightforward spread of maximum Attack and Speed investment alongside an Adamant nature, optimizing its offensive prowess. Choice Band lets Pangoro hit like a freight train off the bat, while Life Orb provides a smaller boost but allows Pangoro to switch moves. Iron Fist is chosen to boost Pangoro's various punch-based attacks. A Jolly nature can be used to allow Pangoro to make do on 2HKOing Golbat switch-ins, as Golbat can safely use a faster Roost against Adamant Pangoro's Ice Punch, with the side benefit of being able to outrun Pokemon such as Emboar, Exploud, and opposing Adamant Pangoro. Pangoro can fit on a Trick Room team, especially with its use of Hammer Arm. If so, simply shift Pangoro's EVs from Speed to HP, put the remaining EVs into Defense to take Stone Edges and Knock Offs just a little bit better, and set Pangoro's Speed IV to 0.",
+            "moves": [
+                [
+                    "Knock Off"
+                ],
+                [
+                    "Hammer Arm",
+                    "Drain Punch"
+                ],
+                [
+                    "Gunk Shot"
+                ],
+                [
+                    "Bullet Punch",
+                    "Ice Punch"
+                ]
+            ],
+            "item": [
+                " Choice Band",
+                " Life Orb"
+            ],
+            "ability": [
+                "Iron Fist"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                4,
+                252,
+                0,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Fighting-type Pokemon",
+        "Fairy-type Pokemon",
+        "Faster Pokemon"
+    ],
+    "credits": [
+        "Written by Punchshroom",
+        "Quality checked by MrAldo, Arifeen,  and Rakan",
+        "Grammar checked by CryoGyro and Fireflame479"
+    ]
+}

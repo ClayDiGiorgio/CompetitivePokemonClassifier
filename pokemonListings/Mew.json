@@ -1,1 +1,152 @@
-{"name": "Mew", "forms": {"Base": {"base stats": [100, 100, 100, 100, 100, 100], "types": ["Psychic"], "abilities": ["Synchronize"], "tier": ["OU"], "form": "Base"}}, "overview": "Mew's niche comes from its typing, stats, and movepool, which allow it to defensively check a few top-tier Pokemon such as Landorus-T, Mega Medicham, Garchomp, and Gliscor and provide Stealth Rock or Defog support. It's also a terrifying sweeper, as it can easily find setup opportunities thanks to its good bulk and typing, and its wide movepool enables it to pick its own checks and counters. However, status ailments are prominent in the metagame, and Mew wants to stay away from them, as they compromise its ability to check threats such as Mega Medicham reliably if hazards are up, which may very well be possible if Mew is used as a Defogger. Furthermore, defensive Mew's rather passive nature can allow Pokemon such as Ash-Greninja and Mega Alakazam to switch in freely, depending on the moves it is running.\n", "strategies' format": "OU", "strategies": [{"name": "Defensive", "stats": [296, 236, 249, 212, 236, 319], "type": ["Psychic"], "usage": "Use Mew to switch into physical attackers such as Mega Medicham, Garchomp, and Mega Lopunny, and try to cripple them with Will-O-Wisp. Consistently use Soft-Boiled to keep Mew healthy, as it will fail to switch into the Pokemon it is supposed to check if it's not near full health. For similar reasons, you should try to avoid getting Mew afflicted with burn or poison, as this will cripple its longevity and ability to check Mega Medicham, Garchomp, and Mega Lopunny. Look for opportunities to remove or set entry hazards on passive Pokemon that Mew can force out, such as Zapdos and Hippowdon. Try to be wary of Pursuit trappers such as Tyranitar, Weavile, and Mega Tyranitar, as they can easily trap Mew and sufficiently weaken it, which makes it significantly harder to get Mew back on the field.", "moves": [["Earthquake"], ["Will-O-Wisp"], ["Soft-Boiled"], ["Stealth Rock", "Defog"]], "item": [" Leftovers"], "ability": ["Synchronize"], "nature": ["Jolly"], "ev spread": [240, 0, 52, 0, 0, 216], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Nasty Plot", "stats": [236, 212, 236, 328, 237, 299], "type": ["Psychic"], "usage": "When facing offensive teams, Mew will often want to use Rock Polish to outspeed faster Pokemon, and when facing defensively oriented teams, it will want to set up a Nasty Plot to break through walls. Try to weaken the opposing team with other Pokemon such as Magearna and Mega Charizard X first before attempting to sweep with Mew; however, Mew can also be used to weaken the opposing team for the aforementioned Pokemon to sweep. Use Genesis Supernova after a Nasty Plot to heavily damage or KO Pokemon such as Heatran. Use Soft-Boiled against Pokemon like Kyurem-B and Landorus-T to stay healthy and have multiple shots at sweeping.", "moves": [["Nasty Plot"], ["Psychic"], ["Fire Blast", "Aura Sphere"], ["Rock Polish", "Soft-Boiled"]], "item": [" Mewnium Z"], "ability": ["Synchronize"], "nature": ["Modest", "Timid"], "ev spread": [0, 0, 0, 252, 4, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Dark-types", "Ghost-types", "Fire-types", "Setup Sweepers"], "credits": ["Written by Jordy", "Quality checked by lyd, ABR,  and Leo", "Grammar checked by The Dutch Plumberjack and A Cake Wearing A Hat"]}
+{
+    "name": "Mew",
+    "forms": {
+        "Base": {
+            "base stats": [
+                100,
+                100,
+                100,
+                100,
+                100,
+                100
+            ],
+            "types": [
+                "Psychic"
+            ],
+            "abilities": [
+                "Synchronize"
+            ],
+            "tier": [
+                "OU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Mew's niche comes from its typing, stats, and movepool, which allow it to defensively check a few top-tier Pokemon such as Landorus-T, Mega Medicham, Garchomp, and Gliscor and provide Stealth Rock or Defog support. It's also a terrifying sweeper, as it can easily find setup opportunities thanks to its good bulk and typing, and its wide movepool enables it to pick its own checks and counters. However, status ailments are prominent in the metagame, and Mew wants to stay away from them, as they compromise its ability to check threats such as Mega Medicham reliably if hazards are up, which may very well be possible if Mew is used as a Defogger. Furthermore, defensive Mew's rather passive nature can allow Pokemon such as Ash-Greninja and Mega Alakazam to switch in freely, depending on the moves it is running.\n",
+    "strategies' format": "OU",
+    "strategies": [
+        {
+            "name": "Defensive",
+            "stats": [
+                296,
+                236,
+                249,
+                212,
+                236,
+                319
+            ],
+            "type": [
+                "Psychic"
+            ],
+            "usage": "Use Mew to switch into physical attackers such as Mega Medicham, Garchomp, and Mega Lopunny, and try to cripple them with Will-O-Wisp. Consistently use Soft-Boiled to keep Mew healthy, as it will fail to switch into the Pokemon it is supposed to check if it's not near full health. For similar reasons, you should try to avoid getting Mew afflicted with burn or poison, as this will cripple its longevity and ability to check Mega Medicham, Garchomp, and Mega Lopunny. Look for opportunities to remove or set entry hazards on passive Pokemon that Mew can force out, such as Zapdos and Hippowdon. Try to be wary of Pursuit trappers such as Tyranitar, Weavile, and Mega Tyranitar, as they can easily trap Mew and sufficiently weaken it, which makes it significantly harder to get Mew back on the field.",
+            "moves": [
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Will-O-Wisp"
+                ],
+                [
+                    "Soft-Boiled"
+                ],
+                [
+                    "Stealth Rock",
+                    "Defog"
+                ]
+            ],
+            "item": [
+                " Leftovers"
+            ],
+            "ability": [
+                "Synchronize"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                240,
+                0,
+                52,
+                0,
+                0,
+                216
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Nasty Plot",
+            "stats": [
+                236,
+                212,
+                236,
+                328,
+                237,
+                299
+            ],
+            "type": [
+                "Psychic"
+            ],
+            "usage": "When facing offensive teams, Mew will often want to use Rock Polish to outspeed faster Pokemon, and when facing defensively oriented teams, it will want to set up a Nasty Plot to break through walls. Try to weaken the opposing team with other Pokemon such as Magearna and Mega Charizard X first before attempting to sweep with Mew; however, Mew can also be used to weaken the opposing team for the aforementioned Pokemon to sweep. Use Genesis Supernova after a Nasty Plot to heavily damage or KO Pokemon such as Heatran. Use Soft-Boiled against Pokemon like Kyurem-B and Landorus-T to stay healthy and have multiple shots at sweeping.",
+            "moves": [
+                [
+                    "Nasty Plot"
+                ],
+                [
+                    "Psychic"
+                ],
+                [
+                    "Fire Blast",
+                    "Aura Sphere"
+                ],
+                [
+                    "Rock Polish",
+                    "Soft-Boiled"
+                ]
+            ],
+            "item": [
+                " Mewnium Z"
+            ],
+            "ability": [
+                "Synchronize"
+            ],
+            "nature": [
+                "Modest",
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                0,
+                252,
+                4,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Dark-types",
+        "Ghost-types",
+        "Fire-types",
+        "Setup Sweepers"
+    ],
+    "credits": [
+        "Written by Jordy",
+        "Quality checked by lyd, ABR,  and Leo",
+        "Grammar checked by The Dutch Plumberjack and A Cake Wearing A Hat"
+    ]
+}

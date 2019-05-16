@@ -1,1 +1,161 @@
-{"name": "Dwebble", "forms": {"Base": {"base stats": [50, 65, 85, 35, 35, 55], "types": ["Bug", "Rock"], "abilities": ["Shell Armor", "Sturdy", "Weak Armor"], "tier": ["LC"], "form": "Base"}}, "overview": "Dwebble can set entry hazards very well and is a decent Shell Smash user. Weak Armor allows Dwebble to move before any opposing Pokemon after taking a physical hit, making it possible to set up an extra layer of hazards or remove a foe's item while still posing a threat due to its high Speed. Dwebble's other ability in Sturdy is incredibly good along with Berry Juice, and it allows Dwebble to be useful in every game. This combination also allows Dwebble to set up Shell Smash more consistently. While Dwebble faces competition from Pokemon like Shellder as a Shell Smash user and Ferroseed and Onix as a general utility Pokemon and Stealth Rock setter, Dwebble is able to find a niche through its unique coverage, ability to lay multiple hazards, and combination of Sturdy, Shell Smash, and Berry Juice. Dwebble does have some faults, though: it is fairly bad against Pokemon like Onix and Mienfoo, which can outspeed it and shut it down with Taunt, and it does very poorly against most other hazard setters and removers, like Onix and Staryu. Dwebble does not function very well as a check to Flying-types because it does not resist their STAB moves, making it function much less effectively than Pokemon like Onix, which is both a hazard setter and a good Flying-type check. In addition, Dwebble does not have a good defensive typing, as it is weak to Stealth Rock. Dwebble also struggles against and typically loses to Fighting-types, which is bad because they are very common. Finally, Dwebble is weak to the priority move Aqua Jet from Pokemon like Tirtouga and Corphish.\n", "strategies' format": "LC", "strategies": [{"name": "Entry Hazard Setter", "stats": [145, 205, 225, 95, 106, 225], "type": ["Bug", "Rock"], "usage": "Dwebble is great when used as a lead to set entry hazards and remove the opposing lead's item. Be wary, however, of leading with Dwebble against an Onix, as Onix can use Taunt on Dwebble and proceed to KO it easily with Rock Blast. Dwebble can also function as a check to Flying-types due to either SturdyJuice or its raw Eviolite-boosted physical bulk and its ability to hit them super effectively with Rock Blast. It will, however, take a lot of damage from them, so be careful about relying solely on Dwebble to check them. Use Knock Off on predicted switch-ins like Timburr and Mienfoo to remove their Eviolites. If Dwebble is the SturdyJuice variant, it can sponge at minimum one hit from sweepers that have already set up\u2014assuming there are no hazards on your side of the field\u2014and potentially KO them with Rock Blast or Earthquake. Should it be unable to KO them, Dwebble can make it easier for other teammates to KO them by removing its item with Knock Off, lessening its bulk or recovery. This does not apply to Shellder, which can get around Sturdy. Dwebble can also switch in a couple times due to its recovery from Berry Juice and set up one layer of hazards each time if you wish\u2014this does, however, make it unlikely that Dwebble will be able to set up multiple layers of hazards, since your opponent will easily be able to switch in a check or counter and KO Dwebble. Try not to switch in Dwebble on Fighting-types, as they can all reliably beat it one-on-one. You can, however, switch in Weak Armor variants to be able to reliably set up Stealth Rock. SturdyJuice Dwebble can switch into Stealth Rock when at a bit over half of its health to activate Berry Juice and heal back to full HP; try to take advantage of this to increase Dwebble's utility over the course of the battle.", "moves": [["Stealth Rock"], ["Spikes"], ["Rock Blast"], ["Knock Off"]], "item": [" Eviolite", " Berry Juice"], "ability": ["Weak Armor", "Sturdy"], "nature": ["Jolly"], "ev spread": [36, 156, 76, 0, 0, 236], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Shell Smash", "stats": [136, 247, 206, 95, 106, 205], "type": ["Bug", "Rock"], "usage": "Use Dwebble as a sweeper or as a way to weaken the opponent's team at the start of the game. It is better used as a late-game sweeper, as Pokemon like Timburr can beat it easily should it attempt to set up at the start of the game. Dwebble can also attempt to weaken its own checks in the early-game with Knock Off before trying to sweep later in the game, but it should be wary of breaking Sturdy if hazards are up. Make sure to weaken bulkier Pokemon like Timburr and Foongus before sweeping with Dwebble\u2014even with Aerial Ace, Dwebble can only do around 66% to these threats. Also make sure to remove or weaken defensively strong Ground-types like Mudbray and Hippopotas before trying to sweep with Dwebble, as both can tank hits and respond with super effective Rock-type moves; Hippopotas can even phaze Dwebble. Bulky Pokemon in general should be weakened before you try to sweep with Dwebble\u2014Spritzee barely takes 50% from Dwebble's Earthquake at +2, and bulky Water-types like Staryu and Slowpoke can take a hit and return fire with a super effective Water-type move. Do your best to make sure that there are no entry hazards on the field before sending Dwebble in, as it really does not like having Sturdy broken. With the ability to set up Shell Smash at low risk, Dwebble can make holes in the opponent's team or sweep it rather easily. Finally, with the SturdyJuice combination, Dwebble can itself be a check to non-Shellder setup sweepers after they have already set up.", "moves": [["Shell Smash"], ["Rock Blast"], ["Earthquake"], ["Substitute", "Knock Off", "Aerial Ace"]], "item": [" Berry Juice"], "ability": ["Sturdy"], "nature": ["Adamant"], "ev spread": [0, 236, 0, 0, 0, 236], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Fast Taunt Users", "Status", "Cottonee", "Fighting-types", "Ground-types", "Steel-types", "Bulky Water-types", "Bulky Pokemon"], "credits": ["Written by rssp1", "Quality checked by Hilomilo, Nineage, Corporal Levi,  and Xayah", "Grammar checked by The Dutch Plumberjack and CryoGyro"]}
+{
+    "name": "Dwebble",
+    "forms": {
+        "Base": {
+            "base stats": [
+                50,
+                65,
+                85,
+                35,
+                35,
+                55
+            ],
+            "types": [
+                "Bug",
+                "Rock"
+            ],
+            "abilities": [
+                "Shell Armor",
+                "Sturdy",
+                "Weak Armor"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Dwebble can set entry hazards very well and is a decent Shell Smash user. Weak Armor allows Dwebble to move before any opposing Pokemon after taking a physical hit, making it possible to set up an extra layer of hazards or remove a foe's item while still posing a threat due to its high Speed. Dwebble's other ability in Sturdy is incredibly good along with Berry Juice, and it allows Dwebble to be useful in every game. This combination also allows Dwebble to set up Shell Smash more consistently. While Dwebble faces competition from Pokemon like Shellder as a Shell Smash user and Ferroseed and Onix as a general utility Pokemon and Stealth Rock setter, Dwebble is able to find a niche through its unique coverage, ability to lay multiple hazards, and combination of Sturdy, Shell Smash, and Berry Juice. Dwebble does have some faults, though: it is fairly bad against Pokemon like Onix and Mienfoo, which can outspeed it and shut it down with Taunt, and it does very poorly against most other hazard setters and removers, like Onix and Staryu. Dwebble does not function very well as a check to Flying-types because it does not resist their STAB moves, making it function much less effectively than Pokemon like Onix, which is both a hazard setter and a good Flying-type check. In addition, Dwebble does not have a good defensive typing, as it is weak to Stealth Rock. Dwebble also struggles against and typically loses to Fighting-types, which is bad because they are very common. Finally, Dwebble is weak to the priority move Aqua Jet from Pokemon like Tirtouga and Corphish.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Entry Hazard Setter",
+            "stats": [
+                145,
+                205,
+                225,
+                95,
+                106,
+                225
+            ],
+            "type": [
+                "Bug",
+                "Rock"
+            ],
+            "usage": "Dwebble is great when used as a lead to set entry hazards and remove the opposing lead's item. Be wary, however, of leading with Dwebble against an Onix, as Onix can use Taunt on Dwebble and proceed to KO it easily with Rock Blast. Dwebble can also function as a check to Flying-types due to either SturdyJuice or its raw Eviolite-boosted physical bulk and its ability to hit them super effectively with Rock Blast. It will, however, take a lot of damage from them, so be careful about relying solely on Dwebble to check them. Use Knock Off on predicted switch-ins like Timburr and Mienfoo to remove their Eviolites. If Dwebble is the SturdyJuice variant, it can sponge at minimum one hit from sweepers that have already set up\u2014assuming there are no hazards on your side of the field\u2014and potentially KO them with Rock Blast or Earthquake. Should it be unable to KO them, Dwebble can make it easier for other teammates to KO them by removing its item with Knock Off, lessening its bulk or recovery. This does not apply to Shellder, which can get around Sturdy. Dwebble can also switch in a couple times due to its recovery from Berry Juice and set up one layer of hazards each time if you wish\u2014this does, however, make it unlikely that Dwebble will be able to set up multiple layers of hazards, since your opponent will easily be able to switch in a check or counter and KO Dwebble. Try not to switch in Dwebble on Fighting-types, as they can all reliably beat it one-on-one. You can, however, switch in Weak Armor variants to be able to reliably set up Stealth Rock. SturdyJuice Dwebble can switch into Stealth Rock when at a bit over half of its health to activate Berry Juice and heal back to full HP; try to take advantage of this to increase Dwebble's utility over the course of the battle.",
+            "moves": [
+                [
+                    "Stealth Rock"
+                ],
+                [
+                    "Spikes"
+                ],
+                [
+                    "Rock Blast"
+                ],
+                [
+                    "Knock Off"
+                ]
+            ],
+            "item": [
+                " Eviolite",
+                " Berry Juice"
+            ],
+            "ability": [
+                "Weak Armor",
+                "Sturdy"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                36,
+                156,
+                76,
+                0,
+                0,
+                236
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Shell Smash",
+            "stats": [
+                136,
+                247,
+                206,
+                95,
+                106,
+                205
+            ],
+            "type": [
+                "Bug",
+                "Rock"
+            ],
+            "usage": "Use Dwebble as a sweeper or as a way to weaken the opponent's team at the start of the game. It is better used as a late-game sweeper, as Pokemon like Timburr can beat it easily should it attempt to set up at the start of the game. Dwebble can also attempt to weaken its own checks in the early-game with Knock Off before trying to sweep later in the game, but it should be wary of breaking Sturdy if hazards are up. Make sure to weaken bulkier Pokemon like Timburr and Foongus before sweeping with Dwebble\u2014even with Aerial Ace, Dwebble can only do around 66% to these threats. Also make sure to remove or weaken defensively strong Ground-types like Mudbray and Hippopotas before trying to sweep with Dwebble, as both can tank hits and respond with super effective Rock-type moves; Hippopotas can even phaze Dwebble. Bulky Pokemon in general should be weakened before you try to sweep with Dwebble\u2014Spritzee barely takes 50% from Dwebble's Earthquake at +2, and bulky Water-types like Staryu and Slowpoke can take a hit and return fire with a super effective Water-type move. Do your best to make sure that there are no entry hazards on the field before sending Dwebble in, as it really does not like having Sturdy broken. With the ability to set up Shell Smash at low risk, Dwebble can make holes in the opponent's team or sweep it rather easily. Finally, with the SturdyJuice combination, Dwebble can itself be a check to non-Shellder setup sweepers after they have already set up.",
+            "moves": [
+                [
+                    "Shell Smash"
+                ],
+                [
+                    "Rock Blast"
+                ],
+                [
+                    "Earthquake"
+                ],
+                [
+                    "Substitute",
+                    "Knock Off",
+                    "Aerial Ace"
+                ]
+            ],
+            "item": [
+                " Berry Juice"
+            ],
+            "ability": [
+                "Sturdy"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                0,
+                236,
+                0,
+                0,
+                0,
+                236
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Fast Taunt Users",
+        "Status",
+        "Cottonee",
+        "Fighting-types",
+        "Ground-types",
+        "Steel-types",
+        "Bulky Water-types",
+        "Bulky Pokemon"
+    ],
+    "credits": [
+        "Written by rssp1",
+        "Quality checked by Hilomilo, Nineage, Corporal Levi,  and Xayah",
+        "Grammar checked by The Dutch Plumberjack and CryoGyro"
+    ]
+}

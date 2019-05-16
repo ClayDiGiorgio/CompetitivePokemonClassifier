@@ -1,1 +1,266 @@
-{"name": "Ponyta", "forms": {"Base": {"base stats": [50, 85, 55, 65, 65, 90], "types": ["Fire"], "abilities": ["Flame Body", "Flash Fire", "Run Away"], "tier": ["LC"], "form": "Base"}}, "overview": "Ponyta is an extremely potent and versatile threat in the LC metagame thanks to its blazing Speed tier, impressive defensive stats, and workable offenses. Its decent number of viable sets, ranging from utility to offensively oriented, allows it to edge out its competition in the tier's other Fire-types and always leave its opponent guessing, while its fantastic ability in Flame Body allows Ponyta to spread burns and check most physical attackers. Unfortunately, Ponyta's Stealth Rock weakness and vulnerability to Diglett serve as detriments to it given the prevalence of these factors. Furthermore, Ponyta is usually unable to outlast its counters due to the fairly low PP of its only reliable recovery option in Morning Sun.\n", "strategies' format": "LC", "strategies": [{"name": "Physical Firium Z", "stats": [136, 265, 165, 149, 166, 291], "type": ["Fire"], "usage": "Even without Eviolite, Ponyta is still moderately bulky and can come in on most neutral or resisted attacks and threaten the foe, though it is best for Ponyta to come in on a free switch to reduce its vulnerability to priority after chip damage. Be careful of doing so if you want to bluff a non-Z-Move set, since the lack of Eviolite may give it away to the opponent. Ponyta's typing and decent natural bulk allow it to come in on Pokemon like Spritzee and Foongus and begin threatening them. Flame Body can be used to pivot in on Mienfoo and threaten to burn it, as Ponyta takes little damage from Fake Out, Knock Off, and U-turn, although Ponyta should try to avoid switching in on High Jump Kick. Setting up with Flame Charge is important, as it allows Ponyta to outspeed Diglett and almost every Choice Scarf Pokemon. Flame Charge can be used on Pokemon Ponyta isn't particularly threatened by or Pokemon that it forces out like Foongus and Snivy. Inferno Overdrive is best used only after Onix faints, as Onix is extremely difficult for Ponyta to take on without a large amount of prior damage. Inferno Overdrive can also be used to KO a Pokemon Ponyta could not defeat with just Flare Blitz, like high HP Timburr or Mienfoo, if the opponent lacks a solid counter to Ponyta.", "moves": [["Flame Charge"], ["Flare Blitz"], ["High Horsepower"], ["Morning Sun", "Wild Charge"]], "item": [" Firium Z"], "ability": ["Flame Body"], "nature": ["Jolly"], "ev spread": [0, 236, 76, 0, 0, 196], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Physical Utility", "stats": [136, 225, 185, 149, 185, 291], "type": ["Fire"], "usage": "Ponyta's Flame Body gives it the ability to check a number of physical attackers, which means one should feel free to liberally switch Ponyta into non-Rock- or Ground-type physical attacks. If Ponyta doesn't burn its foe upon switching in, it can make use of its good Speed to burn the foe with Will-O-Wisp and recover its health immediately afterward. Both Snivy and Spritzee are Pokemon that Ponyta is unthreatened by, though it should be wary of Snivy's Glare. Ponyta can threaten most teams with the combination of Will-O-Wisp, Flare Blitz, and High Horsepower, as most Pokemon that can switch into Ponyta's attacking moves are crippled by a burn.", "moves": [["Flare Blitz"], ["High Horsepower", "Flame Charge"], ["Will-O-Wisp", "Flame Charge"], ["Morning Sun", "Flame Charge"]], "item": [" Eviolite", " Berry Juice"], "ability": ["Flame Body"], "nature": ["Jolly"], "ev spread": [0, 76, 156, 0, 76, 196], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Bloom Doom", "stats": [136, 185, 165, 225, 166, 291], "type": ["Fire"], "usage": "This set can use its access to Bloom Doom to either wallbreak early- or mid-game by breaking through a bulky Water-, Rock-, or Ground-type, as this can allow a teammate to sweep late-game or go for a sweep itself late-game thanks to a Flame Charge boost and the ability to break through one of its checks. The first move Ponyta should usually go for is Flame Charge, as this will give it the Speed boost it needs to outspeed Choice Scarf users and Diglett, making it much harder to revenge kill, while also breaking Sturdy on switch-ins like Onix and bringing very bulky Ground-types like Hippopotas and RestTalk Mudbray in range of being KOed by Bloom Doom. If the opponent has a Weak Armor user like Onix or Kabuto, be wary when using Flame Charge, as they will be able to outspeed or Speed tie Ponyta after both get boosted. However, early- or mid-game, it can be smart to go for a Fire Blast or Flamethrower in order to wear down Ponyta's switch-ins so that it can potentially sweep. Since Bloom Doom can only be used once, you should be very wary when using it, as your opponent might try to play around it by switching out, and wasting it will mean this set fails to do its job. If your opponent does not carry bulky Water- and Rock-types or they have all been KOed, Bloom Doom can instead be used to significantly hurt a different bulky Pokemon like Mienfoo or Timburr, as it is more powerful than even STAB Fire Blast. Once Ponyta's checks and counters have been significantly weakened, it can utilize the Speed boost from Flame Charge to sweep. Ponyta does not need all bulky Water- and Rock-types removed if it still has access to Bloom Doom, but it will be unable to sweep if there is still more than one Fire-resistant Pokemon on the opponent's team. Hypnosis can be used to cripple a foe significantly and is especially useful when Focus Sash Abra wants to revenge kill Ponyta, as Ponyta can put it to sleep with the boosted Speed from Flame Charge and proceed to knock it out in two turns. However, relying too much on Hypnosis is generally a bad idea, since it has a low accuracy, and sleep turns are unpredictable. Ponyta can also use Hypnosis on other Pokemon that can take a hit from Ponyta and KO it back, such as Mienfoo, Vullaby, and Alolan Grimer, Pokemon that it can't significantly threaten, such as Mareanie and Munchlax, and Pokemon that might attempt to set up, such as Timburr, Scraggy, and Spritzee. Due to the lack of Eviolite on this set, Ponyta is quite frail, meaning it should not be brought in directly. Instead, bring it in via a slow U-turn or Volt Switch or after a teammate has gone down. In addition, this Ponyta set should avoid taking strong hits as much as possible, as it will often go down very easily.", "moves": [["Solar Beam"], ["Flamethrower", "Fire Blast"], ["Flame Charge"], ["Hypnosis"]], "item": [" Grassium Z"], "ability": ["Flash Fire"], "nature": ["Timid"], "ev spread": [0, 0, 76, 236, 0, 196], "iv spread": [31, 31, 31, 31, 31, 31]}, {"name": "Sunny Day", "stats": [136, 185, 185, 205, 166, 291], "type": ["Fire"], "usage": "After setting up with Sunny Day, it is best that Ponyta uses Fire Blast, as the boost from sun will make it extremely powerful. Ponyta must be wary of opposing Water- and Rock-types, however, and should use Solar Beam when predicting a switch into Pokemon of these types. Ponyta should switch out against foes that don't take notable damage from either of its moves, such as Archen and Mareanie, to avoid being inflicted with status or hit by a super effective attack. Morning Sun can be used when Ponyta is low on HP and is best used against foes that can't do sufficient damage to Ponyta, such as Larvesta and Magnemite. Ponyta must ensure that it can reliably set up Sunny Day if holding a Firium Z, as it will severely lack in bulk compared to when it's holding an Eviolite. Pokemon that can't do much damage to Ponyta, such as Spritzee, Ferroseed, and Snivy, generally make for good setup opportunities.", "moves": [["Fire Blast"], ["Solar Beam"], ["Sunny Day"], ["Morning Sun"]], "item": [" Eviolite", " Firium Z"], "ability": ["Flame Body"], "nature": ["Timid"], "ev spread": [0, 0, 156, 156, 0, 196], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Diglett", "Water-types", "Rock-types", "Mudbray", "Sandstorm and Hail"], "credits": ["Written by Hilomilo, Xayah,  and Merritt", "Quality checked by OP, Nineage, Hilomilo, jake,  and Corporal Levi", "Grammar checked by Mr. Uncompetitive, A Cake Wearing A Hat, Fireflame479, Eyan,  and The Dutch Plumberjack"]}
+{
+    "name": "Ponyta",
+    "forms": {
+        "Base": {
+            "base stats": [
+                50,
+                85,
+                55,
+                65,
+                65,
+                90
+            ],
+            "types": [
+                "Fire"
+            ],
+            "abilities": [
+                "Flame Body",
+                "Flash Fire",
+                "Run Away"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Ponyta is an extremely potent and versatile threat in the LC metagame thanks to its blazing Speed tier, impressive defensive stats, and workable offenses. Its decent number of viable sets, ranging from utility to offensively oriented, allows it to edge out its competition in the tier's other Fire-types and always leave its opponent guessing, while its fantastic ability in Flame Body allows Ponyta to spread burns and check most physical attackers. Unfortunately, Ponyta's Stealth Rock weakness and vulnerability to Diglett serve as detriments to it given the prevalence of these factors. Furthermore, Ponyta is usually unable to outlast its counters due to the fairly low PP of its only reliable recovery option in Morning Sun.\n",
+    "strategies' format": "LC",
+    "strategies": [
+        {
+            "name": "Physical Firium Z",
+            "stats": [
+                136,
+                265,
+                165,
+                149,
+                166,
+                291
+            ],
+            "type": [
+                "Fire"
+            ],
+            "usage": "Even without Eviolite, Ponyta is still moderately bulky and can come in on most neutral or resisted attacks and threaten the foe, though it is best for Ponyta to come in on a free switch to reduce its vulnerability to priority after chip damage. Be careful of doing so if you want to bluff a non-Z-Move set, since the lack of Eviolite may give it away to the opponent. Ponyta's typing and decent natural bulk allow it to come in on Pokemon like Spritzee and Foongus and begin threatening them. Flame Body can be used to pivot in on Mienfoo and threaten to burn it, as Ponyta takes little damage from Fake Out, Knock Off, and U-turn, although Ponyta should try to avoid switching in on High Jump Kick. Setting up with Flame Charge is important, as it allows Ponyta to outspeed Diglett and almost every Choice Scarf Pokemon. Flame Charge can be used on Pokemon Ponyta isn't particularly threatened by or Pokemon that it forces out like Foongus and Snivy. Inferno Overdrive is best used only after Onix faints, as Onix is extremely difficult for Ponyta to take on without a large amount of prior damage. Inferno Overdrive can also be used to KO a Pokemon Ponyta could not defeat with just Flare Blitz, like high HP Timburr or Mienfoo, if the opponent lacks a solid counter to Ponyta.",
+            "moves": [
+                [
+                    "Flame Charge"
+                ],
+                [
+                    "Flare Blitz"
+                ],
+                [
+                    "High Horsepower"
+                ],
+                [
+                    "Morning Sun",
+                    "Wild Charge"
+                ]
+            ],
+            "item": [
+                " Firium Z"
+            ],
+            "ability": [
+                "Flame Body"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                236,
+                76,
+                0,
+                0,
+                196
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Physical Utility",
+            "stats": [
+                136,
+                225,
+                185,
+                149,
+                185,
+                291
+            ],
+            "type": [
+                "Fire"
+            ],
+            "usage": "Ponyta's Flame Body gives it the ability to check a number of physical attackers, which means one should feel free to liberally switch Ponyta into non-Rock- or Ground-type physical attacks. If Ponyta doesn't burn its foe upon switching in, it can make use of its good Speed to burn the foe with Will-O-Wisp and recover its health immediately afterward. Both Snivy and Spritzee are Pokemon that Ponyta is unthreatened by, though it should be wary of Snivy's Glare. Ponyta can threaten most teams with the combination of Will-O-Wisp, Flare Blitz, and High Horsepower, as most Pokemon that can switch into Ponyta's attacking moves are crippled by a burn.",
+            "moves": [
+                [
+                    "Flare Blitz"
+                ],
+                [
+                    "High Horsepower",
+                    "Flame Charge"
+                ],
+                [
+                    "Will-O-Wisp",
+                    "Flame Charge"
+                ],
+                [
+                    "Morning Sun",
+                    "Flame Charge"
+                ]
+            ],
+            "item": [
+                " Eviolite",
+                " Berry Juice"
+            ],
+            "ability": [
+                "Flame Body"
+            ],
+            "nature": [
+                "Jolly"
+            ],
+            "ev spread": [
+                0,
+                76,
+                156,
+                0,
+                76,
+                196
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Bloom Doom",
+            "stats": [
+                136,
+                185,
+                165,
+                225,
+                166,
+                291
+            ],
+            "type": [
+                "Fire"
+            ],
+            "usage": "This set can use its access to Bloom Doom to either wallbreak early- or mid-game by breaking through a bulky Water-, Rock-, or Ground-type, as this can allow a teammate to sweep late-game or go for a sweep itself late-game thanks to a Flame Charge boost and the ability to break through one of its checks. The first move Ponyta should usually go for is Flame Charge, as this will give it the Speed boost it needs to outspeed Choice Scarf users and Diglett, making it much harder to revenge kill, while also breaking Sturdy on switch-ins like Onix and bringing very bulky Ground-types like Hippopotas and RestTalk Mudbray in range of being KOed by Bloom Doom. If the opponent has a Weak Armor user like Onix or Kabuto, be wary when using Flame Charge, as they will be able to outspeed or Speed tie Ponyta after both get boosted. However, early- or mid-game, it can be smart to go for a Fire Blast or Flamethrower in order to wear down Ponyta's switch-ins so that it can potentially sweep. Since Bloom Doom can only be used once, you should be very wary when using it, as your opponent might try to play around it by switching out, and wasting it will mean this set fails to do its job. If your opponent does not carry bulky Water- and Rock-types or they have all been KOed, Bloom Doom can instead be used to significantly hurt a different bulky Pokemon like Mienfoo or Timburr, as it is more powerful than even STAB Fire Blast. Once Ponyta's checks and counters have been significantly weakened, it can utilize the Speed boost from Flame Charge to sweep. Ponyta does not need all bulky Water- and Rock-types removed if it still has access to Bloom Doom, but it will be unable to sweep if there is still more than one Fire-resistant Pokemon on the opponent's team. Hypnosis can be used to cripple a foe significantly and is especially useful when Focus Sash Abra wants to revenge kill Ponyta, as Ponyta can put it to sleep with the boosted Speed from Flame Charge and proceed to knock it out in two turns. However, relying too much on Hypnosis is generally a bad idea, since it has a low accuracy, and sleep turns are unpredictable. Ponyta can also use Hypnosis on other Pokemon that can take a hit from Ponyta and KO it back, such as Mienfoo, Vullaby, and Alolan Grimer, Pokemon that it can't significantly threaten, such as Mareanie and Munchlax, and Pokemon that might attempt to set up, such as Timburr, Scraggy, and Spritzee. Due to the lack of Eviolite on this set, Ponyta is quite frail, meaning it should not be brought in directly. Instead, bring it in via a slow U-turn or Volt Switch or after a teammate has gone down. In addition, this Ponyta set should avoid taking strong hits as much as possible, as it will often go down very easily.",
+            "moves": [
+                [
+                    "Solar Beam"
+                ],
+                [
+                    "Flamethrower",
+                    "Fire Blast"
+                ],
+                [
+                    "Flame Charge"
+                ],
+                [
+                    "Hypnosis"
+                ]
+            ],
+            "item": [
+                " Grassium Z"
+            ],
+            "ability": [
+                "Flash Fire"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                76,
+                236,
+                0,
+                196
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        },
+        {
+            "name": "Sunny Day",
+            "stats": [
+                136,
+                185,
+                185,
+                205,
+                166,
+                291
+            ],
+            "type": [
+                "Fire"
+            ],
+            "usage": "After setting up with Sunny Day, it is best that Ponyta uses Fire Blast, as the boost from sun will make it extremely powerful. Ponyta must be wary of opposing Water- and Rock-types, however, and should use Solar Beam when predicting a switch into Pokemon of these types. Ponyta should switch out against foes that don't take notable damage from either of its moves, such as Archen and Mareanie, to avoid being inflicted with status or hit by a super effective attack. Morning Sun can be used when Ponyta is low on HP and is best used against foes that can't do sufficient damage to Ponyta, such as Larvesta and Magnemite. Ponyta must ensure that it can reliably set up Sunny Day if holding a Firium Z, as it will severely lack in bulk compared to when it's holding an Eviolite. Pokemon that can't do much damage to Ponyta, such as Spritzee, Ferroseed, and Snivy, generally make for good setup opportunities.",
+            "moves": [
+                [
+                    "Fire Blast"
+                ],
+                [
+                    "Solar Beam"
+                ],
+                [
+                    "Sunny Day"
+                ],
+                [
+                    "Morning Sun"
+                ]
+            ],
+            "item": [
+                " Eviolite",
+                " Firium Z"
+            ],
+            "ability": [
+                "Flame Body"
+            ],
+            "nature": [
+                "Timid"
+            ],
+            "ev spread": [
+                0,
+                0,
+                156,
+                156,
+                0,
+                196
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Diglett",
+        "Water-types",
+        "Rock-types",
+        "Mudbray",
+        "Sandstorm and Hail"
+    ],
+    "credits": [
+        "Written by Hilomilo, Xayah,  and Merritt",
+        "Quality checked by OP, Nineage, Hilomilo, jake,  and Corporal Levi",
+        "Grammar checked by Mr. Uncompetitive, A Cake Wearing A Hat, Fireflame479, Eyan,  and The Dutch Plumberjack"
+    ]
+}

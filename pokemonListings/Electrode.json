@@ -1,1 +1,97 @@
-{"name": "Electrode", "forms": {"Base": {"base stats": [60, 50, 70, 80, 80, 150], "types": ["Electric"], "abilities": ["Aftermath", "Soundproof", "Static"], "tier": ["Untiered"], "form": "Base"}}, "overview": "Thanks to a phenomenal Speed stat and access to both Reflect and Light Screen, Electrode is able to set itself apart from PU's other Electric-types as the best dual screens user in the tier, functioning as a potent lead for hyper offense teams. Electrode also is the fastest user of Taunt in PU and can deny opposing Taunt from the likes of Froslass and Lycanroc, prevent the use of Defog to clear Reflect and Light Screen from the field, and obstruct setup from sweepers such as Oricorio-E and Lilligant to compensate for its lack of offensive presence. Electrode's access to Explosion and Volt Switch allows it to instantly generate momentum for its team and maximizes the number of turns Electrode's teammates can utilize before screens wear off, though Explosion will sacrifice Electrode in the process. Unfortunately, Electrode is only viable on screens-based hyper offense teams and is outclassed offensively by other Electric-types such as Oricorio-E and Alolan Raichu due to their greater offensive stats, more expansive movepools, secondary typing, and access to setup moves in the form of Calm Mind and Nasty Plot, respectively. Screens-based hyper offense teams are heavily reliant on offensive pressure to function and, as a result, are inconsistent against teams that have enough defensive checks to common breakers and setup sweepers. Electrode is also vulnerable to Prankster users such as Liepard and Sableye, as they can use Taunt on Electrode before it can get up Reflect and Light Screen. Choice Scarf Primeape is also able to outspeed Electrode and restrict it to only setting up one screen by threatening it with Close Combat, while Ground-type Stealth Rock setters such as Mudsdale and Golurk can punish Electrode with Earthquake if it opts to use Taunt.\n", "strategies' format": "PU", "strategies": [{"name": "Dual Screens", "stats": [219, 136, 177, 176, 196, 438], "type": ["Electric"], "usage": "Electrode is best used as a lead in the majority of games, preventing entry hazards from the opponent's Pokemon with Taunt and setting Reflect and Light Screen to provide early momentum. When faced against specific hazard setters such as Mudsdale, however, alternative leads should be sent out to take advantage of them and conserve Electrode's screens for a later period in the match. It is also preferable to lead with hazard setters when against bulkier teams to provide additional chip damage that can help secure KOs later in the match. After dual screens have been set up, Taunt is likely to have worn off. Using Taunt again instead of immediately pivoting can sometimes be beneficial to deny hazards and supply teammates with a temporary immunity to status moves such as Toxic and Thunder Wave from the likes of Metang and Mesprit. After dual screens have been set up, Electrode should look to pivot into a teammate such as Lilligant or Stoutland that can take advantage of dual screens as soon as possible to maximize the number of turns in which the defense buff provided by dual screens can be utilized.", "moves": [["Reflect"], ["Light Screen"], ["Taunt"], ["Explosion", "Volt Switch"]], "item": [" Light Clay"], "ability": ["Aftermath"], "nature": ["Jolly", "Timid"], "ev spread": [252, 0, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Electric-immune Pokemon", "Faster Pokemon", "Knock Off"], "credits": ["Written by uhuhuhu7", "Quality checked by 2xTheTap, TJ,  and tondas", "Grammar checked by The Dutch Plumberjack and Fireflame479"]}
+{
+    "name": "Electrode",
+    "forms": {
+        "Base": {
+            "base stats": [
+                60,
+                50,
+                70,
+                80,
+                80,
+                150
+            ],
+            "types": [
+                "Electric"
+            ],
+            "abilities": [
+                "Aftermath",
+                "Soundproof",
+                "Static"
+            ],
+            "tier": [
+                "Untiered"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Thanks to a phenomenal Speed stat and access to both Reflect and Light Screen, Electrode is able to set itself apart from PU's other Electric-types as the best dual screens user in the tier, functioning as a potent lead for hyper offense teams. Electrode also is the fastest user of Taunt in PU and can deny opposing Taunt from the likes of Froslass and Lycanroc, prevent the use of Defog to clear Reflect and Light Screen from the field, and obstruct setup from sweepers such as Oricorio-E and Lilligant to compensate for its lack of offensive presence. Electrode's access to Explosion and Volt Switch allows it to instantly generate momentum for its team and maximizes the number of turns Electrode's teammates can utilize before screens wear off, though Explosion will sacrifice Electrode in the process. Unfortunately, Electrode is only viable on screens-based hyper offense teams and is outclassed offensively by other Electric-types such as Oricorio-E and Alolan Raichu due to their greater offensive stats, more expansive movepools, secondary typing, and access to setup moves in the form of Calm Mind and Nasty Plot, respectively. Screens-based hyper offense teams are heavily reliant on offensive pressure to function and, as a result, are inconsistent against teams that have enough defensive checks to common breakers and setup sweepers. Electrode is also vulnerable to Prankster users such as Liepard and Sableye, as they can use Taunt on Electrode before it can get up Reflect and Light Screen. Choice Scarf Primeape is also able to outspeed Electrode and restrict it to only setting up one screen by threatening it with Close Combat, while Ground-type Stealth Rock setters such as Mudsdale and Golurk can punish Electrode with Earthquake if it opts to use Taunt.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Dual Screens",
+            "stats": [
+                219,
+                136,
+                177,
+                176,
+                196,
+                438
+            ],
+            "type": [
+                "Electric"
+            ],
+            "usage": "Electrode is best used as a lead in the majority of games, preventing entry hazards from the opponent's Pokemon with Taunt and setting Reflect and Light Screen to provide early momentum. When faced against specific hazard setters such as Mudsdale, however, alternative leads should be sent out to take advantage of them and conserve Electrode's screens for a later period in the match. It is also preferable to lead with hazard setters when against bulkier teams to provide additional chip damage that can help secure KOs later in the match. After dual screens have been set up, Taunt is likely to have worn off. Using Taunt again instead of immediately pivoting can sometimes be beneficial to deny hazards and supply teammates with a temporary immunity to status moves such as Toxic and Thunder Wave from the likes of Metang and Mesprit. After dual screens have been set up, Electrode should look to pivot into a teammate such as Lilligant or Stoutland that can take advantage of dual screens as soon as possible to maximize the number of turns in which the defense buff provided by dual screens can be utilized.",
+            "moves": [
+                [
+                    "Reflect"
+                ],
+                [
+                    "Light Screen"
+                ],
+                [
+                    "Taunt"
+                ],
+                [
+                    "Explosion",
+                    "Volt Switch"
+                ]
+            ],
+            "item": [
+                " Light Clay"
+            ],
+            "ability": [
+                "Aftermath"
+            ],
+            "nature": [
+                "Jolly",
+                "Timid"
+            ],
+            "ev spread": [
+                252,
+                0,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Electric-immune Pokemon",
+        "Faster Pokemon",
+        "Knock Off"
+    ],
+    "credits": [
+        "Written by uhuhuhu7",
+        "Quality checked by 2xTheTap, TJ,  and tondas",
+        "Grammar checked by The Dutch Plumberjack and Fireflame479"
+    ]
+}

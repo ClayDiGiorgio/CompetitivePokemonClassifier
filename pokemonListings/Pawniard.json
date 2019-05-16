@@ -1,1 +1,99 @@
-{"name": "Pawniard", "forms": {"Base": {"base stats": [45, 85, 70, 40, 40, 60], "types": ["Dark", "Steel"], "abilities": ["Defiant", "Inner Focus", "Pressure"], "tier": ["LC"], "form": "Base"}}, "overview": "Pawniard has a unique typing that allows it to hit almost the entire metagame for neutral damage and serve as a switch-in to a decent number of Pokemon such as physical Skuntank and Sableye. Defiant allows Pawniard to take advantage of Defog and other stat-lowering moves, which furthers its ability to switch into physical Skuntank and other Defog users, though it struggles against many other common Defog users such as Swanna and Silvally-Fairy, which can 2HKO it if they can predict a switch. It also has a good movepool, with access to Knock Off, priority in the form of Sucker Punch, and Swords Dance, which gives it a form of setup. These moves allow Pawniard to serve as a decent wallbreaker and sweeper. However, Pawniard's stats can be overall very underwhelming, including its Attack, which often requires a Swords Dance boost to break through many foes. Its bulk is mediocre even with Eviolite, and especially without, leaving it struggling to switch into even resisted hits from foes such as Oricorio-G and Haunter too many times. Finally, Pawniard\u2019s low Speed often hinders it when sweeping, although its access to Sucker Punch can somewhat make up for that. Fighting-types give Pawniard a lot of trouble and can put a stop to its sweep with relative ease, with many having higher Speed or access to Mach Punch. Bulky Ground-types also concern Pawniard, as they can take hits before OHKOing in return. It also receives a good amount of competition from other Swords Dance users such as Alolan Raticate and Absol due to their higher Attack and Speed stats. Nonetheless, Pawniard maintains its niche with its great ability in Defiant and a unique typing with some nice coverage and resistances.\n", "strategies' format": "PU", "strategies": [{"name": "Swords Dance", "stats": [126, 295, 177, 104, 116, 219], "type": ["Dark", "Steel"], "usage": "Pawniard serves as an average wallbreaker that can defeat walls such as Type: Null and Sableye, which allows teammates to more easily clean up after it. Pawniard often scares out many of these walls, as they can do little in return, which it can use as an opportunity to set up a Swords Dance. This can also be accomplished against Pokemon it resists moves from such as Mesprit. Pawniard can also utilize Swords Dance along with Sucker Punch to serve as a late-game sweeper. In this instance, it prefers to have its threats such as Primeape and Gurdurr taken out beforehand, as they can stop it from sweeping. However, Pawniard can lure these foes in early-game and take advantage of Knock Off to remove their items and cripple them. Pawniard should be switched in against a predicted move such as Skuntank's Defog or Silvally-Ghost's Parting Shot in order to activate Defiant. This leads to opponents having to decide between the risk of activating Pawniard's Defiant or leaving the entry hazards. However, be wary that the opponent may instead go for an attack or switch into a better matchup in attempt to take out Pawniard. This can be accomplished by opponents relatively easily, too, due to Pawniard's low defenses. It is because of this that Pawniard often prefers to be brought onto the field without having to take a hit, ideally after a teammate has been KOed or through a slow pivot such as Mesprit's U-turn. If you're using Sucker Punch, the opponent may take advantage of it to set up a Substitute, so watch out for Substitute users such as Alolan Dugtrio. Finally, if Pawniard shows little threat to the opposing team, it can be used to take out a specific foe such as Oricorio-G or Sableye before being sacrificed.", "moves": [["Swords Dance"], ["Knock Off"], ["Sucker Punch"], ["Iron Head"]], "item": [" Eviolite"], "ability": ["Defiant"], "nature": ["Adamant"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Fighting-types and Fighting Coverage", "Ground-types", "Will-O-Wisp", "Faster Pokemon", "Steel-types"], "credits": ["Written by UberSkitty", "Quality checked by allstarapology, Megazard,  and yogi", "Grammar checked by Fireflame479 and The Dutch Plumberjack"]}
+{
+    "name": "Pawniard",
+    "forms": {
+        "Base": {
+            "base stats": [
+                45,
+                85,
+                70,
+                40,
+                40,
+                60
+            ],
+            "types": [
+                "Dark",
+                "Steel"
+            ],
+            "abilities": [
+                "Defiant",
+                "Inner Focus",
+                "Pressure"
+            ],
+            "tier": [
+                "LC"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Pawniard has a unique typing that allows it to hit almost the entire metagame for neutral damage and serve as a switch-in to a decent number of Pokemon such as physical Skuntank and Sableye. Defiant allows Pawniard to take advantage of Defog and other stat-lowering moves, which furthers its ability to switch into physical Skuntank and other Defog users, though it struggles against many other common Defog users such as Swanna and Silvally-Fairy, which can 2HKO it if they can predict a switch. It also has a good movepool, with access to Knock Off, priority in the form of Sucker Punch, and Swords Dance, which gives it a form of setup. These moves allow Pawniard to serve as a decent wallbreaker and sweeper. However, Pawniard's stats can be overall very underwhelming, including its Attack, which often requires a Swords Dance boost to break through many foes. Its bulk is mediocre even with Eviolite, and especially without, leaving it struggling to switch into even resisted hits from foes such as Oricorio-G and Haunter too many times. Finally, Pawniard\u2019s low Speed often hinders it when sweeping, although its access to Sucker Punch can somewhat make up for that. Fighting-types give Pawniard a lot of trouble and can put a stop to its sweep with relative ease, with many having higher Speed or access to Mach Punch. Bulky Ground-types also concern Pawniard, as they can take hits before OHKOing in return. It also receives a good amount of competition from other Swords Dance users such as Alolan Raticate and Absol due to their higher Attack and Speed stats. Nonetheless, Pawniard maintains its niche with its great ability in Defiant and a unique typing with some nice coverage and resistances.\n",
+    "strategies' format": "PU",
+    "strategies": [
+        {
+            "name": "Swords Dance",
+            "stats": [
+                126,
+                295,
+                177,
+                104,
+                116,
+                219
+            ],
+            "type": [
+                "Dark",
+                "Steel"
+            ],
+            "usage": "Pawniard serves as an average wallbreaker that can defeat walls such as Type: Null and Sableye, which allows teammates to more easily clean up after it. Pawniard often scares out many of these walls, as they can do little in return, which it can use as an opportunity to set up a Swords Dance. This can also be accomplished against Pokemon it resists moves from such as Mesprit. Pawniard can also utilize Swords Dance along with Sucker Punch to serve as a late-game sweeper. In this instance, it prefers to have its threats such as Primeape and Gurdurr taken out beforehand, as they can stop it from sweeping. However, Pawniard can lure these foes in early-game and take advantage of Knock Off to remove their items and cripple them. Pawniard should be switched in against a predicted move such as Skuntank's Defog or Silvally-Ghost's Parting Shot in order to activate Defiant. This leads to opponents having to decide between the risk of activating Pawniard's Defiant or leaving the entry hazards. However, be wary that the opponent may instead go for an attack or switch into a better matchup in attempt to take out Pawniard. This can be accomplished by opponents relatively easily, too, due to Pawniard's low defenses. It is because of this that Pawniard often prefers to be brought onto the field without having to take a hit, ideally after a teammate has been KOed or through a slow pivot such as Mesprit's U-turn. If you're using Sucker Punch, the opponent may take advantage of it to set up a Substitute, so watch out for Substitute users such as Alolan Dugtrio. Finally, if Pawniard shows little threat to the opposing team, it can be used to take out a specific foe such as Oricorio-G or Sableye before being sacrificed.",
+            "moves": [
+                [
+                    "Swords Dance"
+                ],
+                [
+                    "Knock Off"
+                ],
+                [
+                    "Sucker Punch"
+                ],
+                [
+                    "Iron Head"
+                ]
+            ],
+            "item": [
+                " Eviolite"
+            ],
+            "ability": [
+                "Defiant"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Fighting-types and Fighting Coverage",
+        "Ground-types",
+        "Will-O-Wisp",
+        "Faster Pokemon",
+        "Steel-types"
+    ],
+    "credits": [
+        "Written by UberSkitty",
+        "Quality checked by allstarapology, Megazard,  and yogi",
+        "Grammar checked by Fireflame479 and The Dutch Plumberjack"
+    ]
+}

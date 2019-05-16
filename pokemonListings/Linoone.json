@@ -1,1 +1,94 @@
-{"name": "Linoone", "forms": {"Base": {"base stats": [78, 70, 61, 50, 61, 100], "types": ["Normal"], "abilities": ["Gluttony", "Pickup", "Quick Feet"], "tier": ["RU"], "form": "Base"}}, "overview": "Linoone is the only Pokemon with access to both Belly Drum and Extreme Speed, making it a unique cleaner and sweeper in UU. Linoone is able to outspeed and beat most bulky Pokemon after setting up due to its coverage moves, Seed Bomb and Stomping Tantrum, that can KO most Pokemon resistant to Extreme Speed. Linoone's ability Gluttony, with a Figy Berry, means Linoone can almost always use Belly Drum. However, even after using Belly Drum, Linoone is revenge killed by every faster Normal-resistant or -immune Pokemon such as Cobalion, Gengar, and Scizor, which uses Bullet Punch to deal massive damage. Because of its low defensive stats, Linoone can be OHKOed by many offensive threats, which makes setting up against offensive teams difficult even at full health. Furthermore, Linoone's subpar stats leave it outclassed by other setup sweepers that use priority moves like Bisharp and Scizor. Linoone is a one-time sweeper that is utterly useless before setting up and is quite frail.\n", "strategies' format": "UU", "strategies": [{"name": "Belly Drum Sweeper", "stats": [229, 261, 160, 122, 180, 240], "type": ["Normal"], "usage": "Linoone is only used as a late-game sweeper. For Linoone to be an effective sweeper, all faster threats that are immune to or resist Extreme Speed must be KOed or severely weakened. These threats include fast Ghost-types like Chandelure, Steel-types like Cobalion, and Rock-types like Mega Aerodactyl. Linoone should not switch directly into any attacks or offensive threats. Instead, bring it in to set up either after a teammate has fainted or with the support of a Volt Switch or U-turn user against Pokemon that cannot OHKO Linoone.", "moves": [["Belly Drum"], ["Extreme Speed"], ["Stomping Tantrum"], ["Seed Bomb"]], "item": [" Figy Berry"], "ability": ["Gluttony"], "nature": ["Adamant"], "ev spread": [148, 248, 8, 0, 88, 16], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Bulky Steel-types", "Faster Normal-resistant and -immune Pokemon"], "credits": ["Written by itsjustdrew", "Quality checked by Pak, Eyan,  and Kreme", "Grammar checked by A Cake Wearing A Hat and martha"]}
+{
+    "name": "Linoone",
+    "forms": {
+        "Base": {
+            "base stats": [
+                78,
+                70,
+                61,
+                50,
+                61,
+                100
+            ],
+            "types": [
+                "Normal"
+            ],
+            "abilities": [
+                "Gluttony",
+                "Pickup",
+                "Quick Feet"
+            ],
+            "tier": [
+                "RU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Linoone is the only Pokemon with access to both Belly Drum and Extreme Speed, making it a unique cleaner and sweeper in UU. Linoone is able to outspeed and beat most bulky Pokemon after setting up due to its coverage moves, Seed Bomb and Stomping Tantrum, that can KO most Pokemon resistant to Extreme Speed. Linoone's ability Gluttony, with a Figy Berry, means Linoone can almost always use Belly Drum. However, even after using Belly Drum, Linoone is revenge killed by every faster Normal-resistant or -immune Pokemon such as Cobalion, Gengar, and Scizor, which uses Bullet Punch to deal massive damage. Because of its low defensive stats, Linoone can be OHKOed by many offensive threats, which makes setting up against offensive teams difficult even at full health. Furthermore, Linoone's subpar stats leave it outclassed by other setup sweepers that use priority moves like Bisharp and Scizor. Linoone is a one-time sweeper that is utterly useless before setting up and is quite frail.\n",
+    "strategies' format": "UU",
+    "strategies": [
+        {
+            "name": "Belly Drum Sweeper",
+            "stats": [
+                229,
+                261,
+                160,
+                122,
+                180,
+                240
+            ],
+            "type": [
+                "Normal"
+            ],
+            "usage": "Linoone is only used as a late-game sweeper. For Linoone to be an effective sweeper, all faster threats that are immune to or resist Extreme Speed must be KOed or severely weakened. These threats include fast Ghost-types like Chandelure, Steel-types like Cobalion, and Rock-types like Mega Aerodactyl. Linoone should not switch directly into any attacks or offensive threats. Instead, bring it in to set up either after a teammate has fainted or with the support of a Volt Switch or U-turn user against Pokemon that cannot OHKO Linoone.",
+            "moves": [
+                [
+                    "Belly Drum"
+                ],
+                [
+                    "Extreme Speed"
+                ],
+                [
+                    "Stomping Tantrum"
+                ],
+                [
+                    "Seed Bomb"
+                ]
+            ],
+            "item": [
+                " Figy Berry"
+            ],
+            "ability": [
+                "Gluttony"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                148,
+                248,
+                8,
+                0,
+                88,
+                16
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Bulky Steel-types",
+        "Faster Normal-resistant and -immune Pokemon"
+    ],
+    "credits": [
+        "Written by itsjustdrew",
+        "Quality checked by Pak, Eyan,  and Kreme",
+        "Grammar checked by A Cake Wearing A Hat and martha"
+    ]
+}

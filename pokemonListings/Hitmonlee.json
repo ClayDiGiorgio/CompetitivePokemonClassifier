@@ -1,1 +1,99 @@
-{"name": "Hitmonlee", "forms": {"Base": {"base stats": [50, 120, 53, 35, 110, 87], "types": ["Fighting"], "abilities": ["Limber", "Reckless", "Unburden"], "tier": ["NU"], "form": "Base"}}, "overview": "Hitmonlee is an interesting, albeit very flawed, setup sweeper in NeverUsed. Its appeal comes from access to both Curse and the ability Unburden, which, after consuming a White Herb, makes Hitmonlee the fastest non-Choice Scarf Pokemon in the tier. However, despite a naturally high Attack stat, Hitmonlee has trouble breaking through typical Fighting-type answers such as Garbodor, Vileplume, and especially Weezing. Furthermore, Hitmonlee only gets one chance to sweep, and if it loses its White Herb before it sets up, it is potentially dead weight, limiting it to being a late-game sweeper. If it doesn't set up, Hitmonlee's middling Speed and poor bulk mean it is easily revenge killed by faster Pokemon such as Whimsicott, Choice Scarf Passimian, and Delphox. This is why Hitmonlee finds itself outclassed as a Fighting-type by Passimian and Medicham.\n", "strategies' format": "NU", "strategies": [{"name": "Curse", "stats": [136, 372, 143, 95, 256, 273], "type": ["Fighting"], "usage": "Hitmonlee should be used as a wincon, so only bring it out late-game when its checks and counters are gone or weakened enough to the point where it can pick them off after it sets up. Avoid using Hitmonlee early- or mid-game; it only gets one chance to set up, and if it loses White Herb prematurely thanks to Close Combat, it won't get that chance again. Hitmonlee is very frail, so it cannot come in on most strong attacks. Despite this, Hitmonlee does force switches against Pokemon such as Incineroar, Absol, and Silvally-Steel, so use these opportunities to start setting up. Hitmonlee can use Curse twice to gain more power and bulk while still outspeeding Heliolisk, Sneasel, and Whimsicott. However, this leaves it outsped by Choice Scarf Passimian.", "moves": [["Curse"], ["Close Combat"], ["Knock Off"], ["Stone Edge", "Earthquake"]], "item": [" White Herb"], "ability": ["Unburden"], "nature": ["Adamant"], "ev spread": [0, 252, 4, 0, 0, 252], "iv spread": [31, 31, 31, 31, 31, 31]}], "counters": ["Psychic-type Pokemon", "Poison-type Pokemon", "Fairy-type Pokemon", "Ghost-type Pokemon", "Faster Pokemon"], "credits": ["Written by JustoonSmitts", "Earlier versions by Martin", "Quality checked by Rabia, Espeonage.,  and quziel", "Grammar checked by The Dutch Plumberjack and Rabia"]}
+{
+    "name": "Hitmonlee",
+    "forms": {
+        "Base": {
+            "base stats": [
+                50,
+                120,
+                53,
+                35,
+                110,
+                87
+            ],
+            "types": [
+                "Fighting"
+            ],
+            "abilities": [
+                "Limber",
+                "Reckless",
+                "Unburden"
+            ],
+            "tier": [
+                "NU"
+            ],
+            "form": "Base"
+        }
+    },
+    "overview": "Hitmonlee is an interesting, albeit very flawed, setup sweeper in NeverUsed. Its appeal comes from access to both Curse and the ability Unburden, which, after consuming a White Herb, makes Hitmonlee the fastest non-Choice Scarf Pokemon in the tier. However, despite a naturally high Attack stat, Hitmonlee has trouble breaking through typical Fighting-type answers such as Garbodor, Vileplume, and especially Weezing. Furthermore, Hitmonlee only gets one chance to sweep, and if it loses its White Herb before it sets up, it is potentially dead weight, limiting it to being a late-game sweeper. If it doesn't set up, Hitmonlee's middling Speed and poor bulk mean it is easily revenge killed by faster Pokemon such as Whimsicott, Choice Scarf Passimian, and Delphox. This is why Hitmonlee finds itself outclassed as a Fighting-type by Passimian and Medicham.\n",
+    "strategies' format": "NU",
+    "strategies": [
+        {
+            "name": "Curse",
+            "stats": [
+                136,
+                372,
+                143,
+                95,
+                256,
+                273
+            ],
+            "type": [
+                "Fighting"
+            ],
+            "usage": "Hitmonlee should be used as a wincon, so only bring it out late-game when its checks and counters are gone or weakened enough to the point where it can pick them off after it sets up. Avoid using Hitmonlee early- or mid-game; it only gets one chance to set up, and if it loses White Herb prematurely thanks to Close Combat, it won't get that chance again. Hitmonlee is very frail, so it cannot come in on most strong attacks. Despite this, Hitmonlee does force switches against Pokemon such as Incineroar, Absol, and Silvally-Steel, so use these opportunities to start setting up. Hitmonlee can use Curse twice to gain more power and bulk while still outspeeding Heliolisk, Sneasel, and Whimsicott. However, this leaves it outsped by Choice Scarf Passimian.",
+            "moves": [
+                [
+                    "Curse"
+                ],
+                [
+                    "Close Combat"
+                ],
+                [
+                    "Knock Off"
+                ],
+                [
+                    "Stone Edge",
+                    "Earthquake"
+                ]
+            ],
+            "item": [
+                " White Herb"
+            ],
+            "ability": [
+                "Unburden"
+            ],
+            "nature": [
+                "Adamant"
+            ],
+            "ev spread": [
+                0,
+                252,
+                4,
+                0,
+                0,
+                252
+            ],
+            "iv spread": [
+                31,
+                31,
+                31,
+                31,
+                31,
+                31
+            ]
+        }
+    ],
+    "counters": [
+        "Psychic-type Pokemon",
+        "Poison-type Pokemon",
+        "Fairy-type Pokemon",
+        "Ghost-type Pokemon",
+        "Faster Pokemon"
+    ],
+    "credits": [
+        "Written by JustoonSmitts",
+        "Earlier versions by Martin",
+        "Quality checked by Rabia, Espeonage.,  and quziel",
+        "Grammar checked by The Dutch Plumberjack and Rabia"
+    ]
+}
