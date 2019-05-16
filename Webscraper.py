@@ -261,7 +261,7 @@ for pokemon in pokeList:
         # printer.pprint(pokeListing)
         pokejson = json.dumps(pokeListing)
         f = open("pokemonListings/"+pokemon+".json", "w")
-        f.write(pokejson)
+        pprint.pprint(pokejson, stream=f, indent=4, width=120)
         f.close()
         print("COMPLETE: ", pokemon)
     except Exception as ex:
@@ -273,7 +273,7 @@ for pokemon in pokeList:
 printer.pprint(failedPokemon)
 errorsjson = json.dumps(failedPokemon)
 ef = open("runtimeErrors.json", "w")
-ef.write(errorsjson)
+pprint.pprint(errorsjson, stream=ef, indent=4, width=120)
 ef.close()
 
 
