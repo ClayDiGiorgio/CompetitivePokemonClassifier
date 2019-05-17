@@ -11,7 +11,7 @@ import re
 classes = {"wall", "wallbreaker", "sweeper", "glasscannon", "pivot", "utility", "revengekiller", "spinblocker", "stallbreaker", "tank", "support", "supporter", "trapper"}
 
 
-def     findkeywords(description, classes):
+def findkeywords(description, classes):
     description = description.replace("glass cannon", "glasscannon")
     description = description.replace("revenge killer", "revengekiller")
 
@@ -46,7 +46,10 @@ for file in files:
                          "moves":   [elem for lis in strategy["moves"] for elem in lis]
                         }
 
-        dataset.append({"labels": [e for e in keywords], "features": featureValues, "name": data["name"]})
+        dataset.append({"labels": [e for e in keywords],
+                        "features": featureValues,
+                        "name": data["name"] + " - " + strategy["name"]
+                        })
 
 f = open("dataset.json", 'w')
 json.dump(dataset, f, indent=4)

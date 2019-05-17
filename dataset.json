@@ -31,13 +31,13 @@
                 "Pursuit"
             ]
         },
-        "name": "Drapion"
+        "name": "Drapion - Choice Band"
     },
     {
         "labels": [
+            "wall",
             "wallbreaker",
-            "sweeper",
-            "wall"
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -65,14 +65,14 @@
                 "Aqua Tail"
             ]
         },
-        "name": "Drapion"
+        "name": "Drapion - Swords Dance"
     },
     {
         "labels": [
-            "utility",
+            "pivot",
             "revengekiller",
             "support",
-            "pivot"
+            "utility"
         ],
         "features": {
             "stats": [
@@ -101,12 +101,12 @@
                 "Taunt"
             ]
         },
-        "name": "Crobat"
+        "name": "Crobat - Offensive"
     },
     {
         "labels": [
-            "wallbreaker",
             "support",
+            "wallbreaker",
             "sweeper"
         ],
         "features": {
@@ -136,12 +136,12 @@
                 "Quick Attack"
             ]
         },
-        "name": "Pinsir"
+        "name": "Pinsir - Wallbreaker"
     },
     {
         "labels": [
-            "wallbreaker",
-            "wall"
+            "wall",
+            "wallbreaker"
         ],
         "features": {
             "stats": [
@@ -168,7 +168,7 @@
                 "Flare Blitz"
             ]
         },
-        "name": "Entei"
+        "name": "Entei - Choice Band"
     },
     {
         "labels": [
@@ -202,7 +202,7 @@
                 "Knock Off"
             ]
         },
-        "name": "Toxapex"
+        "name": "Toxapex - The Pex"
     },
     {
         "labels": [
@@ -234,13 +234,13 @@
                 "Spirit Shackle"
             ]
         },
-        "name": "Decidueye"
+        "name": "Decidueye - Swords Dance"
     },
     {
         "labels": [
-            "revengekiller",
+            "support",
             "utility",
-            "support"
+            "revengekiller"
         ],
         "features": {
             "stats": [
@@ -271,12 +271,12 @@
                 "Focus Blast"
             ]
         },
-        "name": "Sceptile"
+        "name": "Sceptile - All-out Attacker"
     },
     {
         "labels": [
-            "sweeper",
-            "support"
+            "support",
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -305,7 +305,7 @@
                 "Crunch"
             ]
         },
-        "name": "Durant"
+        "name": "Durant - Hone Claws"
     },
     {
         "labels": [
@@ -337,12 +337,12 @@
                 "Giga Impact"
             ]
         },
-        "name": "Kartana"
+        "name": "Kartana - Paper Cut (Swords Dance)"
     },
     {
         "labels": [
-            "revengekiller",
-            "pivot"
+            "pivot",
+            "revengekiller"
         ],
         "features": {
             "stats": [
@@ -372,13 +372,13 @@
                 "Defog"
             ]
         },
-        "name": "Kartana"
+        "name": "Kartana - Paper Plane (Choice Scarf)"
     },
     {
         "labels": [
+            "pivot",
             "revengekiller",
-            "wallbreaker",
-            "pivot"
+            "wallbreaker"
         ],
         "features": {
             "stats": [
@@ -406,7 +406,7 @@
                 "Smart Strike"
             ]
         },
-        "name": "Kartana"
+        "name": "Kartana - Paper Press (Choice Band)"
     },
     {
         "labels": [
@@ -439,12 +439,12 @@
                 "Quiver Dance"
             ]
         },
-        "name": "Ribombee"
+        "name": "Ribombee - Sticky Web Lead"
     },
     {
         "labels": [
-            "sweeper",
-            "utility"
+            "utility",
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -473,7 +473,7 @@
                 "Earthquake"
             ]
         },
-        "name": "Barbaracle"
+        "name": "Barbaracle - Shell Smash"
     },
     {
         "labels": [
@@ -505,7 +505,7 @@
                 "Toxic"
             ]
         },
-        "name": "Gigalith"
+        "name": "Gigalith - Specially Defensive"
     },
     {
         "labels": [
@@ -537,12 +537,12 @@
                 "Synthesis"
             ]
         },
-        "name": "Torterra"
+        "name": "Torterra - Defensive"
     },
     {
         "labels": [
-            "utility",
             "support",
+            "utility",
             "trapper"
         ],
         "features": {
@@ -572,12 +572,12 @@
                 "Iron Tail"
             ]
         },
-        "name": "Absol"
+        "name": "Absol - All-Out Attacker"
     },
     {
         "labels": [
-            "utility",
-            "pivot"
+            "pivot",
+            "utility"
         ],
         "features": {
             "stats": [
@@ -606,12 +606,12 @@
                 "Stun Spore"
             ]
         },
-        "name": "Amoonguss"
+        "name": "Amoonguss - Black Sludge"
     },
     {
         "labels": [
-            "utility",
-            "pivot"
+            "pivot",
+            "utility"
         ],
         "features": {
             "stats": [
@@ -639,7 +639,7 @@
                 "Hidden Power Fire"
             ]
         },
-        "name": "Amoonguss"
+        "name": "Amoonguss - Assault Vest"
     },
     {
         "labels": [
@@ -674,7 +674,7 @@
                 "Hidden Power Fire"
             ]
         },
-        "name": "Magnezone"
+        "name": "Magnezone - Substitute Z"
     },
     {
         "labels": [
@@ -708,15 +708,15 @@
                 "Volt Switch"
             ]
         },
-        "name": "Magnezone"
+        "name": "Magnezone - Choice Scarf"
     },
     {
         "labels": [
-            "wallbreaker",
+            "pivot",
+            "revengekiller",
             "utility",
             "trapper",
-            "revengekiller",
-            "pivot"
+            "wallbreaker"
         ],
         "features": {
             "stats": [
@@ -744,12 +744,12 @@
                 "Volt Switch"
             ]
         },
-        "name": "Magnezone"
+        "name": "Magnezone - Choice Specs"
     },
     {
         "labels": [
-            "sweeper",
-            "support"
+            "support",
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -777,12 +777,12 @@
                 "Rapid Spin"
             ]
         },
-        "name": "Excadrill"
+        "name": "Excadrill - Sand Rush Sweeper"
     },
     {
         "labels": [
-            "sweeper",
-            "support"
+            "support",
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -811,13 +811,13 @@
                 "Toxic"
             ]
         },
-        "name": "Excadrill"
+        "name": "Excadrill - Focus Sash"
     },
     {
         "labels": [
-            "wallbreaker",
+            "pivot",
             "support",
-            "pivot"
+            "wallbreaker"
         ],
         "features": {
             "stats": [
@@ -845,13 +845,13 @@
                 "Stone Edge"
             ]
         },
-        "name": "Tapu Bulu"
+        "name": "Tapu Bulu - Choice Band"
     },
     {
         "labels": [
-            "wallbreaker",
+            "pivot",
             "support",
-            "pivot"
+            "wallbreaker"
         ],
         "features": {
             "stats": [
@@ -881,7 +881,7 @@
                 "Protect"
             ]
         },
-        "name": "Tapu Bulu"
+        "name": "Tapu Bulu - Specially Defensive"
     },
     {
         "labels": [
@@ -912,7 +912,7 @@
                 "Hidden Power Ice"
             ]
         },
-        "name": "Ninetales"
+        "name": "Ninetales - Nasty Plot Wallbreaker"
     },
     {
         "labels": [
@@ -944,12 +944,12 @@
                 "Hidden Power Ice"
             ]
         },
-        "name": "Ninetales"
+        "name": "Ninetales - Choice Specs"
     },
     {
         "labels": [
-            "wallbreaker",
-            "utility"
+            "utility",
+            "wallbreaker"
         ],
         "features": {
             "stats": [
@@ -979,7 +979,7 @@
                 "Rapid Spin"
             ]
         },
-        "name": "Blastoise"
+        "name": "Blastoise - Offensive Wallbreaker"
     },
     {
         "labels": [
@@ -1013,7 +1013,7 @@
                 "Trick"
             ]
         },
-        "name": "Blacephalon"
+        "name": "Blacephalon - Choice Specs"
     },
     {
         "labels": [
@@ -1046,7 +1046,7 @@
                 "Calm Mind"
             ]
         },
-        "name": "Blacephalon"
+        "name": "Blacephalon - Substitute + Calm Mind"
     },
     {
         "labels": [
@@ -1080,7 +1080,7 @@
                 "Zap Cannon"
             ]
         },
-        "name": "Espeon"
+        "name": "Espeon - Calm Mind"
     },
     {
         "labels": [
@@ -1113,7 +1113,7 @@
                 "Hidden Power Fire"
             ]
         },
-        "name": "Espeon"
+        "name": "Espeon - Choice Specs"
     },
     {
         "labels": [
@@ -1146,7 +1146,7 @@
                 "Fire Blast"
             ]
         },
-        "name": "Azelf"
+        "name": "Azelf - Suicide Lead"
     },
     {
         "labels": [
@@ -1180,7 +1180,7 @@
                 "Trick"
             ]
         },
-        "name": "Metagross"
+        "name": "Metagross - Choice Band"
     },
     {
         "labels": [
@@ -1215,7 +1215,7 @@
                 "Bullet Punch"
             ]
         },
-        "name": "Metagross"
+        "name": "Metagross - Offensive Stealth Rock"
     },
     {
         "labels": [
@@ -1248,12 +1248,12 @@
                 "Stealth Rock"
             ]
         },
-        "name": "Metagross"
+        "name": "Metagross - Mixed Offensive Lure"
     },
     {
         "labels": [
-            "utility",
-            "support"
+            "support",
+            "utility"
         ],
         "features": {
             "stats": [
@@ -1281,14 +1281,14 @@
                 "Crunch"
             ]
         },
-        "name": "Crawdaunt"
+        "name": "Crawdaunt - Choice Band"
     },
     {
         "labels": [
-            "tank",
-            "wallbreaker",
+            "support",
             "utility",
-            "support"
+            "tank",
+            "wallbreaker"
         ],
         "features": {
             "stats": [
@@ -1316,13 +1316,13 @@
                 "Stealth Rock"
             ]
         },
-        "name": "Mamoswine"
+        "name": "Mamoswine - Physical Attacker"
     },
     {
         "labels": [
-            "tank",
+            "support",
             "wall",
-            "support"
+            "tank"
         ],
         "features": {
             "stats": [
@@ -1350,7 +1350,7 @@
                 "Curse"
             ]
         },
-        "name": "Steelix"
+        "name": "Steelix - Offensive Stealth Rock"
     },
     {
         "labels": [
@@ -1383,7 +1383,7 @@
                 "Ice Beam"
             ]
         },
-        "name": "Nidoqueen"
+        "name": "Nidoqueen - Defensive"
     },
     {
         "labels": [
@@ -1416,7 +1416,7 @@
                 "Ice Beam"
             ]
         },
-        "name": "Nidoqueen"
+        "name": "Nidoqueen - Offensive Hazard Setter"
     },
     {
         "labels": [
@@ -1448,7 +1448,7 @@
                 "Swords Dance"
             ]
         },
-        "name": "Garchomp"
+        "name": "Garchomp - Offensive Stealth Rock"
     },
     {
         "labels": [
@@ -1481,7 +1481,7 @@
                 "Toxic"
             ]
         },
-        "name": "Garchomp"
+        "name": "Garchomp - Tank"
     },
     {
         "labels": [
@@ -1515,13 +1515,13 @@
                 "Fire Fang"
             ]
         },
-        "name": "Garchomp"
+        "name": "Garchomp - Mega Swords Dance"
     },
     {
         "labels": [
-            "sweeper",
+            "pivot",
             "support",
-            "pivot"
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -1549,12 +1549,12 @@
                 "Sludge Bomb"
             ]
         },
-        "name": "Venomoth"
+        "name": "Venomoth - Quiver Dance"
     },
     {
         "labels": [
-            "utility",
-            "support"
+            "support",
+            "utility"
         ],
         "features": {
             "stats": [
@@ -1585,7 +1585,7 @@
                 "Roar"
             ]
         },
-        "name": "Empoleon"
+        "name": "Empoleon - Utility"
     },
     {
         "labels": [
@@ -1618,7 +1618,7 @@
                 "Ice Beam"
             ]
         },
-        "name": "Latias"
+        "name": "Latias - Mega Calm Mind"
     },
     {
         "labels": [
@@ -1650,7 +1650,7 @@
                 "Roost"
             ]
         },
-        "name": "Latias"
+        "name": "Latias - Roost + 3 Attacks"
     },
     {
         "labels": [
@@ -1683,13 +1683,13 @@
                 "Trick"
             ]
         },
-        "name": "Latias"
+        "name": "Latias - Offensive Support"
     },
     {
         "labels": [
             "tank",
-            "wallbreaker",
-            "wall"
+            "wall",
+            "wallbreaker"
         ],
         "features": {
             "stats": [
@@ -1716,12 +1716,12 @@
                 "Earthquake"
             ]
         },
-        "name": "Avalugg"
+        "name": "Avalugg - Physical Wall"
     },
     {
         "labels": [
-            "utility",
-            "pivot"
+            "pivot",
+            "utility"
         ],
         "features": {
             "stats": [
@@ -1750,15 +1750,15 @@
                 "Toxic"
             ]
         },
-        "name": "Palossand"
+        "name": "Palossand - Stealth Rock"
     },
     {
         "labels": [
+            "pivot",
+            "support",
             "tank",
             "wallbreaker",
-            "sweeper",
-            "support",
-            "pivot"
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -1786,7 +1786,7 @@
                 "Superpower"
             ]
         },
-        "name": "Honchkrow"
+        "name": "Honchkrow - Life Orb"
     },
     {
         "labels": [
@@ -1818,7 +1818,7 @@
                 "Earthquake"
             ]
         },
-        "name": "Scolipede"
+        "name": "Scolipede - Swords Dance"
     },
     {
         "labels": [
@@ -1853,7 +1853,7 @@
                 "Spikes"
             ]
         },
-        "name": "Golisopod"
+        "name": "Golisopod - Offensive"
     },
     {
         "labels": [
@@ -1887,7 +1887,7 @@
                 "Roost"
             ]
         },
-        "name": "Hawlucha"
+        "name": "Hawlucha - Terrain Seed Sweeper"
     },
     {
         "labels": [
@@ -1918,12 +1918,12 @@
                 "Thunderbolt"
             ]
         },
-        "name": "Raikou"
+        "name": "Raikou - Substitute + Toxic"
     },
     {
         "labels": [
-            "support",
-            "pivot"
+            "pivot",
+            "support"
         ],
         "features": {
             "stats": [
@@ -1952,14 +1952,14 @@
                 "Hyper Beam"
             ]
         },
-        "name": "Raikou"
+        "name": "Raikou - Calm Mind"
     },
     {
         "labels": [
-            "utility",
             "support",
-            "trapper",
-            "wall"
+            "wall",
+            "utility",
+            "trapper"
         ],
         "features": {
             "stats": [
@@ -1989,13 +1989,13 @@
                 "Toxic"
             ]
         },
-        "name": "Pyukumuku"
+        "name": "Pyukumuku - Unaware Wall"
     },
     {
         "labels": [
+            "pivot",
             "revengekiller",
-            "sweeper",
-            "pivot"
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -2024,14 +2024,14 @@
                 "Iron Tail"
             ]
         },
-        "name": "Flygon"
+        "name": "Flygon - Dragon Dance"
     },
     {
         "labels": [
+            "pivot",
             "revengekiller",
-            "sweeper",
             "support",
-            "pivot"
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -2060,7 +2060,7 @@
                 "Defog"
             ]
         },
-        "name": "Flygon"
+        "name": "Flygon - Choice Scarf"
     },
     {
         "labels": [
@@ -2093,7 +2093,7 @@
                 "Giga Drain"
             ]
         },
-        "name": "Yanmega"
+        "name": "Yanmega - Choice Specs"
     },
     {
         "labels": [
@@ -2126,7 +2126,7 @@
                 "Giga Drain"
             ]
         },
-        "name": "Yanmega"
+        "name": "Yanmega - Speed Boost Sweeper"
     },
     {
         "labels": [
@@ -2158,7 +2158,7 @@
                 "Heal Bell"
             ]
         },
-        "name": "Vaporeon"
+        "name": "Vaporeon - Support"
     },
     {
         "labels": [
@@ -2190,12 +2190,12 @@
                 "Toxic"
             ]
         },
-        "name": "Rhyperior"
+        "name": "Rhyperior - Tank"
     },
     {
         "labels": [
-            "utility",
-            "pivot"
+            "pivot",
+            "utility"
         ],
         "features": {
             "stats": [
@@ -2223,7 +2223,7 @@
                 "Dragon Tail"
             ]
         },
-        "name": "Slowking"
+        "name": "Slowking - Assault Vest"
     },
     {
         "labels": [
@@ -2255,7 +2255,7 @@
                 "Ice Beam"
             ]
         },
-        "name": "Milotic"
+        "name": "Milotic - Physically Defensive"
     },
     {
         "labels": [
@@ -2288,7 +2288,7 @@
                 "Hidden Power Fire"
             ]
         },
-        "name": "Vanilluxe"
+        "name": "Vanilluxe - Wallbreaker"
     },
     {
         "labels": [
@@ -2319,12 +2319,12 @@
                 "Rain Dance"
             ]
         },
-        "name": "Manaphy"
+        "name": "Manaphy - Waterium Z"
     },
     {
         "labels": [
-            "wallbreaker",
-            "pivot"
+            "pivot",
+            "wallbreaker"
         ],
         "features": {
             "stats": [
@@ -2351,7 +2351,7 @@
                 "Psychic"
             ]
         },
-        "name": "Manaphy"
+        "name": "Manaphy - Tail Glow + 3 Attacks"
     },
     {
         "labels": [
@@ -2383,12 +2383,12 @@
                 "Earthquake"
             ]
         },
-        "name": "Snorlax"
+        "name": "Snorlax - Papa Lax (Curse + Recycle)"
     },
     {
         "labels": [
-            "sweeper",
-            "pivot"
+            "pivot",
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -2418,7 +2418,7 @@
                 "Earthquake"
             ]
         },
-        "name": "Snorlax"
+        "name": "Snorlax - RestTalk"
     },
     {
         "labels": [
@@ -2450,7 +2450,7 @@
                 "Flamethrower"
             ]
         },
-        "name": "Moltres"
+        "name": "Moltres - Pressure"
     },
     {
         "labels": [
@@ -2482,12 +2482,12 @@
                 "Will-O-Wisp"
             ]
         },
-        "name": "Torkoal"
+        "name": "Torkoal - Sun Support"
     },
     {
         "labels": [
-            "sweeper",
-            "support"
+            "support",
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -2515,12 +2515,12 @@
                 "Defog"
             ]
         },
-        "name": "Mew"
+        "name": "Mew - Defensive"
     },
     {
         "labels": [
-            "sweeper",
-            "support"
+            "support",
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -2549,13 +2549,13 @@
                 "Soft-Boiled"
             ]
         },
-        "name": "Mew"
+        "name": "Mew - Nasty Plot"
     },
     {
         "labels": [
-            "wallbreaker",
+            "pivot",
             "utility",
-            "pivot"
+            "wallbreaker"
         ],
         "features": {
             "stats": [
@@ -2583,12 +2583,12 @@
                 "Hidden Power Fire"
             ]
         },
-        "name": "Roserade"
+        "name": "Roserade - 3 Attacks"
     },
     {
         "labels": [
-            "support",
-            "pivot"
+            "pivot",
+            "support"
         ],
         "features": {
             "stats": [
@@ -2618,13 +2618,13 @@
                 "Pursuit"
             ]
         },
-        "name": "Beedrill"
+        "name": "Beedrill - Offensive Pivot"
     },
     {
         "labels": [
-            "utility",
+            "pivot",
             "support",
-            "pivot"
+            "utility"
         ],
         "features": {
             "stats": [
@@ -2655,7 +2655,7 @@
                 "Knock Off"
             ]
         },
-        "name": "Gligar"
+        "name": "Gligar - Defensive Utility"
     },
     {
         "labels": [
@@ -2688,12 +2688,12 @@
                 "Shadow Claw"
             ]
         },
-        "name": "Mimikyu"
+        "name": "Mimikyu - Swords Dance"
     },
     {
         "labels": [
-            "sweeper",
-            "pivot"
+            "pivot",
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -2724,7 +2724,7 @@
                 "Focus Blast"
             ]
         },
-        "name": "Magearna"
+        "name": "Magearna - Shift Gear"
     },
     {
         "labels": [
@@ -2757,7 +2757,7 @@
                 "Iron Head"
             ]
         },
-        "name": "Magearna"
+        "name": "Magearna - Assault Vest"
     },
     {
         "labels": [
@@ -2789,7 +2789,7 @@
                 "Flash Cannon"
             ]
         },
-        "name": "Magearna"
+        "name": "Magearna - Heart Swap"
     },
     {
         "labels": [
@@ -2821,7 +2821,7 @@
                 "Thunderbolt"
             ]
         },
-        "name": "Magearna"
+        "name": "Magearna - Calm Mind + Pain Split"
     },
     {
         "labels": [
@@ -2855,7 +2855,7 @@
                 "U-turn"
             ]
         },
-        "name": "Noivern"
+        "name": "Noivern - Support"
     },
     {
         "labels": [
@@ -2889,7 +2889,7 @@
                 "Switcheroo"
             ]
         },
-        "name": "Noivern"
+        "name": "Noivern - Choice Scarf"
     },
     {
         "labels": [
@@ -2922,7 +2922,7 @@
                 "Roost"
             ]
         },
-        "name": "Kyurem"
+        "name": "Kyurem - SubRoost"
     },
     {
         "labels": [
@@ -2955,7 +2955,7 @@
                 "Stealth Rock"
             ]
         },
-        "name": "Blissey"
+        "name": "Blissey - Defensive"
     },
     {
         "labels": [
@@ -2990,7 +2990,7 @@
                 "Rock Polish"
             ]
         },
-        "name": "Cobalion"
+        "name": "Cobalion - Swords Dance"
     },
     {
         "labels": [
@@ -3025,13 +3025,13 @@
                 "Volt Switch"
             ]
         },
-        "name": "Cobalion"
+        "name": "Cobalion - Calm Mind"
     },
     {
         "labels": [
-            "utility",
+            "pivot",
             "wall",
-            "pivot"
+            "utility"
         ],
         "features": {
             "stats": [
@@ -3060,13 +3060,13 @@
                 "Toxic"
             ]
         },
-        "name": "Forretress"
+        "name": "Forretress - Defensive"
     },
     {
         "labels": [
+            "pivot",
             "revengekiller",
-            "sweeper",
-            "pivot"
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -3096,7 +3096,7 @@
                 "Shadow Sneak"
             ]
         },
-        "name": "Doublade"
+        "name": "Doublade - Swords Dance"
     },
     {
         "labels": [
@@ -3128,7 +3128,7 @@
                 "Ice Fang"
             ]
         },
-        "name": "Stoutland"
+        "name": "Stoutland - Sand Attacker"
     },
     {
         "labels": [
@@ -3161,7 +3161,7 @@
                 "Defog"
             ]
         },
-        "name": "Sigilyph"
+        "name": "Sigilyph - Offensive Defog"
     },
     {
         "labels": [
@@ -3195,7 +3195,7 @@
                 "Pursuit"
             ]
         },
-        "name": "Sneasel"
+        "name": "Sneasel - All-out Attacker"
     },
     {
         "labels": [
@@ -3227,7 +3227,7 @@
                 "Roost"
             ]
         },
-        "name": "Volcarona"
+        "name": "Volcarona - Bulky Quiver Dance"
     },
     {
         "labels": [
@@ -3259,7 +3259,7 @@
                 "Hidden Power Ground"
             ]
         },
-        "name": "Volcarona"
+        "name": "Volcarona - Offensive Quiver Dance"
     },
     {
         "labels": [
@@ -3291,7 +3291,7 @@
                 "Spikes"
             ]
         },
-        "name": "Greninja"
+        "name": "Greninja - Specially Based Protean"
     },
     {
         "labels": [
@@ -3323,7 +3323,7 @@
                 "Spikes"
             ]
         },
-        "name": "Greninja"
+        "name": "Greninja - Physically Based Protean"
     },
     {
         "labels": [
@@ -3357,7 +3357,7 @@
                 "Low Kick"
             ]
         },
-        "name": "Greninja"
+        "name": "Greninja - Choice Scarf"
     },
     {
         "labels": [
@@ -3391,7 +3391,7 @@
                 "Hidden Power Ice"
             ]
         },
-        "name": "Tapu Koko"
+        "name": "Tapu Koko - Defog Pivot"
     },
     {
         "labels": [
@@ -3424,7 +3424,7 @@
                 "Defog"
             ]
         },
-        "name": "Tapu Koko"
+        "name": "Tapu Koko - Shuca Berry"
     },
     {
         "labels": [
@@ -3456,7 +3456,7 @@
                 "U-turn"
             ]
         },
-        "name": "Tapu Koko"
+        "name": "Tapu Koko - Dual Screens"
     },
     {
         "labels": [
@@ -3488,12 +3488,12 @@
                 "U-turn"
             ]
         },
-        "name": "Tapu Koko"
+        "name": "Tapu Koko - Z-Wild Charge"
     },
     {
         "labels": [
-            "sweeper",
-            "support"
+            "support",
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -3521,12 +3521,12 @@
                 "Poison Jab"
             ]
         },
-        "name": "Kommo-o"
+        "name": "Kommo-o - Offensive Stealth Rock"
     },
     {
         "labels": [
-            "sweeper",
-            "support"
+            "support",
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -3554,12 +3554,12 @@
                 "Protect"
             ]
         },
-        "name": "Kommo-o"
+        "name": "Kommo-o - Specially Defensive"
     },
     {
         "labels": [
-            "sweeper",
-            "support"
+            "support",
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -3587,7 +3587,7 @@
                 "Thunder Punch"
             ]
         },
-        "name": "Kommo-o"
+        "name": "Kommo-o - Belly Drum"
     },
     {
         "labels": [
@@ -3622,13 +3622,13 @@
                 "Ice Punch"
             ]
         },
-        "name": "Toxicroak"
+        "name": "Toxicroak - Swords Dance"
     },
     {
         "labels": [
-            "utility",
+            "pivot",
             "support",
-            "pivot"
+            "utility"
         ],
         "features": {
             "stats": [
@@ -3657,7 +3657,7 @@
                 "Taunt"
             ]
         },
-        "name": "Salazzle"
+        "name": "Salazzle - Corrosion"
     },
     {
         "labels": [
@@ -3689,14 +3689,14 @@
                 "Roost"
             ]
         },
-        "name": "Hydreigon"
+        "name": "Hydreigon - Darkinium Z"
     },
     {
         "labels": [
-            "wallbreaker",
+            "pivot",
             "support",
-            "sweeper",
-            "pivot"
+            "wallbreaker",
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -3723,12 +3723,12 @@
                 "Crunch"
             ]
         },
-        "name": "Feraligatr"
+        "name": "Feraligatr - Dragon Dance"
     },
     {
         "labels": [
-            "wallbreaker",
             "support",
+            "wallbreaker",
             "sweeper"
         ],
         "features": {
@@ -3756,13 +3756,13 @@
                 "Ice Punch"
             ]
         },
-        "name": "Feraligatr"
+        "name": "Feraligatr - Agility"
     },
     {
         "labels": [
-            "sweeper",
+            "support",
             "utility",
-            "support"
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -3790,14 +3790,14 @@
                 "Pursuit"
             ]
         },
-        "name": "Weavile"
+        "name": "Weavile - Choice Band"
     },
     {
         "labels": [
-            "wallbreaker",
-            "sweeper",
+            "pivot",
             "support",
-            "pivot"
+            "wallbreaker",
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -3826,14 +3826,14 @@
                 "Roost"
             ]
         },
-        "name": "Charizard"
+        "name": "Charizard - Dragon Dance X"
     },
     {
         "labels": [
-            "wallbreaker",
-            "sweeper",
+            "pivot",
             "support",
-            "pivot"
+            "wallbreaker",
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -3861,7 +3861,7 @@
                 "Roost"
             ]
         },
-        "name": "Charizard"
+        "name": "Charizard - 3 Attacks"
     },
     {
         "labels": [
@@ -3896,7 +3896,7 @@
                 "Roost"
             ]
         },
-        "name": "Charizard"
+        "name": "Charizard - Drought Wallbreaker Y"
     },
     {
         "labels": [
@@ -3928,7 +3928,7 @@
                 "Flamethrower"
             ]
         },
-        "name": "Celesteela"
+        "name": "Celesteela - Defensive"
     },
     {
         "labels": [
@@ -3961,7 +3961,7 @@
                 "Substitute"
             ]
         },
-        "name": "Mismagius"
+        "name": "Mismagius - Nasty Plot"
     },
     {
         "labels": [
@@ -3994,14 +3994,14 @@
                 "Counter"
             ]
         },
-        "name": "Registeel"
+        "name": "Registeel - Specially Defensive"
     },
     {
         "labels": [
             "tank",
-            "sweeper",
+            "support",
             "utility",
-            "support"
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -4030,7 +4030,7 @@
                 "Play Rough"
             ]
         },
-        "name": "Klefki"
+        "name": "Klefki - Support"
     },
     {
         "labels": [
@@ -4063,14 +4063,14 @@
                 "Hidden Power Fire"
             ]
         },
-        "name": "Serperior"
+        "name": "Serperior - Choice Scarf"
     },
     {
         "labels": [
-            "sweeper",
+            "pivot",
             "support",
             "stallbreaker",
-            "pivot"
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -4098,14 +4098,14 @@
                 "Dazzling Gleam"
             ]
         },
-        "name": "Celebi"
+        "name": "Celebi - Nasty Plot"
     },
     {
         "labels": [
-            "sweeper",
+            "pivot",
             "support",
             "stallbreaker",
-            "pivot"
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -4134,12 +4134,12 @@
                 "Recover"
             ]
         },
-        "name": "Celebi"
+        "name": "Celebi - Defensive"
     },
     {
         "labels": [
-            "utility",
-            "support"
+            "support",
+            "utility"
         ],
         "features": {
             "stats": [
@@ -4167,7 +4167,7 @@
                 "Protect"
             ]
         },
-        "name": "Sharpedo"
+        "name": "Sharpedo - Cleaner"
     },
     {
         "labels": [
@@ -4199,7 +4199,7 @@
                 "Toxic"
             ]
         },
-        "name": "Seismitoad"
+        "name": "Seismitoad - Defensive Stealth Rock"
     },
     {
         "labels": [
@@ -4232,7 +4232,7 @@
                 "Hidden Power Fire"
             ]
         },
-        "name": "Seismitoad"
+        "name": "Seismitoad - Offensive Stealth Rock"
     },
     {
         "labels": [
@@ -4266,7 +4266,7 @@
                 "Taunt"
             ]
         },
-        "name": "Tapu Fini"
+        "name": "Tapu Fini - Defog"
     },
     {
         "labels": [
@@ -4300,7 +4300,7 @@
                 "Taunt"
             ]
         },
-        "name": "Gyarados"
+        "name": "Gyarados - Dragon Dance Sweeper"
     },
     {
         "labels": [
@@ -4332,16 +4332,16 @@
                 "Substitute"
             ]
         },
-        "name": "Gyarados"
+        "name": "Gyarados - Mega Dragon Dance"
     },
     {
         "labels": [
+            "pivot",
+            "support",
+            "stallbreaker",
             "tank",
             "wallbreaker",
-            "stallbreaker",
-            "sweeper",
-            "support",
-            "pivot"
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -4371,13 +4371,13 @@
                 "Grass Knot"
             ]
         },
-        "name": "Infernape"
+        "name": "Infernape - Nasty Plot"
     },
     {
         "labels": [
             "revengekiller",
-            "sweeper",
-            "support"
+            "support",
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -4406,13 +4406,13 @@
                 "Stone Edge"
             ]
         },
-        "name": "Infernape"
+        "name": "Infernape - Choice Scarf"
     },
     {
         "labels": [
-            "wallbreaker",
+            "pivot",
             "support",
-            "pivot"
+            "wallbreaker"
         ],
         "features": {
             "stats": [
@@ -4443,7 +4443,7 @@
                 "Gunk Shot"
             ]
         },
-        "name": "Infernape"
+        "name": "Infernape - Mixed Attacker"
     },
     {
         "labels": [
@@ -4478,7 +4478,7 @@
                 "Stone Edge"
             ]
         },
-        "name": "Infernape"
+        "name": "Infernape - Choice Band"
     },
     {
         "labels": [
@@ -4512,7 +4512,7 @@
                 "Thunder Punch"
             ]
         },
-        "name": "Infernape"
+        "name": "Infernape - Swords Dance"
     },
     {
         "labels": [
@@ -4544,12 +4544,12 @@
                 "Stealth Rock"
             ]
         },
-        "name": "Terrakion"
+        "name": "Terrakion - Swords Dance"
     },
     {
         "labels": [
-            "wallbreaker",
             "revengekiller",
+            "wallbreaker",
             "sweeper"
         ],
         "features": {
@@ -4579,13 +4579,13 @@
                 "Earthquake"
             ]
         },
-        "name": "Terrakion"
+        "name": "Terrakion - Choice Scarf"
     },
     {
         "labels": [
-            "wallbreaker",
+            "pivot",
             "support",
-            "pivot"
+            "wallbreaker"
         ],
         "features": {
             "stats": [
@@ -4613,12 +4613,12 @@
                 "Knock Off"
             ]
         },
-        "name": "Gallade"
+        "name": "Gallade - Swords Dance"
     },
     {
         "labels": [
-            "support",
-            "pivot"
+            "pivot",
+            "support"
         ],
         "features": {
             "stats": [
@@ -4648,13 +4648,13 @@
                 "Hidden Power Flying"
             ]
         },
-        "name": "Tangela"
+        "name": "Tangela - Defensive Pivot"
     },
     {
         "labels": [
-            "wallbreaker",
+            "pivot",
             "support",
-            "pivot"
+            "wallbreaker"
         ],
         "features": {
             "stats": [
@@ -4683,12 +4683,12 @@
                 "Calm Mind"
             ]
         },
-        "name": "Xatu"
+        "name": "Xatu - Defensive"
     },
     {
         "labels": [
-            "support",
-            "pivot"
+            "pivot",
+            "support"
         ],
         "features": {
             "stats": [
@@ -4717,13 +4717,13 @@
                 "Earthquake"
             ]
         },
-        "name": "Minior"
+        "name": "Minior - Shell Smash"
     },
     {
         "labels": [
             "tank",
-            "sweeper",
-            "utility"
+            "utility",
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -4751,12 +4751,12 @@
                 "Earthquake"
             ]
         },
-        "name": "Stakataka"
+        "name": "Stakataka - Offensive Trick Room"
     },
     {
         "labels": [
-            "sweeper",
-            "utility"
+            "utility",
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -4785,12 +4785,12 @@
                 "Toxic"
             ]
         },
-        "name": "Stakataka"
+        "name": "Stakataka - Defensive"
     },
     {
         "labels": [
-            "support",
-            "pivot"
+            "pivot",
+            "support"
         ],
         "features": {
             "stats": [
@@ -4819,12 +4819,12 @@
                 "Recover"
             ]
         },
-        "name": "Latios"
+        "name": "Latios - Mega Mixed Attacker"
     },
     {
         "labels": [
-            "supporter",
-            "pivot"
+            "pivot",
+            "supporter"
         ],
         "features": {
             "stats": [
@@ -4855,7 +4855,7 @@
                 "Defog"
             ]
         },
-        "name": "Latios"
+        "name": "Latios - Offensive"
     },
     {
         "labels": [
@@ -4887,7 +4887,7 @@
                 "Volt Switch"
             ]
         },
-        "name": "Galvantula"
+        "name": "Galvantula - Sticky Web"
     },
     {
         "labels": [
@@ -4920,7 +4920,7 @@
                 "Gunk Shot"
             ]
         },
-        "name": "Pangoro"
+        "name": "Pangoro - Swords Dance"
     },
     {
         "labels": [
@@ -4955,12 +4955,12 @@
                 "Ice Punch"
             ]
         },
-        "name": "Pangoro"
+        "name": "Pangoro - All-Out Attacker"
     },
     {
         "labels": [
-            "utility",
-            "wall"
+            "wall",
+            "utility"
         ],
         "features": {
             "stats": [
@@ -4988,7 +4988,7 @@
                 "Soft-Boiled"
             ]
         },
-        "name": "Chansey"
+        "name": "Chansey - Defensive"
     },
     {
         "labels": [
@@ -5020,7 +5020,7 @@
                 "Roost"
             ]
         },
-        "name": "Mandibuzz"
+        "name": "Mandibuzz - Utility Birb"
     },
     {
         "labels": [
@@ -5053,7 +5053,7 @@
                 "Roost"
             ]
         },
-        "name": "Altaria"
+        "name": "Altaria - Offensive Dragon Dance"
     },
     {
         "labels": [
@@ -5089,7 +5089,7 @@
                 "Defog"
             ]
         },
-        "name": "Altaria"
+        "name": "Altaria - Support"
     },
     {
         "labels": [
@@ -5122,12 +5122,12 @@
                 "Roost"
             ]
         },
-        "name": "Altaria"
+        "name": "Altaria - Mixed Attacker"
     },
     {
         "labels": [
-            "utility",
-            "wall"
+            "wall",
+            "utility"
         ],
         "features": {
             "stats": [
@@ -5155,12 +5155,12 @@
                 "Protect"
             ]
         },
-        "name": "Alomomola"
+        "name": "Alomomola - WishPass"
     },
     {
         "labels": [
-            "support",
-            "pivot"
+            "pivot",
+            "support"
         ],
         "features": {
             "stats": [
@@ -5189,7 +5189,7 @@
                 "Protect"
             ]
         },
-        "name": "Aggron"
+        "name": "Aggron - Mega Tank"
     },
     {
         "labels": [
@@ -5222,7 +5222,7 @@
                 "Stealth Rock"
             ]
         },
-        "name": "Heatran"
+        "name": "Heatran - Z-Move Trapper"
     },
     {
         "labels": [
@@ -5255,7 +5255,7 @@
                 "Thunderbolt"
             ]
         },
-        "name": "Ampharos"
+        "name": "Ampharos - Special Attacker"
     },
     {
         "labels": [
@@ -5290,7 +5290,7 @@
                 "Dragon Tail"
             ]
         },
-        "name": "Dragalge"
+        "name": "Dragalge - Defensive"
     },
     {
         "labels": [
@@ -5325,7 +5325,7 @@
                 "Focus Blast"
             ]
         },
-        "name": "Dragalge"
+        "name": "Dragalge - Offensive"
     },
     {
         "labels": [
@@ -5358,7 +5358,7 @@
                 "Knock Off"
             ]
         },
-        "name": "Escavalier"
+        "name": "Escavalier - Bulky Attacker"
     },
     {
         "labels": [
@@ -5392,13 +5392,13 @@
                 "Drill Run"
             ]
         },
-        "name": "Escavalier"
+        "name": "Escavalier - Choice Band"
     },
     {
         "labels": [
-            "sweeper",
             "support",
-            "wall"
+            "wall",
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -5426,13 +5426,13 @@
                 "Sleep Talk"
             ]
         },
-        "name": "Escavalier"
+        "name": "Escavalier - RestTalk Swords Dance"
     },
     {
         "labels": [
-            "utility",
+            "pivot",
             "wall",
-            "pivot"
+            "utility"
         ],
         "features": {
             "stats": [
@@ -5460,13 +5460,13 @@
                 "Sludge Bomb"
             ]
         },
-        "name": "Tangrowth"
+        "name": "Tangrowth - Assault Vest"
     },
     {
         "labels": [
-            "utility",
+            "pivot",
             "wall",
-            "pivot"
+            "utility"
         ],
         "features": {
             "stats": [
@@ -5495,7 +5495,7 @@
                 "Hidden Power Fire"
             ]
         },
-        "name": "Tangrowth"
+        "name": "Tangrowth - Physically Defensive"
     },
     {
         "labels": [
@@ -5527,7 +5527,7 @@
                 "Stone Edge"
             ]
         },
-        "name": "Virizion"
+        "name": "Virizion - Swords Dance"
     },
     {
         "labels": [
@@ -5560,13 +5560,13 @@
                 "Power Whip"
             ]
         },
-        "name": "Goodra"
+        "name": "Goodra - Choice Band"
     },
     {
         "labels": [
             "tank",
-            "wallbreaker",
-            "pivot"
+            "pivot",
+            "wallbreaker"
         ],
         "features": {
             "stats": [
@@ -5593,12 +5593,12 @@
                 "Sludge Wave"
             ]
         },
-        "name": "Goodra"
+        "name": "Goodra - Choice Specs"
     },
     {
         "labels": [
-            "utility",
-            "pivot"
+            "pivot",
+            "utility"
         ],
         "features": {
             "stats": [
@@ -5629,7 +5629,7 @@
                 "Thunder Wave"
             ]
         },
-        "name": "Slowbro"
+        "name": "Slowbro - Defensive Pivot"
     },
     {
         "labels": [
@@ -5663,7 +5663,7 @@
                 "Thunder Wave"
             ]
         },
-        "name": "Aurorus"
+        "name": "Aurorus - Aurora Veil Lead"
     },
     {
         "labels": [
@@ -5699,12 +5699,12 @@
                 "Explosion"
             ]
         },
-        "name": "Glalie"
+        "name": "Glalie - Offensive Spiker"
     },
     {
         "labels": [
-            "wallbreaker",
-            "support"
+            "support",
+            "wallbreaker"
         ],
         "features": {
             "stats": [
@@ -5733,12 +5733,12 @@
                 "Earthquake"
             ]
         },
-        "name": "Tyranitar"
+        "name": "Tyranitar - Stealth Rock"
     },
     {
         "labels": [
-            "wallbreaker",
-            "support"
+            "support",
+            "wallbreaker"
         ],
         "features": {
             "stats": [
@@ -5766,12 +5766,12 @@
                 "Earthquake"
             ]
         },
-        "name": "Tyranitar"
+        "name": "Tyranitar - Assault Vest"
     },
     {
         "labels": [
-            "wallbreaker",
-            "support"
+            "support",
+            "wallbreaker"
         ],
         "features": {
             "stats": [
@@ -5800,13 +5800,13 @@
                 "Fire Punch"
             ]
         },
-        "name": "Tyranitar"
+        "name": "Tyranitar - Choice Band"
     },
     {
         "labels": [
+            "support",
             "wallbreaker",
-            "sweeper",
-            "support"
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -5835,13 +5835,13 @@
                 "Earthquake"
             ]
         },
-        "name": "Tyranitar"
+        "name": "Tyranitar - Dragon Dance"
     },
     {
         "labels": [
-            "sweeper",
+            "support",
             "utility",
-            "support"
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -5870,13 +5870,13 @@
                 "Brick Break"
             ]
         },
-        "name": "Victini"
+        "name": "Victini - Choice Band"
     },
     {
         "labels": [
-            "sweeper",
+            "support",
             "utility",
-            "support"
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -5905,12 +5905,12 @@
                 "Final Gambit"
             ]
         },
-        "name": "Victini"
+        "name": "Victini - Choice Scarf"
     },
     {
         "labels": [
-            "sweeper",
-            "utility"
+            "utility",
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -5938,7 +5938,7 @@
                 "Focus Blast"
             ]
         },
-        "name": "Victini"
+        "name": "Victini - Z-Celebrate"
     },
     {
         "labels": [
@@ -5970,13 +5970,13 @@
                 "Destiny Bond"
             ]
         },
-        "name": "Froslass"
+        "name": "Froslass - Suicide Lead"
     },
     {
         "labels": [
             "tank",
-            "utility",
-            "pivot"
+            "pivot",
+            "utility"
         ],
         "features": {
             "stats": [
@@ -6005,13 +6005,13 @@
                 "Thunderbolt"
             ]
         },
-        "name": "Porygon2"
+        "name": "Porygon2 - Defensive Tank"
     },
     {
         "labels": [
-            "wallbreaker",
+            "pivot",
             "support",
-            "pivot"
+            "wallbreaker"
         ],
         "features": {
             "stats": [
@@ -6039,7 +6039,7 @@
                 "Fire Punch"
             ]
         },
-        "name": "Jirachi"
+        "name": "Jirachi - Choice Scarf"
     },
     {
         "labels": [
@@ -6072,7 +6072,7 @@
                 "Body Slam"
             ]
         },
-        "name": "Jirachi"
+        "name": "Jirachi - Wish"
     },
     {
         "labels": [
@@ -6105,14 +6105,14 @@
                 "Healing Wish"
             ]
         },
-        "name": "Jirachi"
+        "name": "Jirachi - Stealth Rock"
     },
     {
         "labels": [
-            "wallbreaker",
-            "utility",
+            "pivot",
             "support",
-            "pivot"
+            "utility",
+            "wallbreaker"
         ],
         "features": {
             "stats": [
@@ -6141,14 +6141,14 @@
                 "Focus Blast"
             ]
         },
-        "name": "Gengar"
+        "name": "Gengar - Offensive Utility"
     },
     {
         "labels": [
-            "wallbreaker",
-            "utility",
+            "pivot",
             "support",
-            "pivot"
+            "utility",
+            "wallbreaker"
         ],
         "features": {
             "stats": [
@@ -6177,7 +6177,7 @@
                 "Thunderbolt"
             ]
         },
-        "name": "Gengar"
+        "name": "Gengar - Choice Specs"
     },
     {
         "labels": [
@@ -6215,15 +6215,15 @@
                 "Toxic Spikes"
             ]
         },
-        "name": "Nihilego"
+        "name": "Nihilego - 3 Attacks"
     },
     {
         "labels": [
-            "tank",
-            "utility",
-            "sweeper",
+            "pivot",
             "support",
-            "pivot"
+            "utility",
+            "tank",
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -6252,7 +6252,7 @@
                 "Dazzling Gleam"
             ]
         },
-        "name": "Nihilego"
+        "name": "Nihilego - Choice Scarf"
     },
     {
         "labels": [
@@ -6285,7 +6285,7 @@
                 "Curse"
             ]
         },
-        "name": "Quagsire"
+        "name": "Quagsire - Unaware Wall"
     },
     {
         "labels": [
@@ -6318,7 +6318,7 @@
                 "Moonlight"
             ]
         },
-        "name": "Umbreon"
+        "name": "Umbreon - Specially Defensive"
     },
     {
         "labels": [
@@ -6350,7 +6350,7 @@
                 "Earthquake"
             ]
         },
-        "name": "Gastrodon"
+        "name": "Gastrodon - Specially Defensive"
     },
     {
         "labels": [
@@ -6386,7 +6386,7 @@
                 "Dark Pulse"
             ]
         },
-        "name": "Lucario"
+        "name": "Lucario - Nasty Plot"
     },
     {
         "labels": [
@@ -6420,7 +6420,7 @@
                 "Bullet Punch"
             ]
         },
-        "name": "Lucario"
+        "name": "Lucario - Swords Dance"
     },
     {
         "labels": [
@@ -6453,7 +6453,7 @@
                 "Hydro Pump"
             ]
         },
-        "name": "Cloyster"
+        "name": "Cloyster - Shell Smash Sweeper"
     },
     {
         "labels": [
@@ -6488,7 +6488,7 @@
                 "Thunderbolt"
             ]
         },
-        "name": "Starmie"
+        "name": "Starmie - Offensive"
     },
     {
         "labels": [
@@ -6521,7 +6521,7 @@
                 "Rapid Spin"
             ]
         },
-        "name": "Starmie"
+        "name": "Starmie - Bulky Spinner"
     },
     {
         "labels": [
@@ -6554,7 +6554,7 @@
                 "Facade"
             ]
         },
-        "name": "Bewear"
+        "name": "Bewear - Choice Band"
     },
     {
         "labels": [
@@ -6586,7 +6586,7 @@
                 "Earthquake"
             ]
         },
-        "name": "Bewear"
+        "name": "Bewear - Swords Dance"
     },
     {
         "labels": [
@@ -6618,12 +6618,12 @@
                 "Hidden Power Fire"
             ]
         },
-        "name": "Shaymin"
+        "name": "Shaymin - Z-Celebrate"
     },
     {
         "labels": [
-            "stallbreaker",
-            "pivot"
+            "pivot",
+            "stallbreaker"
         ],
         "features": {
             "stats": [
@@ -6653,12 +6653,12 @@
                 "Substitute"
             ]
         },
-        "name": "Chandelure"
+        "name": "Chandelure - Substitute + Calm Mind"
     },
     {
         "labels": [
-            "stallbreaker",
-            "pivot"
+            "pivot",
+            "stallbreaker"
         ],
         "features": {
             "stats": [
@@ -6688,12 +6688,12 @@
                 "Energy Ball"
             ]
         },
-        "name": "Chandelure"
+        "name": "Chandelure - Choice Scarf"
     },
     {
         "labels": [
-            "stallbreaker",
-            "pivot"
+            "pivot",
+            "stallbreaker"
         ],
         "features": {
             "stats": [
@@ -6722,14 +6722,14 @@
                 "Trick"
             ]
         },
-        "name": "Chandelure"
+        "name": "Chandelure - Choice Specs"
     },
     {
         "labels": [
-            "wallbreaker",
             "utility",
-            "sweeper",
-            "stallbreaker"
+            "stallbreaker",
+            "wallbreaker",
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -6757,15 +6757,15 @@
                 "Poison Jab"
             ]
         },
-        "name": "Haxorus"
+        "name": "Haxorus - Swords Dance"
     },
     {
         "labels": [
-            "wallbreaker",
+            "support",
             "utility",
             "stallbreaker",
-            "sweeper",
-            "support"
+            "wallbreaker",
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -6793,13 +6793,13 @@
                 "Poison Jab"
             ]
         },
-        "name": "Haxorus"
+        "name": "Haxorus - Dragon Dance"
     },
     {
         "labels": [
+            "wall",
             "wallbreaker",
-            "sweeper",
-            "wall"
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -6828,14 +6828,14 @@
                 "Knock Off"
             ]
         },
-        "name": "Alakazam"
+        "name": "Alakazam - Special Sweeper"
     },
     {
         "labels": [
-            "sweeper",
-            "wallbreaker",
+            "pivot",
             "wall",
-            "pivot"
+            "wallbreaker",
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -6863,12 +6863,12 @@
                 "Hidden Power Ice"
             ]
         },
-        "name": "Alakazam"
+        "name": "Alakazam - Life Orb"
     },
     {
         "labels": [
-            "utility",
-            "support"
+            "support",
+            "utility"
         ],
         "features": {
             "stats": [
@@ -6899,7 +6899,7 @@
                 "Knock Off"
             ]
         },
-        "name": "Tentacruel"
+        "name": "Tentacruel - Defensive"
     },
     {
         "labels": [
@@ -6931,7 +6931,7 @@
                 "Focus Blast"
             ]
         },
-        "name": "Thundurus"
+        "name": "Thundurus - Nasty Plot"
     },
     {
         "labels": [
@@ -6968,12 +6968,12 @@
                 "Recover"
             ]
         },
-        "name": "Jellicent"
+        "name": "Jellicent - Physically Defensive"
     },
     {
         "labels": [
-            "utility",
-            "pivot"
+            "pivot",
+            "utility"
         ],
         "features": {
             "stats": [
@@ -7002,7 +7002,7 @@
                 "Wish"
             ]
         },
-        "name": "Florges"
+        "name": "Florges - Cleric"
     },
     {
         "labels": [
@@ -7033,7 +7033,7 @@
                 "Fake Out"
             ]
         },
-        "name": "Mienshao"
+        "name": "Mienshao - Assault Vest"
     },
     {
         "labels": [
@@ -7066,13 +7066,13 @@
                 "Roost"
             ]
         },
-        "name": "Togekiss"
+        "name": "Togekiss - Nasty Plot"
     },
     {
         "labels": [
+            "pivot",
             "sweeper",
-            "stallbreaker",
-            "pivot"
+            "stallbreaker"
         ],
         "features": {
             "stats": [
@@ -7100,7 +7100,7 @@
                 "Roost"
             ]
         },
-        "name": "Gliscor"
+        "name": "Gliscor - Stealth Rock"
     },
     {
         "labels": [
@@ -7134,13 +7134,13 @@
                 "Ice Fang"
             ]
         },
-        "name": "Gliscor"
+        "name": "Gliscor - Swords Dance"
     },
     {
         "labels": [
+            "wall",
             "sweeper",
-            "stallbreaker",
-            "wall"
+            "stallbreaker"
         ],
         "features": {
             "stats": [
@@ -7169,12 +7169,12 @@
                 "Toxic"
             ]
         },
-        "name": "Gliscor"
+        "name": "Gliscor - Defog"
     },
     {
         "labels": [
-            "revengekiller",
-            "support"
+            "support",
+            "revengekiller"
         ],
         "features": {
             "stats": [
@@ -7198,14 +7198,14 @@
                 "Transform"
             ]
         },
-        "name": "Ditto"
+        "name": "Ditto - Imposter"
     },
     {
         "labels": [
-            "wallbreaker",
-            "utility",
+            "pivot",
             "support",
-            "pivot"
+            "utility",
+            "wallbreaker"
         ],
         "features": {
             "stats": [
@@ -7235,14 +7235,14 @@
                 "Tailwind"
             ]
         },
-        "name": "Tornadus"
+        "name": "Tornadus - Life Orb"
     },
     {
         "labels": [
-            "wallbreaker",
-            "utility",
+            "pivot",
             "support",
-            "pivot"
+            "utility",
+            "wallbreaker"
         ],
         "features": {
             "stats": [
@@ -7271,12 +7271,12 @@
                 "Tailwind"
             ]
         },
-        "name": "Tornadus"
+        "name": "Tornadus - Offensive Support"
     },
     {
         "labels": [
-            "utility",
-            "support"
+            "support",
+            "utility"
         ],
         "features": {
             "stats": [
@@ -7306,7 +7306,7 @@
                 "Synthesis"
             ]
         },
-        "name": "Chesnaught"
+        "name": "Chesnaught - Spikes"
     },
     {
         "labels": [
@@ -7339,7 +7339,7 @@
                 "Hurricane"
             ]
         },
-        "name": "Pelipper"
+        "name": "Pelipper - Defensive"
     },
     {
         "labels": [
@@ -7372,15 +7372,15 @@
                 "U-turn"
             ]
         },
-        "name": "Pelipper"
+        "name": "Pelipper - Choice Specs"
     },
     {
         "labels": [
-            "utility",
-            "wall",
             "revengekiller",
-            "sweeper",
-            "support"
+            "wall",
+            "utility",
+            "support",
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -7411,12 +7411,12 @@
                 "Flame Charge"
             ]
         },
-        "name": "Talonflame"
+        "name": "Talonflame - Swords Dance"
     },
     {
         "labels": [
-            "sweeper",
-            "utility"
+            "utility",
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -7443,12 +7443,12 @@
                 "Wish"
             ]
         },
-        "name": "Clefable"
+        "name": "Clefable - Magic Guard"
     },
     {
         "labels": [
-            "sweeper",
-            "utility"
+            "utility",
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -7476,12 +7476,12 @@
                 "Thunder Wave"
             ]
         },
-        "name": "Clefable"
+        "name": "Clefable - Calm Mind"
     },
     {
         "labels": [
-            "sweeper",
-            "utility"
+            "utility",
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -7508,12 +7508,12 @@
                 "Heal Bell"
             ]
         },
-        "name": "Clefable"
+        "name": "Clefable - Unaware"
     },
     {
         "labels": [
-            "wallbreaker",
-            "pivot"
+            "pivot",
+            "wallbreaker"
         ],
         "features": {
             "stats": [
@@ -7541,7 +7541,7 @@
                 "Air Slash"
             ]
         },
-        "name": "Swellow"
+        "name": "Swellow - Boomburst"
     },
     {
         "labels": [
@@ -7575,13 +7575,13 @@
                 "Focus Blast"
             ]
         },
-        "name": "Tapu Lele"
+        "name": "Tapu Lele - Fightinium Z"
     },
     {
         "labels": [
             "tank",
-            "wallbreaker",
-            "pivot"
+            "pivot",
+            "wallbreaker"
         ],
         "features": {
             "stats": [
@@ -7610,7 +7610,7 @@
                 "Focus Blast"
             ]
         },
-        "name": "Tapu Lele"
+        "name": "Tapu Lele - Psychium Z"
     },
     {
         "labels": [
@@ -7642,12 +7642,12 @@
                 "Hidden Power Fire"
             ]
         },
-        "name": "Tapu Lele"
+        "name": "Tapu Lele - Choice Specs"
     },
     {
         "labels": [
-            "revengekiller",
-            "tank"
+            "tank",
+            "revengekiller"
         ],
         "features": {
             "stats": [
@@ -7677,7 +7677,7 @@
                 "Nature's Madness"
             ]
         },
-        "name": "Tapu Lele"
+        "name": "Tapu Lele - Choice Scarf"
     },
     {
         "labels": [
@@ -7709,12 +7709,12 @@
                 "Taunt"
             ]
         },
-        "name": "Keldeo"
+        "name": "Keldeo - Calm Mind"
     },
     {
         "labels": [
-            "wallbreaker",
-            "support"
+            "support",
+            "wallbreaker"
         ],
         "features": {
             "stats": [
@@ -7742,7 +7742,7 @@
                 "Icy Wind"
             ]
         },
-        "name": "Keldeo"
+        "name": "Keldeo - Choice Specs"
     },
     {
         "labels": [
@@ -7775,7 +7775,7 @@
                 "Crunch"
             ]
         },
-        "name": "Krookodile"
+        "name": "Krookodile - Choice Scarf"
     },
     {
         "labels": [
@@ -7809,7 +7809,7 @@
                 "Swords Dance"
             ]
         },
-        "name": "Bisharp"
+        "name": "Bisharp - Swords Dance"
     },
     {
         "labels": [
@@ -7841,7 +7841,7 @@
                 "Signal Beam"
             ]
         },
-        "name": "Necrozma"
+        "name": "Necrozma - Stealth Rock"
     },
     {
         "labels": [
@@ -7872,7 +7872,7 @@
                 "Signal Beam"
             ]
         },
-        "name": "Necrozma"
+        "name": "Necrozma - Choice Specs"
     },
     {
         "labels": [
@@ -7903,7 +7903,7 @@
                 "Whirlwind"
             ]
         },
-        "name": "Hippowdon"
+        "name": "Hippowdon - Physically Defensive"
     },
     {
         "labels": [
@@ -7935,7 +7935,7 @@
                 "Dragon Claw"
             ]
         },
-        "name": "Tyrantrum"
+        "name": "Tyrantrum - Choice Scarf"
     },
     {
         "labels": [
@@ -7968,7 +7968,7 @@
                 "Crunch"
             ]
         },
-        "name": "Tyrantrum"
+        "name": "Tyrantrum - Choice Band"
     },
     {
         "labels": [
@@ -8001,15 +8001,15 @@
                 "Earthquake"
             ]
         },
-        "name": "Tyrantrum"
+        "name": "Tyrantrum - Rock Polish"
     },
     {
         "labels": [
-            "tank",
-            "wallbreaker",
-            "utility",
+            "pivot",
             "support",
-            "pivot"
+            "utility",
+            "tank",
+            "wallbreaker"
         ],
         "features": {
             "stats": [
@@ -8039,15 +8039,15 @@
                 "Volt Switch"
             ]
         },
-        "name": "Zeraora"
+        "name": "Zeraora - Mixed Attacker"
     },
     {
         "labels": [
+            "support",
+            "utility",
             "tank",
             "wallbreaker",
-            "utility",
-            "sweeper",
-            "support"
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -8077,7 +8077,7 @@
                 "Giga Impact"
             ]
         },
-        "name": "Zeraora"
+        "name": "Zeraora - Bulk Up"
     },
     {
         "labels": [
@@ -8112,12 +8112,12 @@
                 "Aqua Tail"
             ]
         },
-        "name": "Aerodactyl"
+        "name": "Aerodactyl - Offensive"
     },
     {
         "labels": [
-            "wallbreaker",
-            "utility"
+            "utility",
+            "wallbreaker"
         ],
         "features": {
             "stats": [
@@ -8145,12 +8145,12 @@
                 "U-turn"
             ]
         },
-        "name": "Tsareena"
+        "name": "Tsareena - Choice Band"
     },
     {
         "labels": [
-            "wallbreaker",
-            "utility"
+            "utility",
+            "wallbreaker"
         ],
         "features": {
             "stats": [
@@ -8178,13 +8178,13 @@
                 "Knock Off"
             ]
         },
-        "name": "Tsareena"
+        "name": "Tsareena - Offensive Utility"
     },
     {
         "labels": [
-            "wallbreaker",
             "utility",
-            "support"
+            "support",
+            "wallbreaker"
         ],
         "features": {
             "stats": [
@@ -8212,7 +8212,7 @@
                 "Fire Punch"
             ]
         },
-        "name": "Darmanitan"
+        "name": "Darmanitan - Choice Band"
     },
     {
         "labels": [
@@ -8243,12 +8243,12 @@
                 "Ice Shard"
             ]
         },
-        "name": "Donphan"
+        "name": "Donphan - Offensive Spinner"
     },
     {
         "labels": [
-            "utility",
-            "pivot"
+            "pivot",
+            "utility"
         ],
         "features": {
             "stats": [
@@ -8277,14 +8277,14 @@
                 "Superpower"
             ]
         },
-        "name": "Scizor"
+        "name": "Scizor - Swords Dance"
     },
     {
         "labels": [
-            "wallbreaker",
-            "sweeper",
+            "pivot",
             "support",
-            "pivot"
+            "wallbreaker",
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -8313,7 +8313,7 @@
                 "Liquidation"
             ]
         },
-        "name": "Bruxish"
+        "name": "Bruxish - Swords Dance"
     },
     {
         "labels": [
@@ -8346,7 +8346,7 @@
                 "Crunch"
             ]
         },
-        "name": "Bruxish"
+        "name": "Bruxish - Choice Band"
     },
     {
         "labels": [
@@ -8379,7 +8379,7 @@
                 "Taunt"
             ]
         },
-        "name": "Houndoom"
+        "name": "Houndoom - Nasty Plot"
     },
     {
         "labels": [
@@ -8412,7 +8412,7 @@
                 "Knock Off"
             ]
         },
-        "name": "Azumarill"
+        "name": "Azumarill - Belly Drum"
     },
     {
         "labels": [
@@ -8446,7 +8446,7 @@
                 "Hidden Power Fire"
             ]
         },
-        "name": "Azumarill"
+        "name": "Azumarill - Perish Trap"
     },
     {
         "labels": [
@@ -8479,7 +8479,7 @@
                 "Quick Attack"
             ]
         },
-        "name": "Lopunny"
+        "name": "Lopunny - All-out Attacker"
     },
     {
         "labels": [
@@ -8512,7 +8512,7 @@
                 "Recover"
             ]
         },
-        "name": "Reuniclus"
+        "name": "Reuniclus - 2 Attacks"
     },
     {
         "labels": [
@@ -8544,13 +8544,13 @@
                 "Recover"
             ]
         },
-        "name": "Reuniclus"
+        "name": "Reuniclus - Double Dance"
     },
     {
         "labels": [
-            "sweeper",
+            "pivot",
             "support",
-            "pivot"
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -8577,7 +8577,7 @@
                 "Lunar Dance"
             ]
         },
-        "name": "Cresselia"
+        "name": "Cresselia - Trick Room"
     },
     {
         "labels": [
@@ -8609,12 +8609,12 @@
                 "Roost"
             ]
         },
-        "name": "Articuno"
+        "name": "Articuno - Specially Defensive"
     },
     {
         "labels": [
-            "utility",
-            "wall"
+            "wall",
+            "utility"
         ],
         "features": {
             "stats": [
@@ -8642,12 +8642,12 @@
                 "Toxic"
             ]
         },
-        "name": "Arcanine"
+        "name": "Arcanine - Defensive"
     },
     {
         "labels": [
-            "wallbreaker",
-            "pivot"
+            "pivot",
+            "wallbreaker"
         ],
         "features": {
             "stats": [
@@ -8674,12 +8674,12 @@
                 "Bullet Punch"
             ]
         },
-        "name": "Machamp"
+        "name": "Machamp - Guts Wallbreaker"
     },
     {
         "labels": [
-            "wallbreaker",
-            "wall"
+            "wall",
+            "wallbreaker"
         ],
         "features": {
             "stats": [
@@ -8707,7 +8707,7 @@
                 "Bullet Punch"
             ]
         },
-        "name": "Machamp"
+        "name": "Machamp - Assault Vest"
     },
     {
         "labels": [
@@ -8741,7 +8741,7 @@
                 "Earthquake"
             ]
         },
-        "name": "Venusaur"
+        "name": "Venusaur - Defensive"
     },
     {
         "labels": [
@@ -8774,7 +8774,7 @@
                 "Psychic"
             ]
         },
-        "name": "Primarina"
+        "name": "Primarina - Choice Specs"
     },
     {
         "labels": [
@@ -8806,12 +8806,12 @@
                 "Sleep Talk"
             ]
         },
-        "name": "Primarina"
+        "name": "Primarina - Defensive"
     },
     {
         "labels": [
-            "wall",
-            "pivot"
+            "pivot",
+            "wall"
         ],
         "features": {
             "stats": [
@@ -8840,12 +8840,12 @@
                 "Haze"
             ]
         },
-        "name": "Mantine"
+        "name": "Mantine - Mixed Wall"
     },
     {
         "labels": [
-            "sweeper",
-            "wall"
+            "wall",
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -8872,7 +8872,7 @@
                 "Nasty Plot"
             ]
         },
-        "name": "Cofagrigus"
+        "name": "Cofagrigus - Trick Room"
     },
     {
         "labels": [
@@ -8904,12 +8904,12 @@
                 "Earthquake"
             ]
         },
-        "name": "Sawk"
+        "name": "Sawk - Wallbreaker"
     },
     {
         "labels": [
-            "sweeper",
-            "support"
+            "support",
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -8936,12 +8936,12 @@
                 "Seed Bomb"
             ]
         },
-        "name": "Linoone"
+        "name": "Linoone - Belly Drum Sweeper"
     },
     {
         "labels": [
-            "sweeper",
-            "support"
+            "support",
+            "sweeper"
         ],
         "features": {
             "stats": [
@@ -8968,7 +8968,7 @@
                 "Protect"
             ]
         },
-        "name": "Suicune"
+        "name": "Suicune - Substitute + Calm Mind"
     },
     {
         "labels": [
@@ -8999,6 +8999,6 @@
                 "Drain Punch"
             ]
         },
-        "name": "Slurpuff"
+        "name": "Slurpuff - Belly Drum Sweeper"
     }
 ]

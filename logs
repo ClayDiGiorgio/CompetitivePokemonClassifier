@@ -1,0 +1,883 @@
+COMPLETE:  Granbull
+COMPLETE:  Qwilfish
+COMPLETE:  Scizor
+FAILURE:   Shuckle
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+COMPLETE:  Heracross
+COMPLETE:  Sneasel
+COMPLETE:  Teddiursa
+FAILURE:   Ursaring
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+->> no proper form found for the below forms with item " [' Eviolite'] " going with base form
+	 'Mega'
+FAILURE:   Slugma
+	 list index out of range
+FAILURE:   Magcargo
+	 list index out of range
+FAILURE:   Swinub
+	 list index out of range
+->> no proper form found for the below forms with item " [' Eviolite'] " going with base form
+	 'Mega'
+COMPLETE:  Piloswine
+COMPLETE:  Corsola
+COMPLETE:  Remoraid
+FAILURE:   Octillery
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+FAILURE:   Delibird
+	 list index out of range
+COMPLETE:  Mantine
+COMPLETE:  Skarmory
+COMPLETE:  Houndour
+FAILURE:   Houndoom
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+COMPLETE:  Kingdra
+->> no proper form found for the below forms with item " [' Eviolite'] " going with base form
+	 'Mega'
+FAILURE:   Phanpy
+	 list index out of range
+COMPLETE:  Donphan
+->> no proper form found for the below forms with item " [' Eviolite'] " going with base form
+	 'Mega'
+COMPLETE:  Porygon2
+FAILURE:   Stantler
+	 list index out of range
+COMPLETE:  Smeargle
+FAILURE:   Tyrogue
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Hitmontop
+FAILURE:   Smoochum
+	 list index out of range
+COMPLETE:  Elekid
+COMPLETE:  Magby
+COMPLETE:  Miltank
+FAILURE:   Blissey
+	 Protocol error Target.createTarget: Target closed.
+COMPLETE:  Raikou
+COMPLETE:  Entei
+COMPLETE:  Suicune
+FAILURE:   Larvitar
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+FAILURE:   Pupitar
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Tyranitar
+FAILURE:   Lugia
+	 list index out of range
+FAILURE:   Ho-Oh
+	 list index out of range
+COMPLETE:  Celebi
+COMPLETE:  Treecko
+FAILURE:   Grovyle
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Sceptile
+FAILURE:   Torchic
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Combusken
+FAILURE:   Blaziken
+	 list index out of range
+->> no proper form found for the below forms with item " [' Eviolite'] " going with base form
+	 'Mega'
+FAILURE:   Mudkip
+	 list index out of range
+FAILURE:   Marshtomp
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Swampert
+FAILURE:   Poochyena
+	 list index out of range
+FAILURE:   Mightyena
+	 list index out of range
+COMPLETE:  Zigzagoon
+COMPLETE:  Linoone
+FAILURE:   Wurmple
+	 'NoneType' object has no attribute 'find'
+FAILURE:   Silcoon
+	 'NoneType' object has no attribute 'find'
+FAILURE:   Beautifly
+	 list index out of range
+FAILURE:   Cascoon
+	 'NoneType' object has no attribute 'find'
+FAILURE:   Dustox
+	 list index out of range
+FAILURE:   Lotad
+	 list index out of range
+FAILURE:   Lombre
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Ludicolo
+FAILURE:   Seedot
+	 list index out of range
+FAILURE:   Nuzleaf
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Shiftry
+COMPLETE:  Taillow
+COMPLETE:  Swellow
+FAILURE:   Wingull
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Pelipper
+FAILURE:   Ralts
+	 list index out of range
+FAILURE:   Kirlia
+	 'NoneType' object has no attribute 'find'
+FAILURE:   Gardevoir
+	 list index out of range
+COMPLETE:  Surskit
+COMPLETE:  Masquerain
+->> no proper form found for the below forms with item " [' Eviolite'] " going with base form
+	 'Mega'
+FAILURE:   Shroomish
+	 list index out of range
+FAILURE:   Breloom
+	 list index out of range
+FAILURE:   Slakoth
+	 'NoneType' object has no attribute 'find'
+->> no proper form found for the below forms with item " [' Eviolite'] " going with base form
+	 'Mega'
+COMPLETE:  Vigoroth
+FAILURE:   Slaking
+	 list index out of range
+->> no proper form found for the below forms with item " [' Eviolite'] " going with base form
+	 'Mega'
+FAILURE:   Nincada
+	 list index out of range
+COMPLETE:  Ninjask
+FAILURE:   Shedinja
+	 list index out of range
+FAILURE:   Whismur
+	 list index out of range
+FAILURE:   Loudred
+	 'NoneType' object has no attribute 'find'
+FAILURE:   Exploud
+	 list index out of range
+FAILURE:   Makuhita
+	 list index out of range
+COMPLETE:  Hariyama
+FAILURE:   Azurill
+	 list index out of range
+COMPLETE:  Nosepass
+FAILURE:   Skitty
+	 list index out of range
+FAILURE:   Delcatty
+	 list index out of range
+COMPLETE:  Sableye
+COMPLETE:  Mawile
+->> no proper form found for the below forms with item " [' Eviolite'] " going with base form
+	 'Mega'
+COMPLETE:  Aron
+FAILURE:   Lairon
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Aggron
+FAILURE:   Meditite
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Medicham
+FAILURE:   Electrike
+	 list index out of range
+COMPLETE:  Manectric
+FAILURE:   Plusle
+	 list index out of range
+FAILURE:   Minun
+	 list index out of range
+COMPLETE:  Volbeat
+FAILURE:   Illumise
+	 list index out of range
+->> no proper form found for the below forms with item " [' Eviolite'] " going with base form
+	 'Mega'
+COMPLETE:  Roselia
+FAILURE:   Gulpin
+	 'NoneType' object has no attribute 'find'
+FAILURE:   Swalot
+	 list index out of range
+COMPLETE:  Carvanha
+COMPLETE:  Sharpedo
+FAILURE:   Wailmer
+	 list index out of range
+FAILURE:   Wailord
+	 list index out of range
+->> no proper form found for the below forms with item " [' Eviolite', ' Berry Juice', ' Groundium Z'] " going with base form
+	 'Mega'
+COMPLETE:  Numel
+COMPLETE:  Camerupt
+COMPLETE:  Torkoal
+FAILURE:   Spoink
+	 'NoneType' object has no attribute 'find'
+FAILURE:   Grumpig
+	 list index out of range
+FAILURE:   Spinda
+	 list index out of range
+COMPLETE:  Trapinch
+FAILURE:   Vibrava
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Flygon
+->> no proper form found for the below forms with item " [' Eviolite'] " going with base form
+	 'Mega'
+FAILURE:   Cacnea
+	 list index out of range
+COMPLETE:  Cacturne
+FAILURE:   Swablu
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Altaria
+COMPLETE:  Zangoose
+FAILURE:   Seviper
+	 list index out of range
+FAILURE:   Lunatone
+	 list index out of range
+FAILURE:   Solrock
+	 list index out of range
+FAILURE:   Barboach
+	 list index out of range
+FAILURE:   Whiscash
+	 list index out of range
+->> no proper form found for the below forms with item " [' Eviolite'] " going with base form
+	 'Mega'
+->> no proper form found for the below forms with item " [' Eviolite'] " going with base form
+	 'Mega'
+COMPLETE:  Corphish
+COMPLETE:  Crawdaunt
+FAILURE:   Baltoy
+	 list index out of range
+COMPLETE:  Claydol
+FAILURE:   Lileep
+	 Protocol error Target.closeTarget: Target closed.
+COMPLETE:  Cradily
+FAILURE:   Anorith
+	 Protocol error Target.closeTarget: Target closed.
+FAILURE:   Armaldo
+	 list index out of range
+FAILURE:   Feebas
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Milotic
+FAILURE:   Castform
+	 list index out of range
+COMPLETE:  Kecleon
+FAILURE:   Shuppet
+	 list index out of range
+COMPLETE:  Banette
+->> no proper form found for the below forms with item " [' Eviolite'] " going with base form
+	 'Mega'
+FAILURE:   Duskull
+	 list index out of range
+FAILURE:   Dusclops
+	 'NoneType' object has no attribute 'find'
+FAILURE:   Tropius
+	 list index out of range
+FAILURE:   Chimecho
+	 list index out of range
+COMPLETE:  Absol
+COMPLETE:  Wynaut
+FAILURE:   Snorunt
+	 list index out of range
+COMPLETE:  Glalie
+FAILURE:   Spheal
+	 list index out of range
+FAILURE:   Sealeo
+	 'NoneType' object has no attribute 'find'
+FAILURE:   Walrein
+	 list index out of range
+COMPLETE:  Clamperl
+COMPLETE:  Huntail
+COMPLETE:  Gorebyss
+FAILURE:   Relicanth
+	 Protocol error Page.navigate: Target closed.
+FAILURE:   Luvdisc
+	 list index out of range
+FAILURE:   Bagon
+	 list index out of range
+FAILURE:   Shelgon
+	 'NoneType' object has no attribute 'find'
+FAILURE:   Salamence
+	 list index out of range
+FAILURE:   Beldum
+	 'NoneType' object has no attribute 'find'
+->> no proper form found for the below forms with item " [' Eviolite'] " going with base form
+	 'Mega'
+COMPLETE:  Metang
+COMPLETE:  Metagross
+COMPLETE:  Regirock
+FAILURE:   Regice
+	 Protocol error Target.createTarget: Target closed.
+COMPLETE:  Registeel
+COMPLETE:  Latias
+COMPLETE:  Latios
+FAILURE:   Kyogre
+	 list index out of range
+FAILURE:   Groudon
+	 list index out of range
+FAILURE:   Rayquaza
+	 list index out of range
+COMPLETE:  Jirachi
+FAILURE:   Deoxys
+	 list index out of range
+COMPLETE:  Turtwig
+FAILURE:   Grotle
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Torterra
+FAILURE:   Chimchar
+	 list index out of range
+FAILURE:   Monferno
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Infernape
+COMPLETE:  Piplup
+FAILURE:   Prinplup
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Empoleon
+FAILURE:   Starly
+	 list index out of range
+FAILURE:   Staravia
+	 'NoneType' object has no attribute 'find'
+FAILURE:   Staraptor
+	 list index out of range
+FAILURE:   Bidoof
+	 list index out of range
+COMPLETE:  Bibarel
+FAILURE:   Kricketot
+	 'NoneType' object has no attribute 'find'
+FAILURE:   Kricketune
+	 list index out of range
+FAILURE:   Shinx
+	 list index out of range
+FAILURE:   Luxio
+	 'NoneType' object has no attribute 'find'
+FAILURE:   Luxray
+	 list index out of range
+COMPLETE:  Budew
+COMPLETE:  Roserade
+COMPLETE:  Cranidos
+FAILURE:   Rampardos
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+FAILURE:   Shieldon
+	 list index out of range
+FAILURE:   Bastiodon
+	 list index out of range
+FAILURE:   Burmy
+	 'NoneType' object has no attribute 'find'
+FAILURE:   Wormadam
+	 list index out of range
+FAILURE:   Mothim
+	 list index out of range
+FAILURE:   Combee
+	 'NoneType' object has no attribute 'find'
+FAILURE:   Vespiquen
+	 list index out of range
+FAILURE:   Pachirisu
+	 list index out of range
+FAILURE:   Buizel
+	 list index out of range
+COMPLETE:  Floatzel
+FAILURE:   Cherubi
+	 list index out of range
+FAILURE:   Cherrim
+	 list index out of range
+COMPLETE:  Shellos
+COMPLETE:  Gastrodon
+COMPLETE:  Ambipom
+FAILURE:   Drifloon
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Drifblim
+COMPLETE:  Buneary
+COMPLETE:  Lopunny
+FAILURE:   Mismagius
+	 Protocol error Target.createTarget: Target closed.
+COMPLETE:  Honchkrow
+FAILURE:   Glameow
+	 list index out of range
+FAILURE:   Purugly
+	 list index out of range
+FAILURE:   Chingling
+	 list index out of range
+COMPLETE:  Stunky
+COMPLETE:  Skuntank
+COMPLETE:  Bronzor
+FAILURE:   Bronzong
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+FAILURE:   Bonsly
+	 list index out of range
+FAILURE:   Mime Jr.
+	 'NoneType' object has no attribute 'find'
+FAILURE:   Happiny
+	 'NoneType' object has no attribute 'find'
+FAILURE:   Chatot
+	 list index out of range
+COMPLETE:  Spiritomb
+COMPLETE:  Gible
+FAILURE:   Gabite
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Garchomp
+COMPLETE:  Munchlax
+COMPLETE:  Riolu
+FAILURE:   Lucario
+	 Protocol error Target.createTarget: Target closed.
+COMPLETE:  Hippopotas
+COMPLETE:  Hippowdon
+FAILURE:   Skorupi
+	 list index out of range
+COMPLETE:  Drapion
+COMPLETE:  Croagunk
+COMPLETE:  Toxicroak
+FAILURE:   Carnivine
+	 Protocol error Page.navigate: Target closed.
+COMPLETE:  Finneon
+FAILURE:   Lumineon
+	 list index out of range
+COMPLETE:  Mantyke
+COMPLETE:  Snover
+COMPLETE:  Abomasnow
+FAILURE:   Weavile
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+COMPLETE:  Magnezone
+FAILURE:   Lickilicky
+	 list index out of range
+COMPLETE:  Rhyperior
+COMPLETE:  Tangrowth
+COMPLETE:  Electivire
+FAILURE:   Magmortar
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+COMPLETE:  Togekiss
+COMPLETE:  Yanmega
+COMPLETE:  Leafeon
+FAILURE:   Glaceon
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+COMPLETE:  Gliscor
+COMPLETE:  Mamoswine
+FAILURE:   Porygon-Z
+	 list index out of range
+COMPLETE:  Gallade
+COMPLETE:  Probopass
+COMPLETE:  Dusknoir
+FAILURE:   Froslass
+	 Protocol error Page.navigate: Target closed.
+COMPLETE:  Rotom
+COMPLETE:  Uxie
+COMPLETE:  Mesprit
+FAILURE:   Azelf
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+FAILURE:   Dialga
+	 list index out of range
+FAILURE:   Palkia
+	 list index out of range
+COMPLETE:  Heatran
+FAILURE:   Regigigas
+	 list index out of range
+FAILURE:   Giratina
+	 list index out of range
+COMPLETE:  Cresselia
+FAILURE:   Phione
+	 list index out of range
+COMPLETE:  Manaphy
+FAILURE:   Darkrai
+	 list index out of range
+COMPLETE:  Shaymin
+FAILURE:   Arceus
+	 list index out of range
+COMPLETE:  Victini
+COMPLETE:  Snivy
+COMPLETE:  Servine
+FAILURE:   Serperior
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+FAILURE:   Tepig
+	 list index out of range
+FAILURE:   Pignite
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Emboar
+FAILURE:   Oshawott
+	 'NoneType' object has no attribute 'find'
+FAILURE:   Dewott
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Samurott
+FAILURE:   Patrat
+	 'NoneType' object has no attribute 'find'
+FAILURE:   Watchog
+	 list index out of range
+FAILURE:   Lillipup
+	 list index out of range
+FAILURE:   Herdier
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Stoutland
+COMPLETE:  Purrloin
+COMPLETE:  Liepard
+FAILURE:   Pansage
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+FAILURE:   Simisage
+	 list index out of range
+FAILURE:   Pansear
+	 list index out of range
+COMPLETE:  Simisear
+FAILURE:   Panpour
+	 list index out of range
+COMPLETE:  Simipour
+FAILURE:   Munna
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Musharna
+FAILURE:   Pidove
+	 Protocol error Target.closeTarget: Target closed.
+FAILURE:   Tranquill
+	 'NoneType' object has no attribute 'find'
+FAILURE:   Unfezant
+	 list index out of range
+FAILURE:   Blitzle
+	 list index out of range
+COMPLETE:  Zebstrika
+FAILURE:   Roggenrola
+	 list index out of range
+FAILURE:   Boldore
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Gigalith
+FAILURE:   Woobat
+	 list index out of range
+COMPLETE:  Swoobat
+COMPLETE:  Drilbur
+COMPLETE:  Excadrill
+FAILURE:   Audino
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+COMPLETE:  Timburr
+COMPLETE:  Gurdurr
+FAILURE:   Conkeldurr
+	 list index out of range
+FAILURE:   Tympole
+	 list index out of range
+FAILURE:   Palpitoad
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Seismitoad
+COMPLETE:  Throh
+COMPLETE:  Sawk
+FAILURE:   Sewaddle
+	 list index out of range
+FAILURE:   Swadloon
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Leavanny
+COMPLETE:  Venipede
+FAILURE:   Whirlipede
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Scolipede
+COMPLETE:  Cottonee
+COMPLETE:  Whimsicott
+FAILURE:   Petilil
+	 Protocol error Page.navigate: Target closed.
+FAILURE:   Lilligant
+	 list index out of range
+COMPLETE:  Basculin
+COMPLETE:  Sandile
+FAILURE:   Krokorok
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Krookodile
+COMPLETE:  Darumaka
+FAILURE:   Darmanitan
+	 Protocol error Page.navigate: Target closed.
+FAILURE:   Maractus
+	 list index out of range
+COMPLETE:  Dwebble
+COMPLETE:  Crustle
+COMPLETE:  Scraggy
+FAILURE:   Scrafty
+	 Protocol error Target.createTarget: Target closed.
+COMPLETE:  Sigilyph
+FAILURE:   Yamask
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Cofagrigus
+COMPLETE:  Tirtouga
+FAILURE:   Carracosta
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+COMPLETE:  Archen
+FAILURE:   Archeops
+	 list index out of range
+COMPLETE:  Trubbish
+FAILURE:   Garbodor
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+COMPLETE:  Zorua
+FAILURE:   Zoroark
+	 list index out of range
+COMPLETE:  Minccino
+COMPLETE:  Cinccino
+FAILURE:   Gothita
+	 'NoneType' object has no attribute 'find'
+FAILURE:   Gothorita
+	 list index out of range
+FAILURE:   Gothitelle
+	 list index out of range
+COMPLETE:  Solosis
+COMPLETE:  Duosion
+COMPLETE:  Reuniclus
+FAILURE:   Ducklett
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+COMPLETE:  Swanna
+FAILURE:   Vanillite
+	 list index out of range
+FAILURE:   Vanillish
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Vanilluxe
+COMPLETE:  Deerling
+COMPLETE:  Sawsbuck
+FAILURE:   Emolga
+	 Protocol error Target.createTarget: Target closed.
+COMPLETE:  Karrablast
+COMPLETE:  Escavalier
+FAILURE:   Foongus
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+COMPLETE:  Amoonguss
+COMPLETE:  Frillish
+FAILURE:   Jellicent
+	 Protocol error Runtime.callFunctionOn: Target closed.
+COMPLETE:  Alomomola
+FAILURE:   Joltik
+	 list index out of range
+COMPLETE:  Galvantula
+COMPLETE:  Ferroseed
+FAILURE:   Ferrothorn
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+COMPLETE:  Klink
+FAILURE:   Klang
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Klinklang
+FAILURE:   Tynamo
+	 'NoneType' object has no attribute 'find'
+FAILURE:   Eelektrik
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Eelektross
+FAILURE:   Elgyem
+	 list index out of range
+COMPLETE:  Beheeyem
+FAILURE:   Litwick
+	 list index out of range
+FAILURE:   Lampent
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Chandelure
+COMPLETE:  Axew
+FAILURE:   Fraxure
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Haxorus
+COMPLETE:  Cubchoo
+FAILURE:   Beartic
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+COMPLETE:  Cryogonal
+COMPLETE:  Shelmet
+COMPLETE:  Accelgor
+FAILURE:   Stunfisk
+	 Protocol Error (Page.navigate): Session closed. Most likely the page has been closed.
+COMPLETE:  Mienfoo
+COMPLETE:  Mienshao
+COMPLETE:  Druddigon
+FAILURE:   Golett
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+COMPLETE:  Golurk
+COMPLETE:  Pawniard
+COMPLETE:  Bisharp
+FAILURE:   Bouffalant
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+COMPLETE:  Rufflet
+COMPLETE:  Braviary
+COMPLETE:  Vullaby
+FAILURE:   Mandibuzz
+	 Protocol error Target.createTarget: Target closed.
+FAILURE:   Heatmor
+	 list index out of range
+COMPLETE:  Durant
+FAILURE:   Deino
+	 list index out of range
+FAILURE:   Zweilous
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Hydreigon
+COMPLETE:  Larvesta
+COMPLETE:  Volcarona
+FAILURE:   Cobalion
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+COMPLETE:  Terrakion
+COMPLETE:  Virizion
+FAILURE:   Tornadus
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+COMPLETE:  Thundurus
+FAILURE:   Reshiram
+	 list index out of range
+FAILURE:   Zekrom
+	 list index out of range
+COMPLETE:  Landorus
+COMPLETE:  Kyurem
+COMPLETE:  Keldeo
+FAILURE:   Meloetta
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+COMPLETE:  Genesect
+COMPLETE:  Chespin
+FAILURE:   Quilladin
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+COMPLETE:  Chesnaught
+FAILURE:   Fennekin
+	 list index out of range
+FAILURE:   Braixen
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Delphox
+FAILURE:   Froakie
+	 'NoneType' object has no attribute 'find'
+FAILURE:   Frogadier
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Greninja
+COMPLETE:  Bunnelby
+FAILURE:   Diggersby
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+COMPLETE:  Fletchling
+FAILURE:   Fletchinder
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Talonflame
+FAILURE:   Scatterbug
+	 'NoneType' object has no attribute 'find'
+FAILURE:   Spewpa
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Vivillon
+FAILURE:   Litleo
+	 'NoneType' object has no attribute 'find'
+FAILURE:   Pyroar
+	 list index out of range
+FAILURE:   Flabébé
+	 'NoneType' object has no attribute 'find'
+FAILURE:   Floette
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Florges
+FAILURE:   Skiddo
+	 'NoneType' object has no attribute 'find'
+FAILURE:   Gogoat
+	 list index out of range
+COMPLETE:  Pancham
+COMPLETE:  Pangoro
+FAILURE:   Furfrou
+	 list index out of range
+FAILURE:   Espurr
+	 list index out of range
+FAILURE:   Meowstic
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Honedge
+COMPLETE:  Doublade
+FAILURE:   Aegislash
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+COMPLETE:  Spritzee
+COMPLETE:  Aromatisse
+FAILURE:   Swirlix
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Slurpuff
+COMPLETE:  Inkay
+COMPLETE:  Malamar
+FAILURE:   Binacle
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+COMPLETE:  Barbaracle
+FAILURE:   Skrelp
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+COMPLETE:  Dragalge
+FAILURE:   Clauncher
+	 list index out of range
+COMPLETE:  Clawitzer
+FAILURE:   Helioptile
+	 list index out of range
+COMPLETE:  Heliolisk
+COMPLETE:  Tyrunt
+COMPLETE:  Tyrantrum
+FAILURE:   Amaura
+	 Protocol error Target.createTarget: Target closed.
+COMPLETE:  Aurorus
+COMPLETE:  Sylveon
+COMPLETE:  Hawlucha
+FAILURE:   Dedenne
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+COMPLETE:  Carbink
+FAILURE:   Goomy
+	 list index out of range
+FAILURE:   Sliggoo
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Goodra
+COMPLETE:  Klefki
+FAILURE:   Phantump
+	 'NoneType' object has no attribute 'find'
+FAILURE:   Trevenant
+	 list index out of range
+FAILURE:   Pumpkaboo
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Gourgeist
+FAILURE:   Bergmite
+	 list index out of range
+COMPLETE:  Avalugg
+FAILURE:   Noibat
+	 list index out of range
+COMPLETE:  Noivern
+FAILURE:   Xerneas
+	 list index out of range
+FAILURE:   Yveltal
+	 list index out of range
+COMPLETE:  Zygarde
+COMPLETE:  Diancie
+FAILURE:   Hoopa
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+COMPLETE:  Volcanion
+COMPLETE:  Rowlet
+FAILURE:   Dartrix
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Decidueye
+FAILURE:   Litten
+	 list index out of range
+FAILURE:   Torracat
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Incineroar
+FAILURE:   Popplio
+	 'NoneType' object has no attribute 'find'
+FAILURE:   Brionne
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Primarina
+COMPLETE:  Pikipek
+FAILURE:   Trumbeak
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Toucannon
+FAILURE:   Yungoos
+	 list index out of range
+FAILURE:   Gumshoos
+	 list index out of range
+FAILURE:   Grubbin
+	 'NoneType' object has no attribute 'find'
+FAILURE:   Charjabug
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Vikavolt
+COMPLETE:  Crabrawler
+FAILURE:   Crabominable
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+FAILURE:   Oricorio
+	 list index out of range
+FAILURE:   Cutiefly
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Ribombee
+FAILURE:   Rockruff
+	 list index out of range
+COMPLETE:  Lycanroc
+COMPLETE:  Wishiwashi
+COMPLETE:  Mareanie
+FAILURE:   Toxapex
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+COMPLETE:  Mudbray
+COMPLETE:  Mudsdale
+COMPLETE:  Dewpider
+FAILURE:   Araquanid
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+FAILURE:   Fomantis
+	 list index out of range
+COMPLETE:  Lurantis
+COMPLETE:  Morelull
+COMPLETE:  Shiinotic
+FAILURE:   Salandit
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+COMPLETE:  Salazzle
+COMPLETE:  Stufful
+COMPLETE:  Bewear
+FAILURE:   Bounsweet
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+FAILURE:   Steenee
+	 'NoneType' object has no attribute 'find'
+COMPLETE:  Tsareena
+COMPLETE:  Comfey
+FAILURE:   Oranguru
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+COMPLETE:  Passimian
+COMPLETE:  Wimpod
+FAILURE:   Golisopod
+	 Protocol error Runtime.callFunctionOn: Target closed.
+COMPLETE:  Sandygast
+COMPLETE:  Palossand
+FAILURE:   Pyukumuku
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+COMPLETE:  Type: Null
+FAILURE:   Silvally
+	 Protocol error Target.closeTarget: Target closed.
+COMPLETE:  Minior
+COMPLETE:  Komala
+COMPLETE:  Turtonator
+FAILURE:   Togedemaru
+	 Protocol Error: Connectoin Closed. Most likely the page has been closed.
+COMPLETE:  Mimikyu
